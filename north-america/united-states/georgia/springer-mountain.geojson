@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.1935,
+      34.6273
+    ]
+  },
+  "properties": {
+    "name": "Springer Mountain",
+    "latitude": 34.6273,
+    "longitude": -84.1935,
+    "feet": 3782,
+    "meters": 1153,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
