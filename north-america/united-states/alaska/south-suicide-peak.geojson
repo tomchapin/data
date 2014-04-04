@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.574444,
+      61.029444
+    ]
+  },
+  "properties": {
+    "name": "South Suicide Peak",
+    "latitude": 61.029444,
+    "longitude": -149.574444,
+    "feet": 5005,
+    "meters": 1526,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
