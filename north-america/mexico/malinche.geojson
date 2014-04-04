@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Malinche",
+    "feet": 14640,
+    "meters": 4462,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
