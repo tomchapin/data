@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.541641,
+      -15.85427
+    ]
+  },
+  "properties": {
+    "name": "Ancohuma",
+    "latitude": -15.85427,
+    "longitude": -68.541641,
+    "feet": 21095,
+    "meters": 6430,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
