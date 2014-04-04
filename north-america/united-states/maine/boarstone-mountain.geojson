@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4058,
+      45.3769
+    ]
+  },
+  "properties": {
+    "name": "Boarstone Mountain",
+    "latitude": 45.3769,
+    "longitude": -69.4058,
+    "feet": 1947,
+    "meters": 593,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Maine"
+  }
+}
