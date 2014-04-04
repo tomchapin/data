@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.0575,
+      46.237386
+    ]
+  },
+  "properties": {
+    "name": "Hübschhorn",
+    "latitude": 46.237386,
+    "longitude": 8.0575,
+    "feet": 10472,
+    "meters": 3192,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
