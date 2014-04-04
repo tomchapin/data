@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.781506,
+      34.359132
+    ]
+  },
+  "properties": {
+    "name": "Mount Burnham",
+    "latitude": 34.359132,
+    "longitude": -117.781506,
+    "feet": 8997,
+    "meters": 2742,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
