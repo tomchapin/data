@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tacana",
+    "feet": 13425,
+    "meters": 4092,
+    "continent": "North America",
+    "country": "Mexico/Guatemala",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
