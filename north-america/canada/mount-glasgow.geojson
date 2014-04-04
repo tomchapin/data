@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.93124,
+      50.756441
+    ]
+  },
+  "properties": {
+    "name": "Mount Glasgow",
+    "latitude": 50.756441,
+    "longitude": -114.93124,
+    "feet": 9629,
+    "meters": 2935,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
