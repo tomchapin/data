@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kalindi",
+    "feet": 20300,
+    "meters": 6188,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
