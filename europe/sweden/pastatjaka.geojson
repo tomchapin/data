@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.9667,
+      67.3167
+    ]
+  },
+  "properties": {
+    "name": "Pastatjåkå",
+    "latitude": 67.3167,
+    "longitude": 17.9667,
+    "feet": 5787,
+    "meters": 1764,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
