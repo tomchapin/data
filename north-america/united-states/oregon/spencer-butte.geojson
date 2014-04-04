@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.09667,
+      43.98361
+    ]
+  },
+  "properties": {
+    "name": "Spencer Butte",
+    "latitude": 43.98361,
+    "longitude": -123.09667,
+    "feet": 2055,
+    "meters": 626,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
