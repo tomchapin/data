@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.2226,
+      44.8415
+    ]
+  },
+  "properties": {
+    "name": "Mont Gerbier de Jonc",
+    "latitude": 44.8415,
+    "longitude": 4.2226,
+    "feet": 5089,
+    "meters": 1551,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
