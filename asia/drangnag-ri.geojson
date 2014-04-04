@@ -13,6 +13,8 @@
     "longitude": 86.3667,
     "feet": 22312,
     "meters": 6801,
-    "continent": "Asia"
+    "continent": "Asia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
