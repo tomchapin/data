@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Signal de Botrange",
+    "feet": 2277,
+    "meters": 694,
+    "continent": "Europe",
+    "country": "Belgium",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
