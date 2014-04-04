@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.5,
+      61.5
+    ]
+  },
+  "properties": {
+    "name": "Uranostind",
+    "latitude": 61.5,
+    "longitude": 7.5,
+    "feet": 7077,
+    "meters": 2157,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
