@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.8267,
+      52.6483
+    ]
+  },
+  "properties": {
+    "name": "Mount Kerkeslin",
+    "latitude": 52.6483,
+    "longitude": -117.8267,
+    "feet": 9790,
+    "meters": 2984,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
