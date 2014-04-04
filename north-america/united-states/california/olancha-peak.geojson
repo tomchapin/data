@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.11823,
+      36.26522
+    ]
+  },
+  "properties": {
+    "name": "Olancha Peak",
+    "latitude": 36.26522,
+    "longitude": -118.11823,
+    "feet": 12123,
+    "meters": 3695,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
