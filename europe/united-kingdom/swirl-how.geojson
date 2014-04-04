@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.121662,
+      54.395151
+    ]
+  },
+  "properties": {
+    "name": "Swirl How",
+    "latitude": 54.395151,
+    "longitude": -3.121662,
+    "feet": 2631,
+    "meters": 802,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
