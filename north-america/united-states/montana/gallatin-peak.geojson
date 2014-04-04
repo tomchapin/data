@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      111.365,
+      45.3683
+    ]
+  },
+  "properties": {
+    "name": "Gallatin Peak",
+    "latitude": 45.3683,
+    "longitude": 111.365,
+    "feet": 11015,
+    "meters": 3357,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
