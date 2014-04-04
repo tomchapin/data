@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.781944,
+      50.248333
+    ]
+  },
+  "properties": {
+    "name": "Currie",
+    "latitude": 50.248333,
+    "longitude": -122.781944,
+    "feet": 8364,
+    "meters": 2549,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
