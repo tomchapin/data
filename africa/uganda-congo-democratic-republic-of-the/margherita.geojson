@@ -14,6 +14,8 @@
     "feet": 16763,
     "meters": 5109,
     "continent": "Africa",
-    "country": "Uganda/Congo, Democratic Republic of the"
+    "country": "Uganda/Congo, Democratic Republic of the",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
