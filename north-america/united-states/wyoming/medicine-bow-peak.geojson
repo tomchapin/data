@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.317,
+      41.3606
+    ]
+  },
+  "properties": {
+    "name": "Medicine Bow Peak",
+    "latitude": 41.3606,
+    "longitude": -106.317,
+    "feet": 12013,
+    "meters": 3662,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
