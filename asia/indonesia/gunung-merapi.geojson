@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.433,
+      -7.55
+    ]
+  },
+  "properties": {
+    "name": "Gunung Merapi",
+    "latitude": -7.55,
+    "longitude": 110.433,
+    "feet": 9550,
+    "meters": 2911,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
