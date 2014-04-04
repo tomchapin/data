@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.020515,
+      37.210524
+    ]
+  },
+  "properties": {
+    "name": "West Temple",
+    "latitude": 37.210524,
+    "longitude": -113.020515,
+    "feet": 7810,
+    "meters": 2380,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
