@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Pinal",
+    "feet": 3937,
+    "meters": 1200,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
