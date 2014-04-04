@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.446045,
+      -64.609749
+    ]
+  },
+  "properties": {
+    "name": "Mount Francais",
+    "latitude": -64.609749,
+    "longitude": -63.446045,
+    "feet": 9055,
+    "meters": 2760,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
