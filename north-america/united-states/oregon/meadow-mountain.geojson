@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.582985,
+      45.204866
+    ]
+  },
+  "properties": {
+    "name": "Meadow Mountain",
+    "latitude": 45.204866,
+    "longitude": -117.582985,
+    "feet": 7825,
+    "meters": 2385,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
