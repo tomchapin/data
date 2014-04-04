@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.128069,
+      -36.975267
+    ]
+  },
+  "properties": {
+    "name": "Mount Hotham",
+    "latitude": -36.975267,
+    "longitude": 147.128069,
+    "feet": 6109,
+    "meters": 1862,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
