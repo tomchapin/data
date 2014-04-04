@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "La Ramada",
+    "feet": 21030,
+    "meters": 6410,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
