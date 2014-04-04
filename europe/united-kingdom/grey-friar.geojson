@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.138653,
+      54.394505
+    ]
+  },
+  "properties": {
+    "name": "Grey Friar",
+    "latitude": 54.394505,
+    "longitude": -3.138653,
+    "feet": 2536,
+    "meters": 773,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
