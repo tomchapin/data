@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5,
+      19.8333
+    ]
+  },
+  "properties": {
+    "name": "Emi Koussi",
+    "latitude": 19.8333,
+    "longitude": 18.5,
+    "feet": 11204,
+    "meters": 3415,
+    "continent": "Africa",
+    "country": "Chad"
+  }
+}
