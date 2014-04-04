@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.932246,
+      49.236515
+    ]
+  },
+  "properties": {
+    "name": "Kondratova kopa",
+    "latitude": 49.236515,
+    "longitude": 19.932246,
+    "feet": 6578,
+    "meters": 2005,
+    "continent": "Europe",
+    "country": "Slovakia/Poland"
+  }
+}
