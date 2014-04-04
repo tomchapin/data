@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.809,
+      35.7822
+    ]
+  },
+  "properties": {
+    "name": "Houkendake",
+    "latitude": 35.7822,
+    "longitude": 137.809,
+    "feet": 9616,
+    "meters": 2931,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
