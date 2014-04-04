@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.792,
+      38.0033
+    ]
+  },
+  "properties": {
+    "name": "Mount Sneffels",
+    "latitude": 38.0033,
+    "longitude": -107.792,
+    "feet": 14150,
+    "meters": 4313,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
