@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont de Vores",
+    "feet": 6788,
+    "meters": 2069,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
