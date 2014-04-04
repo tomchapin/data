@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Polaco",
+    "feet": 19688,
+    "meters": 6001,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
