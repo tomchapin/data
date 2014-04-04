@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.435837,
+      47.620281
+    ]
+  },
+  "properties": {
+    "name": "Unterberghorn",
+    "latitude": 47.620281,
+    "longitude": 12.435837,
+    "feet": 5815,
+    "meters": 1772,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
