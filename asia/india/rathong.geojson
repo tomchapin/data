@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rathong",
+    "feet": 21916,
+    "meters": 6680,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
