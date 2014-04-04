@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.0806,
+      36.0997
+    ]
+  },
+  "properties": {
+    "name": "Grassy Ridge Bald",
+    "latitude": 36.0997,
+    "longitude": -82.0806,
+    "feet": 6050,
+    "meters": 1844,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina,Tennessee"
+  }
+}
