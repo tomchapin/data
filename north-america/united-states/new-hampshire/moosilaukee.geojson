@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Moosilaukee",
+    "feet": 4802,
+    "meters": 1464,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
