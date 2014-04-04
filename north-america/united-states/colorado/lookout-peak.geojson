@@ -13,6 +13,8 @@
     "meters": 4164,
     "continent": "North America",
     "country": "United States",
-    "state": "Colorado"
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
