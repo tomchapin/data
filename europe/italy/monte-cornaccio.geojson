@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Cornaccio",
+    "feet": 6171,
+    "meters": 1881,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
