@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.113897,
+      42.835696
+    ]
+  },
+  "properties": {
+    "name": "Pic de Néouvielle",
+    "latitude": 42.835696,
+    "longitude": 0.113897,
+    "feet": 10144,
+    "meters": 3092,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
