@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.602917,
+      48.830958
+    ]
+  },
+  "properties": {
+    "name": "Mount Shuksan",
+    "latitude": 48.830958,
+    "longitude": -121.602917,
+    "feet": 9127,
+    "meters": 2782,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
