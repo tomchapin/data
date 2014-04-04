@@ -14,6 +14,8 @@
     "feet": 4910,
     "meters": 1497,
     "continent": "Asia",
-    "country": "Kyrgyzstan"
+    "country": "Kyrgyzstan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
