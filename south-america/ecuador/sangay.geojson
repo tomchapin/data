@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.341274,
+      -2.004853
+    ]
+  },
+  "properties": {
+    "name": "Sangay",
+    "latitude": -2.004853,
+    "longitude": -78.341274,
+    "feet": 17159,
+    "meters": 5230,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
