@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.226,
+      51.1175
+    ]
+  },
+  "properties": {
+    "name": "Mount Fable",
+    "latitude": 51.1175,
+    "longitude": -115.226,
+    "feet": 8865,
+    "meters": 2702,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
