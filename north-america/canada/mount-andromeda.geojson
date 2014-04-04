@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.238798,
+      52.174195
+    ]
+  },
+  "properties": {
+    "name": "Mount Andromeda",
+    "latitude": 52.174195,
+    "longitude": -117.238798,
+    "feet": 11320,
+    "meters": 3450,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
