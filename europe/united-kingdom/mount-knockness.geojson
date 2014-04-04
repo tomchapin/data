@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Knockness",
+    "feet": 4000,
+    "meters": 1219,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
