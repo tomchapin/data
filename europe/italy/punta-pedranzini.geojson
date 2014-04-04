@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.54795,
+      46.38667
+    ]
+  },
+  "properties": {
+    "name": "Punta Pedranzini",
+    "latitude": 46.38667,
+    "longitude": 10.54795,
+    "feet": 11808,
+    "meters": 3599,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
