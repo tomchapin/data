@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.478851,
+      47.415311
+    ]
+  },
+  "properties": {
+    "name": "Rossbrand",
+    "latitude": 47.415311,
+    "longitude": 13.478851,
+    "feet": 5806,
+    "meters": 1770,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
