@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.0167,
+      38.95
+    ]
+  },
+  "properties": {
+    "name": "Pik Imeni Ismail Samani",
+    "latitude": 38.95,
+    "longitude": 72.0167,
+    "feet": 24590,
+    "meters": 7495,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
