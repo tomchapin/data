@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nevado de Toluca",
+    "feet": 15197,
+    "meters": 4632,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
