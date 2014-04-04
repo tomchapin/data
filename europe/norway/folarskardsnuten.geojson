@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.782249,
+      60.608806
+    ]
+  },
+  "properties": {
+    "name": "Folarskardsnuten",
+    "latitude": 60.608806,
+    "longitude": 7.782249,
+    "feet": 6539,
+    "meters": 1933,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
