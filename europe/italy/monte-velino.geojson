@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Velino",
+    "feet": 8159,
+    "meters": 2487,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
