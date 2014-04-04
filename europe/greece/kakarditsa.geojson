@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2,
+      39.5333
+    ]
+  },
+  "properties": {
+    "name": "Kakarditsa",
+    "latitude": 39.5333,
+    "longitude": 21.2,
+    "feet": 7969,
+    "meters": 2429,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
