@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hockenhorn",
+    "feet": 10804,
+    "meters": 3293,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
