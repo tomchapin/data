@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.987268,
+      34.152443
+    ]
+  },
+  "properties": {
+    "name": "Mahadev",
+    "latitude": 34.152443,
+    "longitude": 74.987268,
+    "feet": 13013,
+    "meters": 3966,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
