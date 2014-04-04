@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.833,
+      46.556
+    ]
+  },
+  "properties": {
+    "name": "Schilthorn",
+    "latitude": 46.556,
+    "longitude": 7.833,
+    "feet": 9744,
+    "meters": 2970,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
