@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.465513,
+      56.813189
+    ]
+  },
+  "properties": {
+    "name": "Ben Alder",
+    "latitude": 56.813189,
+    "longitude": -4.465513,
+    "feet": 3766,
+    "meters": 1148,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
