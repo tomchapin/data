@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.003411,
+      47.874648
+    ]
+  },
+  "properties": {
+    "name": "Feldberg",
+    "latitude": 47.874648,
+    "longitude": 8.003411,
+    "feet": 4898,
+    "meters": 1493,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
