@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.968,
+      45.896
+    ]
+  },
+  "properties": {
+    "name": "Sacagewea Peak",
+    "latitude": 45.896,
+    "longitude": -110.968,
+    "feet": 9665,
+    "meters": 2946,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
