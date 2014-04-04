@@ -14,6 +14,8 @@
     "feet": 20262,
     "meters": 6176,
     "continent": "South America",
-    "country": "Chile"
+    "country": "Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
