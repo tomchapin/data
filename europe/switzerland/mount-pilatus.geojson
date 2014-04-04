@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.25,
+      46.9833
+    ]
+  },
+  "properties": {
+    "name": "Mount Pilatus",
+    "latitude": 46.9833,
+    "longitude": 8.25,
+    "feet": 6994,
+    "meters": 2132,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
