@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Knittelkarspitze",
+    "feet": 7743,
+    "meters": 2360,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
