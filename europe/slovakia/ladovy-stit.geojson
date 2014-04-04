@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.183116,
+      49.198213
+    ]
+  },
+  "properties": {
+    "name": "Ladovy stit",
+    "latitude": 49.198213,
+    "longitude": 20.183116,
+    "feet": 8619,
+    "meters": 2627,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
