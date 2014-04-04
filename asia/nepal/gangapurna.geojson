@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.963475,
+      28.605339
+    ]
+  },
+  "properties": {
+    "name": "Gangapurna",
+    "latitude": 28.605339,
+    "longitude": 83.963475,
+    "feet": 24754,
+    "meters": 7545,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
