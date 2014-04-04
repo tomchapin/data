@@ -12,6 +12,8 @@
     "feet": 15492,
     "meters": 4722,
     "continent": "South America",
-    "country": "Ecuador"
+    "country": "Ecuador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
