@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0083,
+      46.2819
+    ]
+  },
+  "properties": {
+    "name": "Ravna gora",
+    "latitude": 46.2819,
+    "longitude": 16.0083,
+    "feet": 2251,
+    "meters": 686,
+    "continent": "Europe",
+    "country": "Croatia"
+  }
+}
