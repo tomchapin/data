@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.65,
+      50.8667
+    ]
+  },
+  "properties": {
+    "name": "Mount Assiniboine",
+    "latitude": 50.8667,
+    "longitude": -115.65,
+    "feet": 11870,
+    "meters": 3618,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
