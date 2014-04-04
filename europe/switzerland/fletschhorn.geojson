@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fletschhorn",
+    "feet": 13100,
+    "meters": 3993,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
