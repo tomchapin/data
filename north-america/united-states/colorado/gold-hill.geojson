@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.823,
+      37.8942
+    ]
+  },
+  "properties": {
+    "name": "Gold Hill",
+    "latitude": 37.8942,
+    "longitude": -107.823,
+    "feet": 12716,
+    "meters": 3876,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
