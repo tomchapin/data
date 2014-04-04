@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.967362,
+      46.53206
+    ]
+  },
+  "properties": {
+    "name": "Rottalhorn",
+    "latitude": 46.53206,
+    "longitude": 7.967362,
+    "feet": 13022,
+    "meters": 3972,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
