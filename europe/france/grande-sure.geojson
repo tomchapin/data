@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.7035,
+      45.3371
+    ]
+  },
+  "properties": {
+    "name": "Grande Sure",
+    "latitude": 45.3371,
+    "longitude": 5.7035,
+    "feet": 6299,
+    "meters": 1920,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
