@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.69103,
+      -71.86266
+    ]
+  },
+  "properties": {
+    "name": "Mt Houttequiet",
+    "latitude": -71.86266,
+    "longitude": 24.69103,
+    "feet": 5899,
+    "meters": 1798,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
