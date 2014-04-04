@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.850884,
+      40.000345
+    ]
+  },
+  "properties": {
+    "name": "Hoosier Hill",
+    "latitude": 40.000345,
+    "longitude": -84.850884,
+    "feet": 1257,
+    "meters": 383,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Indiana"
+  }
+}
