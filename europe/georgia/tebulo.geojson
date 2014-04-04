@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.3167,
+      42.6833
+    ]
+  },
+  "properties": {
+    "name": "Tebulo",
+    "latitude": 42.6833,
+    "longitude": 45.3167,
+    "feet": 14747,
+    "meters": 4495,
+    "continent": "Europe",
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
