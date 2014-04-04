@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.876129,
+      28.76179
+    ]
+  },
+  "properties": {
+    "name": "Roque de los Muchachos",
+    "latitude": 28.76179,
+    "longitude": -17.876129,
+    "feet": 7959,
+    "meters": 2426,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
