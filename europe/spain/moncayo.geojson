@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.820297,
+      41.768239
+    ]
+  },
+  "properties": {
+    "name": "Moncayo",
+    "latitude": 41.768239,
+    "longitude": -1.820297,
+    "feet": 7595,
+    "meters": 2315,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
