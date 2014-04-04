@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tocorpurri",
+    "feet": 22162,
+    "meters": 6755,
+    "continent": "South America",
+    "country": "Bolivia/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
