@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -144.637778,
+      62.1161
+    ]
+  },
+  "properties": {
+    "name": "Mount Drum",
+    "latitude": 62.1161,
+    "longitude": -144.637778,
+    "feet": 12010,
+    "meters": 3661,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
