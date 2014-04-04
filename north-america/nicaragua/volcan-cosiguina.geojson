@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.57,
+      12.98
+    ]
+  },
+  "properties": {
+    "name": "Volcan Cosigüina",
+    "latitude": 12.98,
+    "longitude": -87.57,
+    "feet": 2861,
+    "meters": 872,
+    "continent": "North America",
+    "country": "Nicaragua",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
