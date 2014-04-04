@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.075306,
+      53.131199
+    ]
+  },
+  "properties": {
+    "name": "Elidir Fawr",
+    "latitude": 53.131199,
+    "longitude": -4.075306,
+    "feet": 3031,
+    "meters": 924,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
