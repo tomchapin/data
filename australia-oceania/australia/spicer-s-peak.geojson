@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.394074,
+      -28.099107
+    ]
+  },
+  "properties": {
+    "name": "Spicer's Peak",
+    "latitude": -28.099107,
+    "longitude": 152.394074,
+    "feet": 3953,
+    "meters": 1205,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
