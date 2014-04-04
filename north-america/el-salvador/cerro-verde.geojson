@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.62356,
+      13.82732
+    ]
+  },
+  "properties": {
+    "name": "Cerro Verde",
+    "latitude": 13.82732,
+    "longitude": -89.62356,
+    "feet": 6660,
+    "meters": 2030,
+    "continent": "North America",
+    "country": "El Salvador"
+  }
+}
