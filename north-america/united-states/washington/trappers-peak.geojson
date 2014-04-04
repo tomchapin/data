@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.322794,
+      48.688411
+    ]
+  },
+  "properties": {
+    "name": "Trappers Peak",
+    "latitude": 48.688411,
+    "longitude": -121.322794,
+    "feet": 5966,
+    "meters": 1818,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
