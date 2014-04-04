@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.969831,
+      28.037811
+    ]
+  },
+  "properties": {
+    "name": "Lhakpa Ri",
+    "latitude": 28.037811,
+    "longitude": 86.969831,
+    "feet": 23114,
+    "meters": 7045,
+    "continent": "Asia",
+    "country": "China/Nepal"
+  }
+}
