@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Robinson",
+    "feet": 2417,
+    "meters": 737,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
