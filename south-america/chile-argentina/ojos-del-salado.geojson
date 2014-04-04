@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.540869,
+      -27.109524
+    ]
+  },
+  "properties": {
+    "name": "Ojos del Salado",
+    "latitude": -27.109524,
+    "longitude": -68.540869,
+    "feet": 22615,
+    "meters": 6893,
+    "continent": "South America",
+    "country": "Chile/Argentina"
+  }
+}
