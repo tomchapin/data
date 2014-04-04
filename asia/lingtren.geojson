@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.855249,
+      28.027554
+    ]
+  },
+  "properties": {
+    "name": "Lingtren",
+    "latitude": 28.027554,
+    "longitude": 86.855249,
+    "feet": 22027,
+    "meters": 6714,
+    "continent": "Asia"
+  }
+}
