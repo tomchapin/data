@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.817466,
+      48.489705
+    ]
+  },
+  "properties": {
+    "name": "Benzarino",
+    "latitude": 48.489705,
+    "longitude": -120.817466,
+    "feet": 7720,
+    "meters": 2353,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
