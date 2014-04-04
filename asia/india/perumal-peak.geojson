@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Perumal Peak",
+    "feet": 8022,
+    "meters": 2445,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
