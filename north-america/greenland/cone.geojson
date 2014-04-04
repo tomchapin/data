@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -29.937744,
+      68.873666
+    ]
+  },
+  "properties": {
+    "name": "Cone",
+    "latitude": 68.873666,
+    "longitude": -29.937744,
+    "feet": 12037,
+    "meters": 3669,
+    "continent": "North America",
+    "country": "Greenland"
+  }
+}
