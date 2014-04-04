@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.95622,
+      45.858509
+    ]
+  },
+  "properties": {
+    "name": "Ross Peak",
+    "latitude": 45.858509,
+    "longitude": -110.95622,
+    "feet": 9003,
+    "meters": 2744,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
