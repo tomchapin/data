@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hay Point",
+    "feet": 13008,
+    "meters": 3965,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
