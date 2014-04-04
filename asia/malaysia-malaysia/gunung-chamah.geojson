@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.342441,
+      5.134334
+    ]
+  },
+  "properties": {
+    "name": "Gunung Chamah",
+    "latitude": 5.134334,
+    "longitude": 101.342441,
+    "feet": 7123,
+    "meters": 2171,
+    "continent": "Asia",
+    "country": "Malaysia/Malaysia"
+  }
+}
