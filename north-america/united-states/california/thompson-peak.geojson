@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.033,
+      41.0
+    ]
+  },
+  "properties": {
+    "name": "Thompson Peak",
+    "latitude": 41.0,
+    "longitude": -123.033,
+    "feet": 9002,
+    "meters": 2744,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
