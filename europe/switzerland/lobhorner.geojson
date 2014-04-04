@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.83333,
+      46.6
+    ]
+  },
+  "properties": {
+    "name": "Lobhörner",
+    "latitude": 46.6,
+    "longitude": 7.83333,
+    "feet": 8419,
+    "meters": 2566,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
