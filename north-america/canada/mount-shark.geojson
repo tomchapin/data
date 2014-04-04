@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.41,
+      50.8281
+    ]
+  },
+  "properties": {
+    "name": "Mount Shark",
+    "latitude": 50.8281,
+    "longitude": -115.41,
+    "feet": 9140,
+    "meters": 2786,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
