@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.4625,
+      49.0375
+    ]
+  },
+  "properties": {
+    "name": "Macdonald Peak",
+    "latitude": 49.0375,
+    "longitude": -121.4625,
+    "feet": 7300,
+    "meters": 2225,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
