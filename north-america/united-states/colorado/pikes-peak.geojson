@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.044,
+      38.8406
+    ]
+  },
+  "properties": {
+    "name": "Pikes Peak",
+    "latitude": 38.8406,
+    "longitude": -105.044,
+    "feet": 14109,
+    "meters": 4300,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
