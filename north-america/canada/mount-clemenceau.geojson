@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.958488,
+      52.248193
+    ]
+  },
+  "properties": {
+    "name": "Mount Clemenceau",
+    "latitude": 52.248193,
+    "longitude": -117.958488,
+    "feet": 12001,
+    "meters": 3658,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
