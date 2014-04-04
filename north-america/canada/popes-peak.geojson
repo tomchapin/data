@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.294918,
+      51.402633
+    ]
+  },
+  "properties": {
+    "name": "Popes Peak",
+    "latitude": 51.402633,
+    "longitude": -116.294918,
+    "feet": 10377,
+    "meters": 3163,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
