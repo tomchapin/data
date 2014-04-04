@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.8306,
+      60.69
+    ]
+  },
+  "properties": {
+    "name": "Carpathian Peak",
+    "latitude": 60.69,
+    "longitude": -148.8306,
+    "feet": 5856,
+    "meters": 1785,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
