@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Peak Europa",
+    "feet": 21007,
+    "meters": 6403,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
