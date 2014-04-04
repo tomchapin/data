@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.533,
+      33.7103
+    ]
+  },
+  "properties": {
+    "name": "Santiago",
+    "latitude": 33.7103,
+    "longitude": -117.533,
+    "feet": 5687,
+    "meters": 1733,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
