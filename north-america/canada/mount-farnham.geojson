@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.487,
+      50.4883
+    ]
+  },
+  "properties": {
+    "name": "Mount Farnham",
+    "latitude": 50.4883,
+    "longitude": -116.487,
+    "feet": 11460,
+    "meters": 3493,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
