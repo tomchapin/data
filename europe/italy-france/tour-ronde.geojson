@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tour Ronde",
+    "feet": 12460,
+    "meters": 3798,
+    "continent": "Europe",
+    "country": "Italy/France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
