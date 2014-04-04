@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.46,
+      42.515
+    ]
+  },
+  "properties": {
+    "name": "Canigou",
+    "latitude": 42.515,
+    "longitude": 2.46,
+    "feet": 9127,
+    "meters": 2782,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
