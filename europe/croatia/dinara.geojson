@@ -12,6 +12,8 @@
     "feet": 6007,
     "meters": 1831,
     "continent": "Europe",
-    "country": "Croatia"
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
