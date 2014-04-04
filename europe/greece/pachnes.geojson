@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pachnes",
+    "feet": 8048,
+    "meters": 2453,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
