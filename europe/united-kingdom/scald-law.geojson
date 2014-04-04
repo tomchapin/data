@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Scald Law",
+    "feet": 1899,
+    "meters": 579,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
