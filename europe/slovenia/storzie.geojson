@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3833,
+      46.35
+    ]
+  },
+  "properties": {
+    "name": "Storžiè",
+    "latitude": 46.35,
+    "longitude": 14.3833,
+    "feet": 6995,
+    "meters": 2132,
+    "continent": "Europe",
+    "country": "Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
