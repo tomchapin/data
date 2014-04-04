@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ruen",
+    "feet": 7382,
+    "meters": 2250,
+    "continent": "Europe",
+    "country": "Macedonia"
+  }
+}
