@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Davraz",
+    "feet": 8694,
+    "meters": 2650,
+    "continent": "Asia",
+    "country": "Turkey"
+  }
+}
