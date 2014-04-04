@@ -13,6 +13,8 @@
     "meters": 733,
     "continent": "North America",
     "country": "United States",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
