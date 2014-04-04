@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.292926,
+      45.245026
+    ]
+  },
+  "properties": {
+    "name": "Sacajawea Peak",
+    "latitude": 45.245026,
+    "longitude": -117.292926,
+    "feet": 9838,
+    "meters": 2999,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
