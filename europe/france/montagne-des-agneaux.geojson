@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.41667,
+      44.95
+    ]
+  },
+  "properties": {
+    "name": "Montagne des Agneaux",
+    "latitude": 44.95,
+    "longitude": 6.41667,
+    "feet": 12021,
+    "meters": 3664,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
