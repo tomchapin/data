@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.615906,
+      35.762359
+    ]
+  },
+  "properties": {
+    "name": "Gasherbrum IV",
+    "latitude": 35.762359,
+    "longitude": 76.615906,
+    "feet": 26001,
+    "meters": 7925,
+    "continent": "Asia",
+    "country": "Pakistan/China"
+  }
+}
