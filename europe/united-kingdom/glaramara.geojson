@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.159599,
+      54.4846
+    ]
+  },
+  "properties": {
+    "name": "Glaramara",
+    "latitude": 54.4846,
+    "longitude": -3.159599,
+    "feet": 2569,
+    "meters": 783,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
