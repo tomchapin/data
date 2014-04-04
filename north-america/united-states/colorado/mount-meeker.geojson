@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.604,
+      40.2486
+    ]
+  },
+  "properties": {
+    "name": "Mount Meeker",
+    "latitude": 40.2486,
+    "longitude": -105.604,
+    "feet": 13911,
+    "meters": 4240,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
