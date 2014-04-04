@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9803,
+      40.6456
+    ]
+  },
+  "properties": {
+    "name": "Hawk Mountain",
+    "latitude": 40.6456,
+    "longitude": -75.9803,
+    "feet": 1533,
+    "meters": 467,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Pennsylvania"
+  }
+}
