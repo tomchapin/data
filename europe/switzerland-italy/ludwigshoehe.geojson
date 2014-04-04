@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ludwigshoehe",
+    "feet": 14242,
+    "meters": 4341,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
