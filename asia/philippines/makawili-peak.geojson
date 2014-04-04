@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.160007,
+      10.672145
+    ]
+  },
+  "properties": {
+    "name": "Makawili Peak",
+    "latitude": 10.672145,
+    "longitude": 123.160007,
+    "feet": 4633,
+    "meters": 1412,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
