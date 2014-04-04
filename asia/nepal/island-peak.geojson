@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Island Peak",
+    "feet": 20275,
+    "meters": 6180,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
