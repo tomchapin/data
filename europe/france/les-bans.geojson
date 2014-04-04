@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Les Bans",
+    "feet": 12050,
+    "meters": 3673,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
