@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ebener Grat",
+    "feet": 17962,
+    "meters": 5475,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
