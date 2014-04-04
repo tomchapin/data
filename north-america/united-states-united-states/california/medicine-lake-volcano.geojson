@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.5536,
+      41.6111
+    ]
+  },
+  "properties": {
+    "name": "Medicine Lake Volcano",
+    "latitude": 41.6111,
+    "longitude": -121.5536,
+    "feet": 7913,
+    "meters": 2412,
+    "continent": "North America",
+    "country": "United States/United States",
+    "state": "California"
+  }
+}
