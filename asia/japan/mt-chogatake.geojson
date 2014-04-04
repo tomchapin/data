@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.725,
+      36.29
+    ]
+  },
+  "properties": {
+    "name": "Mt. Chogatake",
+    "latitude": 36.29,
+    "longitude": 137.725,
+    "feet": 8740,
+    "meters": 2664,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
