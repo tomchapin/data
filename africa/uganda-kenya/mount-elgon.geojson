@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.55,
+      1.13333
+    ]
+  },
+  "properties": {
+    "name": "Mount Elgon",
+    "latitude": 1.13333,
+    "longitude": 34.55,
+    "feet": 14178,
+    "meters": 4321,
+    "continent": "Africa",
+    "country": "Uganda/Kenya"
+  }
+}
