@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kang-Yatze",
+    "feet": 20997,
+    "meters": 6400,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
