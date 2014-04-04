@@ -17,4 +17,4 @@ Simply edit/add the mountains [geojson](http://geojson.org/) file in the proper 
 
 ## Questions / Complaints ?
 
-Open a Github issue or email me at [jason@waldrip.net](mailto://jason@waldrip.net)
+Open a Github issue or email me at [jason@waldrip.net](mailto:jason@waldrip.net).
