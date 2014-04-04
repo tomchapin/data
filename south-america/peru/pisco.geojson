@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pisco",
+    "feet": 18871,
+    "meters": 5752,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
