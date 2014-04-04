@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.434664,
+      52.223961
+    ]
+  },
+  "properties": {
+    "name": "North Twin",
+    "latitude": 52.223961,
+    "longitude": -117.434664,
+    "feet": 12200,
+    "meters": 3719,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
