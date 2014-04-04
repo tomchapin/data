@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.43333,
+      46.5333
+    ]
+  },
+  "properties": {
+    "name": "Hinderi Spillgerte",
+    "latitude": 46.5333,
+    "longitude": 7.43333,
+    "feet": 8123,
+    "meters": 2476,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
