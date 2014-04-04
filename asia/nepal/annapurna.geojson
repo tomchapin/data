@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.989921,
+      28.584823
+    ]
+  },
+  "properties": {
+    "name": "Annapurna",
+    "latitude": 28.584823,
+    "longitude": 83.989921,
+    "feet": 26545,
+    "meters": 8091,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
