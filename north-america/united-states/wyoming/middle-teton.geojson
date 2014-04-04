@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.811,
+      43.73
+    ]
+  },
+  "properties": {
+    "name": "Middle Teton",
+    "latitude": 43.73,
+    "longitude": -110.811,
+    "feet": 12804,
+    "meters": 3903,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
