@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.018085,
+      46.835301
+    ]
+  },
+  "properties": {
+    "name": "Hangerer",
+    "latitude": 46.835301,
+    "longitude": 11.018085,
+    "feet": 9908,
+    "meters": 3020,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
