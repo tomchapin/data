@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.881742,
+      34.127082
+    ]
+  },
+  "properties": {
+    "name": "Shields Peak",
+    "latitude": 34.127082,
+    "longitude": -116.881742,
+    "feet": 10680,
+    "meters": 3255,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
