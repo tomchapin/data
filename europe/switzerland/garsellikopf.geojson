@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.56475,
+      47.170287
+    ]
+  },
+  "properties": {
+    "name": "Garsellikopf",
+    "latitude": 47.170287,
+    "longitude": 9.56475,
+    "feet": 6906,
+    "meters": 2105,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
