@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.400361,
+      45.979111
+    ]
+  },
+  "properties": {
+    "name": "La Ruinette",
+    "latitude": 45.979111,
+    "longitude": 7.400361,
+    "feet": 12787,
+    "meters": 3898,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
