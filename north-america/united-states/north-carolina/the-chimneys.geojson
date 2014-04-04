@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.8886,
+      35.8772
+    ]
+  },
+  "properties": {
+    "name": "The Chimneys",
+    "latitude": 35.8772,
+    "longitude": -81.8886,
+    "feet": 3557,
+    "meters": 1084,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
