@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.175,
+      42.2108
+    ]
+  },
+  "properties": {
+    "name": "Khan Tengri",
+    "latitude": 42.2108,
+    "longitude": 80.175,
+    "feet": 22998,
+    "meters": 7010,
+    "continent": "Asia",
+    "country": "Kazakhstan/Kyrgyzstan"
+  }
+}
