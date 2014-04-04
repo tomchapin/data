@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.660795,
+      46.880288
+    ]
+  },
+  "properties": {
+    "name": "Goat Island Mountain",
+    "latitude": 46.880288,
+    "longitude": -121.660795,
+    "feet": 7288,
+    "meters": 2221,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
