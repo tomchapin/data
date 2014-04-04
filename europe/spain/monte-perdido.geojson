@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.032959,
+      42.676599
+    ]
+  },
+  "properties": {
+    "name": "Monte Perdido",
+    "latitude": 42.676599,
+    "longitude": 0.032959,
+    "feet": 11007,
+    "meters": 3355,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
