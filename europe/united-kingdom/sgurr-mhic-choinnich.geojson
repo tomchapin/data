@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.2241,
+      57.2091
+    ]
+  },
+  "properties": {
+    "name": "Sgurr Mhic Choinnich",
+    "latitude": 57.2091,
+    "longitude": -6.2241,
+    "feet": 3110,
+    "meters": 948,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
