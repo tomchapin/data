@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.3418,
+      47.9713
+    ]
+  },
+  "properties": {
+    "name": "Monte Cristo Peak",
+    "latitude": 47.9713,
+    "longitude": -121.3418,
+    "feet": 7136,
+    "meters": 2175,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
