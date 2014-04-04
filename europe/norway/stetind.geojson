@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.591144,
+      68.166725
+    ]
+  },
+  "properties": {
+    "name": "Stetind",
+    "latitude": 68.166725,
+    "longitude": 16.591144,
+    "feet": 4567,
+    "meters": 1392,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
