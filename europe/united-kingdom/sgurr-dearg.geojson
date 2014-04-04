@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.23508,
+      57.2137
+    ]
+  },
+  "properties": {
+    "name": "Sgurr Dearg",
+    "latitude": 57.2137,
+    "longitude": -6.23508,
+    "feet": 3235,
+    "meters": 986,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
