@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.031264,
+      41.007235
+    ]
+  },
+  "properties": {
+    "name": "Panorama Point",
+    "latitude": 41.007235,
+    "longitude": -104.031264,
+    "feet": 5426,
+    "meters": 1654,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nebraska"
+  }
+}
