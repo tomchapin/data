@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.455849,
+      60.302985
+    ]
+  },
+  "properties": {
+    "name": "Mt. Augusta",
+    "latitude": 60.302985,
+    "longitude": -140.455849,
+    "feet": 14072,
+    "meters": 4289,
+    "continent": "North America",
+    "country": "Canada/United States"
+  }
+}
