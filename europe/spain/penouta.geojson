@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.278533,
+      43.039646
+    ]
+  },
+  "properties": {
+    "name": "Penouta",
+    "latitude": 43.039646,
+    "longitude": -6.278533,
+    "feet": 6467,
+    "meters": 1971,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
