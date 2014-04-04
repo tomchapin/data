@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.043,
+      49.9753
+    ]
+  },
+  "properties": {
+    "name": "Black Tusk",
+    "latitude": 49.9753,
+    "longitude": -123.043,
+    "feet": 7608,
+    "meters": 2319,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
