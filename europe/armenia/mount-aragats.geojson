@@ -12,6 +12,8 @@
     "feet": 13418,
     "meters": 4090,
     "continent": "Europe",
-    "country": "Armenia"
+    "country": "Armenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
