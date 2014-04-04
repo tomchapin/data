@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.6,
+      13.4667
+    ]
+  },
+  "properties": {
+    "name": "Mt. Malinao",
+    "latitude": 13.4667,
+    "longitude": 123.6,
+    "feet": 5079,
+    "meters": 1548,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
