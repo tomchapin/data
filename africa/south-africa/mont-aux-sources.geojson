@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.884644,
+      -28.759081
+    ]
+  },
+  "properties": {
+    "name": "Mont-aux-Sources",
+    "latitude": -28.759081,
+    "longitude": 28.884644,
+    "feet": 10768,
+    "meters": 3282,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
