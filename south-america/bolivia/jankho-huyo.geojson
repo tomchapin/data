@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.332773,
+      -16.068961
+    ]
+  },
+  "properties": {
+    "name": "Jankho Huyo",
+    "latitude": -16.068961,
+    "longitude": -68.332773,
+    "feet": 18084,
+    "meters": 5512,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
