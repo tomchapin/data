@@ -15,6 +15,8 @@
     "meters": 1052,
     "continent": "North America",
     "country": "United States",
-    "state": "New Hampshire"
+    "state": "New Hampshire",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
