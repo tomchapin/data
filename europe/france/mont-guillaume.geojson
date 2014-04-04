@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.4239,
+      44.5683
+    ]
+  },
+  "properties": {
+    "name": "Mont Guillaume",
+    "latitude": 44.5683,
+    "longitude": 6.4239,
+    "feet": 8340,
+    "meters": 2542,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
