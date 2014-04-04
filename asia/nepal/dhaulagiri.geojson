@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5,
+      28.7
+    ]
+  },
+  "properties": {
+    "name": "Dhaulagiri",
+    "latitude": 28.7,
+    "longitude": 83.5,
+    "feet": 26794,
+    "meters": 8167,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
