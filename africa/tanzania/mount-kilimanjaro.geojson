@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.35,
+      -3.06667
+    ]
+  },
+  "properties": {
+    "name": "Mount Kilimanjaro",
+    "latitude": -3.06667,
+    "longitude": 37.35,
+    "feet": 19340,
+    "meters": 5895,
+    "continent": "Africa",
+    "country": "Tanzania"
+  }
+}
