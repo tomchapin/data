@@ -12,6 +12,8 @@
     "feet": 7346,
     "meters": 2239,
     "continent": "North America",
-    "country": "Canada"
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
