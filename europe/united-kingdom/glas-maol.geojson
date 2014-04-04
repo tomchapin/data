@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.3682,
+      56.87239
+    ]
+  },
+  "properties": {
+    "name": "Glas Maol",
+    "latitude": 56.87239,
+    "longitude": -3.3682,
+    "feet": 3504,
+    "meters": 1068,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
