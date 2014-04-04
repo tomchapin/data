@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Campsie Fell",
+    "feet": 1780,
+    "meters": 543,
+    "continent": "Europe",
+    "country": "United Kingdom/United Kingdom"
+  }
+}
