@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.239,
+      50.8278
+    ]
+  },
+  "properties": {
+    "name": "Fortress, The",
+    "latitude": 50.8278,
+    "longitude": -115.239,
+    "feet": 9842,
+    "meters": 3000,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
