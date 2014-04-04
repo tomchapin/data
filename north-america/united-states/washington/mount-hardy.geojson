@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.755324,
+      48.581888
+    ]
+  },
+  "properties": {
+    "name": "Mount Hardy",
+    "latitude": 48.581888,
+    "longitude": -120.755324,
+    "feet": 8080,
+    "meters": 2463,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
