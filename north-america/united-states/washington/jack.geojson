@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.955951,
+      48.772632
+    ]
+  },
+  "properties": {
+    "name": "Jack",
+    "latitude": 48.772632,
+    "longitude": -120.955951,
+    "feet": 9066,
+    "meters": 2763,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
