@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.752,
+      36.659
+    ]
+  },
+  "properties": {
+    "name": "Goryu Dake",
+    "latitude": 36.659,
+    "longitude": 137.752,
+    "feet": 9232,
+    "meters": 2814,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
