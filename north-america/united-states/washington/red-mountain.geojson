@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.389141,
+      47.456068
+    ]
+  },
+  "properties": {
+    "name": "Red Mountain",
+    "latitude": 47.456068,
+    "longitude": -121.389141,
+    "feet": 5890,
+    "meters": 1795,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
