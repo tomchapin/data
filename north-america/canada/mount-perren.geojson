@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.20883,
+      51.296008
+    ]
+  },
+  "properties": {
+    "name": "Mount Perren",
+    "latitude": 51.296008,
+    "longitude": -116.20883,
+    "feet": 10010,
+    "meters": 3051,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
