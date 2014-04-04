@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.405006,
+      -32.913619
+    ]
+  },
+  "properties": {
+    "name": "El Salto",
+    "latitude": -32.913619,
+    "longitude": -69.405006,
+    "feet": 15476,
+    "meters": 4717,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
