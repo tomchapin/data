@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Hamell",
+    "feet": 6986,
+    "meters": 2129,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
