@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo d'Intermesoli",
+    "feet": 8645,
+    "meters": 2635,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
