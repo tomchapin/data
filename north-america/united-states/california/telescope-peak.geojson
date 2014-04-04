@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.083,
+      36.1667
+    ]
+  },
+  "properties": {
+    "name": "Telescope Peak",
+    "latitude": 36.1667,
+    "longitude": -117.083,
+    "feet": 11049,
+    "meters": 3368,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
