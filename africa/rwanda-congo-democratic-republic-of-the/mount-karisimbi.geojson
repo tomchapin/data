@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.45,
+      -1.5
+    ]
+  },
+  "properties": {
+    "name": "Mount Karisimbi",
+    "latitude": -1.5,
+    "longitude": 29.45,
+    "feet": 14787,
+    "meters": 4507,
+    "continent": "Africa",
+    "country": "Rwanda/Congo, Democratic Republic of the"
+  }
+}
