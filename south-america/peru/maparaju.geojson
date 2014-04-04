@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Maparaju",
+    "feet": 17474,
+    "meters": 5326,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
