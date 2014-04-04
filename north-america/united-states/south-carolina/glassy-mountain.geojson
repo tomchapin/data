@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.659888,
+      34.900996
+    ]
+  },
+  "properties": {
+    "name": "Glassy Mountain",
+    "latitude": 34.900996,
+    "longitude": -82.659888,
+    "feet": 1647,
+    "meters": 502,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Carolina"
+  }
+}
