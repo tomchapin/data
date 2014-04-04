@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -143.433,
+      61.7317
+    ]
+  },
+  "properties": {
+    "name": "Mount Blackburn",
+    "latitude": 61.7317,
+    "longitude": -143.433,
+    "feet": 16390,
+    "meters": 4996,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
