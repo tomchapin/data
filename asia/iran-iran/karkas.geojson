@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.80023,
+      33.45613
+    ]
+  },
+  "properties": {
+    "name": "Karkas",
+    "latitude": 33.45613,
+    "longitude": 51.80023,
+    "feet": 12762,
+    "meters": 3890,
+    "continent": "Asia",
+    "country": "Iran/Iran"
+  }
+}
