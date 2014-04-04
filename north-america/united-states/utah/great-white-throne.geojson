@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.941014,
+      37.260808
+    ]
+  },
+  "properties": {
+    "name": "Great White Throne",
+    "latitude": 37.260808,
+    "longitude": -112.941014,
+    "feet": 6744,
+    "meters": 2056,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
