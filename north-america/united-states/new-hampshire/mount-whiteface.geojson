@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4064,
+      43.9339
+    ]
+  },
+  "properties": {
+    "name": "Mount Whiteface",
+    "latitude": 43.9339,
+    "longitude": -71.4064,
+    "feet": 4020,
+    "meters": 1225,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
