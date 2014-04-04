@@ -14,6 +14,8 @@
     "feet": 19294,
     "meters": 5881,
     "continent": "Asia",
-    "country": "Myanmar/China"
+    "country": "Myanmar/China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
