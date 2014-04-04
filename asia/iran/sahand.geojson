@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.499462,
+      37.730607
+    ]
+  },
+  "properties": {
+    "name": "Sahand",
+    "latitude": 37.730607,
+    "longitude": 46.499462,
+    "feet": 12175,
+    "meters": 3711,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
