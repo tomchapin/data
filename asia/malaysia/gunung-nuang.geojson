@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.0,
+      3.25
+    ]
+  },
+  "properties": {
+    "name": "Gunung Nuang",
+    "latitude": 3.25,
+    "longitude": 0.0,
+    "feet": 4898,
+    "meters": 1493,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
