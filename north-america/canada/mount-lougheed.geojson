@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.262,
+      50.965
+    ]
+  },
+  "properties": {
+    "name": "Mount Lougheed",
+    "latitude": 50.965,
+    "longitude": -115.262,
+    "feet": 10194,
+    "meters": 3107,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
