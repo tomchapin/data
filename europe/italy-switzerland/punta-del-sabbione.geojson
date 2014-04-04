@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.18,
+      46.24
+    ]
+  },
+  "properties": {
+    "name": "Punta del Sabbione",
+    "latitude": 46.24,
+    "longitude": 8.18,
+    "feet": 10440,
+    "meters": 3182,
+    "continent": "Europe",
+    "country": "Italy/Switzerland"
+  }
+}
