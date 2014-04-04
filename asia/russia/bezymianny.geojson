@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bezymianny",
+    "feet": 9455,
+    "meters": 2882,
+    "continent": "Asia",
+    "country": "Russia"
+  }
+}
