@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.155621,
+      49.171716
+    ]
+  },
+  "properties": {
+    "name": "Bradavica",
+    "latitude": 49.171716,
+    "longitude": 20.155621,
+    "feet": 8123,
+    "meters": 2476,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
