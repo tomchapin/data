@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35,
+      40.083333
+    ]
+  },
+  "properties": {
+    "name": "Myticas",
+    "latitude": 40.083333,
+    "longitude": 22.35,
+    "feet": 9577,
+    "meters": 2919,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
