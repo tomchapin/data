@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Musala",
+    "feet": 9596,
+    "meters": 2925,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
