@@ -14,6 +14,8 @@
     "feet": 8301,
     "meters": 2530,
     "continent": "South America",
-    "country": "Brazil"
+    "country": "Brazil",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
