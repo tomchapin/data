@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.429167,
+      29.308333
+    ]
+  },
+  "properties": {
+    "name": "Jabal Umm ad Dami",
+    "latitude": 29.308333,
+    "longitude": 35.429167,
+    "feet": 6083,
+    "meters": 1854,
+    "continent": "Asia",
+    "country": "Jordan"
+  }
+}
