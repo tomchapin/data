@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Arc Dome",
+    "feet": 11775,
+    "meters": 3589,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nevada"
+  }
+}
