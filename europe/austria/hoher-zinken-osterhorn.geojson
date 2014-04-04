@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.351135,
+      47.664462
+    ]
+  },
+  "properties": {
+    "name": "Hoher Zinken, Osterhorn",
+    "latitude": 47.664462,
+    "longitude": 13.351135,
+    "feet": 5645,
+    "meters": 1721,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
