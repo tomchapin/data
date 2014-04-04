@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.846434,
+      47.47829
+    ]
+  },
+  "properties": {
+    "name": "Colchuck Peak",
+    "latitude": 47.47829,
+    "longitude": -120.846434,
+    "feet": 8705,
+    "meters": 2653,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
