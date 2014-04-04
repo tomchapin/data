@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mynydd Tal-y- Mignedd",
+    "feet": 2142,
+    "meters": 653,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
