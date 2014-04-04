@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.133521,
+      47.784067
+    ]
+  },
+  "properties": {
+    "name": "Warrior Peak",
+    "latitude": 47.784067,
+    "longitude": -123.133521,
+    "feet": 7300,
+    "meters": 2225,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
