@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.958031,
+      47.588336
+    ]
+  },
+  "properties": {
+    "name": "Grünstein",
+    "latitude": 47.588336,
+    "longitude": 12.958031,
+    "feet": 4277,
+    "meters": 1304,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
