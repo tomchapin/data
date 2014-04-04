@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.60874,
+      58.41355
+    ]
+  },
+  "properties": {
+    "name": "Ben Hope",
+    "latitude": 58.41355,
+    "longitude": -4.60874,
+    "feet": 3041,
+    "meters": 927,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
