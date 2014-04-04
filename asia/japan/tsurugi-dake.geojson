@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.62,
+      36.6204
+    ]
+  },
+  "properties": {
+    "name": "Tsurugi Dake",
+    "latitude": 36.6204,
+    "longitude": 137.62,
+    "feet": 9835,
+    "meters": 2998,
+    "continent": "Asia",
+    "country": "Japan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
