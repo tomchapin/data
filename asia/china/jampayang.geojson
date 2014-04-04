@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Jampayang",
+    "feet": 19521,
+    "meters": 5950,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
