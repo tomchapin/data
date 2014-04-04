@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Strmenica",
+    "feet": 6962,
+    "meters": 2122,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
