@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.797592,
+      42.945366
+    ]
+  },
+  "properties": {
+    "name": "Espiguete",
+    "latitude": 42.945366,
+    "longitude": -4.797592,
+    "feet": 8038,
+    "meters": 2450,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
