@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Heram",
+    "feet": 15256,
+    "meters": 4650,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
