@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9833,
+      46.5667
+    ]
+  },
+  "properties": {
+    "name": "Mönch",
+    "latitude": 46.5667,
+    "longitude": 7.9833,
+    "feet": 13448,
+    "meters": 4107,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
