@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Boot Hill",
+    "feet": 10000,
+    "meters": 3048,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
