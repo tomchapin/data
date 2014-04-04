@@ -12,6 +12,8 @@
     "feet": 8481,
     "meters": 2585,
     "continent": "Europe",
-    "country": "Italy/Slovenia"
+    "country": "Italy/Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
