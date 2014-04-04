@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.489965,
+      36.142311
+    ]
+  },
+  "properties": {
+    "name": "Rakaposhi",
+    "latitude": 36.142311,
+    "longitude": 74.489965,
+    "feet": 25550,
+    "meters": 7788,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
