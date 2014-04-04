@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Crna Glava",
+    "feet": 7018,
+    "meters": 2139,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
