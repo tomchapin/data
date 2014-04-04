@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.458554,
+      -8.410225
+    ]
+  },
+  "properties": {
+    "name": "Mount Rinjani - Lombok",
+    "latitude": -8.410225,
+    "longitude": 116.458554,
+    "feet": 12224,
+    "meters": 3726,
+    "continent": "Asia",
+    "country": "Indonesia/Indonesia"
+  }
+}
