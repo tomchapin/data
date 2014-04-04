@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Jogin Ii",
+    "feet": 20800,
+    "meters": 6340,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
