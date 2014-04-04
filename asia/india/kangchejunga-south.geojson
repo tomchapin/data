@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kangchejunga South",
+    "feet": 27808,
+    "meters": 8476,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
