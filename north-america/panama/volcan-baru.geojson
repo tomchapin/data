@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.53,
+      8.8
+    ]
+  },
+  "properties": {
+    "name": "Volcan Baru",
+    "latitude": 8.8,
+    "longitude": -82.53,
+    "feet": 11398,
+    "meters": 3474,
+    "continent": "North America",
+    "country": "Panama",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
