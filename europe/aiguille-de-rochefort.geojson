@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0,
+      45.8333
+    ]
+  },
+  "properties": {
+    "name": "Aiguille De Rochefort",
+    "latitude": 45.8333,
+    "longitude": 7.0,
+    "feet": 13126,
+    "meters": 4001,
+    "continent": "Europe"
+  }
+}
