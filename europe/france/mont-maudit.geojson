@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.88333,
+      45.85
+    ]
+  },
+  "properties": {
+    "name": "Mont Maudit",
+    "latitude": 45.85,
+    "longitude": 6.88333,
+    "feet": 14649,
+    "meters": 4465,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
