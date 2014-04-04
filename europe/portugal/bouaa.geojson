@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "BouÁa",
+    "feet": 4715,
+    "meters": 1437,
+    "continent": "Europe",
+    "country": "Portugal"
+  }
+}
