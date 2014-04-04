@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.756,
+      51.879
+    ]
+  },
+  "properties": {
+    "name": "Kaufmann Peaks",
+    "latitude": 51.879,
+    "longitude": -116.756,
+    "feet": 10200,
+    "meters": 3109,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
