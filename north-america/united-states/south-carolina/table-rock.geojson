@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.70452,
+      35.05143
+    ]
+  },
+  "properties": {
+    "name": "Table Rock",
+    "latitude": 35.05143,
+    "longitude": -82.70452,
+    "feet": 3157,
+    "meters": 962,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Carolina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
