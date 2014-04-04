@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Stella",
+    "feet": 10377,
+    "meters": 3163,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
