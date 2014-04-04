@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.118,
+      39.3469
+    ]
+  },
+  "properties": {
+    "name": "Mount Cameron",
+    "latitude": 39.3469,
+    "longitude": -106.118,
+    "feet": 14239,
+    "meters": 4340,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
