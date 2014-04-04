@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.088,
+      50.7467
+    ]
+  },
+  "properties": {
+    "name": "Mount Hood",
+    "latitude": 50.7467,
+    "longitude": -115.088,
+    "feet": 9524,
+    "meters": 2903,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
