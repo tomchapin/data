@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Ollivier",
+    "feet": 6342,
+    "meters": 1933,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand/New Zealand"
+  }
+}
