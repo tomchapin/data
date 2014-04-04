@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.461,
+      38.0717
+    ]
+  },
+  "properties": {
+    "name": "Uncompahgre Peak",
+    "latitude": 38.0717,
+    "longitude": -107.461,
+    "feet": 14309,
+    "meters": 4361,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
