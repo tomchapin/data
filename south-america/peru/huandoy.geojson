@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.663341,
+      -9.027636
+    ]
+  },
+  "properties": {
+    "name": "Huandoy",
+    "latitude": -9.027636,
+    "longitude": -77.663341,
+    "feet": 20981,
+    "meters": 6395,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
