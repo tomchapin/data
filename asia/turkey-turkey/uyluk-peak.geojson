@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      37.0
+    ]
+  },
+  "properties": {
+    "name": "Uyluk Peak",
+    "latitude": 37.0,
+    "longitude": 37.0,
+    "feet": 9921,
+    "meters": 3024,
+    "continent": "Asia",
+    "country": "Turkey/Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
