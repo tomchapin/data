@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Santa Maria",
+    "feet": 12375,
+    "meters": 3772,
+    "continent": "North America",
+    "country": "Guatemala"
+  }
+}
