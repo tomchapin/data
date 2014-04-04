@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.97979,
+      27.775456
+    ]
+  },
+  "properties": {
+    "name": "Chamlang",
+    "latitude": 27.775456,
+    "longitude": 86.97979,
+    "feet": 24152,
+    "meters": 7319,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
