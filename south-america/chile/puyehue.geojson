@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Puyehue",
+    "feet": 7349,
+    "meters": 2240,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
