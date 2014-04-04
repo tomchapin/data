@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.90347,
+      46.404233
+    ]
+  },
+  "properties": {
+    "name": "Morteratsch",
+    "latitude": 46.404233,
+    "longitude": 9.90347,
+    "feet": 12306,
+    "meters": 3751,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
