@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.467,
+      61.0167
+    ]
+  },
+  "properties": {
+    "name": "Mount Lucania",
+    "latitude": 61.0167,
+    "longitude": -140.467,
+    "feet": 17147,
+    "meters": 5226,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
