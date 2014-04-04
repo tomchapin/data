@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.350494,
+      63.278431
+    ]
+  },
+  "properties": {
+    "name": "Icefall",
+    "latitude": 63.278431,
+    "longitude": -145.350494,
+    "feet": 8000,
+    "meters": 2438,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
