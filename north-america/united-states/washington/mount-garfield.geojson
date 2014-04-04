@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.49334,
+      47.552867
+    ]
+  },
+  "properties": {
+    "name": "Mount Garfield",
+    "latitude": 47.552867,
+    "longitude": -121.49334,
+    "feet": 5519,
+    "meters": 1682,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
