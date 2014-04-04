@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0,
+      35.3167
+    ]
+  },
+  "properties": {
+    "name": "Awiar",
+    "latitude": 35.3167,
+    "longitude": 47.0,
+    "feet": 7287,
+    "meters": 2221,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
