@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ritak'uwa Negro",
+    "feet": 17388,
+    "meters": 5300,
+    "continent": "South America"
+  }
+}
