@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lysica",
+    "feet": 2008,
+    "meters": 612,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
