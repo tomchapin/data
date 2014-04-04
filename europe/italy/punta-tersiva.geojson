@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Punta Tersiva",
+    "feet": 11525,
+    "meters": 3513,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
