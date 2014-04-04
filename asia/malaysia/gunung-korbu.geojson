@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.3,
+      4.68333
+    ]
+  },
+  "properties": {
+    "name": "Gunung Korbu",
+    "latitude": 4.68333,
+    "longitude": 101.3,
+    "feet": 7162,
+    "meters": 2183,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
