@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.6333,
+      19.0333
+    ]
+  },
+  "properties": {
+    "name": "Popocatepetl",
+    "latitude": 19.0333,
+    "longitude": -98.6333,
+    "feet": 17887,
+    "meters": 5452,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
