@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.96456,
+      46.7608
+    ]
+  },
+  "properties": {
+    "name": "Flüela-Wisshorn",
+    "latitude": 46.7608,
+    "longitude": 9.96456,
+    "feet": 10121,
+    "meters": 3085,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
