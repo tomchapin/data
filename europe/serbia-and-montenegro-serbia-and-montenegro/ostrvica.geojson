@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.646744,
+      42.772471
+    ]
+  },
+  "properties": {
+    "name": "Ostrvica",
+    "latitude": 42.772471,
+    "longitude": 20.646744,
+    "feet": 2487,
+    "meters": 758,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro/Serbia and Montenegro"
+  }
+}
