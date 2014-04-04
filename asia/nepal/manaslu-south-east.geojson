@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Manaslu South-East",
+    "feet": 26279,
+    "meters": 8010,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
