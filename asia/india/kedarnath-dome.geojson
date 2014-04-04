@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.0667,
+      30.7833
+    ]
+  },
+  "properties": {
+    "name": "Kedarnath Dome",
+    "latitude": 30.7833,
+    "longitude": 79.0667,
+    "feet": 22411,
+    "meters": 6831,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
