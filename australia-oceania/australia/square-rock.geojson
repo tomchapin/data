@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.891323,
+      -35.542754
+    ]
+  },
+  "properties": {
+    "name": "Square Rock",
+    "latitude": -35.542754,
+    "longitude": 148.891323,
+    "feet": 4593,
+    "meters": 1400,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
