@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Schalfkogel",
+    "feet": 11634,
+    "meters": 3546,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
