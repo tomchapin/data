@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Menalos",
+    "feet": 6499,
+    "meters": 1981,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
