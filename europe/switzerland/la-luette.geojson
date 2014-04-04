@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.38775,
+      46.0102
+    ]
+  },
+  "properties": {
+    "name": "La Luette",
+    "latitude": 46.0102,
+    "longitude": 7.38775,
+    "feet": 11640,
+    "meters": 3548,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
