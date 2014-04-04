@@ -14,6 +14,8 @@
     "feet": 9111,
     "meters": 2777,
     "continent": "Africa",
-    "country": "Kenya"
+    "country": "Kenya",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
