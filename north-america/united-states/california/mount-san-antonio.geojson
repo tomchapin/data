@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.646,
+      34.2889
+    ]
+  },
+  "properties": {
+    "name": "Mount San Antonio",
+    "latitude": 34.2889,
+    "longitude": -117.646,
+    "feet": 10046,
+    "meters": 3068,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
