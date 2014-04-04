@@ -3,16 +3,16 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -110.903463,
-      40.699121
+      -111.21,
+      43.1036
     ]
   },
   "properties": {
     "name": "Bald Mountain",
-    "latitude": 40.699121,
-    "longitude": -110.903463,
-    "feet": 11943,
-    "meters": 3640,
+    "latitude": 43.1036,
+    "longitude": -111.21,
+    "feet": 8500,
+    "meters": 2591,
     "continent": "North America",
     "country": "United States",
     "state": "Utah"
