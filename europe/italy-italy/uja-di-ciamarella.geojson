@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1667,
+      45.5
+    ]
+  },
+  "properties": {
+    "name": "Uja di Ciamarella",
+    "latitude": 45.5,
+    "longitude": 7.1667,
+    "feet": 12060,
+    "meters": 3676,
+    "continent": "Europe",
+    "country": "Italy/Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
