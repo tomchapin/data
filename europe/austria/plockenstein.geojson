@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Plöckenstein",
+    "feet": 4524,
+    "meters": 1379,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
