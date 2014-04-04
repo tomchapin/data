@@ -12,6 +12,8 @@
     "feet": 23212,
     "meters": 7075,
     "continent": "Asia",
-    "country": "India"
+    "country": "India",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
