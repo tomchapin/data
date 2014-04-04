@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Langkofel",
+    "feet": 10436,
+    "meters": 3181,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
