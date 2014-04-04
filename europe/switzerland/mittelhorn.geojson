@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.124647,
+      46.634881
+    ]
+  },
+  "properties": {
+    "name": "Mittelhorn",
+    "latitude": 46.634881,
+    "longitude": 8.124647,
+    "feet": 12152,
+    "meters": 3704,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
