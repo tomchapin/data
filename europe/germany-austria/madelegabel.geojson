@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.295833,
+      47.3
+    ]
+  },
+  "properties": {
+    "name": "Mädelegabel",
+    "latitude": 47.3,
+    "longitude": 10.295833,
+    "feet": 8678,
+    "meters": 2645,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
