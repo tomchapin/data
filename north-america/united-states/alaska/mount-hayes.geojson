@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -146.716,
+      63.62
+    ]
+  },
+  "properties": {
+    "name": "Mount Hayes",
+    "latitude": 63.62,
+    "longitude": -146.716,
+    "feet": 13832,
+    "meters": 4216,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
