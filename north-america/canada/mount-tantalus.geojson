@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.329389,
+      49.818111
+    ]
+  },
+  "properties": {
+    "name": "Mount Tantalus",
+    "latitude": 49.818111,
+    "longitude": -123.329389,
+    "feet": 8540,
+    "meters": 2603,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
