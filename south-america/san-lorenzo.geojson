@@ -13,6 +13,8 @@
     "longitude": -72.306667,
     "feet": 12159,
     "meters": 3706,
-    "continent": "South America"
+    "continent": "South America",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
