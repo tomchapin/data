@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.151,
+      49.3354
+    ]
+  },
+  "properties": {
+    "name": "Gorc",
+    "latitude": 49.3354,
+    "longitude": 20.151,
+    "feet": 4029,
+    "meters": 1228,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
