@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.9286,
+      35.2844
+    ]
+  },
+  "properties": {
+    "name": "Gingilos",
+    "latitude": 35.2844,
+    "longitude": 23.9286,
+    "feet": 6824,
+    "meters": 2080,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
