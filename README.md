@@ -1,5 +1,5 @@
 # Open Peaks
-An open source initiative focused on the geographic data of mountains. See the index of all the mountains (updated daily).
+An open source initiative focused on the geographic data of mountains. See the [index of all the mountains](https://github.com/open-peaks/data/blob/master/index.geojson) (updated daily).
 
 ## GeoJSON
 
