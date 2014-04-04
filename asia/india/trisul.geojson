@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.7833,
+      30.3167
+    ]
+  },
+  "properties": {
+    "name": "Trisul",
+    "latitude": 30.3167,
+    "longitude": 79.7833,
+    "feet": 23360,
+    "meters": 7120,
+    "continent": "Asia",
+    "country": "India",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
