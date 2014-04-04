@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.35,
+      47.1
+    ]
+  },
+  "properties": {
+    "name": "Grossvenediger",
+    "latitude": 47.1,
+    "longitude": 12.35,
+    "feet": 12054,
+    "meters": 3674,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
