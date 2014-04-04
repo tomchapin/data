@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.42991,
+      57.595
+    ]
+  },
+  "properties": {
+    "name": "Beinn Eighe",
+    "latitude": 57.595,
+    "longitude": -5.42991,
+    "feet": 3313,
+    "meters": 1010,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
