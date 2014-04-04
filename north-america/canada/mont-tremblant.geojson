@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Tremblant",
+    "feet": 3002,
+    "meters": 915,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
