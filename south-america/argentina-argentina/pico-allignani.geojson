@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.836931,
+      -31.936922
+    ]
+  },
+  "properties": {
+    "name": "Pico Allignani",
+    "latitude": -31.936922,
+    "longitude": -64.836931,
+    "feet": 6627,
+    "meters": 2020,
+    "continent": "South America",
+    "country": "Argentina/Argentina"
+  }
+}
