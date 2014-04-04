@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.7125,
+      -34.976048
+    ]
+  },
+  "properties": {
+    "name": "Mt. Lofty",
+    "latitude": -34.976048,
+    "longitude": 138.7125,
+    "feet": 2329,
+    "meters": 710,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
