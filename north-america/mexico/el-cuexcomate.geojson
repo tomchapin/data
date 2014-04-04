@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Cuexcomate",
+    "feet": 43,
+    "meters": 13,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
