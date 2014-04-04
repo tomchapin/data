@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.592944,
+      47.130361
+    ]
+  },
+  "properties": {
+    "name": "Schönberg",
+    "latitude": 47.130361,
+    "longitude": 9.592944,
+    "feet": 6903,
+    "meters": 2104,
+    "continent": "Europe",
+    "country": "Liechtenstein"
+  }
+}
