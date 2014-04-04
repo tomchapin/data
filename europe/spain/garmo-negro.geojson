@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2725,
+      42.7766
+    ]
+  },
+  "properties": {
+    "name": "Garmo Negro",
+    "latitude": 42.7766,
+    "longitude": -0.2725,
+    "feet": 10010,
+    "meters": 3051,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
