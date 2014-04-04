@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.0386,
+      43.1925
+    ]
+  },
+  "properties": {
+    "name": "Howlock Mountain",
+    "latitude": 43.1925,
+    "longitude": -122.0386,
+    "feet": 8351,
+    "meters": 2545,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.647911,
+      -37.174543
+    ]
+  },
+  "properties": {
+    "name": "Mt Howitt",
+    "latitude": -37.174543,
+    "longitude": 146.647911,
+    "feet": 5715,
+    "meters": 1742,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
