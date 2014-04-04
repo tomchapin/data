@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.9167,
+      42.7167
+    ]
+  },
+  "properties": {
+    "name": "Botev",
+    "latitude": 42.7167,
+    "longitude": 24.9167,
+    "feet": 7795,
+    "meters": 2376,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
