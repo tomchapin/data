@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.448064,
+      47.816094
+    ]
+  },
+  "properties": {
+    "name": "Gunn Peak",
+    "latitude": 47.816094,
+    "longitude": -121.448064,
+    "feet": 6245,
+    "meters": 1903,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
