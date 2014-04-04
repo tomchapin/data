@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.936967,
+      -31.986821
+    ]
+  },
+  "properties": {
+    "name": "Cerro Champaqui",
+    "latitude": -31.986821,
+    "longitude": -64.936967,
+    "feet": 9449,
+    "meters": 2880,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
