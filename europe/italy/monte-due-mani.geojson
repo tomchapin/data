@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Due Mani",
+    "feet": 5430,
+    "meters": 1655,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
