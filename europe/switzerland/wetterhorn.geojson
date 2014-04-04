@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.11667,
+      46.6333
+    ]
+  },
+  "properties": {
+    "name": "Wetterhorn",
+    "latitude": 46.6333,
+    "longitude": 8.11667,
+    "feet": 12142,
+    "meters": 3692,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
