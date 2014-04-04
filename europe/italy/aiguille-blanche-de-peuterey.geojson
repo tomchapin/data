@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Aiguille Blanche De Peuterey",
+    "feet": 13491,
+    "meters": 4112,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
