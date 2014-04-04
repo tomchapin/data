@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.92,
+      37.88
+    ]
+  },
+  "properties": {
+    "name": "Mount Diablo",
+    "latitude": 37.88,
+    "longitude": -121.92,
+    "feet": 3849,
+    "meters": 1173,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
