@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fläscherberg",
+    "feet": 3724,
+    "meters": 1135,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
