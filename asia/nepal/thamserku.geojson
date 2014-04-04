@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.8639,
+      27.8617
+    ]
+  },
+  "properties": {
+    "name": "Thamserku",
+    "latitude": 27.8617,
+    "longitude": 86.8639,
+    "feet": 21729,
+    "meters": 6623,
+    "continent": "Asia",
+    "country": "Nepal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
