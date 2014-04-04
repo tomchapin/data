@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Pourri",
+    "feet": 12398,
+    "meters": 3779,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
