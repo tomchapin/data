@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Skagsnebb",
+    "feet": 6571,
+    "meters": 2003,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
