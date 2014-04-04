@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pihapper",
+    "feet": 8261,
+    "meters": 2518,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
