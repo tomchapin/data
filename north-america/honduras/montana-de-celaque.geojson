@@ -12,6 +12,8 @@
     "feet": 9275,
     "meters": 2827,
     "continent": "North America",
-    "country": "Honduras"
+    "country": "Honduras",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
