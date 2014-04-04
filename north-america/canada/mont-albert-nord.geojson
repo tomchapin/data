@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.163874,
+      48.929887
+    ]
+  },
+  "properties": {
+    "name": "Mont Albert (nord)",
+    "latitude": 48.929887,
+    "longitude": -66.163874,
+    "feet": 3570,
+    "meters": 1088,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
