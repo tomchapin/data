@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.75,
+      36.3005
+    ]
+  },
+  "properties": {
+    "name": "Myogi San",
+    "latitude": 36.3005,
+    "longitude": 138.75,
+    "feet": 3622,
+    "meters": 1104,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
