@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Parang",
+    "feet": 1968,
+    "meters": 600,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
