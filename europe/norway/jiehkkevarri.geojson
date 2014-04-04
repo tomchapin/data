@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.9167,
+      69.4667
+    ]
+  },
+  "properties": {
+    "name": "Jiehkkevarri",
+    "latitude": 69.4667,
+    "longitude": 19.9167,
+    "feet": 6053,
+    "meters": 1845,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
