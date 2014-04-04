@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cahir",
+    "feet": 3284,
+    "meters": 1001,
+    "continent": "Europe",
+    "country": "Ireland"
+  }
+}
