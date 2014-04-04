@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Wassen Peak",
+    "feet": 4687,
+    "meters": 1429,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
