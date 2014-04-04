@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.439539,
+      42.733648
+    ]
+  },
+  "properties": {
+    "name": "Punta Escarra",
+    "latitude": 42.733648,
+    "longitude": -0.439539,
+    "feet": 8957,
+    "meters": 2730,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
