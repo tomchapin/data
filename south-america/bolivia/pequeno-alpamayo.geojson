@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pequeno Alpamayo",
+    "feet": 17618,
+    "meters": 5370,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
