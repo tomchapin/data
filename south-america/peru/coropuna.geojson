@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.6572,
+      -15.5203
+    ]
+  },
+  "properties": {
+    "name": "Coropuna",
+    "latitude": -15.5203,
+    "longitude": -72.6572,
+    "feet": 21079,
+    "meters": 6425,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
