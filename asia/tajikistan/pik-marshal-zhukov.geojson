@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.8833,
+      39.3167
+    ]
+  },
+  "properties": {
+    "name": "Pik Marshal Zhukov",
+    "latitude": 39.3167,
+    "longitude": 72.8833,
+    "feet": 22447,
+    "meters": 6842,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
