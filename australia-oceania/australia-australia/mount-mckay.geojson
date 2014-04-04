@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.017,
+      -22.4333
+    ]
+  },
+  "properties": {
+    "name": "Mount McKay",
+    "latitude": -22.4333,
+    "longitude": 120.017,
+    "feet": 6043,
+    "meters": 1842,
+    "continent": "Australia/Oceania",
+    "country": "Australia/Australia"
+  }
+}
