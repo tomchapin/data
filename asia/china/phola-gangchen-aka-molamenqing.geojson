@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.809721,
+      28.354998
+    ]
+  },
+  "properties": {
+    "name": "Phola Gangchen (aka Molamenqing) (摩拉门青)",
+    "latitude": 28.354998,
+    "longitude": 85.809721,
+    "feet": 25134,
+    "meters": 7661,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
