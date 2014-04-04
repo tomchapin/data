@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.194679,
+      61.269408
+    ]
+  },
+  "properties": {
+    "name": "Peeking Mountain",
+    "latitude": 61.269408,
+    "longitude": -149.194679,
+    "feet": 6925,
+    "meters": 2111,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
