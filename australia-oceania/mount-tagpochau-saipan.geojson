@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Tagpochau (Saipan)",
+    "feet": 1554,
+    "meters": 474,
+    "continent": "Australia/Oceania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
