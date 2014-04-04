@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.27,
+      28.03
+    ]
+  },
+  "properties": {
+    "name": "Gangkar Punsum",
+    "latitude": 28.03,
+    "longitude": 90.27,
+    "feet": 24836,
+    "meters": 7570,
+    "continent": "Asia",
+    "country": "Bhutan/China"
+  }
+}
