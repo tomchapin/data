@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.755256,
+      47.156893
+    ]
+  },
+  "properties": {
+    "name": "Grosses Wiesbachhorn",
+    "latitude": 47.156893,
+    "longitude": 12.755256,
+    "feet": 11693,
+    "meters": 3564,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
