@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.920205,
+      48.739352
+    ]
+  },
+  "properties": {
+    "name": "Crater Mountain",
+    "latitude": 48.739352,
+    "longitude": -120.920205,
+    "feet": 8128,
+    "meters": 2477,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
