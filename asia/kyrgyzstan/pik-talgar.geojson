@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.3,
+      43.1
+    ]
+  },
+  "properties": {
+    "name": "Pik Talgar",
+    "latitude": 43.1,
+    "longitude": 77.3,
+    "feet": 16470,
+    "meters": 5020,
+    "continent": "Asia",
+    "country": "Kyrgyzstan"
+  }
+}
