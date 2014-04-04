@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.329399,
+      40.258241
+    ]
+  },
+  "properties": {
+    "name": "Almanzor",
+    "latitude": 40.258241,
+    "longitude": -5.329399,
+    "feet": 8504,
+    "meters": 2592,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
