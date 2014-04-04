@@ -9,8 +9,8 @@
   },
   "properties": {
     "name": "Obiou",
-    "feet": 9186,
-    "meters": 2800,
+    "feet": 7,
+    "meters": 2,
     "continent": "Europe",
     "country": "France"
   }
