@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Vardoussia",
+    "feet": 8186,
+    "meters": 2495,
+    "continent": "Europe",
+    "country": "Greece",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
