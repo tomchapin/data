@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.96751,
+      54.486345
+    ]
+  },
+  "properties": {
+    "name": "Dove Crag",
+    "latitude": 54.486345,
+    "longitude": -2.96751,
+    "feet": 2603,
+    "meters": 793,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
