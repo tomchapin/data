@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.06108,
+      47.705776
+    ]
+  },
+  "properties": {
+    "name": "Mount Jupiter",
+    "latitude": 47.705776,
+    "longitude": -123.06108,
+    "feet": 5700,
+    "meters": 1737,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
