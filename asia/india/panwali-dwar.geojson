@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.95,
+      30.2833
+    ]
+  },
+  "properties": {
+    "name": "Panwali Dwar",
+    "latitude": 30.2833,
+    "longitude": 79.95,
+    "feet": 21860,
+    "meters": 6663,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
