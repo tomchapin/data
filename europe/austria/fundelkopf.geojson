@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.675179,
+      47.110911
+    ]
+  },
+  "properties": {
+    "name": "Fundelkopf",
+    "latitude": 47.110911,
+    "longitude": 9.675179,
+    "feet": 7877,
+    "meters": 2401,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
