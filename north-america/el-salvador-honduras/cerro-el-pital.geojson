@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.0974,
+      14.3416
+    ]
+  },
+  "properties": {
+    "name": "Cerro El Pital",
+    "latitude": 14.3416,
+    "longitude": -89.0974,
+    "feet": 8957,
+    "meters": 2730,
+    "continent": "North America",
+    "country": "El Salvador/Honduras"
+  }
+}
