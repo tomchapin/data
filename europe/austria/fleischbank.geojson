@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.317,
+      47.5688
+    ]
+  },
+  "properties": {
+    "name": "Fleischbank",
+    "latitude": 47.5688,
+    "longitude": 12.317,
+    "feet": 7175,
+    "meters": 2187,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
