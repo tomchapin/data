@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.917881,
+      47.657138
+    ]
+  },
+  "properties": {
+    "name": "Cape Horn",
+    "latitude": 47.657138,
+    "longitude": -120.917881,
+    "feet": 7616,
+    "meters": 2321,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
