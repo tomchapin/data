@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.483,
+      9.4833
+    ]
+  },
+  "properties": {
+    "name": "Cerro Chirripo",
+    "latitude": 9.4833,
+    "longitude": -83.483,
+    "feet": 12533,
+    "meters": 3820,
+    "continent": "North America",
+    "country": "Costa Rica"
+  }
+}
