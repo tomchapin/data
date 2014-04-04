@@ -12,6 +12,8 @@
     "feet": 5633,
     "meters": 1717,
     "continent": "Europe",
-    "country": "Svalbard"
+    "country": "Svalbard",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
