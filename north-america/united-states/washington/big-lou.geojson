@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.839782,
+      47.63535
+    ]
+  },
+  "properties": {
+    "name": "Big Lou",
+    "latitude": 47.63535,
+    "longitude": -120.839782,
+    "feet": 7763,
+    "meters": 2366,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
