@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Strzelecki",
+    "feet": 2480,
+    "meters": 756,
+    "continent": "Australia/Oceania",
+    "country": "Australia/Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
