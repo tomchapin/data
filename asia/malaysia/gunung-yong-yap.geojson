@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Yong Yap",
+    "feet": 7113,
+    "meters": 2168,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
