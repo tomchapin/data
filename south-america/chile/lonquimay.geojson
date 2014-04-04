@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lonquimay",
+    "feet": 9482,
+    "meters": 2890,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
