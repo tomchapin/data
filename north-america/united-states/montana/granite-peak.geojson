@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.8,
+      45.1667
+    ]
+  },
+  "properties": {
+    "name": "Granite Peak",
+    "latitude": 45.1667,
+    "longitude": -109.8,
+    "feet": 12799,
+    "meters": 3901,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
