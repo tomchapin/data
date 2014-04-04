@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nevado Jacha Huaracha",
+    "feet": 18176,
+    "meters": 5540,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
