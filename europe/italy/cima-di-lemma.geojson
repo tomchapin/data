@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cima Di Lemma",
+    "feet": 7703,
+    "meters": 2348,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
