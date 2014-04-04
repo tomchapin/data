@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.8235,
+      49.178
+    ]
+  },
+  "properties": {
+    "name": "Nairamdal",
+    "latitude": 49.178,
+    "longitude": 87.8235,
+    "feet": 13507,
+    "meters": 4117,
+    "continent": "Asia",
+    "country": "Mongolia/Philippines"
+  }
+}
