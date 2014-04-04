@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Punta Gnifetti",
+    "feet": 14957,
+    "meters": 4559,
+    "continent": "Europe"
+  }
+}
