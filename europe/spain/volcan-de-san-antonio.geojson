@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.85141,
+      28.482724
+    ]
+  },
+  "properties": {
+    "name": "Volcan de San Antonio",
+    "latitude": 28.482724,
+    "longitude": -17.85141,
+    "feet": 2156,
+    "meters": 657,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
