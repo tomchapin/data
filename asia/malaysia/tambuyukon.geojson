@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.65,
+      6.21667
+    ]
+  },
+  "properties": {
+    "name": "Tambuyukon",
+    "latitude": 6.21667,
+    "longitude": 116.65,
+    "feet": 8461,
+    "meters": 2579,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
