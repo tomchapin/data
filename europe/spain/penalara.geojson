@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.955593,
+      40.850956
+    ]
+  },
+  "properties": {
+    "name": "Peñalara",
+    "latitude": 40.850956,
+    "longitude": -3.955593,
+    "feet": 7966,
+    "meters": 2428,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
