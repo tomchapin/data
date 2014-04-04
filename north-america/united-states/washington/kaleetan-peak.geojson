@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.478062,
+      47.462509
+    ]
+  },
+  "properties": {
+    "name": "Kaleetan Peak",
+    "latitude": 47.462509,
+    "longitude": -121.478062,
+    "feet": 6259,
+    "meters": 1908,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
