@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.608,
+      19.4786
+    ]
+  },
+  "properties": {
+    "name": "Mauna Loa",
+    "latitude": 19.4786,
+    "longitude": -155.608,
+    "feet": 13677,
+    "meters": 4169,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Hawaii"
+  }
+}
