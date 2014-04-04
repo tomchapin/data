@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.7167,
+      58.7167
+    ]
+  },
+  "properties": {
+    "name": "Mont Iberville",
+    "latitude": 58.7167,
+    "longitude": -63.7167,
+    "feet": 5420,
+    "meters": 1652,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
