@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.85,
+      -27.7833
+    ]
+  },
+  "properties": {
+    "name": "Monte Pissis",
+    "latitude": -27.7833,
+    "longitude": -68.85,
+    "feet": 22241,
+    "meters": 6779,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
