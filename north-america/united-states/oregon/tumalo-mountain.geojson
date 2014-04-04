@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.642534,
+      44.005115
+    ]
+  },
+  "properties": {
+    "name": "Tumalo Mountain",
+    "latitude": 44.005115,
+    "longitude": -121.642534,
+    "feet": 7779,
+    "meters": 2371,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
