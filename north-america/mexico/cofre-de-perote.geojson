@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cofre De Perote",
+    "feet": 14052,
+    "meters": 4283,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
