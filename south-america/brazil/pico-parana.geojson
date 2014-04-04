@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Parana",
+    "feet": 6158,
+    "meters": 1877,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
