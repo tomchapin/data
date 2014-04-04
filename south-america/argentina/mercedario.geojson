@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.1167,
+      -31.9833
+    ]
+  },
+  "properties": {
+    "name": "Mercedario",
+    "latitude": -31.9833,
+    "longitude": -70.1167,
+    "feet": 22211,
+    "meters": 6770,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
