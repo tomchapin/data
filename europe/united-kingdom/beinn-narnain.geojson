@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Beinn Narnain",
+    "feet": 3038,
+    "meters": 926,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
