@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.2608,
+      -72.11234
+    ]
+  },
+  "properties": {
+    "name": "Joris Peak",
+    "latitude": -72.11234,
+    "longitude": 23.2608,
+    "feet": 6955,
+    "meters": 2120,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
