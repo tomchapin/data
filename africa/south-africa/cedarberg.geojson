@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cedarberg",
+    "feet": 6647,
+    "meters": 2026,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
