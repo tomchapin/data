@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.889167,
+      36.386944
+    ]
+  },
+  "properties": {
+    "name": "Istor-o-Nal",
+    "latitude": 36.386944,
+    "longitude": 71.889167,
+    "feet": 23871,
+    "meters": 7276,
+    "continent": "Asia",
+    "country": "Pakistan/Pakistan"
+  }
+}
