@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3167,
+      46.4167
+    ]
+  },
+  "properties": {
+    "name": "Koöuta",
+    "latitude": 46.4167,
+    "longitude": 14.3167,
+    "feet": 6850,
+    "meters": 2088,
+    "continent": "Europe",
+    "country": "Slovenia"
+  }
+}
