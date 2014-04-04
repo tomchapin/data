@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.9167,
+      47.55
+    ]
+  },
+  "properties": {
+    "name": "Watzmann",
+    "latitude": 47.55,
+    "longitude": 12.9167,
+    "feet": 8901,
+    "meters": 2713,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
