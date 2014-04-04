@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.209454,
+      42.281754
+    ]
+  },
+  "properties": {
+    "name": "Taga",
+    "latitude": 42.281754,
+    "longitude": 2.209454,
+    "feet": 6693,
+    "meters": 2040,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
