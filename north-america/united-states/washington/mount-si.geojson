@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.740109,
+      47.507603
+    ]
+  },
+  "properties": {
+    "name": "Mount Si",
+    "latitude": 47.507603,
+    "longitude": -121.740109,
+    "feet": 4167,
+    "meters": 1270,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
