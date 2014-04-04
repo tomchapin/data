@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.8,
+      -22.4
+    ]
+  },
+  "properties": {
+    "name": "Tres Estados",
+    "latitude": -22.4,
+    "longitude": -44.8,
+    "feet": 8743,
+    "meters": 2665,
+    "continent": "South America",
+    "country": "Brazil",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
