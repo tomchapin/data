@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.0,
+      28.0167
+    ]
+  },
+  "properties": {
+    "name": "Kartse",
+    "latitude": 28.0167,
+    "longitude": 87.0,
+    "feet": 21348,
+    "meters": 6507,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
