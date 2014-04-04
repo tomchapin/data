@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Antuco",
+    "feet": 9688,
+    "meters": 2953,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
