@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -154.173889,
+      61.659084
+    ]
+  },
+  "properties": {
+    "name": "Golgotha",
+    "latitude": 61.659084,
+    "longitude": -154.173889,
+    "feet": 8107,
+    "meters": 2471,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
