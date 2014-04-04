@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.758246,
+      47.793143
+    ]
+  },
+  "properties": {
+    "name": "Mount Tom",
+    "latitude": 47.793143,
+    "longitude": -123.758246,
+    "feet": 7076,
+    "meters": 2157,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
