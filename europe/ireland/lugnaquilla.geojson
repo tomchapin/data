@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lugnaquilla",
+    "feet": 3035,
+    "meters": 925,
+    "continent": "Europe",
+    "country": "Ireland"
+  }
+}
