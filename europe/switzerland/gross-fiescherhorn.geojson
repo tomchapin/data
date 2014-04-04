@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.061304,
+      46.551187
+    ]
+  },
+  "properties": {
+    "name": "Gross Fiescherhorn",
+    "latitude": 46.551187,
+    "longitude": 8.061304,
+    "feet": 13284,
+    "meters": 4049,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
