@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.004,
+      63.0694
+    ]
+  },
+  "properties": {
+    "name": "Mount McKinley",
+    "latitude": 63.0694,
+    "longitude": -151.004,
+    "feet": 20320,
+    "meters": 6194,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
