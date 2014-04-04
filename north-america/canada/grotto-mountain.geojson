@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.267,
+      51.0833
+    ]
+  },
+  "properties": {
+    "name": "Grotto Mountain",
+    "latitude": 51.0833,
+    "longitude": -115.267,
+    "feet": 8878,
+    "meters": 2706,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
