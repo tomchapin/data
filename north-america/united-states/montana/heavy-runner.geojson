@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.695192,
+      48.676794
+    ]
+  },
+  "properties": {
+    "name": "Heavy Runner",
+    "latitude": 48.676794,
+    "longitude": -113.695192,
+    "feet": 8016,
+    "meters": 2443,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
