@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.772,
+      44.1358
+    ]
+  },
+  "properties": {
+    "name": "Three Sisters",
+    "latitude": 44.1358,
+    "longitude": -121.772,
+    "feet": 10358,
+    "meters": 3157,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
