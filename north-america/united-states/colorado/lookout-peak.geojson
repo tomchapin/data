@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lookout Peak",
+    "feet": 13661,
+    "meters": 4164,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
