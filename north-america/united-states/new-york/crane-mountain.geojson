@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.962407,
+      43.544847
+    ]
+  },
+  "properties": {
+    "name": "Crane Mountain",
+    "latitude": 43.544847,
+    "longitude": -73.962407,
+    "feet": 3254,
+    "meters": 992,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
