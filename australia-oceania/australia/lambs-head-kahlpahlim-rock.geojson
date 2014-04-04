@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.64141,
+      -17.02337
+    ]
+  },
+  "properties": {
+    "name": "Lambs Head (Kahlpahlim Rock)",
+    "latitude": -17.02337,
+    "longitude": 145.64141,
+    "feet": 4265,
+    "meters": 1300,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
