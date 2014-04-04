@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.125438,
+      33.955357
+    ]
+  },
+  "properties": {
+    "name": "Escudilla Mountain",
+    "latitude": 33.955357,
+    "longitude": -109.125438,
+    "feet": 10912,
+    "meters": 3326,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
