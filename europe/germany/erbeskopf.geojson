@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Erbeskopf",
+    "feet": 2684,
+    "meters": 818,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
