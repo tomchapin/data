@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.92685,
+      56.7541
+    ]
+  },
+  "properties": {
+    "name": "Binnein Mor",
+    "latitude": 56.7541,
+    "longitude": -4.92685,
+    "feet": 3707,
+    "meters": 1130,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
