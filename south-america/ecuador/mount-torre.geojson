@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Torre",
+    "feet": 12631,
+    "meters": 3850,
+    "continent": "South America",
+    "country": "Ecuador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
