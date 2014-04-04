@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      91.0333,
+      29.7
+    ]
+  },
+  "properties": {
+    "name": "Gompe Utse",
+    "latitude": 29.7,
+    "longitude": 91.0333,
+    "feet": 17191,
+    "meters": 5240,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
