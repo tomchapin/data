@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.283,
+      51.3333
+    ]
+  },
+  "properties": {
+    "name": "Mount Hungabee",
+    "latitude": 51.3333,
+    "longitude": -116.283,
+    "feet": 11457,
+    "meters": 3492,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
