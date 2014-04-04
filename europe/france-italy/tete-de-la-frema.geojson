@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.869853,
+      44.537253
+    ]
+  },
+  "properties": {
+    "name": "Tete de la Fréma",
+    "latitude": 44.537253,
+    "longitude": 6.869853,
+    "feet": 10338,
+    "meters": 3151,
+    "continent": "Europe",
+    "country": "France/Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
