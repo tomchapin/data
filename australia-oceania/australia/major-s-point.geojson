@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.41742,
+      -30.438183
+    ]
+  },
+  "properties": {
+    "name": "Major's Point",
+    "latitude": -30.438183,
+    "longitude": 152.41742,
+    "feet": 5095,
+    "meters": 1553,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
