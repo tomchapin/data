@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sorapiss",
+    "feet": 10515,
+    "meters": 3205,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
