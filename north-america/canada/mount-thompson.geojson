@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.523056,
+      51.663611
+    ]
+  },
+  "properties": {
+    "name": "Mount Thompson",
+    "latitude": 51.663611,
+    "longitude": -116.523056,
+    "feet": 10118,
+    "meters": 3084,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
