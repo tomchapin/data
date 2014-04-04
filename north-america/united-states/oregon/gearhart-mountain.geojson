@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86222,
+      42.51278
+    ]
+  },
+  "properties": {
+    "name": "Gearhart Mountain",
+    "latitude": 42.51278,
+    "longitude": -120.86222,
+    "feet": 8364,
+    "meters": 2549,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
