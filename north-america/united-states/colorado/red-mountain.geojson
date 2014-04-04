@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Red Mountain",
+    "feet": 11018,
+    "meters": 3358,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
