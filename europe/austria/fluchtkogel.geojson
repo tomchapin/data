@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fluchtkogel",
+    "feet": 11483,
+    "meters": 3500,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
