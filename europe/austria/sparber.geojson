@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.466663,
+      47.693357
+    ]
+  },
+  "properties": {
+    "name": "Sparber",
+    "latitude": 47.693357,
+    "longitude": 13.466663,
+    "feet": 4927,
+    "meters": 1502,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
