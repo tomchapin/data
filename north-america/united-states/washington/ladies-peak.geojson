@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.932994,
+      47.665619
+    ]
+  },
+  "properties": {
+    "name": "Ladies Peak",
+    "latitude": 47.665619,
+    "longitude": -120.932994,
+    "feet": 7708,
+    "meters": 2349,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
