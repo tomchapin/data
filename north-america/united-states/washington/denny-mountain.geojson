@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.444073,
+      47.439119
+    ]
+  },
+  "properties": {
+    "name": "Denny Mountain",
+    "latitude": 47.439119,
+    "longitude": -121.444073,
+    "feet": 5522,
+    "meters": 1683,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
