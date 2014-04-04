@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Las Nieves",
+    "feet": 11565,
+    "meters": 3525,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
