@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cima di Jazzi",
+    "feet": 12477,
+    "meters": 3803,
+    "continent": "Europe",
+    "country": "Italy/Switzerland"
+  }
+}
