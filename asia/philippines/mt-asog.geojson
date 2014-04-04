@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.451,
+      13.4511
+    ]
+  },
+  "properties": {
+    "name": "Mt. Asog",
+    "latitude": 13.4511,
+    "longitude": 123.451,
+    "feet": 3750,
+    "meters": 1143,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
