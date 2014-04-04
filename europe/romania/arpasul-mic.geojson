@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Arpasul Mic",
+    "feet": 8071,
+    "meters": 2460,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
