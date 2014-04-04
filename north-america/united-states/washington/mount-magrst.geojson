@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Magrst",
+    "feet": 5528,
+    "meters": 1685,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
