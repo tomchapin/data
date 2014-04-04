@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Haiduta",
+    "feet": 8087,
+    "meters": 2465,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
