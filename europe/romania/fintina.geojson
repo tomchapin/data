@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fintina",
+    "feet": 7792,
+    "meters": 2375,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
