@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.8337,
+      27.904
+    ]
+  },
+  "properties": {
+    "name": "Nangkartshang Peak",
+    "latitude": 27.904,
+    "longitude": -86.8337,
+    "feet": 16676,
+    "meters": 5083,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
