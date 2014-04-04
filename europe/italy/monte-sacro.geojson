@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Sacro",
+    "feet": 1778,
+    "meters": 542,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
