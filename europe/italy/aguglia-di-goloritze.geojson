@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.706682,
+      40.089199
+    ]
+  },
+  "properties": {
+    "name": "Aguglia di Goloritzè",
+    "latitude": 40.089199,
+    "longitude": 9.706682,
+    "feet": 541,
+    "meters": 165,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
