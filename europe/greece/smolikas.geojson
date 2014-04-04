@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Smolikas",
+    "feet": 8651,
+    "meters": 2637,
+    "continent": "Europe",
+    "country": "Greece",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
