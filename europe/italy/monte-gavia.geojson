@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.471399,
+      46.352761
+    ]
+  },
+  "properties": {
+    "name": "Monte Gavia",
+    "latitude": 46.352761,
+    "longitude": 10.471399,
+    "feet": 10574,
+    "meters": 3223,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
