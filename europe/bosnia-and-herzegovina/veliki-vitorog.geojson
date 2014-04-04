@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0442,
+      44.1194
+    ]
+  },
+  "properties": {
+    "name": "Veliki Vitorog",
+    "latitude": 44.1194,
+    "longitude": 17.0442,
+    "feet": 6257,
+    "meters": 1907,
+    "continent": "Europe",
+    "country": "Bosnia and Herzegovina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
