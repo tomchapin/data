@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.605597,
+      46.17677
+    ]
+  },
+  "properties": {
+    "name": "Cima d'Asta",
+    "latitude": 46.17677,
+    "longitude": 11.605597,
+    "feet": 9341,
+    "meters": 2847,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
