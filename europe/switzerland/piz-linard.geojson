@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0333,
+      46.8333
+    ]
+  },
+  "properties": {
+    "name": "Piz Linard",
+    "latitude": 46.8333,
+    "longitude": 10.0333,
+    "feet": 11188,
+    "meters": 3410,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
