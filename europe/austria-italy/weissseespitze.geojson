@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Weissseespitze",
+    "feet": 11542,
+    "meters": 3518,
+    "continent": "Europe",
+    "country": "Austria/Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
