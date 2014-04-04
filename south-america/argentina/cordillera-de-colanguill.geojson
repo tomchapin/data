@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cordillera De Colanguill",
+    "feet": 20085,
+    "meters": 6122,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
