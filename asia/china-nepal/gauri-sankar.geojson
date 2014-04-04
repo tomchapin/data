@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.3333,
+      27.9667
+    ]
+  },
+  "properties": {
+    "name": "Gauri Sankar",
+    "latitude": 27.9667,
+    "longitude": 86.3333,
+    "feet": 23405,
+    "meters": 7134,
+    "continent": "Asia",
+    "country": "China/Nepal"
+  }
+}
