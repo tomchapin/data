@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Volcan San Jose",
+    "feet": 19213,
+    "meters": 5856,
+    "continent": "South America",
+    "country": "Chile/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
