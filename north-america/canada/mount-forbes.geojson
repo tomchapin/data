@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.932125,
+      51.860168
+    ]
+  },
+  "properties": {
+    "name": "Mount Forbes",
+    "latitude": 51.860168,
+    "longitude": -116.932125,
+    "feet": 11850,
+    "meters": 3612,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
