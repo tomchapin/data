@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "daugou",
+    "feet": 18000,
+    "meters": 5486,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
