@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.338,
+      38.9647
+    ]
+  },
+  "properties": {
+    "name": "Mount Oxford",
+    "latitude": 38.9647,
+    "longitude": -106.338,
+    "feet": 14153,
+    "meters": 4314,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
