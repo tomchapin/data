@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.787439,
+      5.164506
+    ]
+  },
+  "properties": {
+    "name": "Tepuy Roraima",
+    "latitude": 5.164506,
+    "longitude": -60.787439,
+    "feet": 9219,
+    "meters": 2810,
+    "continent": "South America",
+    "country": "Venezuela/Brazil",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
