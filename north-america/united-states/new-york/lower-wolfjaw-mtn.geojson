@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.832585,
+      44.148406
+    ]
+  },
+  "properties": {
+    "name": "Lower Wolfjaw Mtn",
+    "latitude": 44.148406,
+    "longitude": -73.832585,
+    "feet": 4177,
+    "meters": 1273,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
