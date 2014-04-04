@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.2587,
+      44.3386
+    ]
+  },
+  "properties": {
+    "name": "Fields Peak",
+    "latitude": 44.3386,
+    "longitude": -119.2587,
+    "feet": 7362,
+    "meters": 2244,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
