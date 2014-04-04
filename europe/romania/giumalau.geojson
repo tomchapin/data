@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.4889,
+      47.4368
+    ]
+  },
+  "properties": {
+    "name": "Giumalau",
+    "latitude": 47.4368,
+    "longitude": 25.4889,
+    "feet": 6093,
+    "meters": 1857,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
