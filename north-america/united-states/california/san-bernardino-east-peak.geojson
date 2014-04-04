@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.909766,
+      34.124666
+    ]
+  },
+  "properties": {
+    "name": "San Bernardino East Peak",
+    "latitude": 34.124666,
+    "longitude": -116.909766,
+    "feet": 10691,
+    "meters": 3259,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
