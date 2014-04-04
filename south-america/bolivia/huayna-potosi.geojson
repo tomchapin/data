@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.1833,
+      -16.2667
+    ]
+  },
+  "properties": {
+    "name": "Huayna Potosi",
+    "latitude": -16.2667,
+    "longitude": -68.1833,
+    "feet": 19996,
+    "meters": 6094,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
