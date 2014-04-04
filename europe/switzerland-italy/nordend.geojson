@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9,
+      45.9167
+    ]
+  },
+  "properties": {
+    "name": "Nordend",
+    "latitude": 45.9167,
+    "longitude": 7.9,
+    "feet": 15121,
+    "meters": 4609,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
