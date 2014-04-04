@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.564722,
+      47.170278
+    ]
+  },
+  "properties": {
+    "name": "Garsellakopf",
+    "latitude": 47.170278,
+    "longitude": 9.564722,
+    "feet": 6906,
+    "meters": 2105,
+    "continent": "Europe",
+    "country": "Liechtenstein/Austria"
+  }
+}
