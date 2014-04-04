@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cerro Chello Cunka",
+    "feet": 17880,
+    "meters": 5450,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
