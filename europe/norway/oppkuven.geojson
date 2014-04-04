@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Oppkuven",
+    "feet": 2310,
+    "meters": 704,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
