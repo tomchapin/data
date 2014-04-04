@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.232433,
+      45.456814
+    ]
+  },
+  "properties": {
+    "name": "Courmaon",
+    "latitude": 45.456814,
+    "longitude": 7.232433,
+    "feet": 10374,
+    "meters": 3162,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
