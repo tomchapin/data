@@ -14,6 +14,8 @@
     "feet": 5108,
     "meters": 1557,
     "continent": "Europe",
-    "country": "Poland/Slovakia"
+    "country": "Poland/Slovakia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
