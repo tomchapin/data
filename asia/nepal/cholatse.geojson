@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.766071,
+      27.919952
+    ]
+  },
+  "properties": {
+    "name": "Cholatse",
+    "latitude": 27.919952,
+    "longitude": 86.766071,
+    "feet": 21128,
+    "meters": 6440,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
