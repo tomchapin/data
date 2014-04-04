@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.601588,
+      46.443331
+    ]
+  },
+  "properties": {
+    "name": "Pasquale",
+    "latitude": 46.443331,
+    "longitude": 10.601588,
+    "feet": 11657,
+    "meters": 3553,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
