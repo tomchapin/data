@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.591,
+      36.4116
+    ]
+  },
+  "properties": {
+    "name": "Washiba Dake",
+    "latitude": 36.4116,
+    "longitude": 137.591,
+    "feet": 9593,
+    "meters": 2924,
+    "continent": "Asia",
+    "country": "Japan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
