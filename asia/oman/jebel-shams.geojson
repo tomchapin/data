@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.2783,
+      23.2125
+    ]
+  },
+  "properties": {
+    "name": "Jebel Shams",
+    "latitude": 23.2125,
+    "longitude": 57.2783,
+    "feet": 9872,
+    "meters": 3009,
+    "continent": "Asia",
+    "country": "Oman"
+  }
+}
