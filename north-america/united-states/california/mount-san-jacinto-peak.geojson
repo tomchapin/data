@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.678,
+      33.8144
+    ]
+  },
+  "properties": {
+    "name": "Mount San Jacinto Peak",
+    "latitude": 33.8144,
+    "longitude": -116.678,
+    "feet": 10804,
+    "meters": 3293,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
