@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ladrillero",
+    "feet": 5577,
+    "meters": 1700,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
