@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.445922,
+      46.580309
+    ]
+  },
+  "properties": {
+    "name": "Aiarnola",
+    "latitude": 46.580309,
+    "longitude": 12.445922,
+    "feet": 8055,
+    "meters": 2456,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
