@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.005066,
+      47.71802
+    ]
+  },
+  "properties": {
+    "name": "Salzburger Hochthron",
+    "latitude": 47.71802,
+    "longitude": 13.005066,
+    "feet": 6078,
+    "meters": 1853,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
