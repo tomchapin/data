@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lamsenspitze",
+    "feet": 8228,
+    "meters": 2508,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
