@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.17914,
+      10.6655
+    ]
+  },
+  "properties": {
+    "name": "Marapara Peak",
+    "latitude": 10.6655,
+    "longitude": 123.17914,
+    "feet": 5522,
+    "meters": 1683,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
