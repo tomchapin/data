@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Peleaga",
+    "feet": 8232,
+    "meters": 2509,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
