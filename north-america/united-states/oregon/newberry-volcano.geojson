@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.25885,
+      43.68997
+    ]
+  },
+  "properties": {
+    "name": "Newberry Volcano",
+    "latitude": 43.68997,
+    "longitude": -121.25885,
+    "feet": 7986,
+    "meters": 2434,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
