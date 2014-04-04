@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kinner Kailash",
+    "feet": 19849,
+    "meters": 6050,
+    "continent": "Asia",
+    "country": "India/India"
+  }
+}
