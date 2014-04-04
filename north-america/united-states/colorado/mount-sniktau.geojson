@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.857778,
+      39.678333
+    ]
+  },
+  "properties": {
+    "name": "Mount Sniktau",
+    "latitude": 39.678333,
+    "longitude": -105.857778,
+    "feet": 13218,
+    "meters": 4028,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
