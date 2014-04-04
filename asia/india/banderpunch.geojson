@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.55,
+      31.0
+    ]
+  },
+  "properties": {
+    "name": "Banderpunch",
+    "latitude": 31.0,
+    "longitude": 78.55,
+    "feet": 20722,
+    "meters": 6316,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
