@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6667,
+      46.25
+    ]
+  },
+  "properties": {
+    "name": "Scarpaco",
+    "latitude": 46.25,
+    "longitude": 10.6667,
+    "feet": 10669,
+    "meters": 3252,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
