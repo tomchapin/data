@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -29.925385,
+      68.839983
+    ]
+  },
+  "properties": {
+    "name": "Dome",
+    "latitude": 68.839983,
+    "longitude": -29.925385,
+    "feet": 12080,
+    "meters": 3682,
+    "continent": "North America",
+    "country": "Greenland/Greenland"
+  }
+}
