@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.008099,
+      -13.177526
+    ]
+  },
+  "properties": {
+    "name": "Pumasillo",
+    "latitude": -13.177526,
+    "longitude": -73.008099,
+    "feet": 19915,
+    "meters": 6070,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
