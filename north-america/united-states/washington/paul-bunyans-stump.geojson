@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.149843,
+      48.666238
+    ]
+  },
+  "properties": {
+    "name": "Paul Bunyans Stump",
+    "latitude": 48.666238,
+    "longitude": -121.149843,
+    "feet": 7480,
+    "meters": 2280,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
