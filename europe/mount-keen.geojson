@@ -11,6 +11,8 @@
     "name": "Mount Keen",
     "feet": 3081,
     "meters": 939,
-    "continent": "Europe"
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
