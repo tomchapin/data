@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.55,
+      61.0
+    ]
+  },
+  "properties": {
+    "name": "Indianhouse Mountain",
+    "latitude": 61.0,
+    "longitude": -149.55,
+    "feet": 4300,
+    "meters": 1311,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
