@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.687867,
+      48.876094
+    ]
+  },
+  "properties": {
+    "name": "Mont Collins",
+    "latitude": 48.876094,
+    "longitude": -66.687867,
+    "feet": 3399,
+    "meters": 1036,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
