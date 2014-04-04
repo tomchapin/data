@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.699001,
+      49.185013
+    ]
+  },
+  "properties": {
+    "name": "Jalovska kopa",
+    "latitude": 49.185013,
+    "longitude": 19.699001,
+    "feet": 6355,
+    "meters": 1937,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
