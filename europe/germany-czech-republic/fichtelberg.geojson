@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.954167,
+      50.429444
+    ]
+  },
+  "properties": {
+    "name": "Fichtelberg",
+    "latitude": 50.429444,
+    "longitude": 12.954167,
+    "feet": 3983,
+    "meters": 1214,
+    "continent": "Europe",
+    "country": "Germany/Czech Republic"
+  }
+}
