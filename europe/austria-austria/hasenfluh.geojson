@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.148583,
+      47.881192
+    ]
+  },
+  "properties": {
+    "name": "Hasenfluh",
+    "latitude": 47.881192,
+    "longitude": 10.148583,
+    "feet": 8314,
+    "meters": 2534,
+    "continent": "Europe",
+    "country": "Austria/Austria"
+  }
+}
