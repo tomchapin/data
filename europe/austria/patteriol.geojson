@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Patteriol",
+    "feet": 10026,
+    "meters": 3056,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
