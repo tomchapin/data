@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lion's Head",
+    "feet": 2198,
+    "meters": 670,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
