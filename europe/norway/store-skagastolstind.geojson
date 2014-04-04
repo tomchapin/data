@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.86667,
+      61.4167
+    ]
+  },
+  "properties": {
+    "name": "Store Skagastolstind",
+    "latitude": 61.4167,
+    "longitude": 7.86667,
+    "feet": 7884,
+    "meters": 2403,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
