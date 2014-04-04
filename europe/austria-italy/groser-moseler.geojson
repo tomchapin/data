@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Groser Moseler",
+    "feet": 11417,
+    "meters": 3480,
+    "continent": "Europe",
+    "country": "Austria/Italy"
+  }
+}
