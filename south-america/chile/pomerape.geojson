@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pomerape",
+    "feet": 20554,
+    "meters": 6265,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
