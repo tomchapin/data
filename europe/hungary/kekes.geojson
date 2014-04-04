@@ -14,6 +14,8 @@
     "feet": 3330,
     "meters": 1015,
     "continent": "Europe",
-    "country": "Hungary"
+    "country": "Hungary",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
