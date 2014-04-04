@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Black Hill",
+    "feet": 1909,
+    "meters": 582,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
