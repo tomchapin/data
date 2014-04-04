@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tawetse",
+    "feet": 21463,
+    "meters": 6542,
+    "continent": "Asia",
+    "country": "Nepal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
