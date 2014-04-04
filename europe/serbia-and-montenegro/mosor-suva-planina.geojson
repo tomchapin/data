@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.0523,
+      43.1351
+    ]
+  },
+  "properties": {
+    "name": "Mosor - Suva planina",
+    "latitude": 43.1351,
+    "longitude": 22.0523,
+    "feet": 3228,
+    "meters": 984,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
