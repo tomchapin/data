@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.15781,
+      38.84502
+    ]
+  },
+  "properties": {
+    "name": "Pyramid Peak",
+    "latitude": 38.84502,
+    "longitude": -120.15781,
+    "feet": 9983,
+    "meters": 3043,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
