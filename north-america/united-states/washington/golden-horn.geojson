@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.732052,
+      48.603469
+    ]
+  },
+  "properties": {
+    "name": "Golden Horn",
+    "latitude": 48.603469,
+    "longitude": -120.732052,
+    "feet": 8366,
+    "meters": 2550,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
