@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.880556,
+      46.763611
+    ]
+  },
+  "properties": {
+    "name": "Similaun",
+    "latitude": 46.763611,
+    "longitude": 10.880556,
+    "feet": 11831,
+    "meters": 3606,
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
