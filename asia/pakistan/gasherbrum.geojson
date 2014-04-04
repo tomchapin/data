@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.69826,
+      35.724845
+    ]
+  },
+  "properties": {
+    "name": "Gasherbrum",
+    "latitude": 35.724845,
+    "longitude": 76.69826,
+    "feet": 26470,
+    "meters": 8068,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
