@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.120533,
+      41.422327
+    ]
+  },
+  "properties": {
+    "name": "Tibidabo",
+    "latitude": 41.422327,
+    "longitude": 2.120533,
+    "feet": 2234,
+    "meters": 681,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
