@@ -13,6 +13,8 @@
     "meters": 303,
     "continent": "North America",
     "country": "United States",
-    "state": "Maine"
+    "state": "Maine",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
