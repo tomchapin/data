@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.875867,
+      43.157741
+    ]
+  },
+  "properties": {
+    "name": "Torre del Friero",
+    "latitude": 43.157741,
+    "longitude": -4.875867,
+    "feet": 8031,
+    "meters": 2448,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
