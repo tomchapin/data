@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.7416,
+      49.1736
+    ]
+  },
+  "properties": {
+    "name": "Baranec",
+    "latitude": 49.1736,
+    "longitude": 19.7416,
+    "feet": 7165,
+    "meters": 2184,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
