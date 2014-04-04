@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.312,
+      38.9861
+    ]
+  },
+  "properties": {
+    "name": "Wheeler Peak",
+    "latitude": 38.9861,
+    "longitude": -114.312,
+    "feet": 13063,
+    "meters": 3982,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nevada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
