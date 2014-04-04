@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Baltistan Peak",
+    "feet": 23294,
+    "meters": 7100,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
