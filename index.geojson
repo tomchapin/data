@@ -1,0 +1,5523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5,
+          19.8333
+        ]
+      },
+      "properties": {
+        "name": "Emi Koussi",
+        "latitude": 19.8333,
+        "longitude": 18.5,
+        "feet": 11204,
+        "meters": 3415,
+        "continent": "Africa",
+        "country": "Chad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9,
+          0.433333
+        ]
+      },
+      "properties": {
+        "name": "Mount Emin",
+        "latitude": 0.433333,
+        "longitude": 29.9,
+        "feet": 15740,
+        "meters": 4798,
+        "continent": "Africa",
+        "country": "Congo, Democratic Republic of the"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.021079,
+          31.574404
+        ]
+      },
+      "properties": {
+        "name": "Anghomar",
+        "latitude": 31.574404,
+        "longitude": -7.021079,
+        "feet": 11844,
+        "meters": 3610,
+        "continent": "Africa",
+        "country": "Morocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8254,
+          31.1753
+        ]
+      },
+      "properties": {
+        "name": "Angour",
+        "latitude": 31.1753,
+        "longitude": -7.8254,
+        "feet": 11864,
+        "meters": 3616,
+        "continent": "Africa",
+        "country": "Morocco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0667,
+          -1.28333
+        ]
+      },
+      "properties": {
+        "name": "Gahinga",
+        "latitude": -1.28333,
+        "longitude": 30.0667,
+        "feet": 11565,
+        "meters": 3525,
+        "continent": "Africa",
+        "country": "Rwanda/Uganda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.15,
+          -66.667
+        ]
+      },
+      "properties": {
+        "name": "Mount Elkins",
+        "latitude": -66.667,
+        "longitude": 54.15,
+        "feet": 7546,
+        "meters": 2300,
+        "continent": "Antarctica",
+        "country": "Antarctica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.15,
+          -77.5333
+        ]
+      },
+      "properties": {
+        "name": "Mount Erebus",
+        "latitude": -77.5333,
+        "longitude": 167.15,
+        "feet": 12447,
+        "meters": 3794,
+        "continent": "Antarctica",
+        "country": "Antarctica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.446045,
+          -64.609749
+        ]
+      },
+      "properties": {
+        "name": "Mount Francais",
+        "latitude": -64.609749,
+        "longitude": -63.446045,
+        "feet": 9055,
+        "meters": 2760,
+        "continent": "Antarctica",
+        "country": "Antarctica/Antarctica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.27,
+          28.03
+        ]
+      },
+      "properties": {
+        "name": "Gangkar Punsum",
+        "latitude": 28.03,
+        "longitude": 90.27,
+        "feet": 24836,
+        "meters": 7570,
+        "continent": "Asia",
+        "country": "Bhutan/China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.4625,
+          34.798333
+        ]
+      },
+      "properties": {
+        "name": "Amne Machin",
+        "latitude": 34.798333,
+        "longitude": 99.4625,
+        "feet": 20610,
+        "meters": 6282,
+        "continent": "Asia",
+        "country": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35,
+          29.5333
+        ]
+      },
+      "properties": {
+        "name": "Emei Shan",
+        "latitude": 29.5333,
+        "longitude": 103.35,
+        "feet": 10167,
+        "meters": 3099,
+        "continent": "Asia",
+        "country": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3333,
+          27.9667
+        ]
+      },
+      "properties": {
+        "name": "Gauri Sankar",
+        "latitude": 27.9667,
+        "longitude": 86.3333,
+        "feet": 23405,
+        "meters": 7134,
+        "continent": "Asia",
+        "country": "China/Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.651983,
+          30.28529
+        ]
+      },
+      "properties": {
+        "name": "Adi Kailash",
+        "latitude": 30.28529,
+        "longitude": 80.651983,
+        "feet": 20312,
+        "meters": 6191,
+        "continent": "Asia",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0666,
+          10.1666
+        ]
+      },
+      "properties": {
+        "name": "Anamudi",
+        "latitude": 10.1666,
+        "longitude": 77.0666,
+        "feet": 8842,
+        "meters": 2695,
+        "continent": "Asia",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.891251,
+          33.110523
+        ]
+      },
+      "properties": {
+        "name": "Forgotten Peak",
+        "latitude": 33.110523,
+        "longitude": 76.891251,
+        "feet": 19321,
+        "meters": 5889,
+        "continent": "Asia",
+        "country": "India/India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.337015,
+          34.020048
+        ]
+      },
+      "properties": {
+        "name": "Affarwat",
+        "latitude": 34.020048,
+        "longitude": 74.337015,
+        "feet": 13593,
+        "meters": 4143,
+        "continent": "Asia",
+        "country": "India/Pakistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5757,
+          36.2239
+        ]
+      },
+      "properties": {
+        "name": "Alam Kuh",
+        "latitude": 36.2239,
+        "longitude": 50.5757,
+        "feet": 15912,
+        "meters": 4850,
+        "continent": "Asia",
+        "country": "Iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0,
+          35.3167
+        ]
+      },
+      "properties": {
+        "name": "Awiar",
+        "latitude": 35.3167,
+        "longitude": 47.0,
+        "feet": 7287,
+        "meters": 2221,
+        "continent": "Asia",
+        "country": "Iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1633,
+          36.227
+        ]
+      },
+      "properties": {
+        "name": "Acho",
+        "latitude": 36.227,
+        "longitude": 53.1633,
+        "feet": 5525,
+        "meters": 1684,
+        "continent": "Asia",
+        "country": "Iran/Iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2065,
+          34.2708
+        ]
+      },
+      "properties": {
+        "name": "alvand",
+        "latitude": 34.2708,
+        "longitude": 54.2065,
+        "feet": 11319,
+        "meters": 3450,
+        "continent": "Asia",
+        "country": "Iran/Iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.167496,
+          35.465284
+        ]
+      },
+      "properties": {
+        "name": "Akaishidake",
+        "latitude": 35.465284,
+        "longitude": 138.167496,
+        "feet": 10236,
+        "meters": 3120,
+        "continent": "Asia",
+        "country": "Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.182173,
+          35.49974
+        ]
+      },
+      "properties": {
+        "name": "Arakawadake (Warusawadake)",
+        "latitude": 35.49974,
+        "longitude": 138.182173,
+        "feet": 10305,
+        "meters": 3141,
+        "continent": "Asia",
+        "country": "Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.517,
+          36.4057
+        ]
+      },
+      "properties": {
+        "name": "Asama Yama",
+        "latitude": 36.4057,
+        "longitude": 138.517,
+        "feet": 8425,
+        "meters": 2568,
+        "continent": "Asia",
+        "country": "Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.733,
+          35.3667
+        ]
+      },
+      "properties": {
+        "name": "Fuji-san",
+        "latitude": 35.3667,
+        "longitude": 138.733,
+        "feet": 12389,
+        "meters": 3776,
+        "continent": "Asia",
+        "country": "Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1039,
+          32.8844
+        ]
+      },
+      "properties": {
+        "name": "Mount Aso",
+        "latitude": 32.8844,
+        "longitude": 131.1039,
+        "feet": 5223,
+        "meters": 1592,
+        "continent": "Asia",
+        "country": "Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.861111,
+          27.861111
+        ]
+      },
+      "properties": {
+        "name": "Ama Dablam",
+        "latitude": 27.861111,
+        "longitude": 86.861111,
+        "feet": 22494,
+        "meters": 6856,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.121799,
+          28.534766
+        ]
+      },
+      "properties": {
+        "name": "Annapurna 2",
+        "latitude": 28.534766,
+        "longitude": 84.121799,
+        "feet": 26040,
+        "meters": 7937,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.805857,
+          28.518629
+        ]
+      },
+      "properties": {
+        "name": "Annapurna South",
+        "latitude": 28.518629,
+        "longitude": 83.805857,
+        "feet": 23684,
+        "meters": 7219,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.989921,
+          28.584823
+        ]
+      },
+      "properties": {
+        "name": "Annapurna",
+        "latitude": 28.584823,
+        "longitude": 83.989921,
+        "feet": 26545,
+        "meters": 8091,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9333,
+          30.0
+        ]
+      },
+      "properties": {
+        "name": "Api",
+        "latitude": 30.0,
+        "longitude": 80.9333,
+        "feet": 23399,
+        "meters": 7132,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5325,
+          28.1671
+        ]
+      },
+      "properties": {
+        "name": "Baden-Powell Peak",
+        "latitude": 28.1671,
+        "longitude": 85.5325,
+        "feet": 18760,
+        "meters": 5718,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.963475,
+          28.605339
+        ]
+      },
+      "properties": {
+        "name": "Gangapurna",
+        "latitude": 28.605339,
+        "longitude": 83.963475,
+        "feet": 24754,
+        "meters": 7545,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.126963,
+          28.391551
+        ]
+      },
+      "properties": {
+        "name": "Ganesh Himal",
+        "latitude": 28.391551,
+        "longitude": 85.126963,
+        "feet": 24373,
+        "meters": 7429,
+        "continent": "Asia",
+        "country": "Nepal/China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9253,
+          27.9881
+        ]
+      },
+      "properties": {
+        "name": "Mount Everest",
+        "latitude": 27.9881,
+        "longitude": 86.9253,
+        "feet": 29035,
+        "meters": 8850,
+        "continent": "Asia",
+        "country": "Nepal/China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.653028,
+          35.757831
+        ]
+      },
+      "properties": {
+        "name": "Gasherbrum II",
+        "latitude": 35.757831,
+        "longitude": 76.653028,
+        "feet": 26360,
+        "meters": 8035,
+        "continent": "Asia",
+        "country": "Pakistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.69826,
+          35.724845
+        ]
+      },
+      "properties": {
+        "name": "Gasherbrum",
+        "latitude": 35.724845,
+        "longitude": 76.69826,
+        "feet": 26470,
+        "meters": 8068,
+        "continent": "Asia",
+        "country": "Pakistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.615906,
+          35.762359
+        ]
+      },
+      "properties": {
+        "name": "Gasherbrum IV",
+        "latitude": 35.762359,
+        "longitude": 76.615906,
+        "feet": 26001,
+        "meters": 7925,
+        "continent": "Asia",
+        "country": "Pakistan/China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333,
+          -8.5
+        ]
+      },
+      "properties": {
+        "name": "Mount Albert Edward",
+        "latitude": -8.5,
+        "longitude": 147.333,
+        "feet": 13090,
+        "meters": 3990,
+        "continent": "Asia",
+        "country": "Papua New Guinea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.209567,
+          10.778463
+        ]
+      },
+      "properties": {
+        "name": "Gawahon Peak",
+        "latitude": 10.778463,
+        "longitude": 123.209567,
+        "feet": 4298,
+        "meters": 1310,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.370665,
+          11.103097
+        ]
+      },
+      "properties": {
+        "name": "Mount Agdalusan",
+        "latitude": 11.103097,
+        "longitude": 122.370665,
+        "feet": 2526,
+        "meters": 770,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.276,
+          7.00833
+        ]
+      },
+      "properties": {
+        "name": "Mount Apo",
+        "latitude": 7.00833,
+        "longitude": 125.276,
+        "feet": 10331,
+        "meters": 3148,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.451,
+          13.4511
+        ]
+      },
+      "properties": {
+        "name": "Mt. Asog",
+        "latitude": 13.4511,
+        "longitude": 123.451,
+        "feet": 3750,
+        "meters": 1143,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6667,
+          50.0667
+        ]
+      },
+      "properties": {
+        "name": "Aktru",
+        "latitude": 50.0667,
+        "longitude": 87.6667,
+        "feet": 13271,
+        "meters": 4045,
+        "continent": "Asia",
+        "country": "Russia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4997,
+          6.81139
+        ]
+      },
+      "properties": {
+        "name": "Adam's Peak",
+        "latitude": 6.81139,
+        "longitude": 80.4997,
+        "feet": 7359,
+        "meters": 2243,
+        "continent": "Asia",
+        "country": "Sri Lanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.199556,
+          39.18204
+        ]
+      },
+      "properties": {
+        "name": "Energia",
+        "latitude": 39.18204,
+        "longitude": 68.199556,
+        "feet": 16798,
+        "meters": 5120,
+        "continent": "Asia",
+        "country": "Tajikistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4667,
+          38.5333
+        ]
+      },
+      "properties": {
+        "name": "Erciyes",
+        "latitude": 38.5333,
+        "longitude": 35.4667,
+        "feet": 12851,
+        "meters": 3917,
+        "continent": "Asia",
+        "country": "Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3,
+          39.7
+        ]
+      },
+      "properties": {
+        "name": "Mount Ararat",
+        "latitude": 39.7,
+        "longitude": 44.3,
+        "feet": 16945,
+        "meters": 5165,
+        "continent": "Asia",
+        "country": "Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          39.0
+        ]
+      },
+      "properties": {
+        "name": "Altiparmak",
+        "latitude": 39.0,
+        "longitude": 38.0,
+        "feet": 11827,
+        "meters": 3605,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.53758,
+          36.55062
+        ]
+      },
+      "properties": {
+        "name": "Atkuyruksallamaz",
+        "latitude": 36.55062,
+        "longitude": 29.53758,
+        "feet": 9446,
+        "meters": 2879,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15,
+          40.5667
+        ]
+      },
+      "properties": {
+        "name": "Çakırgöl",
+        "latitude": 40.5667,
+        "longitude": 29.15,
+        "feet": 9954,
+        "meters": 3034,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.12078,
+          36.86618
+        ]
+      },
+      "properties": {
+        "name": "Çal",
+        "latitude": 36.86618,
+        "longitude": 29.12078,
+        "feet": 7159,
+        "meters": 2182,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.62571,
+          36.72783
+        ]
+      },
+      "properties": {
+        "name": "Eren",
+        "latitude": 36.72783,
+        "longitude": 29.62571,
+        "feet": 8816,
+        "meters": 2687,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.5,
+          -17.7
+        ]
+      },
+      "properties": {
+        "name": "Aorai",
+        "latitude": -17.7,
+        "longitude": -149.5,
+        "feet": 6778,
+        "meters": 2066,
+        "continent": "Australia/Oceania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.828528,
+          -42.269116
+        ]
+      },
+      "properties": {
+        "name": "Frenchman's Cap",
+        "latitude": -42.269116,
+        "longitude": 145.828528,
+        "feet": 4734,
+        "meters": 1443,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.835,
+          -24.3103
+        ]
+      },
+      "properties": {
+        "name": "Mount Augustus",
+        "latitude": -24.3103,
+        "longitude": 116.835,
+        "feet": 3627,
+        "meters": 1106,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.4333,
+          -64.6833
+        ]
+      },
+      "properties": {
+        "name": "Mount Emu",
+        "latitude": -64.6833,
+        "longitude": -35.4333,
+        "feet": 5479,
+        "meters": 1670,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.435591,
+          -28.157326
+        ]
+      },
+      "properties": {
+        "name": "Mt Asplenium",
+        "latitude": -28.157326,
+        "longitude": 152.435591,
+        "feet": 4245,
+        "meters": 1294,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51583,
+          -42.654632
+        ]
+      },
+      "properties": {
+        "name": "Mt Field West",
+        "latitude": -42.654632,
+        "longitude": 146.51583,
+        "feet": 4705,
+        "meters": 1434,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.167,
+          -43.6
+        ]
+      },
+      "properties": {
+        "name": "Aoraki/Mount Cook",
+        "latitude": -43.6,
+        "longitude": 170.167,
+        "feet": 12316,
+        "meters": 3754,
+        "continent": "Australia/Oceania",
+        "country": "New Zealand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.733,
+          -44.3833
+        ]
+      },
+      "properties": {
+        "name": "Mount Aspiring",
+        "latitude": -44.3833,
+        "longitude": 168.733,
+        "feet": 9931,
+        "meters": 3027,
+        "continent": "Australia/Oceania",
+        "country": "New Zealand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.65,
+          -41.9833
+        ]
+      },
+      "properties": {
+        "name": "Mt Tapuaenuku",
+        "latitude": -41.9833,
+        "longitude": 173.65,
+        "feet": 9465,
+        "meters": 2885,
+        "continent": "Australia/Oceania",
+        "country": "New Zealand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.436,
+          7.03167
+        ]
+      },
+      "properties": {
+        "name": "Aure Scarp",
+        "latitude": 7.03167,
+        "longitude": 145.436,
+        "feet": 5105,
+        "meters": 1556,
+        "continent": "Australia/Oceania",
+        "country": "Papua New Guinea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0,
+          45.8333
+        ]
+      },
+      "properties": {
+        "name": "Aiguille De Rochefort",
+        "latitude": 45.8333,
+        "longitude": 7.0,
+        "feet": 13126,
+        "meters": 4001,
+        "continent": "Europe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.335587,
+          47.55753
+        ]
+      },
+      "properties": {
+        "name": "Ackerlspitze",
+        "latitude": 47.55753,
+        "longitude": 12.335587,
+        "feet": 7641,
+        "meters": 2329,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5167,
+          47.5333
+        ]
+      },
+      "properties": {
+        "name": "Admonter Kalbling",
+        "latitude": 47.5333,
+        "longitude": 14.5167,
+        "feet": 7205,
+        "meters": 2196,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30513,
+          47.748904
+        ]
+      },
+      "properties": {
+        "name": "Faisten Schafberg",
+        "latitude": 47.748904,
+        "longitude": 13.30513,
+        "feet": 5114,
+        "meters": 1559,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7,
+          47.0667
+        ]
+      },
+      "properties": {
+        "name": "Fanatkogl",
+        "latitude": 47.0667,
+        "longitude": 12.7,
+        "feet": 9531,
+        "meters": 2905,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276634,
+          47.790209
+        ]
+      },
+      "properties": {
+        "name": "Filbling",
+        "latitude": 47.790209,
+        "longitude": 13.276634,
+        "feet": 4284,
+        "meters": 1306,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.317,
+          47.5688
+        ]
+      },
+      "properties": {
+        "name": "Fleischbank",
+        "latitude": 47.5688,
+        "longitude": 12.317,
+        "feet": 7175,
+        "meters": 2187,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.675179,
+          47.110911
+        ]
+      },
+      "properties": {
+        "name": "Fundelkopf",
+        "latitude": 47.110911,
+        "longitude": 9.675179,
+        "feet": 7877,
+        "meters": 2401,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.478165,
+          47.623289
+        ]
+      },
+      "properties": {
+        "name": "Gamsfeld",
+        "latitude": 47.623289,
+        "longitude": 13.478165,
+        "feet": 6649,
+        "meters": 2027,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2,
+          46.8667
+        ]
+      },
+      "properties": {
+        "name": "Augstenberg",
+        "latitude": 46.8667,
+        "longitude": 10.2,
+        "feet": 10590,
+        "meters": 3228,
+        "continent": "Europe",
+        "country": "Austria/Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.690459,
+          45.770956
+        ]
+      },
+      "properties": {
+        "name": "Aguille de Roselette",
+        "latitude": 45.770956,
+        "longitude": 6.690459,
+        "feet": 7822,
+        "meters": 2384,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.818186,
+          45.835799
+        ]
+      },
+      "properties": {
+        "name": "Aiguille de Bionassay",
+        "latitude": 45.835799,
+        "longitude": 6.818186,
+        "feet": 13294,
+        "meters": 4052,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.853219,
+          44.528313
+        ]
+      },
+      "properties": {
+        "name": "Aiguille de Chambeyron",
+        "latitude": 44.528313,
+        "longitude": 6.853219,
+        "feet": 11194,
+        "meters": 3412,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9994,
+          45.5048
+        ]
+      },
+      "properties": {
+        "name": "aiguille de la grande sassière",
+        "latitude": 45.5048,
+        "longitude": 6.9994,
+        "feet": 12293,
+        "meters": 3747,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.843109,
+          45.842434
+        ]
+      },
+      "properties": {
+        "name": "Aiguille du Goûter",
+        "latitude": 45.842434,
+        "longitude": 6.843109,
+        "feet": 12674,
+        "meters": 3863,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43333,
+          45.9833
+        ]
+      },
+      "properties": {
+        "name": "Aiguille Verte",
+        "latitude": 45.9833,
+        "longitude": 6.43333,
+        "feet": 13524,
+        "meters": 4122,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55,
+          44.8333
+        ]
+      },
+      "properties": {
+        "name": "Mont Aiguille",
+        "latitude": 44.8333,
+        "longitude": 5.55,
+        "feet": 6842,
+        "meters": 2085,
+        "continent": "Europe",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.2333,
+          42.8667
+        ]
+      },
+      "properties": {
+        "name": "Ailama",
+        "latitude": 42.8667,
+        "longitude": 43.2333,
+        "feet": 14918,
+        "meters": 4547,
+        "continent": "Europe",
+        "country": "Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4,
+          42.8833
+        ]
+      },
+      "properties": {
+        "name": "Babis Mta",
+        "latitude": 42.8833,
+        "longitude": 43.4,
+        "feet": 14613,
+        "meters": 4454,
+        "continent": "Europe",
+        "country": "Georgia/Russia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8333,
+          47.55
+        ]
+      },
+      "properties": {
+        "name": "Ammergauer Hochplatte",
+        "latitude": 47.55,
+        "longitude": 10.8333,
+        "feet": 6831,
+        "meters": 2082,
+        "continent": "Europe",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.648056,
+          50.455556
+        ]
+      },
+      "properties": {
+        "name": "Auersberg",
+        "latitude": 50.455556,
+        "longitude": 12.648056,
+        "feet": 3343,
+        "meters": 1019,
+        "continent": "Europe",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.003411,
+          47.874648
+        ]
+      },
+      "properties": {
+        "name": "Feldberg",
+        "latitude": 47.874648,
+        "longitude": 8.003411,
+        "feet": 4898,
+        "meters": 1493,
+        "continent": "Europe",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.999573,
+          47.53876
+        ]
+      },
+      "properties": {
+        "name": "Feuerpalfen",
+        "latitude": 47.53876,
+        "longitude": 12.999573,
+        "feet": 5710,
+        "meters": 1740,
+        "continent": "Europe",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.508793,
+          47.609404
+        ]
+      },
+      "properties": {
+        "name": "Fellhorn",
+        "latitude": 47.609404,
+        "longitude": 12.508793,
+        "feet": 5789,
+        "meters": 1764,
+        "continent": "Europe",
+        "country": "Germany/Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.954167,
+          50.429444
+        ]
+      },
+      "properties": {
+        "name": "Fichtelberg",
+        "latitude": 50.429444,
+        "longitude": 12.954167,
+        "feet": 3983,
+        "meters": 1214,
+        "continent": "Europe",
+        "country": "Germany/Czech Republic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.84,
+          37.91
+        ]
+      },
+      "properties": {
+        "name": "Erymanthos",
+        "latitude": 37.91,
+        "longitude": 21.84,
+        "feet": 7297,
+        "meters": 2224,
+        "continent": "Europe",
+        "country": "Greece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0833,
+          41.3167
+        ]
+      },
+      "properties": {
+        "name": "Falakro",
+        "latitude": 41.3167,
+        "longitude": 24.0833,
+        "feet": 7323,
+        "meters": 2232,
+        "continent": "Europe",
+        "country": "Greece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.75,
+          65.05
+        ]
+      },
+      "properties": {
+        "name": "Askja",
+        "latitude": 65.05,
+        "longitude": -16.75,
+        "feet": 4974,
+        "meters": 1516,
+        "continent": "Europe",
+        "country": "Iceland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0667,
+          64.0333
+        ]
+      },
+      "properties": {
+        "name": "Esjufjöll",
+        "latitude": 64.0333,
+        "longitude": -16.0667,
+        "feet": 5029,
+        "meters": 1533,
+        "continent": "Europe",
+        "country": "Iceland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.6,
+          63.633
+        ]
+      },
+      "properties": {
+        "name": "Eyjafjallajökull",
+        "latitude": 63.633,
+        "longitude": -19.6,
+        "feet": 1666,
+        "meters": 508,
+        "continent": "Europe",
+        "country": "Iceland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.112668,
+          55.033889
+        ]
+      },
+      "properties": {
+        "name": "Mount Errigal",
+        "latitude": 55.033889,
+        "longitude": -8.112668,
+        "feet": 751,
+        "meters": 229,
+        "continent": "Europe",
+        "country": "Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.435506,
+          46.015069
+        ]
+      },
+      "properties": {
+        "name": "Ago di Tredenus",
+        "latitude": 46.015069,
+        "longitude": 10.435506,
+        "feet": 9022,
+        "meters": 2750,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706682,
+          40.089199
+        ]
+      },
+      "properties": {
+        "name": "Aguglia di Goloritzè",
+        "latitude": 40.089199,
+        "longitude": 9.706682,
+        "feet": 541,
+        "meters": 165,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.445922,
+          46.580309
+        ]
+      },
+      "properties": {
+        "name": "Aiarnola",
+        "latitude": 46.580309,
+        "longitude": 12.445922,
+        "feet": 8055,
+        "meters": 2456,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.080162,
+          46.400735
+        ]
+      },
+      "properties": {
+        "name": "Amariana",
+        "latitude": 46.400735,
+        "longitude": 13.080162,
+        "feet": 6250,
+        "meters": 1905,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3,
+          44.1667
+        ]
+      },
+      "properties": {
+        "name": "Argentera",
+        "latitude": 44.1667,
+        "longitude": 7.3,
+        "feet": 10817,
+        "meters": 3297,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564168,
+          45.689439
+        ]
+      },
+      "properties": {
+        "name": "Avic",
+        "latitude": 45.689439,
+        "longitude": 7.564168,
+        "feet": 9862,
+        "meters": 3006,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          37.75
+        ]
+      },
+      "properties": {
+        "name": "Monte Etna",
+        "latitude": 37.75,
+        "longitude": 15.0,
+        "feet": 10902,
+        "meters": 3323,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.95,
+          56.8666
+        ]
+      },
+      "properties": {
+        "name": "Gaizins",
+        "latitude": 56.8666,
+        "longitude": 25.95,
+        "feet": 1020,
+        "meters": 311,
+        "continent": "Europe",
+        "country": "Latvia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.564722,
+          47.170278
+        ]
+      },
+      "properties": {
+        "name": "Garsellakopf",
+        "latitude": 47.170278,
+        "longitude": 9.564722,
+        "feet": 6906,
+        "meters": 2105,
+        "continent": "Europe",
+        "country": "Liechtenstein/Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.634444,
+          54.529444
+        ]
+      },
+      "properties": {
+        "name": "Aukstojas",
+        "latitude": 54.529444,
+        "longitude": 25.634444,
+        "feet": 961,
+        "meters": 293,
+        "continent": "Europe",
+        "country": "Lithuania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9167,
+          61.5185
+        ]
+      },
+      "properties": {
+        "name": "Fannaraki",
+        "latitude": 61.5185,
+        "longitude": 7.9167,
+        "feet": 6785,
+        "meters": 2068,
+        "continent": "Europe",
+        "country": "Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782249,
+          60.608806
+        ]
+      },
+      "properties": {
+        "name": "Folarskardsnuten",
+        "latitude": 60.608806,
+        "longitude": 7.782249,
+        "feet": 6539,
+        "meters": 1933,
+        "continent": "Europe",
+        "country": "Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.317,
+          61.633
+        ]
+      },
+      "properties": {
+        "name": "Galdhøpiggen",
+        "latitude": 61.633,
+        "longitude": 8.317,
+        "feet": 8100,
+        "meters": 2469,
+        "continent": "Europe",
+        "country": "Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.529444,
+          49.573333
+        ]
+      },
+      "properties": {
+        "name": "Babia Góra",
+        "latitude": 49.573333,
+        "longitude": 19.529444,
+        "feet": 5659,
+        "meters": 1725,
+        "continent": "Europe",
+        "country": "Poland/Slovakia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3156,
+          43.2019
+        ]
+      },
+      "properties": {
+        "name": "Babin zub",
+        "latitude": 43.2019,
+        "longitude": 22.3156,
+        "feet": 5764,
+        "meters": 1757,
+        "continent": "Europe",
+        "country": "Serbia and Montenegro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.98,
+          42.62
+        ]
+      },
+      "properties": {
+        "name": "Agulles d'Amitges",
+        "latitude": 42.62,
+        "longitude": 0.98,
+        "feet": 8743,
+        "meters": 2665,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.300833,
+          37.067778
+        ]
+      },
+      "properties": {
+        "name": "Alcazaba",
+        "latitude": 37.067778,
+        "longitude": -3.300833,
+        "feet": 11057,
+        "meters": 3371,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.329399,
+          40.258241
+        ]
+      },
+      "properties": {
+        "name": "Almanzor",
+        "latitude": 40.258241,
+        "longitude": -5.329399,
+        "feet": 8504,
+        "meters": 2592,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.912407,
+          37.087501
+        ]
+      },
+      "properties": {
+        "name": "Almirez",
+        "latitude": 37.087501,
+        "longitude": -2.912407,
+        "feet": 8261,
+        "meters": 2518,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.404,
+          41.236
+        ]
+      },
+      "properties": {
+        "name": "Alto del Parrejon",
+        "latitude": 41.236,
+        "longitude": 3.404,
+        "feet": 6604,
+        "meters": 2013,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.596,
+          43.008
+        ]
+      },
+      "properties": {
+        "name": "Anboto",
+        "latitude": 43.008,
+        "longitude": -2.596,
+        "feet": 4367,
+        "meters": 1331,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655403,
+          42.631433
+        ]
+      },
+      "properties": {
+        "name": "Aneto",
+        "latitude": 42.631433,
+        "longitude": 0.655403,
+        "feet": 11168,
+        "meters": 3404,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.567169,
+          42.764784
+        ]
+      },
+      "properties": {
+        "name": "Aspe",
+        "latitude": 42.764784,
+        "longitude": -0.567169,
+        "feet": 8678,
+        "meters": 2645,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.015506,
+          42.568854
+        ]
+      },
+      "properties": {
+        "name": "Els Encantats",
+        "latitude": 42.568854,
+        "longitude": 1.015506,
+        "feet": 9012,
+        "meters": 2747,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.797592,
+          42.945366
+        ]
+      },
+      "properties": {
+        "name": "Espiguete",
+        "latitude": 42.945366,
+        "longitude": -4.797592,
+        "feet": 8038,
+        "meters": 2450,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.425463,
+          42.631622
+        ]
+      },
+      "properties": {
+        "name": "Forqueta de Eriste",
+        "latitude": 42.631622,
+        "longitude": 0.425463,
+        "feet": 9875,
+        "meters": 3010,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.067322,
+          43.175428
+        ]
+      },
+      "properties": {
+        "name": "Frailon",
+        "latitude": 43.175428,
+        "longitude": -5.067322,
+        "feet": 4209,
+        "meters": 1283,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4862,
+          39.6332
+        ]
+      },
+      "properties": {
+        "name": "Galatzó",
+        "latitude": 39.6332,
+        "longitude": 2.4862,
+        "feet": 3366,
+        "meters": 1026,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.006,
+          43.195
+        ]
+      },
+      "properties": {
+        "name": "Gallarraga",
+        "latitude": 43.195,
+        "longitude": -3.006,
+        "feet": 2959,
+        "meters": 902,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2725,
+          42.7766
+        ]
+      },
+      "properties": {
+        "name": "Garmo Negro",
+        "latitude": 42.7766,
+        "longitude": -0.2725,
+        "feet": 10010,
+        "meters": 3051,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.975799,
+          45.934039
+        ]
+      },
+      "properties": {
+        "name": "Aiguille du Jardin",
+        "latitude": 45.934039,
+        "longitude": 6.975799,
+        "feet": 13238,
+        "meters": 4035,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.98333,
+          46.4667
+        ]
+      },
+      "properties": {
+        "name": "Aletschhorn",
+        "latitude": 46.4667,
+        "longitude": 7.98333,
+        "feet": 13763,
+        "meters": 4195,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.863917,
+          46.062972
+        ]
+      },
+      "properties": {
+        "name": "Alphubel",
+        "latitude": 46.062972,
+        "longitude": 7.863917,
+        "feet": 13799,
+        "meters": 4206,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.371796,
+          47.239588
+        ]
+      },
+      "properties": {
+        "name": "Altmann",
+        "latitude": 47.239588,
+        "longitude": 9.371796,
+        "feet": 7992,
+        "meters": 2436,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.677658,
+          46.779278
+        ]
+      },
+      "properties": {
+        "name": "Erzhorn",
+        "latitude": 46.779278,
+        "longitude": 9.677658,
+        "feet": 9593,
+        "meters": 2924,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.502761,
+          45.964307
+        ]
+      },
+      "properties": {
+        "name": "Eveque",
+        "latitude": 45.964307,
+        "longitude": 7.502761,
+        "feet": 12192,
+        "meters": 3716,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.999506,
+          46.674795
+        ]
+      },
+      "properties": {
+        "name": "Faulhorn",
+        "latitude": 46.674795,
+        "longitude": 7.999506,
+        "feet": 8796,
+        "meters": 2681,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.13333,
+          46.5333
+        ]
+      },
+      "properties": {
+        "name": "Finsteraarhorn",
+        "latitude": 46.5333,
+        "longitude": 8.13333,
+        "feet": 14019,
+        "meters": 4273,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95,
+          46.8
+        ]
+      },
+      "properties": {
+        "name": "Flüela Schwarzhorn",
+        "latitude": 46.8,
+        "longitude": 9.95,
+        "feet": 10325,
+        "meters": 3147,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96456,
+          46.7608
+        ]
+      },
+      "properties": {
+        "name": "Flüela-Wisshorn",
+        "latitude": 46.7608,
+        "longitude": 9.96456,
+        "feet": 10121,
+        "meters": 3085,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          47.0333
+        ]
+      },
+      "properties": {
+        "name": "Galenstock",
+        "latitude": 47.0333,
+        "longitude": 8.7,
+        "feet": 11755,
+        "meters": 3583,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597307,
+          46.120782
+        ]
+      },
+      "properties": {
+        "name": "Garde de Bordon",
+        "latitude": 46.120782,
+        "longitude": 7.597307,
+        "feet": 10860,
+        "meters": 3310,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56475,
+          47.170287
+        ]
+      },
+      "properties": {
+        "name": "Garsellikopf",
+        "latitude": 47.170287,
+        "longitude": 9.56475,
+        "feet": 6906,
+        "meters": 2105,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3463,
+          57.7196
+        ]
+      },
+      "properties": {
+        "name": "A'Mhaighdean",
+        "latitude": 57.7196,
+        "longitude": -5.3463,
+        "feet": 3173,
+        "meters": 967,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.25172,
+          57.807
+        ]
+      },
+      "properties": {
+        "name": "An Teallach",
+        "latitude": 57.807,
+        "longitude": -5.25172,
+        "feet": 3484,
+        "meters": 1062,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0374,
+          56.6794
+        ]
+      },
+      "properties": {
+        "name": "Aonach Eagach",
+        "latitude": 56.6794,
+        "longitude": -5.0374,
+        "feet": 3172,
+        "meters": 967,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68866,
+          52.786776
+        ]
+      },
+      "properties": {
+        "name": "Aran Fawddwy",
+        "latitude": 52.786776,
+        "longitude": -3.68866,
+        "feet": 2975,
+        "meters": 907,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17831,
+          54.456468
+        ]
+      },
+      "properties": {
+        "name": "Esk Pike",
+        "latitude": 54.456468,
+        "longitude": -3.17831,
+        "feet": 2903,
+        "meters": 885,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99165,
+          54.4971
+        ]
+      },
+      "properties": {
+        "name": "Fairfield",
+        "latitude": 54.4971,
+        "longitude": -2.99165,
+        "feet": 2864,
+        "meters": 873,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.23333,
+          54.5167
+        ]
+      },
+      "properties": {
+        "name": "Fleetwith Pike",
+        "latitude": 54.5167,
+        "longitude": -3.23333,
+        "feet": 2126,
+        "meters": 648,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          53.2
+        ]
+      },
+      "properties": {
+        "name": "Foel Fras",
+        "latitude": 53.2,
+        "longitude": -3.95,
+        "feet": 3091,
+        "meters": 942,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.051895,
+          53.127616
+        ]
+      },
+      "properties": {
+        "name": "Foel-goch",
+        "latitude": 53.127616,
+        "longitude": -4.051895,
+        "feet": 2726,
+        "meters": 831,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96358,
+          53.1742
+        ]
+      },
+      "properties": {
+        "name": "Foel Grach",
+        "latitude": 53.1742,
+        "longitude": -3.96358,
+        "feet": 3202,
+        "meters": 976,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.965578,
+          53.183408
+        ]
+      },
+      "properties": {
+        "name": "Garnedd Uchaf",
+        "latitude": 53.183408,
+        "longitude": -3.965578,
+        "feet": 3038,
+        "meters": 926,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74445,
+          52.917908
+        ]
+      },
+      "properties": {
+        "name": "Arenig Fawr",
+        "latitude": 52.917908,
+        "longitude": -3.74445,
+        "feet": 2801,
+        "meters": 854,
+        "continent": "Europe",
+        "country": "United Kingdom/United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.982036,
+          52.037498
+        ]
+      },
+      "properties": {
+        "name": "Amery",
+        "latitude": 52.037498,
+        "longitude": -116.982036,
+        "feet": 10922,
+        "meters": 3329,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.125904,
+          51.181388
+        ]
+      },
+      "properties": {
+        "name": "Association",
+        "latitude": 51.181388,
+        "longitude": -115.125904,
+        "feet": 7874,
+        "meters": 2400,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.169,
+          51.325
+        ]
+      },
+      "properties": {
+        "name": "Babel, Tower of",
+        "latitude": 51.325,
+        "longitude": -116.169,
+        "feet": 7290,
+        "meters": 2221,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.027,
+          50.665
+        ]
+      },
+      "properties": {
+        "name": "Elpoca Mountain",
+        "latitude": 50.665,
+        "longitude": -115.027,
+        "feet": 9961,
+        "meters": 3036,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.735058,
+          51.865998
+        ]
+      },
+      "properties": {
+        "name": "Epaulette Mountain",
+        "latitude": 51.865998,
+        "longitude": -116.735058,
+        "feet": 10154,
+        "meters": 3095,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.223421,
+          51.399152
+        ]
+      },
+      "properties": {
+        "name": "Fairview Mountain",
+        "latitude": 51.399152,
+        "longitude": -116.223421,
+        "feet": 9003,
+        "meters": 2744,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.163597,
+          51.297457
+        ]
+      },
+      "properties": {
+        "name": "Fay",
+        "latitude": 51.297457,
+        "longitude": -116.163597,
+        "feet": 10610,
+        "meters": 3234,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.331,
+          50.9768
+        ]
+      },
+      "properties": {
+        "name": "Foremast",
+        "latitude": 50.9768,
+        "longitude": -117.331,
+        "feet": 8670,
+        "meters": 2643,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.239,
+          50.8278
+        ]
+      },
+      "properties": {
+        "name": "Fortress, The",
+        "latitude": 50.8278,
+        "longitude": -115.239,
+        "feet": 9842,
+        "meters": 3000,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.072161,
+          49.00449
+        ]
+      },
+      "properties": {
+        "name": "Forum Peak",
+        "latitude": 49.00449,
+        "longitude": -114.072161,
+        "feet": 7922,
+        "meters": 2415,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.247625,
+          51.37987
+        ]
+      },
+      "properties": {
+        "name": "Mount Aberdeen",
+        "latitude": 51.37987,
+        "longitude": -116.247625,
+        "feet": 10341,
+        "meters": 3152,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.417,
+          49.6667
+        ]
+      },
+      "properties": {
+        "name": "Mount Albert Edward",
+        "latitude": 49.6667,
+        "longitude": -125.417,
+        "feet": 6870,
+        "meters": 2094,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.476463,
+          52.288008
+        ]
+      },
+      "properties": {
+        "name": "Mount Alberta",
+        "latitude": 52.288008,
+        "longitude": -117.476463,
+        "feet": 11874,
+        "meters": 3619,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.224781,
+          50.959075
+        ]
+      },
+      "properties": {
+        "name": "Mount Allan",
+        "latitude": 50.959075,
+        "longitude": -115.224781,
+        "feet": 9249,
+        "meters": 2819,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22,
+          51.2908
+        ]
+      },
+      "properties": {
+        "name": "Mount Allen",
+        "latitude": 51.2908,
+        "longitude": -116.22,
+        "feet": 10860,
+        "meters": 3310,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.238798,
+          52.174195
+        ]
+      },
+      "properties": {
+        "name": "Mount Andromeda",
+        "latitude": 52.174195,
+        "longitude": -117.238798,
+        "feet": 11320,
+        "meters": 3450,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6,
+          49.2167
+        ]
+      },
+      "properties": {
+        "name": "Mount Arrowsmith",
+        "latitude": 49.2167,
+        "longitude": -124.6,
+        "feet": 5968,
+        "meters": 1819,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.2666,
+          66.671135
+        ]
+      },
+      "properties": {
+        "name": "Mount Asgard",
+        "latitude": 66.671135,
+        "longitude": -65.2666,
+        "feet": 6598,
+        "meters": 2011,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.65,
+          50.8667
+        ]
+      },
+      "properties": {
+        "name": "Mount Assiniboine",
+        "latitude": 50.8667,
+        "longitude": -115.65,
+        "feet": 11870,
+        "meters": 3618,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.201548,
+          52.180353
+        ]
+      },
+      "properties": {
+        "name": "Mount Athabasca",
+        "latitude": 52.180353,
+        "longitude": -117.201548,
+        "feet": 11452,
+        "meters": 3491,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1633,
+          51.305556
+        ]
+      },
+      "properties": {
+        "name": "Mount Babel",
+        "latitude": 51.305556,
+        "longitude": -116.1633,
+        "feet": 10174,
+        "meters": 3101,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.312,
+          50.865
+        ]
+      },
+      "properties": {
+        "name": "Mount Engadine",
+        "latitude": 50.865,
+        "longitude": -115.312,
+        "feet": 9751,
+        "meters": 2972,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.098,
+          50.7633
+        ]
+      },
+      "properties": {
+        "name": "Mount Evan-Thomas",
+        "latitude": 50.7633,
+        "longitude": -115.098,
+        "feet": 10164,
+        "meters": 3098,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.226,
+          51.1175
+        ]
+      },
+      "properties": {
+        "name": "Mount Fable",
+        "latitude": 51.1175,
+        "longitude": -115.226,
+        "feet": 8865,
+        "meters": 2702,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.487,
+          50.4883
+        ]
+      },
+      "properties": {
+        "name": "Mount Farnham",
+        "latitude": 50.4883,
+        "longitude": -116.487,
+        "feet": 11460,
+        "meters": 3493,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.932125,
+          51.860168
+        ]
+      },
+      "properties": {
+        "name": "Mount Forbes",
+        "latitude": 51.860168,
+        "longitude": -116.932125,
+        "feet": 11850,
+        "meters": 3612,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.847549,
+          49.012654
+        ]
+      },
+      "properties": {
+        "name": "Mount Frosty",
+        "latitude": 49.012654,
+        "longitude": -120.847549,
+        "feet": 7900,
+        "meters": 2408,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.275,
+          50.8389
+        ]
+      },
+      "properties": {
+        "name": "Mount Galatea",
+        "latitude": 50.8389,
+        "longitude": -115.275,
+        "feet": 10449,
+        "meters": 3185,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.004818,
+          49.850657
+        ]
+      },
+      "properties": {
+        "name": "Mount Garibaldi",
+        "latitude": 49.850657,
+        "longitude": -123.004818,
+        "feet": 8786,
+        "meters": 2678,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.455849,
+          60.302985
+        ]
+      },
+      "properties": {
+        "name": "Mt. Augusta",
+        "latitude": 60.302985,
+        "longitude": -140.455849,
+        "feet": 14072,
+        "meters": 4289,
+        "continent": "North America",
+        "country": "Canada/United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8667,
+          14.5
+        ]
+      },
+      "properties": {
+        "name": "Acatenango",
+        "latitude": 14.5,
+        "longitude": -90.8667,
+        "feet": 13044,
+        "meters": 3976,
+        "continent": "North America",
+        "country": "Guatemala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1833,
+          14.5833
+        ]
+      },
+      "properties": {
+        "name": "Atitlan",
+        "latitude": 14.5833,
+        "longitude": -91.1833,
+        "feet": 11604,
+        "meters": 3537,
+        "continent": "North America",
+        "country": "Guatemala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.167,
+          56.8833
+        ]
+      },
+      "properties": {
+        "name": "Aniakchak",
+        "latitude": 56.8833,
+        "longitude": -158.167,
+        "feet": 4400,
+        "meters": 1341,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.195452,
+          61.744653
+        ]
+      },
+      "properties": {
+        "name": "Fish",
+        "latitude": 61.744653,
+        "longitude": -149.195452,
+        "feet": 4069,
+        "meters": 1248,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.665,
+          61.0906
+        ]
+      },
+      "properties": {
+        "name": "Flattop",
+        "latitude": 61.0906,
+        "longitude": -149.665,
+        "feet": 3500,
+        "meters": 1067,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.267,
+          60.1333
+        ]
+      },
+      "properties": {
+        "name": "Mount Alice",
+        "latitude": 60.1333,
+        "longitude": -149.267,
+        "feet": 5265,
+        "meters": 1605,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.055505,
+          60.958861
+        ]
+      },
+      "properties": {
+        "name": "Mount Alyeska",
+        "latitude": 60.958861,
+        "longitude": -149.055505,
+        "feet": 3939,
+        "meters": 1201,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.527,
+          58.9072
+        ]
+      },
+      "properties": {
+        "name": "Mount Fairweather",
+        "latitude": 58.9072,
+        "longitude": -137.527,
+        "feet": 15300,
+        "meters": 4663,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.398,
+          62.9608
+        ]
+      },
+      "properties": {
+        "name": "Mount Foraker",
+        "latitude": 62.9608,
+        "longitude": -151.398,
+        "feet": 17400,
+        "meters": 5304,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.677,
+          35.3258
+        ]
+      },
+      "properties": {
+        "name": "Agassiz Peak",
+        "latitude": 35.3258,
+        "longitude": -111.677,
+        "feet": 12356,
+        "meters": 3766,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.217,
+          36.8167
+        ]
+      },
+      "properties": {
+        "name": "Agathla Peak",
+        "latitude": 36.8167,
+        "longitude": -110.217,
+        "feet": 7100,
+        "meters": 2164,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.595,
+          31.7711
+        ]
+      },
+      "properties": {
+        "name": "Baboquivari Peak",
+        "latitude": 31.7711,
+        "longitude": -111.595,
+        "feet": 7730,
+        "meters": 2356,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.125438,
+          33.955357
+        ]
+      },
+      "properties": {
+        "name": "Escudilla Mountain",
+        "latitude": 33.955357,
+        "longitude": -109.125438,
+        "feet": 10912,
+        "meters": 3326,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.083,
+          34.1167
+        ]
+      },
+      "properties": {
+        "name": "Four Peaks",
+        "latitude": 34.1167,
+        "longitude": -111.083,
+        "feet": 7657,
+        "meters": 2334,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66,
+          35.3231
+        ]
+      },
+      "properties": {
+        "name": "Fremont Peak",
+        "latitude": 35.3231,
+        "longitude": -111.66,
+        "feet": 11969,
+        "meters": 3648,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.45
+        ]
+      },
+      "properties": {
+        "name": "Airola Peak",
+        "latitude": 38.45,
+        "longitude": -119.8,
+        "feet": 9942,
+        "meters": 3030,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.894488,
+          34.124524
+        ]
+      },
+      "properties": {
+        "name": "Anderson Peak",
+        "latitude": 34.124524,
+        "longitude": -116.894488,
+        "feet": 10840,
+        "meters": 3304,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8,
+          38.4833
+        ]
+      },
+      "properties": {
+        "name": "Folger Peak",
+        "latitude": 38.4833,
+        "longitude": -119.8,
+        "feet": 9680,
+        "meters": 2950,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.784,
+          37.3864
+        ]
+      },
+      "properties": {
+        "name": "Mount Abbot",
+        "latitude": 37.3864,
+        "longitude": -118.784,
+        "feet": 13704,
+        "meters": 4177,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53,
+          37.1117
+        ]
+      },
+      "properties": {
+        "name": "Mount Agassiz",
+        "latitude": 37.1117,
+        "longitude": -118.53,
+        "feet": 13893,
+        "meters": 4235,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.76464,
+          34.35853
+        ]
+      },
+      "properties": {
+        "name": "Mount Baden-Powell",
+        "latitude": 34.35853,
+        "longitude": -117.76464,
+        "feet": 9399,
+        "meters": 2865,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.517,
+          37.0833
+        ]
+      },
+      "properties": {
+        "name": "Mt. Gayley",
+        "latitude": 37.0833,
+        "longitude": -118.517,
+        "feet": 13510,
+        "meters": 4118,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.759274,
+          37.930137
+        ]
+      },
+      "properties": {
+        "name": "Ajax Peak",
+        "latitude": 37.930137,
+        "longitude": -107.759274,
+        "feet": 12785,
+        "meters": 3897,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.795041,
+          37.455841
+        ]
+      },
+      "properties": {
+        "name": "Alberta Peak",
+        "latitude": 37.455841,
+        "longitude": -106.795041,
+        "feet": 11870,
+        "meters": 3618,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.993,
+          38.7914
+        ]
+      },
+      "properties": {
+        "name": "Almagre Mountain",
+        "latitude": 38.7914,
+        "longitude": -104.993,
+        "feet": 12367,
+        "meters": 3770,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.492,
+          37.5825
+        ]
+      },
+      "properties": {
+        "name": "Ellingwood Point",
+        "latitude": 37.5825,
+        "longitude": -105.492,
+        "feet": 14042,
+        "meters": 4280,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.128,
+          39.4033
+        ]
+      },
+      "properties": {
+        "name": "Fletcher Mountain",
+        "latitude": 39.4033,
+        "longitude": -106.128,
+        "feet": 13951,
+        "meters": 4252,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.239,
+          38.656
+        ]
+      },
+      "properties": {
+        "name": "Mount Antero",
+        "latitude": 38.656,
+        "longitude": -106.239,
+        "feet": 14269,
+        "meters": 4349,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.616,
+          40.0989
+        ]
+      },
+      "properties": {
+        "name": "Mount Audubon",
+        "latitude": 40.0989,
+        "longitude": -105.616,
+        "feet": 13565,
+        "meters": 4135,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.621,
+          37.6228
+        ]
+      },
+      "properties": {
+        "name": "Mount Eolus",
+        "latitude": 37.6228,
+        "longitude": -107.621,
+        "feet": 14083,
+        "meters": 4293,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.643,
+          39.5886
+        ]
+      },
+      "properties": {
+        "name": "Mount Evans",
+        "latitude": 39.5886,
+        "longitude": -105.643,
+        "feet": 14264,
+        "meters": 4350,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.482,
+          39.1286
+        ]
+      },
+      "properties": {
+        "name": "Mount French",
+        "latitude": 39.1286,
+        "longitude": -106.482,
+        "feet": 13940,
+        "meters": 4249,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.481972,
+          42.051083
+        ]
+      },
+      "properties": {
+        "name": "Mount Frissell",
+        "latitude": 42.051083,
+        "longitude": -73.481972,
+        "feet": 2380,
+        "meters": 725,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Connecticut/Massachusetts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.083392,
+          40.014732
+        ]
+      },
+      "properties": {
+        "name": "Flattop Mountain",
+        "latitude": 40.014732,
+        "longitude": -107.083392,
+        "feet": 12493,
+        "meters": 3808,
+        "continent": "North America",
+        "country": "United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4833,
+          39.2333
+        ]
+      },
+      "properties": {
+        "name": "Backbone Mountain",
+        "latitude": 39.2333,
+        "longitude": -79.4833,
+        "feet": 3360,
+        "meters": 1024,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Maryland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.156,
+          46.7555
+        ]
+      },
+      "properties": {
+        "name": "Mount Arvon",
+        "latitude": 46.7555,
+        "longitude": -88.156,
+        "feet": 1979,
+        "meters": 603,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Michigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002,
+          45.444
+        ]
+      },
+      "properties": {
+        "name": "Alex Lowe Peak",
+        "latitude": 45.444,
+        "longitude": -111.002,
+        "feet": 10031,
+        "meters": 3057,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Montana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.723602,
+          48.640849
+        ]
+      },
+      "properties": {
+        "name": "Fusillade Mountain",
+        "latitude": 48.640849,
+        "longitude": -113.723602,
+        "feet": 8750,
+        "meters": 2667,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Montana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.365,
+          45.3683
+        ]
+      },
+      "properties": {
+        "name": "Gallatin Peak",
+        "latitude": 45.3683,
+        "longitude": 111.365,
+        "feet": 11015,
+        "meters": 3357,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Montana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2914,
+          44.3203
+        ]
+      },
+      "properties": {
+        "name": "Mount Adams",
+        "latitude": 44.3203,
+        "longitude": -71.2914,
+        "feet": 5771,
+        "meters": 1759,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New Hampshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.435549,
+          44.19667
+        ]
+      },
+      "properties": {
+        "name": "Mount Field",
+        "latitude": 44.19667,
+        "longitude": -71.435549,
+        "feet": 4341,
+        "meters": 1323,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New Hampshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.627898,
+          44.109066
+        ]
+      },
+      "properties": {
+        "name": "Mount Flume",
+        "latitude": 44.109066,
+        "longitude": -71.627898,
+        "feet": 4327,
+        "meters": 1319,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New Hampshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6114,
+          44.1869
+        ]
+      },
+      "properties": {
+        "name": "Mount Garfield",
+        "latitude": 44.1869,
+        "longitude": -71.6114,
+        "feet": 4500,
+        "meters": 1372,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New Hampshire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9869,
+          44.1436
+        ]
+      },
+      "properties": {
+        "name": "Algonquin Peak",
+        "latitude": 44.1436,
+        "longitude": -73.9869,
+        "feet": 5114,
+        "meters": 1559,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4933,
+          35.5417
+        ]
+      },
+      "properties": {
+        "name": "Andrews Bald",
+        "latitude": 35.5417,
+        "longitude": -83.4933,
+        "feet": 5860,
+        "meters": 1786,
+        "continent": "North America",
+        "country": "United States",
+        "state": "North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.549764,
+          42.943457
+        ]
+      },
+      "properties": {
+        "name": "Abbott Butte",
+        "latitude": 42.943457,
+        "longitude": -122.549764,
+        "feet": 6125,
+        "meters": 1867,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17495,
+          45.20297
+        ]
+      },
+      "properties": {
+        "name": "Aneroid Mountain",
+        "latitude": 45.20297,
+        "longitude": -117.17495,
+        "feet": 9702,
+        "meters": 2957,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.087516,
+          42.315417
+        ]
+      },
+      "properties": {
+        "name": "Aspen Butte",
+        "latitude": 42.315417,
+        "longitude": -122.087516,
+        "feet": 8208,
+        "meters": 2502,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.643998,
+          44.869282
+        ]
+      },
+      "properties": {
+        "name": "Fanno Peak",
+        "latitude": 44.869282,
+        "longitude": -123.643998,
+        "feet": 3333,
+        "meters": 1016,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2587,
+          44.3386
+        ]
+      },
+      "properties": {
+        "name": "Fields Peak",
+        "latitude": 44.3386,
+        "longitude": -119.2587,
+        "feet": 7362,
+        "meters": 2244,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423095,
+          43.075401
+        ]
+      },
+      "properties": {
+        "name": "Fish Mountain",
+        "latitude": 43.075401,
+        "longitude": -122.423095,
+        "feet": 6729,
+        "meters": 2051,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.688,
+          43.979
+        ]
+      },
+      "properties": {
+        "name": "Mount Bachelor",
+        "latitude": 43.979,
+        "longitude": -121.688,
+        "feet": 9068,
+        "meters": 2764,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.730865,
+          45.307734
+        ]
+      },
+      "properties": {
+        "name": "Mount Fanny",
+        "latitude": 45.307734,
+        "longitude": -117.730865,
+        "feet": 7136,
+        "meters": 2175,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7,
+          42.0167
+        ]
+      },
+      "properties": {
+        "name": "Mt. Ashland",
+        "latitude": 42.0167,
+        "longitude": -122.7,
+        "feet": 7500,
+        "meters": 2286,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4583,
+          36.1225
+        ]
+      },
+      "properties": {
+        "name": "Frozen Head",
+        "latitude": 36.1225,
+        "longitude": -84.4583,
+        "feet": 3324,
+        "meters": 1013,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Tennessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.304,
+          29.2458
+        ]
+      },
+      "properties": {
+        "name": "Emory Peak",
+        "latitude": 29.2458,
+        "longitude": -103.304,
+        "feet": 7825,
+        "meters": 2385,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8189,
+          30.5066
+        ]
+      },
+      "properties": {
+        "name": "Enchanted Rock",
+        "latitude": 30.5066,
+        "longitude": -98.8189,
+        "feet": 1825,
+        "meters": 556,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.947878,
+          37.269331
+        ]
+      },
+      "properties": {
+        "name": "Angels Landing",
+        "latitude": 37.269331,
+        "longitude": -112.947878,
+        "feet": 5790,
+        "meters": 1765,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.903463,
+          40.699121
+        ]
+      },
+      "properties": {
+        "name": "Bald Mountain",
+        "latitude": 40.699121,
+        "longitude": -110.903463,
+        "feet": 11943,
+        "meters": 3640,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.216,
+          40.9619
+        ]
+      },
+      "properties": {
+        "name": "Frary Peak",
+        "latitude": 40.9619,
+        "longitude": -112.216,
+        "feet": 6596,
+        "meters": 2010,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.884008,
+          44.293945
+        ]
+      },
+      "properties": {
+        "name": "Mount Ethan Allen",
+        "latitude": 44.293945,
+        "longitude": -72.884008,
+        "feet": 3680,
+        "meters": 1122,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Vermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5,
+          37.5167
+        ]
+      },
+      "properties": {
+        "name": "Apple Orchard Mountain",
+        "latitude": 37.5167,
+        "longitude": -79.5,
+        "feet": 4225,
+        "meters": 1288,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Virginia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.968313,
+          48.317508
+        ]
+      },
+      "properties": {
+        "name": "Agnes Mountain",
+        "latitude": 48.317508,
+        "longitude": -120.968313,
+        "feet": 8115,
+        "meters": 2473,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.665087,
+          48.995396
+        ]
+      },
+      "properties": {
+        "name": "American Border Peak",
+        "latitude": 48.995396,
+        "longitude": -121.665087,
+        "feet": 7994,
+        "meters": 2437,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.632257,
+          46.920021
+        ]
+      },
+      "properties": {
+        "name": "Antler Peak",
+        "latitude": 46.920021,
+        "longitude": -121.632257,
+        "feet": 7017,
+        "meters": 2139,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.861411,
+          47.470255
+        ]
+      },
+      "properties": {
+        "name": "Argonaut Peak",
+        "latitude": 47.470255,
+        "longitude": -120.861411,
+        "feet": 8453,
+        "meters": 2576,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.873771,
+          47.508331
+        ]
+      },
+      "properties": {
+        "name": "Axis Mountain",
+        "latitude": 47.508331,
+        "longitude": -120.873771,
+        "feet": 7550,
+        "meters": 2301,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.802789,
+          47.48905
+        ]
+      },
+      "properties": {
+        "name": "Enchantment Peak",
+        "latitude": 47.48905,
+        "longitude": -120.802789,
+        "feet": 8250,
+        "meters": 2515,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.790056,
+          48.934877
+        ]
+      },
+      "properties": {
+        "name": "Excelsior Peak",
+        "latitude": 48.934877,
+        "longitude": -121.790056,
+        "feet": 5613,
+        "meters": 1710,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.745725,
+          48.380654
+        ]
+      },
+      "properties": {
+        "name": "Finney Peak",
+        "latitude": 48.380654,
+        "longitude": -121.745725,
+        "feet": 5083,
+        "meters": 1549,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.058478,
+          48.511601
+        ]
+      },
+      "properties": {
+        "name": "Forbidden Peak",
+        "latitude": 48.511601,
+        "longitude": -121.058478,
+        "feet": 8815,
+        "meters": 2687,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.933466,
+          48.159587
+        ]
+      },
+      "properties": {
+        "name": "Fortress Mountain",
+        "latitude": 48.159587,
+        "longitude": -120.933466,
+        "feet": 8760,
+        "meters": 2670,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.434346,
+          47.538201
+        ]
+      },
+      "properties": {
+        "name": "Galleon Peak",
+        "latitude": 47.538201,
+        "longitude": -121.434346,
+        "feet": 5283,
+        "meters": 1610,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.489,
+          46.2028
+        ]
+      },
+      "properties": {
+        "name": "Mount Adams",
+        "latitude": 46.2028,
+        "longitude": -121.489,
+        "feet": 12276,
+        "meters": 3741,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.256,
+          46.795
+        ]
+      },
+      "properties": {
+        "name": "Mount Aix",
+        "latitude": 46.795,
+        "longitude": -121.256,
+        "feet": 7766,
+        "meters": 2367,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.331562,
+          47.721201
+        ]
+      },
+      "properties": {
+        "name": "Mount Anderson",
+        "latitude": 47.721201,
+        "longitude": -123.331562,
+        "feet": 7321,
+        "meters": 2231,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.467317,
+          47.995292
+        ]
+      },
+      "properties": {
+        "name": "Mount Angeles",
+        "latitude": 47.995292,
+        "longitude": -123.467317,
+        "feet": 6454,
+        "meters": 1967,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.260636,
+          47.521664
+        ]
+      },
+      "properties": {
+        "name": "Mount Ellinor",
+        "latitude": 47.521664,
+        "longitude": -123.260636,
+        "feet": 5944,
+        "meters": 1812,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.807509,
+          48.162536
+        ]
+      },
+      "properties": {
+        "name": "Mount Fernow",
+        "latitude": 48.162536,
+        "longitude": -120.807509,
+        "feet": 9249,
+        "meters": 2819,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.067,
+          48.4162
+        ]
+      },
+      "properties": {
+        "name": "Mount Formidable",
+        "latitude": 48.4162,
+        "longitude": -121.067,
+        "feet": 8325,
+        "meters": 2537,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.673026,
+          46.925443
+        ]
+      },
+      "properties": {
+        "name": "Mount Fremont",
+        "latitude": 46.925443,
+        "longitude": -121.673026,
+        "feet": 7317,
+        "meters": 2230,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.323094,
+          48.811866
+        ]
+      },
+      "properties": {
+        "name": "Mount Fury",
+        "latitude": 48.811866,
+        "longitude": -121.323094,
+        "feet": 8292,
+        "meters": 2527,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.49334,
+          47.552867
+        ]
+      },
+      "properties": {
+        "name": "Mount Garfield",
+        "latitude": 47.552867,
+        "longitude": -121.49334,
+        "feet": 5519,
+        "meters": 1682,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.540761,
+          47.588799
+        ]
+      },
+      "properties": {
+        "name": "The Ark",
+        "latitude": 47.588799,
+        "longitude": -121.540761,
+        "feet": 5339,
+        "meters": 1627,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.813,
+          43.6708
+        ]
+      },
+      "properties": {
+        "name": "Albright Peak",
+        "latitude": 43.6708,
+        "longitude": -110.813,
+        "feet": 10550,
+        "meters": 3216,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.33,
+          43.9614
+        ]
+      },
+      "properties": {
+        "name": "Francs Peak",
+        "latitude": 43.9614,
+        "longitude": -109.33,
+        "feet": 13153,
+        "meters": 4009,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.617,
+          43.1167
+        ]
+      },
+      "properties": {
+        "name": "Fremont Peak",
+        "latitude": 43.1167,
+        "longitude": -109.617,
+        "feet": 13745,
+        "meters": 4190,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.653,
+          43.1844
+        ]
+      },
+      "properties": {
+        "name": "Gannett Peak",
+        "latitude": 43.1844,
+        "longitude": -109.653,
+        "feet": 13804,
+        "meters": 4207,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.453857,
+          32.908195
+        ]
+      },
+      "properties": {
+        "name": "Garnet Peak",
+        "latitude": 32.908195,
+        "longitude": -116.453857,
+        "feet": 5900,
+        "meters": 1798,
+        "continent": "North America",
+        "country": "United States/United States",
+        "state": "California/California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56477,
+          -39.863701
+        ]
+      },
+      "properties": {
+        "name": "Achen Niyeu",
+        "latitude": -39.863701,
+        "longitude": -71.56477,
+        "feet": 5249,
+        "meters": 1600,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.011234,
+          -32.653359
+        ]
+      },
+      "properties": {
+        "name": "Aconcagua",
+        "latitude": -32.653359,
+        "longitude": -70.011234,
+        "feet": 22841,
+        "meters": 6962,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.400903,
+          -32.973478
+        ]
+      },
+      "properties": {
+        "name": "Adolfo Calle",
+        "latitude": -32.973478,
+        "longitude": -69.400903,
+        "feet": 13780,
+        "meters": 4200,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -49.3
+        ]
+      },
+      "properties": {
+        "name": "Aguja De La S",
+        "latitude": -49.3,
+        "longitude": -73.05,
+        "feet": 7661,
+        "meters": 2335,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333,
+          -49.2833
+        ]
+      },
+      "properties": {
+        "name": "Aguja Saint Exupery",
+        "latitude": -49.2833,
+        "longitude": -73.0333,
+        "feet": 2680,
+        "meters": 817,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.977074,
+          -32.628099
+        ]
+      },
+      "properties": {
+        "name": "Ameghino",
+        "latitude": -32.628099,
+        "longitude": -69.977074,
+        "feet": 19587,
+        "meters": 5970,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "Cerro Alto Rio Blanco",
+        "latitude": 0.0,
+        "longitude": -70.0,
+        "feet": 17552,
+        "meters": 5350,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.043375,
+          -49.271277
+        ]
+      },
+      "properties": {
+        "name": "Cerro Fitzroy",
+        "latitude": -49.271277,
+        "longitude": -73.043375,
+        "feet": 11073,
+        "meters": 3375,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.541641,
+          -15.85427
+        ]
+      },
+      "properties": {
+        "name": "Ancohuma",
+        "latitude": -15.85427,
+        "longitude": -68.541641,
+        "feet": 21095,
+        "meters": 6430,
+        "continent": "South America",
+        "country": "Bolivia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.05,
+          -18.383
+        ]
+      },
+      "properties": {
+        "name": "Acotango",
+        "latitude": -18.383,
+        "longitude": -69.05,
+        "feet": 19856,
+        "meters": 6052,
+        "continent": "South America",
+        "country": "Bolivia/Chile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4667,
+          -21.2167
+        ]
+      },
+      "properties": {
+        "name": "Aucanquilcha",
+        "latitude": -21.2167,
+        "longitude": -68.4667,
+        "feet": 20262,
+        "meters": 6176,
+        "continent": "South America",
+        "country": "Chile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.141,
+          -0.481
+        ]
+      },
+      "properties": {
+        "name": "Antisana",
+        "latitude": -0.481,
+        "longitude": -78.141,
+        "feet": 18,
+        "meters": 5,
+        "continent": "South America",
+        "country": "Ecuador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.293853,
+          0.13351
+        ]
+      },
+      "properties": {
+        "name": "Fuya Fuya",
+        "latitude": 0.13351,
+        "longitude": -78.293853,
+        "feet": 13986,
+        "meters": 4263,
+        "continent": "South America",
+        "country": "Ecuador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.63,
+          6.083
+        ]
+      },
+      "properties": {
+        "name": "Ayangaik",
+        "latitude": 6.083,
+        "longitude": -60.63,
+        "feet": 1378,
+        "meters": 420,
+        "continent": "South America",
+        "country": "Guyana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.654371,
+          -8.878203
+        ]
+      },
+      "properties": {
+        "name": "Alpamayo",
+        "latitude": -8.878203,
+        "longitude": -77.654371,
+        "feet": 19511,
+        "meters": 5947,
+        "continent": "South America",
+        "country": "Peru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53125,
+          -14.604847
+        ]
+      },
+      "properties": {
+        "name": "Ampato",
+        "latitude": -14.604847,
+        "longitude": -74.53125,
+        "feet": 20630,
+        "meters": 6288,
+        "continent": "South America",
+        "country": "Peru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2308,
+          -13.7881
+        ]
+      },
+      "properties": {
+        "name": "Ausangate",
+        "latitude": -13.7881,
+        "longitude": -71.2308,
+        "feet": 20945,
+        "meters": 6384,
+        "continent": "South America",
+        "country": "Peru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.207441,
+          10.423394
+        ]
+      },
+      "properties": {
+        "name": "Alto de Lagunazo",
+        "latitude": 10.423394,
+        "longitude": -67.207441,
+        "feet": 7694,
+        "meters": 2345,
+        "continent": "South America",
+        "country": "Venezuela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.105136,
+          10.458272
+        ]
+      },
+      "properties": {
+        "name": "Alto de Pozo Negro",
+        "latitude": 10.458272,
+        "longitude": -67.105136,
+        "feet": 7238,
+        "meters": 2206,
+        "continent": "South America",
+        "country": "Venezuela"
+      }
+    }
+  ]
+}
