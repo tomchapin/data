@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.035,
+      49.0933
+    ]
+  },
+  "properties": {
+    "name": "Mount Blakiston",
+    "latitude": 49.0933,
+    "longitude": -114.035,
+    "feet": 9547,
+    "meters": 2910,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
