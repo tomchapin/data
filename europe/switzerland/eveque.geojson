@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.502761,
+      45.964307
+    ]
+  },
+  "properties": {
+    "name": "Eveque",
+    "latitude": 45.964307,
+    "longitude": 7.502761,
+    "feet": 12192,
+    "meters": 3716,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
