@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.76,
+      14.1078
+    ]
+  },
+  "properties": {
+    "name": "Mount Talamitan",
+    "latitude": 14.1078,
+    "longitude": 120.76,
+    "feet": 2310,
+    "meters": 704,
+    "continent": "Asia",
+    "country": "Philippines",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
