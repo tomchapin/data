@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.407,
+      46.4885
+    ]
+  },
+  "properties": {
+    "name": "Goat Rocks",
+    "latitude": 46.4885,
+    "longitude": -121.407,
+    "feet": 8184,
+    "meters": 2494,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
