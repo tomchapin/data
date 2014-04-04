@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.082,
+      39.1503
+    ]
+  },
+  "properties": {
+    "name": "Capitol Peak",
+    "latitude": 39.1503,
+    "longitude": -107.082,
+    "feet": 14130,
+    "meters": 4307,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
