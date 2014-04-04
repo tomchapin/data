@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.3167,
+      6.5
+    ]
+  },
+  "properties": {
+    "name": "Ritak' Uwa Blanco (Ritacuba Blanco)",
+    "latitude": 6.5,
+    "longitude": -72.3167,
+    "feet": 17487,
+    "meters": 5330,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
