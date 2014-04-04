@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.04436,
+      -35.549808
+    ]
+  },
+  "properties": {
+    "name": "Mt Tennent",
+    "latitude": -35.549808,
+    "longitude": 149.04436,
+    "feet": 4511,
+    "meters": 1375,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
