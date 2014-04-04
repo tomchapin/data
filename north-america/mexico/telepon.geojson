@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.65,
+      19.1833
+    ]
+  },
+  "properties": {
+    "name": "Telepon",
+    "latitude": 19.1833,
+    "longitude": -98.65,
+    "feet": 13389,
+    "meters": 4081,
+    "continent": "North America",
+    "country": "Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
