@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.9534,
+      46.2759
+    ]
+  },
+  "properties": {
+    "name": "Monte Agner",
+    "latitude": 46.2759,
+    "longitude": 11.9534,
+    "feet": 9419,
+    "meters": 2871,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
