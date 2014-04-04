@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.516667,
+      42.158333
+    ]
+  },
+  "properties": {
+    "name": "Ruen",
+    "latitude": 42.158333,
+    "longitude": 22.516667,
+    "feet": 7385,
+    "meters": 2251,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
