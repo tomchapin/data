@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.8333,
+      27.9333
+    ]
+  },
+  "properties": {
+    "name": "Pokhalde",
+    "latitude": 27.9333,
+    "longitude": 86.8333,
+    "feet": 19009,
+    "meters": 5794,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
