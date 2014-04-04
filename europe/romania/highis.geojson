@@ -14,6 +14,8 @@
     "feet": 2625,
     "meters": 800,
     "continent": "Europe",
-    "country": "Romania"
+    "country": "Romania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
