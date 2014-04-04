@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.896,
+      62.9678
+    ]
+  },
+  "properties": {
+    "name": "Mount Huntington",
+    "latitude": 62.9678,
+    "longitude": -150.896,
+    "feet": 12240,
+    "meters": 3730,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
