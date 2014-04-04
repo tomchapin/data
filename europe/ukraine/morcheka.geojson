@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Morcheka",
+    "feet": 3215,
+    "meters": 980,
+    "continent": "Europe",
+    "country": "Ukraine"
+  }
+}
