@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.02255,
+      -35.82917
+    ]
+  },
+  "properties": {
+    "name": "Shanahans Mountain",
+    "latitude": -35.82917,
+    "longitude": 149.02255,
+    "feet": 4629,
+    "meters": 1411,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
