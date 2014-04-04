@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.32611,
+      58.28611
+    ]
+  },
+  "properties": {
+    "name": "Mount Roberts",
+    "latitude": 58.28611,
+    "longitude": -134.32611,
+    "feet": 3819,
+    "meters": 1164,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
