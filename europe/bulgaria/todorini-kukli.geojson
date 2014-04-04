@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.196945,
+      43.138573
+    ]
+  },
+  "properties": {
+    "name": "Todorini Kukli",
+    "latitude": 43.138573,
+    "longitude": 23.196945,
+    "feet": 5856,
+    "meters": 1785,
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
