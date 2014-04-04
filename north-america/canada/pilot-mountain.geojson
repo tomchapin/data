@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.825,
+      51.1878
+    ]
+  },
+  "properties": {
+    "name": "Pilot Mountain",
+    "latitude": 51.1878,
+    "longitude": -115.825,
+    "feet": 9692,
+    "meters": 2954,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
