@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.278439,
+      51.36176
+    ]
+  },
+  "properties": {
+    "name": "Mount Lefroy",
+    "latitude": 51.36176,
+    "longitude": -116.278439,
+    "feet": 11220,
+    "meters": 3420,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
