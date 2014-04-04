@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gspaltenhorn",
+    "feet": 11273,
+    "meters": 3436,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
