@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.3333,
+      42.8833
+    ]
+  },
+  "properties": {
+    "name": "Chanchakhi",
+    "latitude": 42.8833,
+    "longitude": 43.3333,
+    "feet": 14639,
+    "meters": 4462,
+    "continent": "Europe",
+    "country": "Georgia"
+  }
+}
