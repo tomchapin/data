@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.6838,
+      34.8012
+    ]
+  },
+  "properties": {
+    "name": "Tray Mountain",
+    "latitude": 34.8012,
+    "longitude": -83.6838,
+    "feet": 4430,
+    "meters": 1350,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
