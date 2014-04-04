@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hicks",
+    "feet": 10443,
+    "meters": 3183,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand/New Zealand"
+  }
+}
