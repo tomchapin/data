@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.255528,
+      41.826716
+    ]
+  },
+  "properties": {
+    "name": "Teghie Lisce",
+    "latitude": 41.826716,
+    "longitude": 9.255528,
+    "feet": 3363,
+    "meters": 1025,
+    "continent": "Europe",
+    "country": "France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
