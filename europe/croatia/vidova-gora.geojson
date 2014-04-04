@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.627106,
+      43.283983
+    ]
+  },
+  "properties": {
+    "name": "Vidova Gora",
+    "latitude": 43.283983,
+    "longitude": 16.627106,
+    "feet": 2552,
+    "meters": 778,
+    "continent": "Europe",
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
