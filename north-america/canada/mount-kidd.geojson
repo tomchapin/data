@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.19002,
+      50.893938
+    ]
+  },
+  "properties": {
+    "name": "Mount Kidd",
+    "latitude": 50.893938,
+    "longitude": -115.19002,
+    "feet": 9705,
+    "meters": 2958,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
