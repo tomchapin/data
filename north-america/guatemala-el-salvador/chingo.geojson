@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.7274,
+      14.1166
+    ]
+  },
+  "properties": {
+    "name": "Chingo",
+    "latitude": 14.1166,
+    "longitude": -89.7274,
+    "feet": 5823,
+    "meters": 1775,
+    "continent": "North America",
+    "country": "Guatemala/El Salvador"
+  }
+}
