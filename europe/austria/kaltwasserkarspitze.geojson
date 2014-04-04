@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4167,
+      47.4167
+    ]
+  },
+  "properties": {
+    "name": "Kaltwasserkarspitze",
+    "latitude": 47.4167,
+    "longitude": 11.4167,
+    "feet": 8966,
+    "meters": 2733,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
