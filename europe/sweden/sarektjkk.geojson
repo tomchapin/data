@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.7167,
+      67.4167
+    ]
+  },
+  "properties": {
+    "name": "Sarektjkk",
+    "latitude": 67.4167,
+    "longitude": 17.7167,
+    "feet": 6854,
+    "meters": 2089,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
