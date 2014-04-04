@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.53125,
+      -14.604847
+    ]
+  },
+  "properties": {
+    "name": "Ampato",
+    "latitude": -14.604847,
+    "longitude": -74.53125,
+    "feet": 20630,
+    "meters": 6288,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
