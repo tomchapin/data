@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.41051,
+      46.58007
+    ]
+  },
+  "properties": {
+    "name": "Klein Furkahorn",
+    "latitude": 46.58007,
+    "longitude": 8.41051,
+    "feet": 9928,
+    "meters": 3026,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
