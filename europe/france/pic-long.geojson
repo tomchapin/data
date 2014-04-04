@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.098834,
+      42.800974
+    ]
+  },
+  "properties": {
+    "name": "Pic Long",
+    "latitude": 42.800974,
+    "longitude": 0.098834,
+    "feet": 10472,
+    "meters": 3192,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
