@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.716774,
+      42.443221
+    ]
+  },
+  "properties": {
+    "name": "Monte Camicia",
+    "latitude": 42.443221,
+    "longitude": 13.716774,
+    "feet": 8412,
+    "meters": 2564,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
