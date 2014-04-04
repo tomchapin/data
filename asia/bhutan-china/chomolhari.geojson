@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.2667,
+      27.8333
+    ]
+  },
+  "properties": {
+    "name": "Chomolhari",
+    "latitude": 27.8333,
+    "longitude": 89.2667,
+    "feet": 23997,
+    "meters": 7314,
+    "continent": "Asia",
+    "country": "Bhutan/China"
+  }
+}
