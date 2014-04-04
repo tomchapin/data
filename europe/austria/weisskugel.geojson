@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Weisskugel",
+    "feet": 12267,
+    "meters": 3739,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
