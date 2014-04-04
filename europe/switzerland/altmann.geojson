@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.371796,
+      47.239588
+    ]
+  },
+  "properties": {
+    "name": "Altmann",
+    "latitude": 47.239588,
+    "longitude": 9.371796,
+    "feet": 7992,
+    "meters": 2436,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
