@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.63942,
+      47.462465
+    ]
+  },
+  "properties": {
+    "name": "Mailbox Peak",
+    "latitude": 47.462465,
+    "longitude": -121.63942,
+    "feet": 4841,
+    "meters": 1476,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
