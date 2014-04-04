@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.502583,
+      -28.074367
+    ]
+  },
+  "properties": {
+    "name": "Mt Greville",
+    "latitude": -28.074367,
+    "longitude": 152.502583,
+    "feet": 2526,
+    "meters": 770,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
