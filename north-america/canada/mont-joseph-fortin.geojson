@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.018259,
+      48.947283
+    ]
+  },
+  "properties": {
+    "name": "Mont Joseph Fortin",
+    "latitude": 48.947283,
+    "longitude": -66.018259,
+    "feet": 3543,
+    "meters": 1080,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
