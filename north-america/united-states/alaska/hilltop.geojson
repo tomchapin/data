@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.74317,
+      61.141229
+    ]
+  },
+  "properties": {
+    "name": "Hilltop",
+    "latitude": 61.141229,
+    "longitude": -149.74317,
+    "feet": 894,
+    "meters": 272,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
