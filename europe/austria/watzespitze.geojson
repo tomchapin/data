@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7833,
+      47.2
+    ]
+  },
+  "properties": {
+    "name": "Watzespitze",
+    "latitude": 47.2,
+    "longitude": 10.7833,
+    "feet": 11588,
+    "meters": 3532,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
