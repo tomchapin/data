@@ -14,6 +14,8 @@
     "feet": 5226,
     "meters": 1593,
     "continent": "Australia/Oceania",
-    "country": "Australia/Australia"
+    "country": "Australia/Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
