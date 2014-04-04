@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9,
+      44.8555
+    ]
+  },
+  "properties": {
+    "name": "Lisina, Bosnia and Herzegowina",
+    "latitude": 44.8555,
+    "longitude": 16.9,
+    "feet": 3205,
+    "meters": 977,
+    "continent": "Europe",
+    "country": "Bosnia and Herzegovina/Bosnia and Herzegovina"
+  }
+}
