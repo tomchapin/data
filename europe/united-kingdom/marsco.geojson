@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.13329,
+      57.2492
+    ]
+  },
+  "properties": {
+    "name": "Marsco",
+    "latitude": 57.2492,
+    "longitude": -6.13329,
+    "feet": 2414,
+    "meters": 736,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
