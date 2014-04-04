@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Wilder Pfaff",
+    "feet": 11345,
+    "meters": 3458,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
