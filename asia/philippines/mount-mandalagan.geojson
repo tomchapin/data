@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.2361,
+      10.636969
+    ]
+  },
+  "properties": {
+    "name": "Mount Mandalagan",
+    "latitude": 10.636969,
+    "longitude": 123.2361,
+    "feet": 6181,
+    "meters": 1884,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
