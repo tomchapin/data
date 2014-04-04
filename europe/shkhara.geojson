@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.1,
+      43.0
+    ]
+  },
+  "properties": {
+    "name": "Shkhara",
+    "latitude": 43.0,
+    "longitude": 43.1,
+    "feet": 17060,
+    "meters": 5200,
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
