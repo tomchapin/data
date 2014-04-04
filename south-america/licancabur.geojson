@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8833,
+      -22.8333
+    ]
+  },
+  "properties": {
+    "name": "Licancabur",
+    "latitude": -22.8333,
+    "longitude": -67.8833,
+    "feet": 19455,
+    "meters": 5930,
+    "continent": "South America"
+  }
+}
