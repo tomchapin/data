@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.472609,
+      -28.204525
+    ]
+  },
+  "properties": {
+    "name": "Mt Robert's (Main Range)",
+    "latitude": -28.204525,
+    "longitude": 152.472609,
+    "feet": 4337,
+    "meters": 1322,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
