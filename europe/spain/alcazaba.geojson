@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.300833,
+      37.067778
+    ]
+  },
+  "properties": {
+    "name": "Alcazaba",
+    "latitude": 37.067778,
+    "longitude": -3.300833,
+    "feet": 11057,
+    "meters": 3371,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
