@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gropsoarele",
+    "feet": 6178,
+    "meters": 1883,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
