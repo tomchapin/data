@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rhonti",
+    "feet": 19718,
+    "meters": 6010,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
