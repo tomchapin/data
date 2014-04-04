@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Clavillo",
+    "feet": 18044,
+    "meters": 5500,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
