@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.3571,
+      -29.2023
+    ]
+  },
+  "properties": {
+    "name": "Mafadi",
+    "latitude": -29.2023,
+    "longitude": 29.3571,
+    "feet": 11319,
+    "meters": 3450,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
