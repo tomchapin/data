@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.826292,
+      8.84262
+    ]
+  },
+  "properties": {
+    "name": "Collado del Cóndor",
+    "latitude": 8.84262,
+    "longitude": -70.826292,
+    "feet": 13510,
+    "meters": 4118,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
