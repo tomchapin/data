@@ -12,6 +12,8 @@
     "feet": 6627,
     "meters": 2020,
     "continent": "North America",
-    "country": "Mexico"
+    "country": "Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
