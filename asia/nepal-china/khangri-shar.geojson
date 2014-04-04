@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.816025,
+      28.01956
+    ]
+  },
+  "properties": {
+    "name": "Khangri Shar",
+    "latitude": 28.01956,
+    "longitude": 86.816025,
+    "feet": 22346,
+    "meters": 6811,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
