@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Alma Negra",
+    "feet": 20046,
+    "meters": 6110,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
