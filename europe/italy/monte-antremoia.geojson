@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Antremoia",
+    "feet": 9862,
+    "meters": 3006,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
