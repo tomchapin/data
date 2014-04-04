@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.8222,
+      52.5166
+    ]
+  },
+  "properties": {
+    "name": "Brussels Peak",
+    "latitude": 52.5166,
+    "longitude": -117.8222,
+    "feet": 10371,
+    "meters": 3161,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
