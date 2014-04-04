@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Schneehhnerstock",
+    "feet": 9098,
+    "meters": 2773,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
