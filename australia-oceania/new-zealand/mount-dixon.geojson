@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Dixon",
+    "feet": 9905,
+    "meters": 3019,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
