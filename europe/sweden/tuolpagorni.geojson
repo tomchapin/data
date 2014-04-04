@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5167,
+      67.8667
+    ]
+  },
+  "properties": {
+    "name": "Tuolpagorni",
+    "latitude": 67.8667,
+    "longitude": 18.5167,
+    "feet": 5495,
+    "meters": 1675,
+    "continent": "Europe",
+    "country": "Sweden",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
