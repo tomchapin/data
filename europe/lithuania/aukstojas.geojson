@@ -14,6 +14,8 @@
     "feet": 961,
     "meters": 293,
     "continent": "Europe",
-    "country": "Lithuania"
+    "country": "Lithuania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
