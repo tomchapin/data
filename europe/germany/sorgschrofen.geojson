@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.454167,
+      47.555833
+    ]
+  },
+  "properties": {
+    "name": "Sorgschrofen",
+    "latitude": 47.555833,
+    "longitude": 10.454167,
+    "feet": 5361,
+    "meters": 1636,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
