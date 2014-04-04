@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.374119,
+      -16.164291
+    ]
+  },
+  "properties": {
+    "name": "Thornton Peak",
+    "latitude": -16.164291,
+    "longitude": 145.374119,
+    "feet": 4508,
+    "meters": 1374,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
