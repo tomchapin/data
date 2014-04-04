@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.9167,
+      39.3333
+    ]
+  },
+  "properties": {
+    "name": "Pik Lenin",
+    "latitude": 39.3333,
+    "longitude": 72.9167,
+    "feet": 23406,
+    "meters": 7134,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
