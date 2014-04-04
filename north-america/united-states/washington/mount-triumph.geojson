@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.356096,
+      48.706624
+    ]
+  },
+  "properties": {
+    "name": "Mount Triumph",
+    "latitude": 48.706624,
+    "longitude": -121.356096,
+    "feet": 7271,
+    "meters": 2216,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
