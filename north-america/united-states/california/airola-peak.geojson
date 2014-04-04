@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.45
+    ]
+  },
+  "properties": {
+    "name": "Airola Peak",
+    "latitude": 38.45,
+    "longitude": -119.8,
+    "feet": 9942,
+    "meters": 3030,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
