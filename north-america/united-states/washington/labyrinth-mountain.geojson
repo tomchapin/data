@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.04322,
+      47.852841
+    ]
+  },
+  "properties": {
+    "name": "Labyrinth Mountain",
+    "latitude": 47.852841,
+    "longitude": -121.04322,
+    "feet": 6380,
+    "meters": 1945,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
