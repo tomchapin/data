@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grand Cornier",
+    "feet": 12995,
+    "meters": 3961,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
