@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.655417,
+      48.512909
+    ]
+  },
+  "properties": {
+    "name": "North Early Winters Spire",
+    "latitude": 48.512909,
+    "longitude": -120.655417,
+    "feet": 7760,
+    "meters": 2365,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
