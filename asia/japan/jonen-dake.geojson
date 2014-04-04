@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.728,
+      36.3266
+    ]
+  },
+  "properties": {
+    "name": "Jonen Dake",
+    "latitude": 36.3266,
+    "longitude": 137.728,
+    "feet": 9373,
+    "meters": 2857,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
