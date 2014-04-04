@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.099966,
+      -29.347229
+    ]
+  },
+  "properties": {
+    "name": "Big Mount Spirabo",
+    "latitude": -29.347229,
+    "longitude": 152.099966,
+    "feet": 4803,
+    "meters": 1464,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
