@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.33,
+      35.25
+    ]
+  },
+  "properties": {
+    "name": "K-6 Baltistan Peak",
+    "latitude": 35.25,
+    "longitude": 76.33,
+    "feet": 23888,
+    "meters": 7282,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
