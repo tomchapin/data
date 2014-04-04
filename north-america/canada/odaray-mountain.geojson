@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.381865,
+      51.358544
+    ]
+  },
+  "properties": {
+    "name": "Odaray Mountain",
+    "latitude": 51.358544,
+    "longitude": -116.381865,
+    "feet": 10364,
+    "meters": 3159,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
