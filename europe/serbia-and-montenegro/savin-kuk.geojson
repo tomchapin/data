@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.08136,
+      43.12229
+    ]
+  },
+  "properties": {
+    "name": "Savin kuk",
+    "latitude": 43.12229,
+    "longitude": 19.08136,
+    "feet": 7589,
+    "meters": 2313,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
