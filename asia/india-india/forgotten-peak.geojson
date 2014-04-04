@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.891251,
+      33.110523
+    ]
+  },
+  "properties": {
+    "name": "Forgotten Peak",
+    "latitude": 33.110523,
+    "longitude": 76.891251,
+    "feet": 19321,
+    "meters": 5889,
+    "continent": "Asia",
+    "country": "India/India"
+  }
+}
