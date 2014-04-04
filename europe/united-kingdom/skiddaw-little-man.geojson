@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.13876,
+      54.63906
+    ]
+  },
+  "properties": {
+    "name": "Skiddaw Little Man",
+    "latitude": 54.63906,
+    "longitude": -3.13876,
+    "feet": 2837,
+    "meters": 865,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
