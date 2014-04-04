@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.15,
+      -66.667
+    ]
+  },
+  "properties": {
+    "name": "Mount Elkins",
+    "latitude": -66.667,
+    "longitude": 54.15,
+    "feet": 7546,
+    "meters": 2300,
+    "continent": "Antarctica",
+    "country": "Antarctica"
+  }
+}
