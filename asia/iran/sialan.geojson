@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sialan",
+    "feet": 13943,
+    "meters": 4250,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
