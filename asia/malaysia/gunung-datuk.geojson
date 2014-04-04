@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Datuk",
+    "feet": 2900,
+    "meters": 884,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
