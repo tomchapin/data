@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.817,
+      40.8
+    ]
+  },
+  "properties": {
+    "name": "Static Peak",
+    "latitude": 40.8,
+    "longitude": -110.817,
+    "feet": 11303,
+    "meters": 3445,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
