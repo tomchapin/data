@@ -3,18 +3,18 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.5536,
-      41.6111
+      -116.620019,
+      33.164486
     ]
   },
   "properties": {
-    "name": "Medicine Lake Volcano",
-    "latitude": 41.6111,
-    "longitude": -121.5536,
-    "feet": 7913,
-    "meters": 2412,
+    "name": "Volcan Mountain",
+    "latitude": 33.164486,
+    "longitude": -116.620019,
+    "feet": 5000,
+    "meters": 1524,
     "continent": "North America",
-    "country": "United States/United States",
+    "country": "United States",
     "state": "California",
     "marker-symbol": "triangle",
     "marker-size": "small"

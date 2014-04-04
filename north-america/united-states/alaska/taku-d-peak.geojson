@@ -3,16 +3,18 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      -134.291069,
+      58.707971
     ]
   },
   "properties": {
-    "name": "Meteorite Mountain",
-    "feet": 6565,
-    "meters": 2001,
+    "name": "Taku D Peak",
+    "latitude": 58.707971,
+    "longitude": -134.291069,
+    "feet": 5810,
+    "meters": 1771,
     "continent": "North America",
-    "country": "United States/United States",
+    "country": "United States",
     "state": "Alaska",
     "marker-symbol": "triangle",
     "marker-size": "small"

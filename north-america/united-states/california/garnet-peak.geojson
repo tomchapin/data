@@ -14,8 +14,8 @@
     "feet": 5900,
     "meters": 1798,
     "continent": "North America",
-    "country": "United States/United States",
-    "state": "California/California",
+    "country": "United States",
+    "state": "California",
     "marker-symbol": "triangle",
     "marker-size": "small"
   }
