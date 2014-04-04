@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.461368,
+      47.361618
+    ]
+  },
+  "properties": {
+    "name": "Silver Peak",
+    "latitude": 47.361618,
+    "longitude": -121.461368,
+    "feet": 5605,
+    "meters": 1708,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
