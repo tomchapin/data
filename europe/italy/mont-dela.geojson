@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.528806,
+      45.624018
+    ]
+  },
+  "properties": {
+    "name": "Mont Delà",
+    "latitude": 45.624018,
+    "longitude": 7.528806,
+    "feet": 10299,
+    "meters": 3139,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
