@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.982007,
+      45.914334
+    ]
+  },
+  "properties": {
+    "name": "Hardscrabble Peak",
+    "latitude": 45.914334,
+    "longitude": -110.982007,
+    "feet": 9575,
+    "meters": 2918,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
