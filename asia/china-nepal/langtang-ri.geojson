@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.683611,
+      28.381389
+    ]
+  },
+  "properties": {
+    "name": "Langtang Ri",
+    "latitude": 28.381389,
+    "longitude": 85.683611,
+    "feet": 23638,
+    "meters": 7205,
+    "continent": "Asia",
+    "country": "China/Nepal"
+  }
+}
