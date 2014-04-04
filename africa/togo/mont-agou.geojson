@@ -14,6 +14,8 @@
     "feet": 3235,
     "meters": 986,
     "continent": "Africa",
-    "country": "Togo"
+    "country": "Togo",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
