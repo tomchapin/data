@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.03333,
+      45.4667
+    ]
+  },
+  "properties": {
+    "name": "Tsanteleina",
+    "latitude": 45.4667,
+    "longitude": 7.03333,
+    "feet": 11817,
+    "meters": 3602,
+    "continent": "Europe",
+    "country": "France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
