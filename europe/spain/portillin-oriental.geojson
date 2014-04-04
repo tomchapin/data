@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.951709,
+      43.030056
+    ]
+  },
+  "properties": {
+    "name": "Portillin Oriental",
+    "latitude": 43.030056,
+    "longitude": -5.951709,
+    "feet": 7326,
+    "meters": 2233,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
