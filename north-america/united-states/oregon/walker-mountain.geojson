@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.71669,
+      43.305128
+    ]
+  },
+  "properties": {
+    "name": "Walker Mountain",
+    "latitude": 43.305128,
+    "longitude": -121.71669,
+    "feet": 7080,
+    "meters": 2158,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
