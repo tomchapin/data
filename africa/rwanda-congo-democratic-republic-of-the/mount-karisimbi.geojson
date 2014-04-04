@@ -14,6 +14,8 @@
     "feet": 14787,
     "meters": 4507,
     "continent": "Africa",
-    "country": "Rwanda/Congo, Democratic Republic of the"
+    "country": "Rwanda/Congo, Democratic Republic of the",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
