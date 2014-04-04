@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.167515,
+      11.278824
+    ]
+  },
+  "properties": {
+    "name": "Manaphag",
+    "latitude": 11.278824,
+    "longitude": 123.167515,
+    "feet": 1739,
+    "meters": 530,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
