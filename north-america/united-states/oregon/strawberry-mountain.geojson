@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.709335,
+      44.303704
+    ]
+  },
+  "properties": {
+    "name": "Strawberry Mountain",
+    "latitude": 44.303704,
+    "longitude": -118.709335,
+    "feet": 9038,
+    "meters": 2755,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
