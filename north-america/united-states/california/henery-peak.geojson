@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.867,
+      38.4833
+    ]
+  },
+  "properties": {
+    "name": "Henery Peak",
+    "latitude": 38.4833,
+    "longitude": -119.867,
+    "feet": 9334,
+    "meters": 2845,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
