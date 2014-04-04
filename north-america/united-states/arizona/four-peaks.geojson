@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.083,
+      34.1167
+    ]
+  },
+  "properties": {
+    "name": "Four Peaks",
+    "latitude": 34.1167,
+    "longitude": -111.083,
+    "feet": 7657,
+    "meters": 2334,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
