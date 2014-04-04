@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "The Roaches",
+    "feet": 1657,
+    "meters": 505,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
