@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Giewont",
+    "feet": 6263,
+    "meters": 1909,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
