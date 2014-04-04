@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.434346,
+      47.538201
+    ]
+  },
+  "properties": {
+    "name": "Galleon Peak",
+    "latitude": 47.538201,
+    "longitude": -121.434346,
+    "feet": 5283,
+    "meters": 1610,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
