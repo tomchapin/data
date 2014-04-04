@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.331,
+      50.9768
+    ]
+  },
+  "properties": {
+    "name": "Foremast",
+    "latitude": 50.9768,
+    "longitude": -117.331,
+    "feet": 8670,
+    "meters": 2643,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
