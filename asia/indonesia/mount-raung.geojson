@@ -12,6 +12,8 @@
     "feet": 10932,
     "meters": 3332,
     "continent": "Asia",
-    "country": "Indonesia"
+    "country": "Indonesia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
