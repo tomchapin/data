@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.711861,
+      40.327702
+    ]
+  },
+  "properties": {
+    "name": "Canchal de la Ceja",
+    "latitude": 40.327702,
+    "longitude": -5.711861,
+    "feet": 7966,
+    "meters": 2428,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
