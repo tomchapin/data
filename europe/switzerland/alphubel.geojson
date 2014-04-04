@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.863917,
+      46.062972
+    ]
+  },
+  "properties": {
+    "name": "Alphubel",
+    "latitude": 46.062972,
+    "longitude": 7.863917,
+    "feet": 13799,
+    "meters": 4206,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
