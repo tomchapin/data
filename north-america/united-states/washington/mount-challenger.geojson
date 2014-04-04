@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.342354,
+      48.835683
+    ]
+  },
+  "properties": {
+    "name": "Mount Challenger",
+    "latitude": 48.835683,
+    "longitude": -121.342354,
+    "feet": 8207,
+    "meters": 2501,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
