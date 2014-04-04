@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.577682,
+      37.928662
+    ]
+  },
+  "properties": {
+    "name": "Mount Tamalpais",
+    "latitude": 37.928662,
+    "longitude": -122.577682,
+    "feet": 2574,
+    "meters": 784,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
