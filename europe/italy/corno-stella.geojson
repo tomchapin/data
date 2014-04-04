@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.174068,
+      44.263903
+    ]
+  },
+  "properties": {
+    "name": "Corno Stella",
+    "latitude": 44.263903,
+    "longitude": 7.174068,
+    "feet": 10007,
+    "meters": 3050,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
