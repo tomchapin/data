@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ahornspitze",
+    "feet": 9764,
+    "meters": 2976,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
