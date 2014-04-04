@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.104283,
+      48.554293
+    ]
+  },
+  "properties": {
+    "name": "Klawatti Peak",
+    "latitude": 48.554293,
+    "longitude": -121.104283,
+    "feet": 8485,
+    "meters": 2586,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
