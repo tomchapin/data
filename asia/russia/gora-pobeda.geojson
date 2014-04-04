@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.033,
+      65.1833
+    ]
+  },
+  "properties": {
+    "name": "Gora Pobeda",
+    "latitude": 65.1833,
+    "longitude": 146.033,
+    "feet": 9852,
+    "meters": 3003,
+    "continent": "Asia",
+    "country": "Russia"
+  }
+}
