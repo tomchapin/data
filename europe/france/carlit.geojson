@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.93119,
+      42.570781
+    ]
+  },
+  "properties": {
+    "name": "Carlit",
+    "latitude": 42.570781,
+    "longitude": 1.93119,
+    "feet": 9583,
+    "meters": 2921,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
