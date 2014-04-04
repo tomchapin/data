@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.19,
+      50.7667
+    ]
+  },
+  "properties": {
+    "name": "Mount Lawson",
+    "latitude": 50.7667,
+    "longitude": -115.19,
+    "feet": 9170,
+    "meters": 2795,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
