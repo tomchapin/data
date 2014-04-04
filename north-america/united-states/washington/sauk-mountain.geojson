@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.600842,
+      48.523057
+    ]
+  },
+  "properties": {
+    "name": "Sauk Mountain",
+    "latitude": 48.523057,
+    "longitude": -121.600842,
+    "feet": 5541,
+    "meters": 1689,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
