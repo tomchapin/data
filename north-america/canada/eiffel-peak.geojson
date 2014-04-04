@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.235352,
+      51.332113
+    ]
+  },
+  "properties": {
+    "name": "Eiffel Peak",
+    "latitude": 51.332113,
+    "longitude": -116.235352,
+    "feet": 10118,
+    "meters": 3084,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
