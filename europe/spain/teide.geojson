@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.64257,
+      28.272335
+    ]
+  },
+  "properties": {
+    "name": "Teide",
+    "latitude": 28.272335,
+    "longitude": -16.64257,
+    "feet": 12198,
+    "meters": 3718,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
