@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Narsing",
+    "feet": 19029,
+    "meters": 5800,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
