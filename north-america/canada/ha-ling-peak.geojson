@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.433,
+      51.0333
+    ]
+  },
+  "properties": {
+    "name": "Ha Ling Peak",
+    "latitude": 51.0333,
+    "longitude": -115.433,
+    "feet": 7897,
+    "meters": 2407,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
