@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lenzspitze",
+    "feet": 14088,
+    "meters": 4294,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
