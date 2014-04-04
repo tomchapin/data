@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.167,
+      49.45
+    ]
+  },
+  "properties": {
+    "name": "The Lions (East Peak)",
+    "latitude": 49.45,
+    "longitude": -123.167,
+    "feet": 5246,
+    "meters": 1599,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
