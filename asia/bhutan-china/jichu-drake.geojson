@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.150278,
+      27.7025
+    ]
+  },
+  "properties": {
+    "name": "Jichu Drake",
+    "latitude": 27.7025,
+    "longitude": 88.150278,
+    "feet": 22290,
+    "meters": 6794,
+    "continent": "Asia",
+    "country": "Bhutan/China"
+  }
+}
