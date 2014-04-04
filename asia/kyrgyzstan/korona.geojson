@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Korona",
+    "feet": 15945,
+    "meters": 4860,
+    "continent": "Asia",
+    "country": "Kyrgyzstan"
+  }
+}
