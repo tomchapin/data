@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.132771,
+      51.037994
+    ]
+  },
+  "properties": {
+    "name": "Heart Mountain",
+    "latitude": 51.037994,
+    "longitude": -115.132771,
+    "feet": 7005,
+    "meters": 2135,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
