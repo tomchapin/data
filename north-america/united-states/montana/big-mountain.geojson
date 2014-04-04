@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.018,
+      34.0631
+    ]
+  },
+  "properties": {
+    "name": "Big Mountain",
+    "latitude": 34.0631,
+    "longitude": -110.018,
+    "feet": 7000,
+    "meters": 2134,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
