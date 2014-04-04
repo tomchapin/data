@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Terskol",
+    "feet": 12795,
+    "meters": 3900,
+    "continent": "Europe",
+    "country": "Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
