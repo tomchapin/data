@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.35,
+      67.1
+    ]
+  },
+  "properties": {
+    "name": "Saitaris",
+    "latitude": 67.1,
+    "longitude": 17.35,
+    "feet": 6250,
+    "meters": 1905,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
