@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.442,
+      1.467
+    ]
+  },
+  "properties": {
+    "name": "Tungurahua",
+    "latitude": 1.467,
+    "longitude": -78.442,
+    "feet": 16479,
+    "meters": 5023,
+    "continent": "South America",
+    "country": "Ecuador/Ecuador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
