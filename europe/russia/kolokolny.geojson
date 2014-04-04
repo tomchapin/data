@@ -12,6 +12,8 @@
     "feet": 5400,
     "meters": 1646,
     "continent": "Europe",
-    "country": "Russia"
+    "country": "Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
