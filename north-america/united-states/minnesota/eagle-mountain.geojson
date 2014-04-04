@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.5601,
+      47.8974
+    ]
+  },
+  "properties": {
+    "name": "Eagle Mountain",
+    "latitude": 47.8974,
+    "longitude": -90.5601,
+    "feet": 2301,
+    "meters": 701,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Minnesota"
+  }
+}
