@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tarewera",
+    "feet": 3645,
+    "meters": 1111,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
