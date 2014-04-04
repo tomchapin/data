@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.083392,
+      40.014732
+    ]
+  },
+  "properties": {
+    "name": "Flattop Mountain",
+    "latitude": 40.014732,
+    "longitude": -107.083392,
+    "feet": 12493,
+    "meters": 3808,
+    "continent": "North America",
+    "country": "United States"
+  }
+}
