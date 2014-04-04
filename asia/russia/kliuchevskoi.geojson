@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      160.633,
+      56.0667
+    ]
+  },
+  "properties": {
+    "name": "Kliuchevskoi",
+    "latitude": 56.0667,
+    "longitude": 160.633,
+    "feet": 15584,
+    "meters": 4750,
+    "continent": "Asia",
+    "country": "Russia"
+  }
+}
