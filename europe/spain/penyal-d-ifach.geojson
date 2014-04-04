@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.075,
+      38.6335
+    ]
+  },
+  "properties": {
+    "name": "Penyal d'Ifach",
+    "latitude": 38.6335,
+    "longitude": 0.075,
+    "feet": 1089,
+    "meters": 332,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
