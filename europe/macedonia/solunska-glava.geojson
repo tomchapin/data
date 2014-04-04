@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Solunska Glava",
+    "feet": 8333,
+    "meters": 2540,
+    "continent": "Europe",
+    "country": "Macedonia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
