@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.938149,
+      -16.450572
+    ]
+  },
+  "properties": {
+    "name": "Cerro Khasiri",
+    "latitude": -16.450572,
+    "longitude": -67.938149,
+    "feet": 17139,
+    "meters": 5224,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
