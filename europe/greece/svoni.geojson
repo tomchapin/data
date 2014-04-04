@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.7,
+      39.15
+    ]
+  },
+  "properties": {
+    "name": "Svoni",
+    "latitude": 39.15,
+    "longitude": 21.7,
+    "feet": 6699,
+    "meters": 2042,
+    "continent": "Europe",
+    "country": "Greece",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
