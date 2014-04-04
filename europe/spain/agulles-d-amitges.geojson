@@ -14,6 +14,8 @@
     "feet": 8743,
     "meters": 2665,
     "continent": "Europe",
-    "country": "Spain"
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
