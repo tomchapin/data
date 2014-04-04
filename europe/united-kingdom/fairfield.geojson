@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.99165,
+      54.4971
+    ]
+  },
+  "properties": {
+    "name": "Fairfield",
+    "latitude": 54.4971,
+    "longitude": -2.99165,
+    "feet": 2864,
+    "meters": 873,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
