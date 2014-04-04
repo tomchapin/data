@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sabalan",
+    "feet": 15784,
+    "meters": 4811,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
