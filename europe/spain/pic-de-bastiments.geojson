@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.190399,
+      42.416867
+    ]
+  },
+  "properties": {
+    "name": "Pic de Bastiments",
+    "latitude": 42.416867,
+    "longitude": 2.190399,
+    "feet": 9468,
+    "meters": 2886,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
