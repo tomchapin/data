@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.729722,
+      45.938333
+    ]
+  },
+  "properties": {
+    "name": "Klein Matterhorn",
+    "latitude": 45.938333,
+    "longitude": 7.729722,
+    "feet": 12740,
+    "meters": 3883,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
