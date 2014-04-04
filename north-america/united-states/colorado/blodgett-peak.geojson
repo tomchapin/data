@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.9,
+      38.9667
+    ]
+  },
+  "properties": {
+    "name": "Blodgett Peak",
+    "latitude": 38.9667,
+    "longitude": -104.9,
+    "feet": 9423,
+    "meters": 2872,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
