@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.645315,
+      61.444142
+    ]
+  },
+  "properties": {
+    "name": "Tjønnholstind",
+    "latitude": 61.444142,
+    "longitude": 8.645315,
+    "feet": 7648,
+    "meters": 2331,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
