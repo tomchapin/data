@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.621,
+      37.6228
+    ]
+  },
+  "properties": {
+    "name": "Mount Eolus",
+    "latitude": 37.6228,
+    "longitude": -107.621,
+    "feet": 14083,
+    "meters": 4293,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
