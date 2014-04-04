@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.27,
+      41.36
+    ]
+  },
+  "properties": {
+    "name": "Perelik",
+    "latitude": 41.36,
+    "longitude": 24.27,
+    "feet": 7185,
+    "meters": 2190,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
