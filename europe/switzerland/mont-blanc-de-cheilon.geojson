@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.41667,
+      45.9833
+    ]
+  },
+  "properties": {
+    "name": "Mont Blanc de Cheilon",
+    "latitude": 45.9833,
+    "longitude": 7.41667,
+    "feet": 12696,
+    "meters": 3870,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
