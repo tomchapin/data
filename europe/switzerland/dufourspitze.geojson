@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.88333,
+      45.9167
+    ]
+  },
+  "properties": {
+    "name": "Dufourspitze",
+    "latitude": 45.9167,
+    "longitude": 7.88333,
+    "feet": 15203,
+    "meters": 4634,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
