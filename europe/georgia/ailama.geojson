@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.2333,
+      42.8667
+    ]
+  },
+  "properties": {
+    "name": "Ailama",
+    "latitude": 42.8667,
+    "longitude": 43.2333,
+    "feet": 14918,
+    "meters": 4547,
+    "continent": "Europe",
+    "country": "Georgia"
+  }
+}
