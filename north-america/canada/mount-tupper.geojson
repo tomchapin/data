@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.4967,
+      51.3367
+    ]
+  },
+  "properties": {
+    "name": "Mount Tupper",
+    "latitude": 51.3367,
+    "longitude": -117.4967,
+    "feet": 9239,
+    "meters": 2816,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
