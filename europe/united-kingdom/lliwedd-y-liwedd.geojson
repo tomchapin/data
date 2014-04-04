@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0557,
+      53.0593
+    ]
+  },
+  "properties": {
+    "name": "Lliwedd (Y Liwedd)",
+    "latitude": 53.0593,
+    "longitude": -4.0557,
+    "feet": 2946,
+    "meters": 898,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
