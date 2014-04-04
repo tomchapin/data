@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.0322,
+      41.3678
+    ]
+  },
+  "properties": {
+    "name": "Marashka Chuka",
+    "latitude": 41.3678,
+    "longitude": 24.0322,
+    "feet": 4639,
+    "meters": 1414,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
