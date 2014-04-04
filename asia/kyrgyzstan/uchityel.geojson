@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Uchityel",
+    "feet": 15000,
+    "meters": 4572,
+    "continent": "Asia",
+    "country": "Kyrgyzstan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
