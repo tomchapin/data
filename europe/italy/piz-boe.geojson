@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.825355,
+      46.511278
+    ]
+  },
+  "properties": {
+    "name": "Piz Boé",
+    "latitude": 46.511278,
+    "longitude": 11.825355,
+    "feet": 10341,
+    "meters": 3152,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
