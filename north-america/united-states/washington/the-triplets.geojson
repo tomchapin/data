@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.073112,
+      48.461539
+    ]
+  },
+  "properties": {
+    "name": "The Triplets",
+    "latitude": 48.461539,
+    "longitude": -121.073112,
+    "feet": 7240,
+    "meters": 2207,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
