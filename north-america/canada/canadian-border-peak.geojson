@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.679163,
+      49.004518
+    ]
+  },
+  "properties": {
+    "name": "Canadian Border Peak",
+    "latitude": 49.004518,
+    "longitude": -121.679163,
+    "feet": 7516,
+    "meters": 2291,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
