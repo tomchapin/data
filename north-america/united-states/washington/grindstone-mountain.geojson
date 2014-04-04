@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.913339,
+      47.636651
+    ]
+  },
+  "properties": {
+    "name": "Grindstone Mountain",
+    "latitude": 47.636651,
+    "longitude": -120.913339,
+    "feet": 7533,
+    "meters": 2296,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
