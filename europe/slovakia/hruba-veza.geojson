@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.130244,
+      49.181384
+    ]
+  },
+  "properties": {
+    "name": "Hruba veza",
+    "latitude": 49.181384,
+    "longitude": 20.130244,
+    "feet": 6844,
+    "meters": 2086,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
