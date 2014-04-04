@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4,
+      13.25
+    ]
+  },
+  "properties": {
+    "name": "Ras Dashen",
+    "latitude": 13.25,
+    "longitude": 38.4,
+    "feet": 14928,
+    "meters": 4550,
+    "continent": "Africa",
+    "country": "Ethiopia"
+  }
+}
