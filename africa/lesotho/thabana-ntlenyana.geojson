@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Thabana Ntlenyana",
+    "feet": 11424,
+    "meters": 3482,
+    "continent": "Africa",
+    "country": "Lesotho",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
