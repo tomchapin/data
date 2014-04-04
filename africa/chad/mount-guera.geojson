@@ -13,6 +13,8 @@
     "longitude": 18.2,
     "feet": 4750,
     "continent": "Africa",
-    "country": "Chad"
+    "country": "Chad",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
