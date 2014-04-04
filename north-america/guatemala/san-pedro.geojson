@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "San Pedro",
+    "feet": 9908,
+    "meters": 3020,
+    "continent": "North America",
+    "country": "Guatemala"
+  }
+}
