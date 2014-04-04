@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Diadem",
+    "feet": 5700,
+    "meters": 1737,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
