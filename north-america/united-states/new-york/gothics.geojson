@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.858037,
+      44.127367
+    ]
+  },
+  "properties": {
+    "name": "Gothics",
+    "latitude": 44.127367,
+    "longitude": -73.858037,
+    "feet": 4738,
+    "meters": 1444,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
