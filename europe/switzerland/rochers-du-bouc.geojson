@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37337,
+      46.04267
+    ]
+  },
+  "properties": {
+    "name": "Rochers du Bouc",
+    "latitude": 46.04267,
+    "longitude": 7.37337,
+    "feet": 10873,
+    "meters": 3314,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
