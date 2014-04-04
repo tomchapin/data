@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.745519,
+      35.861916
+    ]
+  },
+  "properties": {
+    "name": "Redonda Peak",
+    "latitude": 35.861916,
+    "longitude": -105.745519,
+    "feet": 12357,
+    "meters": 3766,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
