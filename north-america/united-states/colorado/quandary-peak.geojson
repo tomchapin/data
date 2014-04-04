@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.106,
+      39.3972
+    ]
+  },
+  "properties": {
+    "name": "Quandary Peak",
+    "latitude": 39.3972,
+    "longitude": -106.106,
+    "feet": 14265,
+    "meters": 4348,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
