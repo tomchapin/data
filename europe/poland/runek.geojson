@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.1552,
+      49.2948
+    ]
+  },
+  "properties": {
+    "name": "Runek",
+    "latitude": 49.2948,
+    "longitude": 20.1552,
+    "feet": 3297,
+    "meters": 1005,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
