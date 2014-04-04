@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.767889,
+      46.610056
+    ]
+  },
+  "properties": {
+    "name": "Sass Rigais",
+    "latitude": 46.610056,
+    "longitude": 11.767889,
+    "feet": 9925,
+    "meters": 3025,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
