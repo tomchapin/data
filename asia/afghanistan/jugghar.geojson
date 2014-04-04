@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.6036,
+      43.5794
+    ]
+  },
+  "properties": {
+    "name": "Jugghar",
+    "latitude": 43.5794,
+    "longitude": 87.6036,
+    "feet": 4147,
+    "meters": 1264,
+    "continent": "Asia",
+    "country": "Afghanistan"
+  }
+}
