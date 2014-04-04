@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.21927,
+      54.4821
+    ]
+  },
+  "properties": {
+    "name": "Great Gable",
+    "latitude": 54.4821,
+    "longitude": -3.21927,
+    "feet": 2949,
+    "meters": 899,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
