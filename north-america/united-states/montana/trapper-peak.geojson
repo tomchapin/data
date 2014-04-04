@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.298,
+      45.8898
+    ]
+  },
+  "properties": {
+    "name": "Trapper Peak",
+    "latitude": 45.8898,
+    "longitude": -114.298,
+    "feet": 10159,
+    "meters": 3096,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
