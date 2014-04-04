@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.123686,
+      42.300111
+    ]
+  },
+  "properties": {
+    "name": "Drake Peak",
+    "latitude": 42.300111,
+    "longitude": -120.123686,
+    "feet": 8407,
+    "meters": 2562,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
