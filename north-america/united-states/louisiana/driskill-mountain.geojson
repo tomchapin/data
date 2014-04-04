@@ -15,6 +15,8 @@
     "meters": 163,
     "continent": "North America",
     "country": "United States",
-    "state": "Louisiana"
+    "state": "Louisiana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
