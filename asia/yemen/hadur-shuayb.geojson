@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hadur Shuayb",
+    "feet": 12336,
+    "meters": 3760,
+    "continent": "Asia",
+    "country": "Yemen"
+  }
+}
