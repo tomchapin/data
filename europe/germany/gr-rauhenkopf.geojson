@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.974339,
+      47.675097
+    ]
+  },
+  "properties": {
+    "name": "Gr. Rauhenkopf",
+    "latitude": 47.675097,
+    "longitude": 12.974339,
+    "feet": 5265,
+    "meters": 1605,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
