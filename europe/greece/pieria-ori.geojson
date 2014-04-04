@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1167,
+      40.2
+    ]
+  },
+  "properties": {
+    "name": "Pieria Ori",
+    "latitude": 40.2,
+    "longitude": 22.1167,
+    "feet": 7185,
+    "meters": 2190,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
