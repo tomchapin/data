@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.903769,
+      48.523426
+    ]
+  },
+  "properties": {
+    "name": "Outpost",
+    "latitude": 48.523426,
+    "longitude": -120.903769,
+    "feet": 7910,
+    "meters": 2411,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
