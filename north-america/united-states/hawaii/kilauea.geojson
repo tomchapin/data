@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.283333,
+      19.416667
+    ]
+  },
+  "properties": {
+    "name": "Kilauea",
+    "latitude": 19.416667,
+    "longitude": -155.283333,
+    "feet": 4091,
+    "meters": 1247,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Hawaii"
+  }
+}
