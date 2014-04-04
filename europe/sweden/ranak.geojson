@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ranak",
+    "feet": 2047,
+    "meters": 624,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
