@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Picacho del Diablo",
+    "feet": 10157,
+    "meters": 3096,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
