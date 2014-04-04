@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.689226,
+      40.560667
+    ]
+  },
+  "properties": {
+    "name": "Deveboynu",
+    "latitude": 40.560667,
+    "longitude": 39.689226,
+    "feet": 10112,
+    "meters": 3082,
+    "continent": "Asia",
+    "country": "Turkey"
+  }
+}
