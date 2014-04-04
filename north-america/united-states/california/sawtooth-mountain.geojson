@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.003141,
+      40.973064
+    ]
+  },
+  "properties": {
+    "name": "Sawtooth Mountain",
+    "latitude": 40.973064,
+    "longitude": -123.003141,
+    "feet": 8886,
+    "meters": 2708,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
