@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.273,
+      35.513
+    ]
+  },
+  "properties": {
+    "name": "Kolakchal",
+    "latitude": 35.513,
+    "longitude": 51.273,
+    "feet": 10827,
+    "meters": 3300,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
