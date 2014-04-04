@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.311495,
+      61.760658
+    ]
+  },
+  "properties": {
+    "name": "Hatch",
+    "latitude": 61.760658,
+    "longitude": -149.311495,
+    "feet": 4811,
+    "meters": 1466,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
