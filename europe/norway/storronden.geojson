@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.860916,
+      61.89224
+    ]
+  },
+  "properties": {
+    "name": "Storronden",
+    "latitude": 61.89224,
+    "longitude": 9.860916,
+    "feet": 7014,
+    "meters": 2138,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
