@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Wangore",
+    "feet": 3789,
+    "meters": 1155,
+    "continent": "Australia/Oceania",
+    "country": "Papua New Guinea",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
