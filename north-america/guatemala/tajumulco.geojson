@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tajumulco",
+    "feet": 13845,
+    "meters": 4220,
+    "continent": "North America",
+    "country": "Guatemala",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
