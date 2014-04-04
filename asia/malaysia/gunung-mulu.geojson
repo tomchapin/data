@@ -12,6 +12,8 @@
     "feet": 7795,
     "meters": 2376,
     "continent": "Asia",
-    "country": "Malaysia"
+    "country": "Malaysia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
