@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2034,
+      58.0361
+    ]
+  },
+  "properties": {
+    "name": "Stac Pollaidh",
+    "latitude": 58.0361,
+    "longitude": -5.2034,
+    "feet": 2011,
+    "meters": 613,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
