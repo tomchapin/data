@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.759,
+      46.8528
+    ]
+  },
+  "properties": {
+    "name": "Mount Rainier",
+    "latitude": 46.8528,
+    "longitude": -121.759,
+    "feet": 14411,
+    "meters": 4392,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
