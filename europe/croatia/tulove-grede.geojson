@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.702209,
+      44.25897
+    ]
+  },
+  "properties": {
+    "name": "Tulove Grede",
+    "latitude": 44.25897,
+    "longitude": 15.702209,
+    "feet": 3615,
+    "meters": 1120,
+    "continent": "Europe",
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
