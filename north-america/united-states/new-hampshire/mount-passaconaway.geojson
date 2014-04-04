@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.8333,
+      44.25
+    ]
+  },
+  "properties": {
+    "name": "Mount Passaconaway",
+    "latitude": 44.25,
+    "longitude": -71.8333,
+    "feet": 4060,
+    "meters": 1238,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
