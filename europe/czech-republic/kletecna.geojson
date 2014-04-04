@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.97315,
+      50.566938
+    ]
+  },
+  "properties": {
+    "name": "Kletecna",
+    "latitude": 50.566938,
+    "longitude": 13.97315,
+    "feet": 2316,
+    "meters": 706,
+    "continent": "Europe",
+    "country": "Czech Republic"
+  }
+}
