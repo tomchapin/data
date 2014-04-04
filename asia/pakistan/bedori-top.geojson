@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bedori Top",
+    "feet": 12229,
+    "meters": 3727,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
