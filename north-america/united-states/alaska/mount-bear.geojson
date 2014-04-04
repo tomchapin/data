@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.167,
+      61.2667
+    ]
+  },
+  "properties": {
+    "name": "Mount Bear",
+    "latitude": 61.2667,
+    "longitude": -141.167,
+    "feet": 14831,
+    "meters": 4521,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
