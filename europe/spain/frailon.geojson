@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.067322,
+      43.175428
+    ]
+  },
+  "properties": {
+    "name": "Frailon",
+    "latitude": 43.175428,
+    "longitude": -5.067322,
+    "feet": 4209,
+    "meters": 1283,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
