@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.35,
+      26.2333
+    ]
+  },
+  "properties": {
+    "name": "Jebel Qihwi",
+    "latitude": 26.2333,
+    "longitude": 56.35,
+    "feet": 5886,
+    "meters": 1794,
+    "continent": "Asia",
+    "country": "Oman"
+  }
+}
