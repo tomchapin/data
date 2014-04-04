@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.697472,
+      46.026306
+    ]
+  },
+  "properties": {
+    "name": "Unter Gabelhorn",
+    "latitude": 46.026306,
+    "longitude": 7.697472,
+    "feet": 11129,
+    "meters": 3392,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
