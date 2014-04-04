@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.263,
+      50.83
+    ]
+  },
+  "properties": {
+    "name": "Gusty Peak",
+    "latitude": 50.83,
+    "longitude": -115.263,
+    "feet": 9843,
+    "meters": 3000,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
