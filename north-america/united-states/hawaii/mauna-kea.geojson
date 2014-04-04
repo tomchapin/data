@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.471,
+      19.8236
+    ]
+  },
+  "properties": {
+    "name": "Mauna Kea",
+    "latitude": 19.8236,
+    "longitude": -155.471,
+    "feet": 13796,
+    "meters": 4205,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Hawaii"
+  }
+}
