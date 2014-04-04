@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.5,
+      31.1
+    ]
+  },
+  "properties": {
+    "name": "Swargarohini",
+    "latitude": 31.1,
+    "longitude": 78.5,
+    "feet": 20512,
+    "meters": 6252,
+    "continent": "Asia",
+    "country": "India",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
