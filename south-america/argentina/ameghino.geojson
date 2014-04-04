@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.977074,
+      -32.628099
+    ]
+  },
+  "properties": {
+    "name": "Ameghino",
+    "latitude": -32.628099,
+    "longitude": -69.977074,
+    "feet": 19587,
+    "meters": 5970,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
