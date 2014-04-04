@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.923,
+      38.0233
+    ]
+  },
+  "properties": {
+    "name": "Stewart Peak",
+    "latitude": 38.0233,
+    "longitude": -106.923,
+    "feet": 13983,
+    "meters": 4262,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
