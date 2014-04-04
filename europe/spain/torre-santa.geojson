@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.973516,
+      43.212556
+    ]
+  },
+  "properties": {
+    "name": "Torre Santa",
+    "latitude": 43.212556,
+    "longitude": -4.973516,
+    "feet": 2486,
+    "meters": 758,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
