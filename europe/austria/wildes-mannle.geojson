@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.899639,
+      46.884483
+    ]
+  },
+  "properties": {
+    "name": "Wildes Mannle",
+    "latitude": 46.884483,
+    "longitude": 10.899639,
+    "feet": 9918,
+    "meters": 3023,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
