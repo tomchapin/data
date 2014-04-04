@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.616056,
+      9.959974
+    ]
+  },
+  "properties": {
+    "name": "Topo Yagrumal",
+    "latitude": 9.959974,
+    "longitude": -68.616056,
+    "feet": 5577,
+    "meters": 1700,
+    "continent": "South America",
+    "country": "Venezuela",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
