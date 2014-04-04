@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.599543,
+      61.002122
+    ]
+  },
+  "properties": {
+    "name": "Rainbow Peak",
+    "latitude": 61.002122,
+    "longitude": -149.599543,
+    "feet": 3543,
+    "meters": 1080,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
