@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.817,
+      32.7833
+    ]
+  },
+  "properties": {
+    "name": "Sacramento Peak",
+    "latitude": 32.7833,
+    "longitude": -105.817,
+    "feet": 9255,
+    "meters": 2821,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
