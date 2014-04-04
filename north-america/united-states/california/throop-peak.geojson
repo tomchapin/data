@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.79923,
+      34.350558
+    ]
+  },
+  "properties": {
+    "name": "Throop Peak",
+    "latitude": 34.350558,
+    "longitude": -117.79923,
+    "feet": 9138,
+    "meters": 2785,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
