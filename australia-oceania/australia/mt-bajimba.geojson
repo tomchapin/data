@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.105829,
+      -29.294232
+    ]
+  },
+  "properties": {
+    "name": "Mt Bajimba",
+    "latitude": -29.294232,
+    "longitude": 152.105829,
+    "feet": 4741,
+    "meters": 1445,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
