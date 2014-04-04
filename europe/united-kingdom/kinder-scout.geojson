@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.86667,
+      53.3833
+    ]
+  },
+  "properties": {
+    "name": "Kinder Scout",
+    "latitude": 53.3833,
+    "longitude": -1.86667,
+    "feet": 2087,
+    "meters": 636,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
