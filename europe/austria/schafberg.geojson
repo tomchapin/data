@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.463745,
+      47.739323
+    ]
+  },
+  "properties": {
+    "name": "Schafberg",
+    "latitude": 47.739323,
+    "longitude": 13.463745,
+    "feet": 5702,
+    "meters": 1782,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
