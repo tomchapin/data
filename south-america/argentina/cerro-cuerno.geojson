@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8333,
+      -32.6667
+    ]
+  },
+  "properties": {
+    "name": "Cerro Cuerno",
+    "latitude": -32.6667,
+    "longitude": -69.8333,
+    "feet": 17920,
+    "meters": 5462,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
