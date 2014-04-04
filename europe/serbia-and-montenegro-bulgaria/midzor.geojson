@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.682107,
+      43.393935
+    ]
+  },
+  "properties": {
+    "name": "Midzor",
+    "latitude": 43.393935,
+    "longitude": 22.682107,
+    "feet": 7116,
+    "meters": 2169,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro/Bulgaria"
+  }
+}
