@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.651983,
+      30.28529
+    ]
+  },
+  "properties": {
+    "name": "Adi Kailash",
+    "latitude": 30.28529,
+    "longitude": 80.651983,
+    "feet": 20312,
+    "meters": 6191,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
