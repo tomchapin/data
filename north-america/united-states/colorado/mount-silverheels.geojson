@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.005,
+      39.3392
+    ]
+  },
+  "properties": {
+    "name": "Mount Silverheels",
+    "latitude": 39.3392,
+    "longitude": -106.005,
+    "feet": 13822,
+    "meters": 4213,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
