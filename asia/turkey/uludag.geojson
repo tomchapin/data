@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Uludag",
+    "feet": 8343,
+    "meters": 2543,
+    "continent": "Asia",
+    "country": "Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
