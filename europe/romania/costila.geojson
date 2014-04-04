@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.4854,
+      45.427
+    ]
+  },
+  "properties": {
+    "name": "Costila",
+    "latitude": 45.427,
+    "longitude": 25.4854,
+    "feet": 8196,
+    "meters": 2498,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
