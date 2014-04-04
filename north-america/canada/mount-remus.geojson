@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.971,
+      50.7944
+    ]
+  },
+  "properties": {
+    "name": "Mount Remus",
+    "latitude": 50.7944,
+    "longitude": -114.971,
+    "feet": 8818,
+    "meters": 2688,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
