@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.368,
+      44.231619
+    ]
+  },
+  "properties": {
+    "name": "Piedmont Butte",
+    "latitude": 44.231619,
+    "longitude": -103.368,
+    "feet": 3882,
+    "meters": 1183,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Dakota"
+  }
+}
