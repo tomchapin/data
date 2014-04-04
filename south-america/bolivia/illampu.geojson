@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.543358,
+      -15.815997
+    ]
+  },
+  "properties": {
+    "name": "Illampu",
+    "latitude": -15.815997,
+    "longitude": -68.543358,
+    "feet": 20873,
+    "meters": 6362,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
