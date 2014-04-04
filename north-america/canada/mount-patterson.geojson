@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.575241,
+      51.746376
+    ]
+  },
+  "properties": {
+    "name": "Mount Patterson",
+    "latitude": 51.746376,
+    "longitude": -116.575241,
+    "feet": 10489,
+    "meters": 3197,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
