@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "High Willhays",
+    "feet": 2037,
+    "meters": 621,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
