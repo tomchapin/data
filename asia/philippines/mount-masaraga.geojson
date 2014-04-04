@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.6,
+      13.32
+    ]
+  },
+  "properties": {
+    "name": "Mount Masaraga",
+    "latitude": 13.32,
+    "longitude": 123.6,
+    "feet": 4357,
+    "meters": 1328,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
