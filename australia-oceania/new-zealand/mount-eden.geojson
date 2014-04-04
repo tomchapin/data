@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.764167,
+      -36.879722
+    ]
+  },
+  "properties": {
+    "name": "Mount Eden",
+    "latitude": -36.879722,
+    "longitude": 174.764167,
+    "feet": 643,
+    "meters": 196,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
