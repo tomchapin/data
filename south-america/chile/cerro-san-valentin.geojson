@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.345327,
+      -46.594908
+    ]
+  },
+  "properties": {
+    "name": "Cerro San Valentin",
+    "latitude": -46.594908,
+    "longitude": -73.345327,
+    "feet": 13313,
+    "meters": 4058,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
