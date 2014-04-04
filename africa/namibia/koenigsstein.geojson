@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Koenigsstein",
+    "feet": 8441,
+    "meters": 2573,
+    "continent": "Africa",
+    "country": "Namibia"
+  }
+}
