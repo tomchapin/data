@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.34,
+      40.8233
+    ]
+  },
+  "properties": {
+    "name": "Gilbert Peak",
+    "latitude": 40.8233,
+    "longitude": -110.34,
+    "feet": 13442,
+    "meters": 4097,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
