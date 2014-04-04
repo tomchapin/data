@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.331726,
+      51.025093
+    ]
+  },
+  "properties": {
+    "name": "Little Sister",
+    "latitude": 51.025093,
+    "longitude": -115.331726,
+    "feet": 8839,
+    "meters": 2694,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
