@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Säuling",
+    "feet": 6716,
+    "meters": 2047,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
