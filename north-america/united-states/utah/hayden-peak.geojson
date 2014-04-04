@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.844,
+      40.7356
+    ]
+  },
+  "properties": {
+    "name": "Hayden Peak",
+    "latitude": 40.7356,
+    "longitude": -110.844,
+    "feet": 12479,
+    "meters": 3804,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
