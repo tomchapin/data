@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.797,
+      48.0579
+    ]
+  },
+  "properties": {
+    "name": "Mount Pilchuck",
+    "latitude": 48.0579,
+    "longitude": -121.797,
+    "feet": 5340,
+    "meters": 1628,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
