@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.36667,
+      44.95
+    ]
+  },
+  "properties": {
+    "name": "Roche Faurio",
+    "latitude": 44.95,
+    "longitude": 6.36667,
+    "feet": 12237,
+    "meters": 3730,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
