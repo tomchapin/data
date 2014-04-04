@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.49,
+      46.48
+    ]
+  },
+  "properties": {
+    "name": "Parsenn",
+    "latitude": 46.48,
+    "longitude": 9.49,
+    "feet": 9331,
+    "meters": 2844,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
