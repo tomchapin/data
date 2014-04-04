@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Taschhorn",
+    "feet": 14731,
+    "meters": 4490,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
