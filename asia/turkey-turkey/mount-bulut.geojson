@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.8,
+      38.2
+    ]
+  },
+  "properties": {
+    "name": "Mount Bulut",
+    "latitude": 38.2,
+    "longitude": 37.8,
+    "feet": 11686,
+    "meters": 3562,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
