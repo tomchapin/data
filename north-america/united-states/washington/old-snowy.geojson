@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.454072,
+      46.512068
+    ]
+  },
+  "properties": {
+    "name": "Old Snowy",
+    "latitude": 46.512068,
+    "longitude": -121.454072,
+    "feet": 7930,
+    "meters": 2417,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
