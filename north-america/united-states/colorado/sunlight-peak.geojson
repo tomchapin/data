@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.595,
+      37.6272
+    ]
+  },
+  "properties": {
+    "name": "Sunlight Peak",
+    "latitude": 37.6272,
+    "longitude": -107.595,
+    "feet": 14059,
+    "meters": 4285,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
