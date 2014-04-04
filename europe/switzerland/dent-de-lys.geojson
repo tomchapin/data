@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.002961,
+      46.507634
+    ]
+  },
+  "properties": {
+    "name": "Dent de Lys",
+    "latitude": 46.507634,
+    "longitude": 7.002961,
+    "feet": 6608,
+    "meters": 2014,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
