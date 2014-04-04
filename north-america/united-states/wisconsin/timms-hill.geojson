@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.1951,
+      45.4511
+    ]
+  },
+  "properties": {
+    "name": "Timms Hill",
+    "latitude": 45.4511,
+    "longitude": -90.1951,
+    "feet": 1952,
+    "meters": 595,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wisconsin",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
