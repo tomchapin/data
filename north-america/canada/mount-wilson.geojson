@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.8005,
+      52.0192
+    ]
+  },
+  "properties": {
+    "name": "Mount Wilson",
+    "latitude": 52.0192,
+    "longitude": -116.8005,
+    "feet": 10699,
+    "meters": 3261,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
