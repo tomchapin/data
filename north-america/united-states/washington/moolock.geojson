@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.641955,
+      47.547306
+    ]
+  },
+  "properties": {
+    "name": "Moolock",
+    "latitude": 47.547306,
+    "longitude": -121.641955,
+    "feet": 4965,
+    "meters": 1513,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
