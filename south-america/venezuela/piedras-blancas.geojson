@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.951638,
+      8.858698
+    ]
+  },
+  "properties": {
+    "name": "Piedras Blancas",
+    "latitude": 8.858698,
+    "longitude": -70.951638,
+    "feet": 15577,
+    "meters": 4748,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
