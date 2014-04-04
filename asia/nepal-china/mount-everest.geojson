@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9253,
+      27.9881
+    ]
+  },
+  "properties": {
+    "name": "Mount Everest",
+    "latitude": 27.9881,
+    "longitude": 86.9253,
+    "feet": 29035,
+    "meters": 8850,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
