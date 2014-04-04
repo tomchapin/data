@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.8565,
+      44.127205
+    ]
+  },
+  "properties": {
+    "name": "The Husband",
+    "latitude": 44.127205,
+    "longitude": -121.8565,
+    "feet": 7524,
+    "meters": 2293,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
