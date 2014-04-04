@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.01655,
+      48.911444
+    ]
+  },
+  "properties": {
+    "name": "Desolation Peak",
+    "latitude": 48.911444,
+    "longitude": -121.01655,
+    "feet": 6102,
+    "meters": 1860,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
