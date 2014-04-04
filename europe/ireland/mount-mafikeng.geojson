@@ -12,6 +12,8 @@
     "feet": 492,
     "meters": 150,
     "continent": "Europe",
-    "country": "Ireland"
+    "country": "Ireland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
