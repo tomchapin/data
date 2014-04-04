@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.627898,
+      44.109066
+    ]
+  },
+  "properties": {
+    "name": "Mount Flume",
+    "latitude": 44.109066,
+    "longitude": -71.627898,
+    "feet": 4327,
+    "meters": 1319,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
