@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.710159,
+      49.193428
+    ]
+  },
+  "properties": {
+    "name": "Prislop",
+    "latitude": 49.193428,
+    "longitude": 19.710159,
+    "feet": 7028,
+    "meters": 2142,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
