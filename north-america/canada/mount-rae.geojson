@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.974,
+      50.6223
+    ]
+  },
+  "properties": {
+    "name": "Mount Rae",
+    "latitude": 50.6223,
+    "longitude": -114.974,
+    "feet": 10558,
+    "meters": 3218,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
