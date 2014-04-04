@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Nerone",
+    "feet": 5003,
+    "meters": 1525,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
