@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ritacuba Blanco",
+    "feet": 17552,
+    "meters": 5350,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
