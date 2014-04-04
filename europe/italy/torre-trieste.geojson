@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0454,
+      46.358057
+    ]
+  },
+  "properties": {
+    "name": "Torre Trieste",
+    "latitude": 46.358057,
+    "longitude": 12.0454,
+    "feet": 8064,
+    "meters": 2458,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
