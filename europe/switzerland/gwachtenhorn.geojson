@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.092632,
+      46.60346
+    ]
+  },
+  "properties": {
+    "name": "Gwächtenhorn",
+    "latitude": 46.60346,
+    "longitude": 8.092632,
+    "feet": 10381,
+    "meters": 3164,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
