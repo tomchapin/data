@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.0667,
+      -1.28333
+    ]
+  },
+  "properties": {
+    "name": "Gahinga",
+    "latitude": -1.28333,
+    "longitude": 30.0667,
+    "feet": 11565,
+    "meters": 3525,
+    "continent": "Africa",
+    "country": "Rwanda/Uganda"
+  }
+}
