@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.909697,
+      50.554398
+    ]
+  },
+  "properties": {
+    "name": "Mist Mountain",
+    "latitude": 50.554398,
+    "longitude": -114.909697,
+    "feet": 10302,
+    "meters": 3140,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
