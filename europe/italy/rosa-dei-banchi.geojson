@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.53078,
+      45.576696
+    ]
+  },
+  "properties": {
+    "name": "Rosa dei Banchi",
+    "latitude": 45.576696,
+    "longitude": 7.53078,
+    "feet": 10381,
+    "meters": 3164,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
