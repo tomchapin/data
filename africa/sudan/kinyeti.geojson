@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.910258,
+      3.946286
+    ]
+  },
+  "properties": {
+    "name": "Kinyeti",
+    "latitude": 3.946286,
+    "longitude": 32.910258,
+    "feet": 10449,
+    "meters": 3185,
+    "continent": "Africa",
+    "country": "Sudan"
+  }
+}
