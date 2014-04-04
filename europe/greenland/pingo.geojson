@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pingo",
+    "feet": 4275,
+    "meters": 1303,
+    "continent": "Europe",
+    "country": "Greenland"
+  }
+}
