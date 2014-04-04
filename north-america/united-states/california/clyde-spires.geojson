@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.647,
+      37.14
+    ]
+  },
+  "properties": {
+    "name": "Clyde Spires",
+    "latitude": 37.14,
+    "longitude": -118.647,
+    "feet": 13267,
+    "meters": 4044,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
