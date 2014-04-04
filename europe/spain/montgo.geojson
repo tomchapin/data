@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.128059,
+      38.806273
+    ]
+  },
+  "properties": {
+    "name": "Montgó",
+    "latitude": 38.806273,
+    "longitude": 0.128059,
+    "feet": 2470,
+    "meters": 753,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
