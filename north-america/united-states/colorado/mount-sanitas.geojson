@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.306,
+      40.036
+    ]
+  },
+  "properties": {
+    "name": "Mount Sanitas",
+    "latitude": 40.036,
+    "longitude": -105.306,
+    "feet": 6863,
+    "meters": 2092,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
