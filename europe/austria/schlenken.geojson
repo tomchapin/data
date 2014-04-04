@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.21372,
+      47.681512
+    ]
+  },
+  "properties": {
+    "name": "Schlenken",
+    "latitude": 47.681512,
+    "longitude": 13.21372,
+    "feet": 5409,
+    "meters": 1649,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
