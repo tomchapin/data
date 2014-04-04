@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Mulu",
+    "feet": 7795,
+    "meters": 2376,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
