@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.658333,
+      45.976389
+    ]
+  },
+  "properties": {
+    "name": "Matterhorn",
+    "latitude": 45.976389,
+    "longitude": 7.658333,
+    "feet": 14691,
+    "meters": 4478,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
