@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.1483,
+      27.7025
+    ]
+  },
+  "properties": {
+    "name": "Kangchenjunga",
+    "latitude": 27.7025,
+    "longitude": 88.1483,
+    "feet": 28169,
+    "meters": 8586,
+    "continent": "Asia",
+    "country": "Nepal/India"
+  }
+}
