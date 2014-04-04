@@ -15,6 +15,8 @@
     "meters": 1263,
     "continent": "North America",
     "country": "United States",
-    "state": "Kentucky"
+    "state": "Kentucky",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
