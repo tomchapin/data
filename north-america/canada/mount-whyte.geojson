@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.271572,
+      51.408308
+    ]
+  },
+  "properties": {
+    "name": "Mount Whyte",
+    "latitude": 51.408308,
+    "longitude": -116.271572,
+    "feet": 9787,
+    "meters": 2983,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
