@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hochschijen",
+    "feet": 8642,
+    "meters": 2634,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
