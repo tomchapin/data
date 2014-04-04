@@ -13,6 +13,8 @@
     "meters": 2029,
     "continent": "North America",
     "country": "United States",
-    "state": "Utah"
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
