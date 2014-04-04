@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -137.527,
+      58.9072
+    ]
+  },
+  "properties": {
+    "name": "Mount Fairweather",
+    "latitude": 58.9072,
+    "longitude": -137.527,
+    "feet": 15300,
+    "meters": 4663,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
