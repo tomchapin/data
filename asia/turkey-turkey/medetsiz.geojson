@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      37.0
+    ]
+  },
+  "properties": {
+    "name": "Medetsiz",
+    "latitude": 37.0,
+    "longitude": 37.0,
+    "feet": 11562,
+    "meters": 3524,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
