@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.16667,
+      45.5
+    ]
+  },
+  "properties": {
+    "name": "Roche Melon",
+    "latitude": 45.5,
+    "longitude": 7.16667,
+    "feet": 11605,
+    "meters": 3538,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
