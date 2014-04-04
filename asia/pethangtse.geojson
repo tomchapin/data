@@ -11,6 +11,8 @@
     "name": "Pethangtse",
     "feet": 22106,
     "meters": 6738,
-    "continent": "Asia"
+    "continent": "Asia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
