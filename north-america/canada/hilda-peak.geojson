@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.177086,
+      52.191088
+    ]
+  },
+  "properties": {
+    "name": "Hilda Peak",
+    "latitude": 52.191088,
+    "longitude": -117.177086,
+    "feet": 10039,
+    "meters": 3060,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
