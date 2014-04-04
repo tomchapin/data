@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.267,
+      -1.7
+    ]
+  },
+  "properties": {
+    "name": "Mount Kerinchi",
+    "latitude": -1.7,
+    "longitude": 101.267,
+    "feet": 12467,
+    "meters": 3800,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
