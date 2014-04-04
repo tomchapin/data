@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fuego",
+    "feet": 12346,
+    "meters": 3763,
+    "continent": "North America",
+    "country": "Guatemala"
+  }
+}
