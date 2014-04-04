@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Aperer Feuerstein",
+    "feet": 9737,
+    "meters": 2968,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
