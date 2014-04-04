@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.6333,
+      28.1167
+    ]
+  },
+  "properties": {
+    "name": "Palung Ri",
+    "latitude": 28.1167,
+    "longitude": 86.6333,
+    "feet": 23008,
+    "meters": 7013,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
