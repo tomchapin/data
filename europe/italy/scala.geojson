@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.042279,
+      44.383055
+    ]
+  },
+  "properties": {
+    "name": "Scala",
+    "latitude": 44.383055,
+    "longitude": 10.042279,
+    "feet": 5627,
+    "meters": 1715,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
