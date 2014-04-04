@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.658164,
+      48.515496
+    ]
+  },
+  "properties": {
+    "name": "Liberty Bell Mountain",
+    "latitude": 48.515496,
+    "longitude": -120.658164,
+    "feet": 7720,
+    "meters": 2353,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
