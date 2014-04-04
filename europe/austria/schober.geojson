@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.311653,
+      47.812924
+    ]
+  },
+  "properties": {
+    "name": "Schober",
+    "latitude": 47.812924,
+    "longitude": 13.311653,
+    "feet": 4359,
+    "meters": 1329,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
