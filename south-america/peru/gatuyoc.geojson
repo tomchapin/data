@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gatuyoc",
+    "feet": 17388,
+    "meters": 5300,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
