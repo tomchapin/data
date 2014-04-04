@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.534367,
+      48.892148
+    ]
+  },
+  "properties": {
+    "name": "Hannegan Peak",
+    "latitude": 48.892148,
+    "longitude": -121.534367,
+    "feet": 6187,
+    "meters": 1886,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
