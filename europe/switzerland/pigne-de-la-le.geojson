@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.61099,
+      46.08344
+    ]
+  },
+  "properties": {
+    "name": "Pigne de la Lé",
+    "latitude": 46.08344,
+    "longitude": 7.61099,
+    "feet": 11142,
+    "meters": 3396,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
