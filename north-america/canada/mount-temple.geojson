@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.206083,
+      51.350986
+    ]
+  },
+  "properties": {
+    "name": "Mount Temple",
+    "latitude": 51.350986,
+    "longitude": -116.206083,
+    "feet": 11626,
+    "meters": 3544,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
