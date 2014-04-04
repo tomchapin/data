@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.437,
+      38.9149
+    ]
+  },
+  "properties": {
+    "name": "Ice Mountain",
+    "latitude": 38.9149,
+    "longitude": -106.437,
+    "feet": 13951,
+    "meters": 4346,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
