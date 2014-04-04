@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Krivan",
+    "feet": 8182,
+    "meters": 2494,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
