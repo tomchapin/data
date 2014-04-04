@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.6667,
+      43.1333
+    ]
+  },
+  "properties": {
+    "name": "Ushba",
+    "latitude": 43.1333,
+    "longitude": 42.6667,
+    "feet": 15453,
+    "meters": 4710,
+    "continent": "Europe",
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
