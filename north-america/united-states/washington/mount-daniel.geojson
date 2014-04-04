@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.171947,
+      47.562656
+    ]
+  },
+  "properties": {
+    "name": "Mount Daniel",
+    "latitude": 47.562656,
+    "longitude": -121.171947,
+    "feet": 7899,
+    "meters": 2408,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
