@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.95,
+      47.13
+    ]
+  },
+  "properties": {
+    "name": "Narrenkogel",
+    "latitude": 47.13,
+    "longitude": 10.95,
+    "feet": 7575,
+    "meters": 2309,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
