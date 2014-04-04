@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Meteorite Mountain",
+    "feet": 6565,
+    "meters": 2001,
+    "continent": "North America",
+    "country": "United States/United States",
+    "state": "Alaska"
+  }
+}
