@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Walter",
+    "feet": 9514,
+    "meters": 2900,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
