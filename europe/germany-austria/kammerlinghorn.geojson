@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.831001,
+      47.544786
+    ]
+  },
+  "properties": {
+    "name": "Kammerlinghorn",
+    "latitude": 47.544786,
+    "longitude": 12.831001,
+    "feet": 8148,
+    "meters": 2484,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
