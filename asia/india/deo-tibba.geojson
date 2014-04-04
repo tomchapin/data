@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.3972,
+      32.2114
+    ]
+  },
+  "properties": {
+    "name": "Deo Tibba",
+    "latitude": 32.2114,
+    "longitude": 77.3972,
+    "feet": 19688,
+    "meters": 6001,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
