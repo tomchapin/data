@@ -11,6 +11,8 @@
     "name": "Punta Gnifetti",
     "feet": 14957,
     "meters": 4559,
-    "continent": "Europe"
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
