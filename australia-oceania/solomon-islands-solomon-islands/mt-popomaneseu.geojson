@@ -14,6 +14,8 @@
     "feet": 7677,
     "meters": 2340,
     "continent": "Australia/Oceania",
-    "country": "Solomon Islands/Solomon Islands"
+    "country": "Solomon Islands/Solomon Islands",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
