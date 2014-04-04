@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.898698,
+      47.912718
+    ]
+  },
+  "properties": {
+    "name": "Schauinsland",
+    "latitude": 47.912718,
+    "longitude": 7.898698,
+    "feet": 4213,
+    "meters": 1284,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
