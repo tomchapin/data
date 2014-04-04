@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kolokolny",
+    "feet": 5400,
+    "meters": 1646,
+    "continent": "Europe",
+    "country": "Russia"
+  }
+}
