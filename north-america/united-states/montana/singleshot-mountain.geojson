@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.496923,
+      48.741135
+    ]
+  },
+  "properties": {
+    "name": "Singleshot Mountain",
+    "latitude": 48.741135,
+    "longitude": -113.496923,
+    "feet": 7926,
+    "meters": 2416,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
