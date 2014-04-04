@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.11667,
+      46.2333
+    ]
+  },
+  "properties": {
+    "name": "Grand Muveran",
+    "latitude": 46.2333,
+    "longitude": 7.11667,
+    "feet": 10010,
+    "meters": 3051,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
