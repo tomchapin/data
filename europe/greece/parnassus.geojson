@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.6167,
+      38.5333
+    ]
+  },
+  "properties": {
+    "name": "Parnassus",
+    "latitude": 38.5333,
+    "longitude": 22.6167,
+    "feet": 8062,
+    "meters": 2457,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
