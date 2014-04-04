@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.216,
+      40.9619
+    ]
+  },
+  "properties": {
+    "name": "Frary Peak",
+    "latitude": 40.9619,
+    "longitude": -112.216,
+    "feet": 6596,
+    "meters": 2010,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
