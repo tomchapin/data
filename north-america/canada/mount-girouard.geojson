@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.404511,
+      51.236987
+    ]
+  },
+  "properties": {
+    "name": "Mount Girouard",
+    "latitude": 51.236987,
+    "longitude": -115.404511,
+    "feet": 9826,
+    "meters": 2995,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
