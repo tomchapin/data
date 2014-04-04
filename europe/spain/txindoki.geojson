@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.072639,
+      43.026235
+    ]
+  },
+  "properties": {
+    "name": "Txindoki",
+    "latitude": 43.026235,
+    "longitude": -2.072639,
+    "feet": 4400,
+    "meters": 1346,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
