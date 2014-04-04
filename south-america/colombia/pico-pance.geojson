@@ -14,6 +14,8 @@
     "feet": 13468,
     "meters": 4105,
     "continent": "South America",
-    "country": "Colombia"
+    "country": "Colombia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
