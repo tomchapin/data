@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piz Glüschaint",
+    "feet": 11788,
+    "meters": 3593,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
