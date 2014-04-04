@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.167,
+      50.6528
+    ]
+  },
+  "properties": {
+    "name": "Mount Indefatigable",
+    "latitude": 50.6528,
+    "longitude": -115.167,
+    "feet": 8760,
+    "meters": 2670,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
