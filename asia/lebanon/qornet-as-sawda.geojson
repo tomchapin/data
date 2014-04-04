@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.1,
+      34.2333
+    ]
+  },
+  "properties": {
+    "name": "Qornet As Sawda",
+    "latitude": 34.2333,
+    "longitude": 36.1,
+    "feet": 10115,
+    "meters": 3083,
+    "continent": "Asia",
+    "country": "Lebanon"
+  }
+}
