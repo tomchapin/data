@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.293611,
+      47.297222
+    ]
+  },
+  "properties": {
+    "name": "Hochfrottspitze",
+    "latitude": 47.297222,
+    "longitude": 10.293611,
+    "feet": 8691,
+    "meters": 2649,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
