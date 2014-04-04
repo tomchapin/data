@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.25,
+      -36.4167
+    ]
+  },
+  "properties": {
+    "name": "Mount Tate",
+    "latitude": -36.4167,
+    "longitude": 148.25,
+    "feet": 6785,
+    "meters": 2068,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
