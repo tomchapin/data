@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.118124,
+      46.589924
+    ]
+  },
+  "properties": {
+    "name": "Schreckhorn",
+    "latitude": 46.589924,
+    "longitude": 8.118124,
+    "feet": 13379,
+    "meters": 4078,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
