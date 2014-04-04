@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hintere Goinger Halt",
+    "feet": 7192,
+    "meters": 2192,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
