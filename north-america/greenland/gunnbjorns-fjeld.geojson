@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -29.7956,
+      68.9155
+    ]
+  },
+  "properties": {
+    "name": "Gunnbjorns Fjeld",
+    "latitude": 68.9155,
+    "longitude": -29.7956,
+    "feet": 12116,
+    "meters": 3693,
+    "continent": "North America",
+    "country": "Greenland"
+  }
+}
