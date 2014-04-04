@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Phon Kan Razi",
+    "feet": 11926,
+    "meters": 3635,
+    "continent": "Asia",
+    "country": "Myanmar"
+  }
+}
