@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.585,
+      37.9667
+    ]
+  },
+  "properties": {
+    "name": "Crestone Peak",
+    "latitude": 37.9667,
+    "longitude": -105.585,
+    "feet": 14294,
+    "meters": 4357,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
