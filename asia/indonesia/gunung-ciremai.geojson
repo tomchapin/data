@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.4,
+      -6.91667
+    ]
+  },
+  "properties": {
+    "name": "Gunung Ciremai",
+    "latitude": -6.91667,
+    "longitude": 108.4,
+    "feet": 10072,
+    "meters": 3070,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
