@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.677778,
+      46.041944
+    ]
+  },
+  "properties": {
+    "name": "Wellenkuppe",
+    "latitude": 46.041944,
+    "longitude": 7.677778,
+    "feet": 12805,
+    "meters": 3903,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
