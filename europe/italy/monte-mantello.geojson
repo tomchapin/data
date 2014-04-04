@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.56069,
+      46.37287
+    ]
+  },
+  "properties": {
+    "name": "Monte Mantello",
+    "latitude": 46.37287,
+    "longitude": 10.56069,
+    "feet": 11539,
+    "meters": 3517,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
