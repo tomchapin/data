@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.491985,
+      51.611514
+    ]
+  },
+  "properties": {
+    "name": "Mount Olive",
+    "latitude": 51.611514,
+    "longitude": -116.491985,
+    "feet": 10502,
+    "meters": 3201,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
