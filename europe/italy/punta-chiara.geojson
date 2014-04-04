@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Punta Chiara",
+    "feet": 9682,
+    "meters": 2951,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
