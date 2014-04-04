@@ -9,9 +9,11 @@
   },
   "properties": {
     "name": "Obiou",
-    "feet": 7,
-    "meters": 2,
+    "feet": 9186,
+    "meters": 2800,
     "continent": "Europe",
-    "country": "France"
+    "country": "France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
