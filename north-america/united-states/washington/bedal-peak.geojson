@@ -15,6 +15,8 @@
     "meters": 1998,
     "continent": "North America",
     "country": "United States",
-    "state": "Washington"
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
