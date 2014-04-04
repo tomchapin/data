@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Goliam- Perelik",
+    "feet": 7188,
+    "meters": 2191,
+    "continent": "Europe",
+    "country": "Bulgaria/Greece"
+  }
+}
