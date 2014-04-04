@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.790363,
+      48.757915
+    ]
+  },
+  "properties": {
+    "name": "Rechberg",
+    "latitude": 48.757915,
+    "longitude": 9.790363,
+    "feet": 2320,
+    "meters": 707,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
