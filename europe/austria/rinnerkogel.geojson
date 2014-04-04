@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rinnerkogel",
+    "feet": 6601,
+    "meters": 2012,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
