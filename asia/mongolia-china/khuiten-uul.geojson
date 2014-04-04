@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.825,
+      49.149167
+    ]
+  },
+  "properties": {
+    "name": "Khuiten Uul",
+    "latitude": 49.149167,
+    "longitude": 87.825,
+    "feet": 14350,
+    "meters": 4374,
+    "continent": "Asia",
+    "country": "Mongolia/China"
+  }
+}
