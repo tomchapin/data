@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.421,
+      37.9408
+    ]
+  },
+  "properties": {
+    "name": "Redcloud Peak",
+    "latitude": 37.9408,
+    "longitude": -107.421,
+    "feet": 14034,
+    "meters": 4278,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
