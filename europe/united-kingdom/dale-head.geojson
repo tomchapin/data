@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.202,
+      54.527159
+    ]
+  },
+  "properties": {
+    "name": "Dale Head",
+    "latitude": 54.527159,
+    "longitude": -3.202,
+    "feet": 2471,
+    "meters": 753,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
