@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.401,
+      37.5555
+    ]
+  },
+  "properties": {
+    "name": "Two Buttes Mountain",
+    "latitude": 37.5555,
+    "longitude": -102.401,
+    "feet": 4705,
+    "meters": 1434,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
