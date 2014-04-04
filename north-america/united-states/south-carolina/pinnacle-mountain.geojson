@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.741685,
+      35.034038
+    ]
+  },
+  "properties": {
+    "name": "Pinnacle Mountain",
+    "latitude": 35.034038,
+    "longitude": -82.741685,
+    "feet": 3415,
+    "meters": 1041,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Carolina"
+  }
+}
