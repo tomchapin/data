@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.312,
+      50.865
+    ]
+  },
+  "properties": {
+    "name": "Mount Engadine",
+    "latitude": 50.865,
+    "longitude": -115.312,
+    "feet": 9751,
+    "meters": 2972,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
