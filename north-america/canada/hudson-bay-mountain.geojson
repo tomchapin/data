@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -127.339697,
+      54.811691
+    ]
+  },
+  "properties": {
+    "name": "Hudson Bay Mountain",
+    "latitude": 54.811691,
+    "longitude": -127.339697,
+    "feet": 8494,
+    "meters": 2589,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
