@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.13333,
+      46.5333
+    ]
+  },
+  "properties": {
+    "name": "Finsteraarhorn",
+    "latitude": 46.5333,
+    "longitude": 8.13333,
+    "feet": 14019,
+    "meters": 4273,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
