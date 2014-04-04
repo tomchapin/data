@@ -14,6 +14,8 @@
     "feet": 14652,
     "meters": 4466,
     "continent": "Europe",
-    "country": "Azerbaijan/Russia"
+    "country": "Azerbaijan/Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
