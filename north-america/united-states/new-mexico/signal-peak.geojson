@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.18,
+      32.9244
+    ]
+  },
+  "properties": {
+    "name": "Signal Peak",
+    "latitude": 32.9244,
+    "longitude": -108.18,
+    "feet": 9001,
+    "meters": 2744,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
