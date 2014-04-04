@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.594063,
+      46.61768
+    ]
+  },
+  "properties": {
+    "name": "Sutay Uul",
+    "latitude": 46.61768,
+    "longitude": 93.594063,
+    "feet": 13418,
+    "meters": 4090,
+    "continent": "Asia",
+    "country": "Mongolia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
