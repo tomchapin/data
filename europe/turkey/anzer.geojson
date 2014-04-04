@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Anzer",
+    "feet": 10187,
+    "meters": 3105,
+    "continent": "Europe",
+    "country": "Turkey"
+  }
+}
