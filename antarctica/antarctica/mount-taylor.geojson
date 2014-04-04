@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.122678,
+      -63.429507
+    ]
+  },
+  "properties": {
+    "name": "Mount Taylor",
+    "latitude": -63.429507,
+    "longitude": -57.122678,
+    "feet": 3051,
+    "meters": 930,
+    "continent": "Antarctica",
+    "country": "Antarctica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
