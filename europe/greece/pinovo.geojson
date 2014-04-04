@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1167,
+      41.1
+    ]
+  },
+  "properties": {
+    "name": "Pinovo",
+    "latitude": 41.1,
+    "longitude": 22.1167,
+    "feet": 7067,
+    "meters": 2154,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
