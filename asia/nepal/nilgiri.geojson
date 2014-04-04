@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nilgiri",
+    "feet": 23166,
+    "meters": 7061,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
