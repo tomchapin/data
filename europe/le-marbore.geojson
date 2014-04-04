@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.011244,
+      42.693413
+    ]
+  },
+  "properties": {
+    "name": "Le Marbore",
+    "latitude": 42.693413,
+    "longitude": 0.011244,
+    "feet": 10656,
+    "meters": 3248,
+    "continent": "Europe"
+  }
+}
