@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.0833,
+      49.15
+    ]
+  },
+  "properties": {
+    "name": "Gerlach",
+    "latitude": 49.15,
+    "longitude": 20.0833,
+    "feet": 8711,
+    "meters": 2655,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
