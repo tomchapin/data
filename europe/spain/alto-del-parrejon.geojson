@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.404,
+      41.236
+    ]
+  },
+  "properties": {
+    "name": "Alto del Parrejon",
+    "latitude": 41.236,
+    "longitude": 3.404,
+    "feet": 6604,
+    "meters": 2013,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
