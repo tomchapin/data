@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2916,
+      61.5413
+    ]
+  },
+  "properties": {
+    "name": "Kyrkja",
+    "latitude": 61.5413,
+    "longitude": 8.2916,
+    "feet": 6667,
+    "meters": 2032,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
