@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.382,
+      38.0933
+    ]
+  },
+  "properties": {
+    "name": "Matterhorn Peak ",
+    "latitude": 38.0933,
+    "longitude": -119.382,
+    "feet": 12264,
+    "meters": 3738,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
