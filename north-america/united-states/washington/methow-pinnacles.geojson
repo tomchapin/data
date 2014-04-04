@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.786438,
+      48.621052
+    ]
+  },
+  "properties": {
+    "name": "Methow Pinnacles",
+    "latitude": 48.621052,
+    "longitude": -120.786438,
+    "feet": 7562,
+    "meters": 2306,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
