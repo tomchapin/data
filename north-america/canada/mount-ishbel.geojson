@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.774741,
+      51.265835
+    ]
+  },
+  "properties": {
+    "name": "Mount Ishbel",
+    "latitude": 51.265835,
+    "longitude": -115.774741,
+    "feet": 9541,
+    "meters": 2908,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
