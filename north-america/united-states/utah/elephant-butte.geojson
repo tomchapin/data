@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.54,
+      39.6958
+    ]
+  },
+  "properties": {
+    "name": "Elephant Butte",
+    "latitude": 39.6958,
+    "longitude": -109.54,
+    "feet": 5653,
+    "meters": 1723,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
