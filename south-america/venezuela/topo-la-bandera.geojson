@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.358237,
+      9.989899
+    ]
+  },
+  "properties": {
+    "name": "Topo La Bandera",
+    "latitude": 9.989899,
+    "longitude": -66.358237,
+    "feet": 4685,
+    "meters": 1428,
+    "continent": "South America",
+    "country": "Venezuela",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
