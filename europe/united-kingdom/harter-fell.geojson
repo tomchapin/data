@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.835503,
+      54.476222
+    ]
+  },
+  "properties": {
+    "name": "Harter Fell",
+    "latitude": 54.476222,
+    "longitude": -2.835503,
+    "feet": 2552,
+    "meters": 778,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
