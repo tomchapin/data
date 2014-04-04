@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.078856,
+      46.60856
+    ]
+  },
+  "properties": {
+    "name": "Mättenberg",
+    "latitude": 46.60856,
+    "longitude": 8.078856,
+    "feet": 10184,
+    "meters": 3104,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
