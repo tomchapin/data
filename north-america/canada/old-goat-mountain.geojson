@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.3717,
+      50.94
+    ]
+  },
+  "properties": {
+    "name": "Old Goat Mountain",
+    "latitude": 50.94,
+    "longitude": -115.3717,
+    "feet": 10236,
+    "meters": 3120,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
