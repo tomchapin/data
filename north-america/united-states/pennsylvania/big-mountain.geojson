@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.9369,
+      39.9503
+    ]
+  },
+  "properties": {
+    "name": "Big Mountain",
+    "latitude": 39.9503,
+    "longitude": -77.9369,
+    "feet": 2458,
+    "meters": 749,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Pennsylvania"
+  }
+}
