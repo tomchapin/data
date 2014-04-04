@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.733,
+      35.3667
+    ]
+  },
+  "properties": {
+    "name": "Fuji-san",
+    "latitude": 35.3667,
+    "longitude": 138.733,
+    "feet": 12389,
+    "meters": 3776,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
