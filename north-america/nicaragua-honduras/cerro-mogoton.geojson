@@ -14,6 +14,8 @@
     "feet": 6913,
     "meters": 2107,
     "continent": "North America",
-    "country": "Nicaragua/Honduras"
+    "country": "Nicaragua/Honduras",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
