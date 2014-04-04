@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.147324,
+      -43.639802
+    ]
+  },
+  "properties": {
+    "name": "Turner peak",
+    "latitude": -43.639802,
+    "longitude": 170.147324,
+    "feet": 7671,
+    "meters": 2338,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
