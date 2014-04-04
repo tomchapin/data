@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.873639,
+      0.380319
+    ]
+  },
+  "properties": {
+    "name": "Margherita",
+    "latitude": 0.380319,
+    "longitude": 29.873639,
+    "feet": 16763,
+    "meters": 5109,
+    "continent": "Africa",
+    "country": "Uganda/Congo, Democratic Republic of the"
+  }
+}
