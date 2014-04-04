@@ -14,6 +14,8 @@
     "feet": 3373,
     "meters": 1028,
     "continent": "Europe",
-    "country": "Germany"
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
