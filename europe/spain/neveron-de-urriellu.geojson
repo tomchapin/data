@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.832611,
+      43.178143
+    ]
+  },
+  "properties": {
+    "name": "Neveron De Urriellu",
+    "latitude": 43.178143,
+    "longitude": -4.832611,
+    "feet": 8396,
+    "meters": 2559,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
