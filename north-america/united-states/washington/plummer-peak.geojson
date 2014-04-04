@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.739631,
+      46.753711
+    ]
+  },
+  "properties": {
+    "name": "Plummer Peak",
+    "latitude": 46.753711,
+    "longitude": -121.739631,
+    "feet": 6370,
+    "meters": 1942,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
