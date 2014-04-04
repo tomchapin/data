@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.101684,
+      -26.936944
+    ]
+  },
+  "properties": {
+    "name": "Cerro Morocho",
+    "latitude": -26.936944,
+    "longitude": -68.101684,
+    "feet": 15663,
+    "meters": 4774,
+    "continent": "South America",
+    "country": "Argentina/Chile"
+  }
+}
