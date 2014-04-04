@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.98,
+      8.77
+    ]
+  },
+  "properties": {
+    "name": "Balatukan",
+    "latitude": 8.77,
+    "longitude": 124.98,
+    "feet": 8038,
+    "meters": 2450,
+    "continent": "Asia",
+    "country": "Philippines/Philippines"
+  }
+}
