@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.312866,
+      40.099084
+    ]
+  },
+  "properties": {
+    "name": "Calderón",
+    "latitude": 40.099084,
+    "longitude": -1.312866,
+    "feet": 6027,
+    "meters": 1837,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
