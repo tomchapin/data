@@ -13,6 +13,8 @@
     "meters": 465,
     "continent": "North America",
     "country": "United States/United States",
-    "state": "Minnesota"
+    "state": "Minnesota",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
