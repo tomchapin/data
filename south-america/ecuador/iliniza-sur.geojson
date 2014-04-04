@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.713611,
+      -0.659444
+    ]
+  },
+  "properties": {
+    "name": "Iliniza Sur",
+    "latitude": -0.659444,
+    "longitude": -78.713611,
+    "feet": 17218,
+    "meters": 5248,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
