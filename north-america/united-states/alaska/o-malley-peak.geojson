@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.582806,
+      61.099461
+    ]
+  },
+  "properties": {
+    "name": "O'malley Peak",
+    "latitude": 61.099461,
+    "longitude": -149.582806,
+    "feet": 5150,
+    "meters": 1570,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
