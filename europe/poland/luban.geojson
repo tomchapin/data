@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.2025,
+      49.2917
+    ]
+  },
+  "properties": {
+    "name": "Lubań",
+    "latitude": 49.2917,
+    "longitude": 20.2025,
+    "feet": 4019,
+    "meters": 1225,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
