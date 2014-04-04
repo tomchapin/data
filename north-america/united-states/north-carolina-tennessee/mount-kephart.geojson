@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Kephart",
+    "feet": 6150,
+    "meters": 1875,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina/Tennessee"
+  }
+}
