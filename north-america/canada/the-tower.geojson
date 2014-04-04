@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.29,
+      50.8567
+    ]
+  },
+  "properties": {
+    "name": "The Tower",
+    "latitude": 50.8567,
+    "longitude": -115.29,
+    "feet": 10226,
+    "meters": 3117,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
