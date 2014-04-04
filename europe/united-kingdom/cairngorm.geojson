@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cairngorm",
+    "feet": 4050,
+    "meters": 1234,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
