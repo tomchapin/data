@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.419873,
+      27.813913
+    ]
+  },
+  "properties": {
+    "name": "Ramdung",
+    "latitude": 27.813913,
+    "longitude": 86.419873,
+    "feet": 19439,
+    "meters": 5925,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
