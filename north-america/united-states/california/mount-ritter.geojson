@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.0,
+      37.6894
+    ]
+  },
+  "properties": {
+    "name": "Mount Ritter",
+    "latitude": 37.6894,
+    "longitude": -119.0,
+    "feet": 13143,
+    "meters": 4006,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
