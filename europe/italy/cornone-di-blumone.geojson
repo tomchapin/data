@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cornone Di Blumone",
+    "feet": 9317,
+    "meters": 2840,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
