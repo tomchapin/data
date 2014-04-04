@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.86667,
+      46.6167
+    ]
+  },
+  "properties": {
+    "name": "Piz Kesch",
+    "latitude": 46.6167,
+    "longitude": 9.86667,
+    "feet": 11214,
+    "meters": 3418,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
