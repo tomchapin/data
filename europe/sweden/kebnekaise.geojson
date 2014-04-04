@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.55,
+      67.8833
+    ]
+  },
+  "properties": {
+    "name": "Kebnekaise",
+    "latitude": 67.8833,
+    "longitude": 18.55,
+    "feet": 6926,
+    "meters": 2111,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
