@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ellmauer Halt",
+    "feet": 7690,
+    "meters": 2344,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
