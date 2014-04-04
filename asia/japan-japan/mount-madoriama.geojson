@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.825,
+      36.2561
+    ]
+  },
+  "properties": {
+    "name": "Mount Madoriama",
+    "latitude": 36.2561,
+    "longitude": 137.825,
+    "feet": 3000,
+    "meters": 914,
+    "continent": "Asia",
+    "country": "Japan/Japan"
+  }
+}
