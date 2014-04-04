@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.7166,
+      30.4666
+    ]
+  },
+  "properties": {
+    "name": "Nanda Ghunti",
+    "latitude": 30.4666,
+    "longitude": 79.7166,
+    "feet": 20699,
+    "meters": 6309,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
