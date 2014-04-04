@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.475994,
+      43.152238
+    ]
+  },
+  "properties": {
+    "name": "Peña Sagra",
+    "latitude": 43.152238,
+    "longitude": -4.475994,
+    "feet": 6719,
+    "meters": 2048,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
