@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Chopok",
+    "feet": 6640,
+    "meters": 2024,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
