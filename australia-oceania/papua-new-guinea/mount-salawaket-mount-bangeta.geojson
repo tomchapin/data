@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.088094,
+      -6.314966
+    ]
+  },
+  "properties": {
+    "name": "Mount Salawaket Mount Bangeta",
+    "latitude": -6.314966,
+    "longitude": 147.088094,
+    "feet": 13520,
+    "meters": 4121,
+    "continent": "Australia/Oceania",
+    "country": "Papua New Guinea"
+  }
+}
