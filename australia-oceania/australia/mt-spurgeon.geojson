@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.200734,
+      -16.438774
+    ]
+  },
+  "properties": {
+    "name": "Mt Spurgeon",
+    "latitude": -16.438774,
+    "longitude": 145.200734,
+    "feet": 4354,
+    "meters": 1327,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
