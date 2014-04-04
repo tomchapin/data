@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.2667,
+      19.0167
+    ]
+  },
+  "properties": {
+    "name": "Pico de Orizaba",
+    "latitude": 19.0167,
+    "longitude": -97.2667,
+    "feet": 18405,
+    "meters": 5610,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
