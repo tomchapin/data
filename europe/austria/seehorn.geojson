@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.853146,
+      47.516853
+    ]
+  },
+  "properties": {
+    "name": "Seehorn",
+    "latitude": 47.516853,
+    "longitude": 12.853146,
+    "feet": 7616,
+    "meters": 2321,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
