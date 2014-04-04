@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.936096,
+      54.467444
+    ]
+  },
+  "properties": {
+    "name": "Red Screes",
+    "latitude": 54.467444,
+    "longitude": -2.936096,
+    "feet": 2541,
+    "meters": 774,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
