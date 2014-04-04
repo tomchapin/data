@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.207,
+      50.7817
+    ]
+  },
+  "properties": {
+    "name": "Mount Inflexible",
+    "latitude": 50.7817,
+    "longitude": -115.207,
+    "feet": 9843,
+    "meters": 3000,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
