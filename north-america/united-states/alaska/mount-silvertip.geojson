@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.607,
+      63.4898
+    ]
+  },
+  "properties": {
+    "name": "Mount Silvertip",
+    "latitude": 63.4898,
+    "longitude": -145.607,
+    "feet": 9400,
+    "meters": 2865,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
