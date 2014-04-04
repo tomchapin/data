@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.3717,
+      50.815
+    ]
+  },
+  "properties": {
+    "name": "The Fist",
+    "latitude": 50.815,
+    "longitude": -115.3717,
+    "feet": 8629,
+    "meters": 2630,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
