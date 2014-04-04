@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.5047,
+      -39.6639
+    ]
+  },
+  "properties": {
+    "name": "Volcan Lanin",
+    "latitude": -39.6639,
+    "longitude": -71.5047,
+    "feet": 12388,
+    "meters": 3776,
+    "continent": "South America",
+    "country": "Argentina/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
