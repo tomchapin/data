@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.461901,
+      61.332626
+    ]
+  },
+  "properties": {
+    "name": "Mt Baldy",
+    "latitude": 61.332626,
+    "longitude": -149.461901,
+    "feet": 3281,
+    "meters": 1000,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
