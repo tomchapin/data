@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.150805,
+      42.774109
+    ]
+  },
+  "properties": {
+    "name": "Vignemale",
+    "latitude": 42.774109,
+    "longitude": -0.150805,
+    "feet": 10821,
+    "meters": 3298,
+    "continent": "Europe",
+    "country": "France/Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
