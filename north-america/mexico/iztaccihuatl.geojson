@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.6333,
+      19.1833
+    ]
+  },
+  "properties": {
+    "name": "Iztaccihuatl",
+    "latitude": 19.1833,
+    "longitude": -98.6333,
+    "feet": 17342,
+    "meters": 5286,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
