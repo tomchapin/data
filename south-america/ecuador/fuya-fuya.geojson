@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.293853,
+      0.13351
+    ]
+  },
+  "properties": {
+    "name": "Fuya Fuya",
+    "latitude": 0.13351,
+    "longitude": -78.293853,
+    "feet": 13986,
+    "meters": 4263,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
