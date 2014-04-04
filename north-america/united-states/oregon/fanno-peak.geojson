@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.643998,
+      44.869282
+    ]
+  },
+  "properties": {
+    "name": "Fanno Peak",
+    "latitude": 44.869282,
+    "longitude": -123.643998,
+    "feet": 3333,
+    "meters": 1016,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
