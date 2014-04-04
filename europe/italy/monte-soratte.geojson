@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Soratte",
+    "feet": 2287,
+    "meters": 697,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
