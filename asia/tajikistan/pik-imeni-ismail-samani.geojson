@@ -14,6 +14,8 @@
     "feet": 24590,
     "meters": 7495,
     "continent": "Asia",
-    "country": "Tajikistan"
+    "country": "Tajikistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
