@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8333,
+      46.8617
+    ]
+  },
+  "properties": {
+    "name": "Guslarspitzen",
+    "latitude": 46.8617,
+    "longitude": 10.8333,
+    "feet": 10325,
+    "meters": 3147,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
