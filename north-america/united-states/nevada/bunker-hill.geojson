@@ -13,6 +13,8 @@
     "meters": 3498,
     "continent": "North America",
     "country": "United States",
-    "state": "Nevada"
+    "state": "Nevada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
