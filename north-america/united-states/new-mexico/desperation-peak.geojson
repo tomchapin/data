@@ -11,6 +11,8 @@
     "name": "Desperation Peak",
     "continent": "North America",
     "country": "United States",
-    "state": "New Mexico"
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
