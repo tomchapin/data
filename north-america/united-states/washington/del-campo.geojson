@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.470637,
+      47.990783
+    ]
+  },
+  "properties": {
+    "name": "Del Campo",
+    "latitude": 47.990783,
+    "longitude": -121.470637,
+    "feet": 6610,
+    "meters": 2015,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
