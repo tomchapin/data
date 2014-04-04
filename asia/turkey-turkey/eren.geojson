@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.62571,
+      36.72783
+    ]
+  },
+  "properties": {
+    "name": "Eren",
+    "latitude": 36.72783,
+    "longitude": 29.62571,
+    "feet": 8816,
+    "meters": 2687,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
