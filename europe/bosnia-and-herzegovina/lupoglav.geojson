@@ -12,6 +12,8 @@
     "feet": 6896,
     "meters": 2102,
     "continent": "Europe",
-    "country": "Bosnia and Herzegovina"
+    "country": "Bosnia and Herzegovina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
