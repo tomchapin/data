@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.510967,
+      52.680129
+    ]
+  },
+  "properties": {
+    "name": "Samson Peak",
+    "latitude": 52.680129,
+    "longitude": -117.510967,
+    "feet": 10095,
+    "meters": 3077,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
