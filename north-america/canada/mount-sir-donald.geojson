@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.43183,
+      51.26315
+    ]
+  },
+  "properties": {
+    "name": "Mount Sir Donald",
+    "latitude": 51.26315,
+    "longitude": -117.43183,
+    "feet": 10818,
+    "meters": 3297,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
