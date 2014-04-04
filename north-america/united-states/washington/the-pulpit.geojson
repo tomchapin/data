@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.551833,
+      47.521403
+    ]
+  },
+  "properties": {
+    "name": "The Pulpit",
+    "latitude": 47.521403,
+    "longitude": -121.551833,
+    "feet": 4523,
+    "meters": 1379,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
