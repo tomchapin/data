@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.839956,
+      34.344995
+    ]
+  },
+  "properties": {
+    "name": "Mount Islip",
+    "latitude": 34.344995,
+    "longitude": -117.839956,
+    "feet": 8250,
+    "meters": 2515,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
