@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.163,
+      39.1367
+    ]
+  },
+  "properties": {
+    "name": "Weston Peak",
+    "latitude": 39.1367,
+    "longitude": -106.163,
+    "feet": 13572,
+    "meters": 4137,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
