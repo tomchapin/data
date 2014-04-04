@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.40802,
+      43.078201
+    ]
+  },
+  "properties": {
+    "name": "Torres",
+    "latitude": 43.078201,
+    "longitude": -5.40802,
+    "feet": 6903,
+    "meters": 2104,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
