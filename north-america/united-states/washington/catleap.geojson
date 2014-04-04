@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.657434,
+      48.615832
+    ]
+  },
+  "properties": {
+    "name": "Catleap",
+    "latitude": 48.615832,
+    "longitude": -120.657434,
+    "feet": 7789,
+    "meters": 2374,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
