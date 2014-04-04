@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.453857,
+      32.908195
+    ]
+  },
+  "properties": {
+    "name": "Garnet Peak",
+    "latitude": 32.908195,
+    "longitude": -116.453857,
+    "feet": 5900,
+    "meters": 1798,
+    "continent": "North America",
+    "country": "United States/United States",
+    "state": "California/California"
+  }
+}
