@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.749999,
+      -3.244392
+    ]
+  },
+  "properties": {
+    "name": "Mount Meru",
+    "latitude": -3.244392,
+    "longitude": 36.749999,
+    "feet": 14979,
+    "meters": 4566,
+    "continent": "Africa",
+    "country": "Tanzania"
+  }
+}
