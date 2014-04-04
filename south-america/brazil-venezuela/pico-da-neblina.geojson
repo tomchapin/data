@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico da Neblina",
+    "feet": 9888,
+    "meters": 2995,
+    "continent": "South America",
+    "country": "Brazil/Venezuela"
+  }
+}
