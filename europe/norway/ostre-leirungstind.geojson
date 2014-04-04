@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ostre Leirungstind",
+    "feet": 7506,
+    "meters": 2288,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
