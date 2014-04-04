@@ -14,6 +14,8 @@
     "feet": 3228,
     "meters": 984,
     "continent": "Europe",
-    "country": "Serbia and Montenegro"
+    "country": "Serbia and Montenegro",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
