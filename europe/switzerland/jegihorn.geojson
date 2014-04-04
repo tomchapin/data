@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.96998,
+      46.15139
+    ]
+  },
+  "properties": {
+    "name": "Jegihorn",
+    "latitude": 46.15139,
+    "longitude": 7.96998,
+    "feet": 10518,
+    "meters": 3206,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
