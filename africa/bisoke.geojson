@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bisoke",
+    "feet": 12175,
+    "meters": 3711,
+    "continent": "Africa"
+  }
+}
