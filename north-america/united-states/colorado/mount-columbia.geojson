@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.297,
+      38.9039
+    ]
+  },
+  "properties": {
+    "name": "Mount Columbia",
+    "latitude": 38.9039,
+    "longitude": -106.297,
+    "feet": 14073,
+    "meters": 4290,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
