@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ilsthorn",
+    "feet": 11680,
+    "meters": 3560,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
