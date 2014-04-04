@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hidden Peak (also known as Gasherbrum I)",
+    "feet": 26471,
+    "meters": 8068,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
