@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.43265,
+      -32.96986
+    ]
+  },
+  "properties": {
+    "name": "Rincón",
+    "latitude": -32.96986,
+    "longitude": -69.43265,
+    "feet": 17717,
+    "meters": 5400,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
