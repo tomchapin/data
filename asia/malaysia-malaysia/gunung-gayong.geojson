@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.37351,
+      4.760776
+    ]
+  },
+  "properties": {
+    "name": "Gunung Gayong",
+    "latitude": 4.760776,
+    "longitude": 101.37351,
+    "feet": 7129,
+    "meters": 2173,
+    "continent": "Asia",
+    "country": "Malaysia/Malaysia"
+  }
+}
