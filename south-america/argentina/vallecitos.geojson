@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Vallecitos",
+    "feet": 18930,
+    "meters": 5770,
+    "continent": "South America",
+    "country": "Argentina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
