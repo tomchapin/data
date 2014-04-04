@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Champagne Castle",
+    "feet": 11811,
+    "meters": 3600,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
