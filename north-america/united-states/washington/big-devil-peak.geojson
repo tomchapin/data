@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.29344,
+      48.604595
+    ]
+  },
+  "properties": {
+    "name": "Big Devil Peak",
+    "latitude": 48.604595,
+    "longitude": -121.29344,
+    "feet": 7055,
+    "meters": 2150,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
