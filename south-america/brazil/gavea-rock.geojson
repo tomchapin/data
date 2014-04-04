@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gavea Rock",
+    "feet": 2762,
+    "meters": 842,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
