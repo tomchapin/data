@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.55,
+      42.6833
+    ]
+  },
+  "properties": {
+    "name": "Steens Mountain",
+    "latitude": 42.6833,
+    "longitude": -118.55,
+    "feet": 9733,
+    "meters": 2967,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
