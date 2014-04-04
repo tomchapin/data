@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Joels Knoll",
+    "feet": 7331,
+    "meters": 2235,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
