@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.761861,
+      35.663259
+    ]
+  },
+  "properties": {
+    "name": "Sia Kangri",
+    "latitude": 35.663259,
+    "longitude": 76.761861,
+    "feet": 24350,
+    "meters": 7422,
+    "continent": "Asia",
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
