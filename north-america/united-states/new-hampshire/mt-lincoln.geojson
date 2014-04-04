@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mt. Lincoln",
+    "feet": 5089,
+    "meters": 1551,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
