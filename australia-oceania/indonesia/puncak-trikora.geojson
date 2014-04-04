@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.750501,
+      -4.247641
+    ]
+  },
+  "properties": {
+    "name": "Puncak Trikora",
+    "latitude": -4.247641,
+    "longitude": 138.750501,
+    "feet": 15518,
+    "meters": 4730,
+    "continent": "Australia/Oceania",
+    "country": "Indonesia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
