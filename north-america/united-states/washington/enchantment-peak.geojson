@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.802789,
+      47.48905
+    ]
+  },
+  "properties": {
+    "name": "Enchantment Peak",
+    "latitude": 47.48905,
+    "longitude": -120.802789,
+    "feet": 8250,
+    "meters": 2515,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
