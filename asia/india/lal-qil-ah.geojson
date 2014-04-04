@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lal Qil'ah",
+    "feet": 20830,
+    "meters": 6349,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
