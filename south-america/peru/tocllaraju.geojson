@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tocllaraju",
+    "feet": 19790,
+    "meters": 6032,
+    "continent": "South America",
+    "country": "Peru",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
