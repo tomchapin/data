@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.852867,
+      43.196667
+    ]
+  },
+  "properties": {
+    "name": "Torrecerredo",
+    "latitude": 43.196667,
+    "longitude": -4.852867,
+    "feet": 8688,
+    "meters": 2648,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
