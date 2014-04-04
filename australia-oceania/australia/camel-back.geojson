@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Camel Back",
+    "feet": 4692,
+    "meters": 1430,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
