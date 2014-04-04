@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.208,
+      11.268
+    ]
+  },
+  "properties": {
+    "name": "Mount Nangtud",
+    "latitude": 11.268,
+    "longitude": 122.208,
+    "feet": 7,
+    "meters": 2,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
