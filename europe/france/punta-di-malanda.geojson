@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.259239,
+      41.835757
+    ]
+  },
+  "properties": {
+    "name": "Punta di Malanda",
+    "latitude": 41.835757,
+    "longitude": 9.259239,
+    "feet": 3825,
+    "meters": 1166,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
