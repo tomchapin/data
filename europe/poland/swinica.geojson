@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Swinica",
+    "feet": 7549,
+    "meters": 2301,
+    "continent": "Europe",
+    "country": "Poland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
