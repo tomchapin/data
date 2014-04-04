@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.685,
+      40.5983
+    ]
+  },
+  "properties": {
+    "name": "Sundial Peak",
+    "latitude": 40.5983,
+    "longitude": -111.685,
+    "feet": 10320,
+    "meters": 3146,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
