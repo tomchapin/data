@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.391094,
+      -21.887784
+    ]
+  },
+  "properties": {
+    "name": "San Pedro",
+    "latitude": -21.887784,
+    "longitude": -68.391094,
+    "feet": 20161,
+    "meters": 6145,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
