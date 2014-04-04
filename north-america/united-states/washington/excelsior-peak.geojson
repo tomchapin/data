@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.790056,
+      48.934877
+    ]
+  },
+  "properties": {
+    "name": "Excelsior Peak",
+    "latitude": 48.934877,
+    "longitude": -121.790056,
+    "feet": 5613,
+    "meters": 1710,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
