@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.25,
+      35.53
+    ]
+  },
+  "properties": {
+    "name": "Touchal",
+    "latitude": 35.53,
+    "longitude": 51.25,
+    "feet": 13005,
+    "meters": 3964,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
