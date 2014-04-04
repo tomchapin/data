@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.818172,
+      48.744078
+    ]
+  },
+  "properties": {
+    "name": "Stuifen",
+    "latitude": 48.744078,
+    "longitude": 9.818172,
+    "feet": 2484,
+    "meters": 757,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
