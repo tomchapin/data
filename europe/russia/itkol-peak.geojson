@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.539133,
+      43.26866
+    ]
+  },
+  "properties": {
+    "name": "Itkol Peak",
+    "latitude": 43.26866,
+    "longitude": 42.539133,
+    "feet": 11585,
+    "meters": 3531,
+    "continent": "Europe",
+    "country": "Russia"
+  }
+}
