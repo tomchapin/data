@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.7,
+      47.0667
+    ]
+  },
+  "properties": {
+    "name": "Medelspitze",
+    "latitude": 47.0667,
+    "longitude": 12.7,
+    "feet": 8756,
+    "meters": 2669,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
