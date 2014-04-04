@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bronzone",
+    "feet": 4377,
+    "meters": 1334,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
