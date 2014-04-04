@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.264778,
+      50.940636
+    ]
+  },
+  "properties": {
+    "name": "Mount Sparrowhawk",
+    "latitude": 50.940636,
+    "longitude": -115.264778,
+    "feet": 10239,
+    "meters": 3121,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
