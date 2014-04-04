@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.847549,
+      49.012654
+    ]
+  },
+  "properties": {
+    "name": "Mount Frosty",
+    "latitude": 49.012654,
+    "longitude": -120.847549,
+    "feet": 7900,
+    "meters": 2408,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
