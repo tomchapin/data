@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.374279,
+      48.143165
+    ]
+  },
+  "properties": {
+    "name": "Pugh",
+    "latitude": 48.143165,
+    "longitude": -121.374279,
+    "feet": 7201,
+    "meters": 2195,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
