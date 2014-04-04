@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.296448,
+      47.333704
+    ]
+  },
+  "properties": {
+    "name": "Großer Rettenstein",
+    "latitude": 47.333704,
+    "longitude": 12.296448,
+    "feet": 7749,
+    "meters": 2362,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
