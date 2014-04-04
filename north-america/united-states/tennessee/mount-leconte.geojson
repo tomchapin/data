@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.4368,
+      35.6543
+    ]
+  },
+  "properties": {
+    "name": "Mount LeConte",
+    "latitude": 35.6543,
+    "longitude": -83.4368,
+    "feet": 6593,
+    "meters": 2010,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Tennessee"
+  }
+}
