@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.5667,
+      -23.3667
+    ]
+  },
+  "properties": {
+    "name": "Lascar",
+    "latitude": -23.3667,
+    "longitude": -68.5667,
+    "feet": 18507,
+    "meters": 5641,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
