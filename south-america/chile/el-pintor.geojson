@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Pintor",
+    "feet": 13780,
+    "meters": 4200,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
