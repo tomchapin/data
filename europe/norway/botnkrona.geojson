@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0225,
+      65.4466
+    ]
+  },
+  "properties": {
+    "name": "Botnkrona",
+    "latitude": 65.4466,
+    "longitude": 12.0225,
+    "feet": 3517,
+    "meters": 1072,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
