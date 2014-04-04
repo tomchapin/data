@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.0,
+      41.05
+    ]
+  },
+  "properties": {
+    "name": "Karcal",
+    "latitude": 41.05,
+    "longitude": 42.0,
+    "feet": 11247,
+    "meters": 3428,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
