@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.0197,
+      47.04065
+    ]
+  },
+  "properties": {
+    "name": "Schareck",
+    "latitude": 47.04065,
+    "longitude": 13.0197,
+    "feet": 10246,
+    "meters": 3123,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
