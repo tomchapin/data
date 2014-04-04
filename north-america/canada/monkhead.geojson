@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.392006,
+      52.582296
+    ]
+  },
+  "properties": {
+    "name": "Monkhead",
+    "latitude": 52.582296,
+    "longitude": -117.392006,
+    "feet": 10561,
+    "meters": 3219,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
