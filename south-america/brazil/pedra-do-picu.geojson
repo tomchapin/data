@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -44.775397,
+      -22.337126
+    ]
+  },
+  "properties": {
+    "name": "Pedra do Picú",
+    "latitude": -22.337126,
+    "longitude": -44.775397,
+    "feet": 5249,
+    "meters": 1600,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
