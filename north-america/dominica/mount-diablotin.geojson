@@ -14,6 +14,8 @@
     "feet": 4747,
     "meters": 1447,
     "continent": "North America",
-    "country": "Dominica"
+    "country": "Dominica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
