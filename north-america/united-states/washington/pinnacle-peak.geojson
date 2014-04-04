@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.732593,
+      46.757974
+    ]
+  },
+  "properties": {
+    "name": "Pinnacle Peak",
+    "latitude": 46.757974,
+    "longitude": -121.732593,
+    "feet": 6562,
+    "meters": 2000,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
