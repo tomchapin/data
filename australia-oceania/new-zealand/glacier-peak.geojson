@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Glacier Peak",
+    "feet": 9872,
+    "meters": 3009,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
