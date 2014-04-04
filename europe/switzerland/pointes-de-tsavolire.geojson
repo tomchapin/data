@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.50924,
+      46.16236
+    ]
+  },
+  "properties": {
+    "name": "Pointes de Tsavolire",
+    "latitude": 46.16236,
+    "longitude": 7.50924,
+    "feet": 9928,
+    "meters": 3026,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
