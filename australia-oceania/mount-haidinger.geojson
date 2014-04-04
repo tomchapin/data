@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Haidinger",
+    "feet": 10065,
+    "meters": 3068,
+    "continent": "Australia/Oceania"
+  }
+}
