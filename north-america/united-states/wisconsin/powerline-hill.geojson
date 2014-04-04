@@ -13,6 +13,8 @@
     "meters": 282,
     "continent": "North America",
     "country": "United States",
-    "state": "Wisconsin"
+    "state": "Wisconsin",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
