@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.011996,
+      48.964047
+    ]
+  },
+  "properties": {
+    "name": "Mont Xalibu",
+    "latitude": 48.964047,
+    "longitude": -66.011996,
+    "feet": 3740,
+    "meters": 1140,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
