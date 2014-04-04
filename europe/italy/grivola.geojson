@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.257581,
+      45.595798
+    ]
+  },
+  "properties": {
+    "name": "Grivola",
+    "latitude": 45.595798,
+    "longitude": 7.257581,
+    "feet": 13022,
+    "meters": 3969,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
