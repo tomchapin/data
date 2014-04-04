@@ -12,6 +12,8 @@
     "feet": 7211,
     "meters": 2198,
     "continent": "Europe",
-    "country": "Greece/Albania"
+    "country": "Greece/Albania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
