@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.999573,
+      47.53876
+    ]
+  },
+  "properties": {
+    "name": "Feuerpalfen",
+    "latitude": 47.53876,
+    "longitude": 12.999573,
+    "feet": 5710,
+    "meters": 1740,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
