@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.290039,
+      45.228481
+    ]
+  },
+  "properties": {
+    "name": "Matterhorn",
+    "latitude": 45.228481,
+    "longitude": -117.290039,
+    "feet": 9826,
+    "meters": 2995,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
