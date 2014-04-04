@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Spruce Knob",
+    "feet": 4863,
+    "meters": 1482,
+    "continent": "North America",
+    "country": "United States",
+    "state": "West Virginia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
