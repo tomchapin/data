@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Makra 3885-M",
+    "feet": 12500,
+    "meters": 3810,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
