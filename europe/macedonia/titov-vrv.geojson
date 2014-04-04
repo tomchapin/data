@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Titov vrv",
+    "feet": 9012,
+    "meters": 2747,
+    "continent": "Europe",
+    "country": "Macedonia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
