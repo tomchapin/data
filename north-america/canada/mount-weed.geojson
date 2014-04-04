@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.527605,
+      51.791736
+    ]
+  },
+  "properties": {
+    "name": "Mount Weed",
+    "latitude": 51.791736,
+    "longitude": -116.527605,
+    "feet": 10105,
+    "meters": 3080,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
