@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.15,
+      53.1167
+    ]
+  },
+  "properties": {
+    "name": "Mount Robson",
+    "latitude": 53.1167,
+    "longitude": -119.15,
+    "feet": 12972,
+    "meters": 3954,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
