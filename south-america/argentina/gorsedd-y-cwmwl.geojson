@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gorsedd Y Cwmwl",
+    "feet": 6627,
+    "meters": 2020,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
