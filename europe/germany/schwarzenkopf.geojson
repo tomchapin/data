@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.04959,
+      47.44437
+    ]
+  },
+  "properties": {
+    "name": "Schwarzenkopf",
+    "latitude": 47.44437,
+    "longitude": 11.04959,
+    "feet": 5968,
+    "meters": 1819,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
