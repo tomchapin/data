@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.626,
+      35.872
+    ]
+  },
+  "properties": {
+    "name": "Kinpu-San",
+    "latitude": 35.872,
+    "longitude": 138.626,
+    "feet": 8527,
+    "meters": 2599,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
