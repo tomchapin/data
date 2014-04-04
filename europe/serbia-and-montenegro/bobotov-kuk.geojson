@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bobotov kuk",
+    "feet": 8277,
+    "meters": 2523,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
