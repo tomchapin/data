@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.392,
+      37.6797
+    ]
+  },
+  "properties": {
+    "name": "Rio Grande Pyramid",
+    "latitude": 37.6797,
+    "longitude": -107.392,
+    "feet": 13821,
+    "meters": 4213,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
