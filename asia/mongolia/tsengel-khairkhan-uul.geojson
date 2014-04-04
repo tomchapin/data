@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      89.15755,
+      48.64879
+    ]
+  },
+  "properties": {
+    "name": "Tsengel Khairkhan Uul",
+    "latitude": 48.64879,
+    "longitude": 89.15755,
+    "feet": 12920,
+    "meters": 3938,
+    "continent": "Asia",
+    "country": "Mongolia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
