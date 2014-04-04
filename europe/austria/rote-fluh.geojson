@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rote Fluh",
+    "feet": 6926,
+    "meters": 2111,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
