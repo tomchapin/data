@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nevado Purace",
+    "feet": 15603,
+    "meters": 4756,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
