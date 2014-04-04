@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "VIA-tau",
+    "feet": 12533,
+    "meters": 3820,
+    "continent": "Europe",
+    "country": "Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
