@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9167,
+      0.433333
+    ]
+  },
+  "properties": {
+    "name": "Mount Gessi",
+    "latitude": 0.433333,
+    "longitude": 29.9167,
+    "feet": 15470,
+    "meters": 4715,
+    "continent": "Africa",
+    "country": "Congo, Democratic Republic of the"
+  }
+}
