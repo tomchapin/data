@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cima Ovest Di Lavaredo",
+    "feet": 2973,
+    "meters": 906,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
