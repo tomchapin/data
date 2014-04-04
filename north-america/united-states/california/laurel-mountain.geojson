@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.89,
+      37.5803
+    ]
+  },
+  "properties": {
+    "name": "Laurel Mountain",
+    "latitude": 37.5803,
+    "longitude": -118.89,
+    "feet": 11812,
+    "meters": 3600,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
