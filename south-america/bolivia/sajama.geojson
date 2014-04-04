@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.883076,
+      -18.108003
+    ]
+  },
+  "properties": {
+    "name": "Sajama",
+    "latitude": -18.108003,
+    "longitude": -68.883076,
+    "feet": 21463,
+    "meters": 6542,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
