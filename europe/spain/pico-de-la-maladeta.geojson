@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.640984,
+      42.638
+    ]
+  },
+  "properties": {
+    "name": "Pico de la Maladeta",
+    "latitude": 42.638,
+    "longitude": 0.640984,
+    "feet": 10853,
+    "meters": 3308,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
