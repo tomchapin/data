@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.435549,
+      44.19667
+    ]
+  },
+  "properties": {
+    "name": "Mount Field",
+    "latitude": 44.19667,
+    "longitude": -71.435549,
+    "feet": 4341,
+    "meters": 1323,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
