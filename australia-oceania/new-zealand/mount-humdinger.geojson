@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Humdinger",
+    "feet": 9206,
+    "meters": 2806,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
