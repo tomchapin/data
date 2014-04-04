@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.75,
+      45.9167
+    ]
+  },
+  "properties": {
+    "name": "Pollux",
+    "latitude": 45.9167,
+    "longitude": 7.75,
+    "feet": 13425,
+    "meters": 4092,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
