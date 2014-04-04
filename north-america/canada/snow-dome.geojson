@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.317162,
+      52.189615
+    ]
+  },
+  "properties": {
+    "name": "Snow Dome",
+    "latitude": 52.189615,
+    "longitude": -117.317162,
+    "feet": 11549,
+    "meters": 3520,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
