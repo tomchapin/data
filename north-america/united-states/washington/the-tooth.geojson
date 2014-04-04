@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.454759,
+      47.445823
+    ]
+  },
+  "properties": {
+    "name": "The Tooth",
+    "latitude": 47.445823,
+    "longitude": -121.454759,
+    "feet": 5604,
+    "meters": 1708,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
