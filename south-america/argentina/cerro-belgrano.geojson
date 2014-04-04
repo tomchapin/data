@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8167,
+      -29.0333
+    ]
+  },
+  "properties": {
+    "name": "Cerro Belgrano",
+    "latitude": -29.0333,
+    "longitude": -67.8167,
+    "feet": 6250,
+    "meters": 1905,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
