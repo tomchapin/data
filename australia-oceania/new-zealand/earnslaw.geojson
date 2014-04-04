@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.4,
+      -45.6167
+    ]
+  },
+  "properties": {
+    "name": "Earnslaw",
+    "latitude": -45.6167,
+    "longitude": 168.4,
+    "feet": 9285,
+    "meters": 2830,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
