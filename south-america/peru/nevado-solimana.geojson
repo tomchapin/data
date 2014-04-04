@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.8936,
+      -15.41
+    ]
+  },
+  "properties": {
+    "name": "Nevado Solimana",
+    "latitude": -15.41,
+    "longitude": -72.8936,
+    "feet": 19990,
+    "meters": 6093,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
