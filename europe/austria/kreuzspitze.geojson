@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kreuzspitze",
+    "feet": 11342,
+    "meters": 3457,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
