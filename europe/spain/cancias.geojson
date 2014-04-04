@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.15604,
+      42.471274
+    ]
+  },
+  "properties": {
+    "name": "Cancias",
+    "latitude": 42.471274,
+    "longitude": -0.15604,
+    "feet": 6552,
+    "meters": 1997,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
