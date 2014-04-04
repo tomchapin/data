@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.807509,
+      48.162536
+    ]
+  },
+  "properties": {
+    "name": "Mount Fernow",
+    "latitude": 48.162536,
+    "longitude": -120.807509,
+    "feet": 9249,
+    "meters": 2819,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
