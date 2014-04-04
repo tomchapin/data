@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.8486,
+      35.4003
+    ]
+  },
+  "properties": {
+    "name": "Saltoro Kangri",
+    "latitude": 35.4003,
+    "longitude": 76.8486,
+    "feet": 25400,
+    "meters": 7742,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
