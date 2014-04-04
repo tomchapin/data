@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.65,
+      40.1833
+    ]
+  },
+  "properties": {
+    "name": "Bourinos",
+    "latitude": 40.1833,
+    "longitude": 21.65,
+    "feet": 6122,
+    "meters": 1866,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
