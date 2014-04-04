@@ -12,6 +12,8 @@
     "feet": 1834,
     "meters": 559,
     "continent": "Europe",
-    "country": "Luxembourg"
+    "country": "Luxembourg",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
