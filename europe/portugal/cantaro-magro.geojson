@@ -14,6 +14,8 @@
     "feet": 6325,
     "meters": 1928,
     "continent": "Europe",
-    "country": "Portugal"
+    "country": "Portugal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
