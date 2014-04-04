@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Saint Sauveur",
+    "feet": 8894,
+    "meters": 2711,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
