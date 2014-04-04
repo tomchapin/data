@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Potosi",
+    "feet": 11975,
+    "meters": 3650,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
