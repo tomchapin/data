@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cerro Tunari",
+    "feet": 17060,
+    "meters": 5200,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
