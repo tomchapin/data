@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.089396,
+      27.889915
+    ]
+  },
+  "properties": {
+    "name": "Makalu",
+    "latitude": 27.889915,
+    "longitude": 87.089396,
+    "feet": 27765,
+    "meters": 8462,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
