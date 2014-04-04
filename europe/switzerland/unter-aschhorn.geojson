@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.741542,
+      46.055573
+    ]
+  },
+  "properties": {
+    "name": "Unter Aschhorn",
+    "latitude": 46.055573,
+    "longitude": 7.741542,
+    "feet": 11870,
+    "meters": 3618,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
