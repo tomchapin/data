@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.174,
+      30.6357
+    ]
+  },
+  "properties": {
+    "name": "Mount Livermore",
+    "latitude": 30.6357,
+    "longitude": -104.174,
+    "feet": 8378,
+    "meters": 2554,
+    "continent": "North America",
+    "country": "United States"
+  }
+}
