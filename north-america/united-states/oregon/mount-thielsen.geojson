@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.066,
+      43.1531
+    ]
+  },
+  "properties": {
+    "name": "Mount Thielsen",
+    "latitude": 43.1531,
+    "longitude": -122.066,
+    "feet": 9178,
+    "meters": 2797,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
