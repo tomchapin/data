@@ -13,6 +13,8 @@
     "longitude": -149.5,
     "feet": 6778,
     "meters": 2066,
-    "continent": "Australia/Oceania"
+    "continent": "Australia/Oceania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
