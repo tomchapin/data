@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.823547,
+      46.433125
+    ]
+  },
+  "properties": {
+    "name": "Skrlatica",
+    "latitude": 46.433125,
+    "longitude": 13.823547,
+    "feet": 8981,
+    "meters": 2737,
+    "continent": "Europe",
+    "country": "Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
