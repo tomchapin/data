@@ -14,6 +14,8 @@
     "feet": 9127,
     "meters": 2782,
     "continent": "Europe",
-    "country": "France"
+    "country": "France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
