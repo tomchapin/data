@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.30513,
+      47.748904
+    ]
+  },
+  "properties": {
+    "name": "Faisten Schafberg",
+    "latitude": 47.748904,
+    "longitude": 13.30513,
+    "feet": 5114,
+    "meters": 1559,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
