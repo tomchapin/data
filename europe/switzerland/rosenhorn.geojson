@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.108168,
+      46.598358
+    ]
+  },
+  "properties": {
+    "name": "Rosenhorn",
+    "latitude": 46.598358,
+    "longitude": 8.108168,
+    "feet": 12103,
+    "meters": 3689,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
