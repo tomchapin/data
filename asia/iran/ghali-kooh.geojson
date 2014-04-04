@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ghali Kooh",
+    "feet": 3371,
+    "meters": 1027,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
