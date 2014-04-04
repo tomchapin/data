@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.482482,
+      48.754123
+    ]
+  },
+  "properties": {
+    "name": "Mount Blum",
+    "latitude": 48.754123,
+    "longitude": -121.482482,
+    "feet": 7680,
+    "meters": 2341,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
