@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lysa Hora",
+    "feet": 4344,
+    "meters": 1324,
+    "continent": "Europe",
+    "country": "Czech Republic"
+  }
+}
