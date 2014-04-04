@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.435591,
+      -28.157326
+    ]
+  },
+  "properties": {
+    "name": "Mt Asplenium",
+    "latitude": -28.157326,
+    "longitude": 152.435591,
+    "feet": 4245,
+    "meters": 1294,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
