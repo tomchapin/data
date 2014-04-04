@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.057891,
+      44.385279
+    ]
+  },
+  "properties": {
+    "name": "Pumacioletto",
+    "latitude": 44.385279,
+    "longitude": 10.057891,
+    "feet": 5545,
+    "meters": 1690,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
