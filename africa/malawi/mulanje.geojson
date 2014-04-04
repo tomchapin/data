@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.6333,
+      -15.9667
+    ]
+  },
+  "properties": {
+    "name": "Mulanje",
+    "latitude": -15.9667,
+    "longitude": 35.6333,
+    "feet": 9852,
+    "meters": 3003,
+    "continent": "Africa",
+    "country": "Malawi"
+  }
+}
