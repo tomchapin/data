@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Becca di Luseney",
+    "feet": 11496,
+    "meters": 3504,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
