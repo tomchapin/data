@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.1667,
+      16.7167
+    ]
+  },
+  "properties": {
+    "name": "Montserrat",
+    "latitude": 16.7167,
+    "longitude": -62.1667,
+    "feet": 4052,
+    "meters": 1235,
+    "continent": "North America"
+  }
+}
