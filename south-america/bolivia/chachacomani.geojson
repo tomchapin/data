@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Chachacomani",
+    "feet": 19928,
+    "meters": 6074,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
