@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.898831,
+      30.81038
+    ]
+  },
+  "properties": {
+    "name": "Rudragaira",
+    "latitude": 30.81038,
+    "longitude": 78.898831,
+    "feet": 19091,
+    "meters": 5819,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
