@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.459492,
+      34.659758
+    ]
+  },
+  "properties": {
+    "name": "Ghezel Arsalan",
+    "latitude": 34.659758,
+    "longitude": 48.459492,
+    "feet": 11155,
+    "meters": 3400,
+    "continent": "Asia",
+    "country": "Iran/Iran"
+  }
+}
