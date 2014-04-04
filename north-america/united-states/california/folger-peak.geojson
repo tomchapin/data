@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.4833
+    ]
+  },
+  "properties": {
+    "name": "Folger Peak",
+    "latitude": 38.4833,
+    "longitude": -119.8,
+    "feet": 9680,
+    "meters": 2950,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
