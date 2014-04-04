@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.345,
+      14.1465
+    ]
+  },
+  "properties": {
+    "name": "Mount Kalisungan",
+    "latitude": 14.1465,
+    "longitude": 121.345,
+    "feet": 2251,
+    "meters": 686,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
