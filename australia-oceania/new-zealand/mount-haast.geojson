@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Haast",
+    "feet": 10302,
+    "meters": 3140,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
