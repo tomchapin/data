@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.782074,
+      35.466542
+    ]
+  },
+  "properties": {
+    "name": "Sherpi Kangri",
+    "latitude": 35.466542,
+    "longitude": 76.782074,
+    "feet": 24213,
+    "meters": 7380,
+    "continent": "Asia",
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
