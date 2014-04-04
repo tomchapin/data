@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.838,
+      -14.868
+    ]
+  },
+  "properties": {
+    "name": "Cerro Blanco (Sand Dune)",
+    "latitude": -14.868,
+    "longitude": -74.838,
+    "feet": 6791,
+    "meters": 2070,
+    "continent": "South America",
+    "country": "Peru/Peru"
+  }
+}
