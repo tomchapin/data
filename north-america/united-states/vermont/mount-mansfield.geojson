@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.8147,
+      44.5436
+    ]
+  },
+  "properties": {
+    "name": "Mount Mansfield",
+    "latitude": 44.5436,
+    "longitude": -72.8147,
+    "feet": 4393,
+    "meters": 1339,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Vermont"
+  }
+}
