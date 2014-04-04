@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kutelo",
+    "feet": 9541,
+    "meters": 2908,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
