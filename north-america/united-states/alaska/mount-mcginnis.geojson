@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -146.37,
+      63.49
+    ]
+  },
+  "properties": {
+    "name": "Mount McGinnis",
+    "latitude": 63.49,
+    "longitude": -146.37,
+    "feet": 11400,
+    "meters": 3,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
