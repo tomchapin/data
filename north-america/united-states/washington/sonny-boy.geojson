@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.161604,
+      48.390658
+    ]
+  },
+  "properties": {
+    "name": "Sonny Boy",
+    "latitude": 48.390658,
+    "longitude": -121.161604,
+    "feet": 6971,
+    "meters": 2125,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
