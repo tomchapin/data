@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.271088,
+      62.322192
+    ]
+  },
+  "properties": {
+    "name": "Rasletind",
+    "latitude": 62.322192,
+    "longitude": 9.271088,
+    "feet": 2105,
+    "meters": 642,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
