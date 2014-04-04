@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.432662,
+      27.972004
+    ]
+  },
+  "properties": {
+    "name": "Menlungtse",
+    "latitude": 27.972004,
+    "longitude": 86.432662,
+    "feet": 23559,
+    "meters": 7181,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
