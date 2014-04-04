@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.525667,
+      44.924167
+    ]
+  },
+  "properties": {
+    "name": "Jay Peak",
+    "latitude": 44.924167,
+    "longitude": -72.525667,
+    "feet": 3858,
+    "meters": 1176,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Vermont"
+  }
+}
