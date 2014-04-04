@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.36667,
+      44.9167
+    ]
+  },
+  "properties": {
+    "name": "Ecrins",
+    "latitude": 44.9167,
+    "longitude": 6.36667,
+    "feet": 13455,
+    "meters": 4101,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
