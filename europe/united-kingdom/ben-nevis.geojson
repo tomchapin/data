@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.00419,
+      56.7979
+    ]
+  },
+  "properties": {
+    "name": "Ben Nevis",
+    "latitude": 56.7979,
+    "longitude": -5.00419,
+    "feet": 4409,
+    "meters": 1344,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
