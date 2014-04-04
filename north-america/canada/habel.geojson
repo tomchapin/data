@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.571121,
+      51.65062
+    ]
+  },
+  "properties": {
+    "name": "Habel",
+    "latitude": 51.65062,
+    "longitude": -116.571121,
+    "feet": 10082,
+    "meters": 3073,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
