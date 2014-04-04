@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.4833,
+      -21.0833
+    ]
+  },
+  "properties": {
+    "name": "Piton des Neiges",
+    "latitude": -21.0833,
+    "longitude": 55.4833,
+    "feet": 10700,
+    "meters": 3070,
+    "continent": "Africa",
+    "country": "Reunion"
+  }
+}
