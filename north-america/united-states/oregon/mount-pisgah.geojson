@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.96452,
+      44.00567
+    ]
+  },
+  "properties": {
+    "name": "Mount Pisgah",
+    "latitude": 44.00567,
+    "longitude": -122.96452,
+    "feet": 1531,
+    "meters": 467,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
