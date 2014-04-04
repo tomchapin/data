@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Osorno",
+    "feet": 2660,
+    "meters": 811,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
