@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gasherbrum III",
+    "feet": 26089,
+    "meters": 7952,
+    "continent": "Asia",
+    "country": "Pakistan/China"
+  }
+}
