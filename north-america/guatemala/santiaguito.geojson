@@ -12,6 +12,8 @@
     "feet": 8202,
     "meters": 2500,
     "continent": "North America",
-    "country": "Guatemala"
+    "country": "Guatemala",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
