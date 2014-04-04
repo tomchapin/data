@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.433,
+      36.5333
+    ]
+  },
+  "properties": {
+    "name": "Lake Fork Peak",
+    "latitude": 36.5333,
+    "longitude": -105.433,
+    "feet": 12881,
+    "meters": 3926,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
