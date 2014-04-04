@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Goose Bump",
+    "feet": 7377,
+    "meters": 2249,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
