@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.504444,
+      61.250556
+    ]
+  },
+  "properties": {
+    "name": "Rendezvous Peak",
+    "latitude": 61.250556,
+    "longitude": -149.504444,
+    "feet": 3825,
+    "meters": 1166,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
