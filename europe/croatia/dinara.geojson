@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Dinara",
+    "feet": 6007,
+    "meters": 1831,
+    "continent": "Europe",
+    "country": "Croatia"
+  }
+}
