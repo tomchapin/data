@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.258526,
+      51.575576
+    ]
+  },
+  "properties": {
+    "name": "Mount Hector",
+    "latitude": 51.575576,
+    "longitude": -116.258526,
+    "feet": 11135,
+    "meters": 3394,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
