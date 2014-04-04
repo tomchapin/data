@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1,
+      47.0833
+    ]
+  },
+  "properties": {
+    "name": "Saulakopf",
+    "latitude": 47.0833,
+    "longitude": 9.1,
+    "feet": 8254,
+    "meters": 2516,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
