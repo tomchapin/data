@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.52283,
+      38.8028
+    ]
+  },
+  "properties": {
+    "name": "Mount Lamborn",
+    "latitude": 38.8028,
+    "longitude": -107.52283,
+    "feet": 11397,
+    "meters": 3474,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
