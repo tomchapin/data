@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Dent du Requin",
+    "feet": 11227,
+    "meters": 3422,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
