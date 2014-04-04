@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.5675,
+      35.9264
+    ]
+  },
+  "properties": {
+    "name": "Skyang Kangri",
+    "latitude": 35.9264,
+    "longitude": 76.5675,
+    "feet": 24754,
+    "meters": 7545,
+    "continent": "Asia",
+    "country": "China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
