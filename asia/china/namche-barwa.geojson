@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.1667,
+      29.6667
+    ]
+  },
+  "properties": {
+    "name": "Namche Barwa",
+    "latitude": 29.6667,
+    "longitude": 95.1667,
+    "feet": 25531,
+    "meters": 7782,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
