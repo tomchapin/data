@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grasmoor",
+    "feet": 2791,
+    "meters": 851,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
