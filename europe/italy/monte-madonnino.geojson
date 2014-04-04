@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Madonnino",
+    "feet": 8209,
+    "meters": 2502,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
