@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lespezi",
+    "feet": 8274,
+    "meters": 2522,
+    "continent": "Europe",
+    "country": "Romania/Romania"
+  }
+}
