@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.0833,
+      -32.2333
+    ]
+  },
+  "properties": {
+    "name": "Krakadou",
+    "latitude": -32.2333,
+    "longitude": 19.0833,
+    "feet": 5725,
+    "meters": 1745,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
