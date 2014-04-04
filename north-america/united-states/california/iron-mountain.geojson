@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.712,
+      34.2883
+    ]
+  },
+  "properties": {
+    "name": "Iron Mountain",
+    "latitude": 34.2883,
+    "longitude": -117.712,
+    "feet": 8006,
+    "meters": 2440,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
