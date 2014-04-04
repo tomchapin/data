@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.23,
+      45.55
+    ]
+  },
+  "properties": {
+    "name": "White Cap Mountain",
+    "latitude": 45.55,
+    "longitude": -69.23,
+    "feet": 3644,
+    "meters": 1111,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Maine",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
