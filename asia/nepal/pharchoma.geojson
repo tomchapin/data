@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pharchoma",
+    "feet": 20012,
+    "meters": 6100,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
