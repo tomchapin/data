@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.786,
+      48.8703
+    ]
+  },
+  "properties": {
+    "name": "Mount Merritt",
+    "latitude": 48.8703,
+    "longitude": -113.786,
+    "feet": 10004,
+    "meters": 3049,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
