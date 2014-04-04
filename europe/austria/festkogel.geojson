@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Festkogel",
+    "feet": 9957,
+    "meters": 3035,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
