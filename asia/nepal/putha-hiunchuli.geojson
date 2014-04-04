@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Putha Hiunchuli",
+    "feet": 23773,
+    "meters": 7246,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
