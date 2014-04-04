@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.043375,
+      -49.271277
+    ]
+  },
+  "properties": {
+    "name": "Cerro Fitzroy",
+    "latitude": -49.271277,
+    "longitude": -73.043375,
+    "feet": 11073,
+    "meters": 3375,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
