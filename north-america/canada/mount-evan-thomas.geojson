@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.098,
+      50.7633
+    ]
+  },
+  "properties": {
+    "name": "Mount Evan-Thomas",
+    "latitude": 50.7633,
+    "longitude": -115.098,
+    "feet": 10164,
+    "meters": 3098,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
