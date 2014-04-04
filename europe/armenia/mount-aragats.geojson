@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Aragats",
+    "feet": 13418,
+    "meters": 4090,
+    "continent": "Europe",
+    "country": "Armenia"
+  }
+}
