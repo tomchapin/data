@@ -14,6 +14,8 @@
     "feet": 12037,
     "meters": 3669,
     "continent": "North America",
-    "country": "Greenland"
+    "country": "Greenland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
