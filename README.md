@@ -13,5 +13,8 @@ The directory structure for finding peaks is:
 
 ## Contributing
 
-Simply edit/add the mountains .geojson file in the proper directory and submit a pull request.
+Simply edit/add the mountains [geojson](http://geojson.org/) file in the proper directory and submit a pull request.
 
+## Questions / Complaints ?
+
+Open a Github issue or email me at [jason@waldrip.net](mailto://jason@waldrip.net)
