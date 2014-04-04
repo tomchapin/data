@@ -13,6 +13,8 @@
     "meters": 3663,
     "continent": "North America",
     "country": "United States",
-    "state": "Montana"
+    "state": "Montana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
