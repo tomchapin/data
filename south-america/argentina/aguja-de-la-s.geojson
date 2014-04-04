@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.05,
+      -49.3
+    ]
+  },
+  "properties": {
+    "name": "Aguja De La S",
+    "latitude": -49.3,
+    "longitude": -73.05,
+    "feet": 7661,
+    "meters": 2335,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
