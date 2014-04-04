@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Giant's Castle",
+    "feet": 10761,
+    "meters": 3280,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
