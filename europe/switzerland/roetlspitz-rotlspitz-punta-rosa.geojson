@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.45916,
+      46.53974
+    ]
+  },
+  "properties": {
+    "name": "Roetlspitz (Rötlspitz; Punta Rosa)",
+    "latitude": 46.53974,
+    "longitude": 10.45916,
+    "feet": 9928,
+    "meters": 3026,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
