@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.097565,
+      46.720917
+    ]
+  },
+  "properties": {
+    "name": "Mutspitze",
+    "latitude": 46.720917,
+    "longitude": 11.097565,
+    "feet": 7526,
+    "meters": 2294,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
