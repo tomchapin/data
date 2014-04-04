@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.710019,
+      48.974865
+    ]
+  },
+  "properties": {
+    "name": "Tomyhoi Peak",
+    "latitude": 48.974865,
+    "longitude": -121.710019,
+    "feet": 7435,
+    "meters": 2266,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
