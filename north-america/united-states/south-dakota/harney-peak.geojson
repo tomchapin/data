@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.533,
+      43.8667
+    ]
+  },
+  "properties": {
+    "name": "Harney Peak",
+    "latitude": 43.8667,
+    "longitude": -103.533,
+    "feet": 7242,
+    "meters": 2207,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Dakota"
+  }
+}
