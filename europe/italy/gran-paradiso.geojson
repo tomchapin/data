@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2678,
+      45.5177
+    ]
+  },
+  "properties": {
+    "name": "Gran Paradiso",
+    "latitude": 45.5177,
+    "longitude": 7.2678,
+    "feet": 13323,
+    "meters": 4061,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
