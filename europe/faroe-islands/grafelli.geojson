@@ -12,6 +12,8 @@
     "feet": 2808,
     "meters": 856,
     "continent": "Europe",
-    "country": "Faroe Islands"
+    "country": "Faroe Islands",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
