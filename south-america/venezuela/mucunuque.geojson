@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.802489,
+      8.756357
+    ]
+  },
+  "properties": {
+    "name": "Mucuñuque",
+    "latitude": 8.756357,
+    "longitude": -70.802489,
+    "feet": 15322,
+    "meters": 4670,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
