@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.928488,
+      -35.477288
+    ]
+  },
+  "properties": {
+    "name": "The Pyramid",
+    "latitude": -35.477288,
+    "longitude": 148.928488,
+    "feet": 3835,
+    "meters": 1169,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
