@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.8667,
+      0.383333
+    ]
+  },
+  "properties": {
+    "name": "Mount Stanley",
+    "latitude": 0.383333,
+    "longitude": 29.8667,
+    "feet": 16763,
+    "meters": 5109,
+    "continent": "Africa",
+    "country": "Congo, Democratic Republic of the",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
