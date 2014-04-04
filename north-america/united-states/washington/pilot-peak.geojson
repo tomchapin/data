@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.134696,
+      48.293615
+    ]
+  },
+  "properties": {
+    "name": "Pilot Peak",
+    "latitude": 48.293615,
+    "longitude": -121.134696,
+    "feet": 7088,
+    "meters": 2160,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
