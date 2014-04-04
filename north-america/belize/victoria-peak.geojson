@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.62,
+      16.812
+    ]
+  },
+  "properties": {
+    "name": "Victoria Peak",
+    "latitude": 16.812,
+    "longitude": -88.62,
+    "feet": 3688,
+    "meters": 1124,
+    "continent": "North America",
+    "country": "Belize",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
