@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.865094,
+      45.817554
+    ]
+  },
+  "properties": {
+    "name": "Mont Brouillard",
+    "latitude": 45.817554,
+    "longitude": 6.865094,
+    "feet": 13297,
+    "meters": 4053,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
