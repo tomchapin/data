@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5833,
+      -2.83333
+    ]
+  },
+  "properties": {
+    "name": "Loolmalasin",
+    "latitude": -2.83333,
+    "longitude": 35.5833,
+    "feet": 12080,
+    "meters": 3682,
+    "continent": "Africa",
+    "country": "Tanzania"
+  }
+}
