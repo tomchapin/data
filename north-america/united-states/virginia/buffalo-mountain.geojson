@@ -13,6 +13,8 @@
     "meters": 1210,
     "continent": "North America",
     "country": "United States",
-    "state": "Virginia"
+    "state": "Virginia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
