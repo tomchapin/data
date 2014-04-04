@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.0,
+      61.9
+    ]
+  },
+  "properties": {
+    "name": "Montana Peak",
+    "latitude": 61.9,
+    "longitude": -149.0,
+    "feet": 6907,
+    "meters": 2105,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
