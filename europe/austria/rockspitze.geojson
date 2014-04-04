@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.15,
+      47.15
+    ]
+  },
+  "properties": {
+    "name": "Rockspitze",
+    "latitude": 47.15,
+    "longitude": 9.15,
+    "feet": 2750,
+    "meters": 838,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
