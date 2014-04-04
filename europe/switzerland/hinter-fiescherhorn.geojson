@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.068256,
+      46.545904
+    ]
+  },
+  "properties": {
+    "name": "Hinter Fiescherhorn",
+    "latitude": 46.545904,
+    "longitude": 8.068256,
+    "feet": 13205,
+    "meters": 4025,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
