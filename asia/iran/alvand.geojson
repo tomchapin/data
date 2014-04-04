@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Alvand",
+    "feet": 11247,
+    "meters": 3428,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
