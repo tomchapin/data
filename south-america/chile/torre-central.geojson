@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.95,
+      -50.9
+    ]
+  },
+  "properties": {
+    "name": "Torre Central",
+    "latitude": -50.9,
+    "longitude": -72.95,
+    "feet": 8071,
+    "meters": 2460,
+    "continent": "South America",
+    "country": "Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
