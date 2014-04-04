@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.783,
+      38.5167
+    ]
+  },
+  "properties": {
+    "name": "Tryon Peak",
+    "latitude": 38.5167,
+    "longitude": -119.783,
+    "feet": 9970,
+    "meters": 3039,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
