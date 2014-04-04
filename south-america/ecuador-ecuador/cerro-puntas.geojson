@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cerro Puntas",
+    "feet": 14606,
+    "meters": 4452,
+    "continent": "South America",
+    "country": "Ecuador/Ecuador"
+  }
+}
