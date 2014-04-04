@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.1833,
+      42.05
+    ]
+  },
+  "properties": {
+    "name": "Pik Pobeda",
+    "latitude": 42.05,
+    "longitude": 80.1833,
+    "feet": 24407,
+    "meters": 7439,
+    "continent": "Asia",
+    "country": "Kyrgyzstan/China"
+  }
+}
