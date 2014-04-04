@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.84,
+      37.91
+    ]
+  },
+  "properties": {
+    "name": "Erymanthos",
+    "latitude": 37.91,
+    "longitude": 21.84,
+    "feet": 7297,
+    "meters": 2224,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
