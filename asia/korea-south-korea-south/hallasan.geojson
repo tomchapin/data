@@ -12,6 +12,8 @@
     "feet": 6398,
     "meters": 1950,
     "continent": "Asia",
-    "country": "Korea, South/Korea, South"
+    "country": "Korea, South/Korea, South",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
