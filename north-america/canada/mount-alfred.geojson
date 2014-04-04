@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Alfred",
+    "feet": 7810,
+    "meters": 2381,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
