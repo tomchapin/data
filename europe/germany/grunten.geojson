@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.319595,
+      47.556604
+    ]
+  },
+  "properties": {
+    "name": "Grünten",
+    "latitude": 47.556604,
+    "longitude": 10.319595,
+    "feet": 5702,
+    "meters": 1738,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
