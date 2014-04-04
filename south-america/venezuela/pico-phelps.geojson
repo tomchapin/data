@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.006553,
+      0.804812
+    ]
+  },
+  "properties": {
+    "name": "Pico Phelps",
+    "latitude": 0.804812,
+    "longitude": -66.006553,
+    "feet": 9754,
+    "meters": 2973,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
