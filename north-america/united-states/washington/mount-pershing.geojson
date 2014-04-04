@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.256087,
+      47.551912
+    ]
+  },
+  "properties": {
+    "name": "Mount Pershing",
+    "latitude": 47.551912,
+    "longitude": -123.256087,
+    "feet": 6154,
+    "meters": 1876,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
