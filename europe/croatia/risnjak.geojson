@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Risnjak",
+    "feet": 5013,
+    "meters": 1528,
+    "continent": "Europe",
+    "country": "Croatia"
+  }
+}
