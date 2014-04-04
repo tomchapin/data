@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Koscielec",
+    "feet": 7070,
+    "meters": 2155,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
