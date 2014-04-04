@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.239,
+      38.6189
+    ]
+  },
+  "properties": {
+    "name": "Mount Shavano",
+    "latitude": 38.6189,
+    "longitude": -106.239,
+    "feet": 14229,
+    "meters": 4337,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
