@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.4167,
+      -78.5833
+    ]
+  },
+  "properties": {
+    "name": "Vinson Massif",
+    "latitude": -78.5833,
+    "longitude": -85.4167,
+    "feet": 16066,
+    "meters": 4897,
+    "continent": "Antarctica",
+    "country": "Antarctica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
