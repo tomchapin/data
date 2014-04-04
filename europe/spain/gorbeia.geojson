@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.78333,
+      43.0333
+    ]
+  },
+  "properties": {
+    "name": "Gorbeia",
+    "latitude": 43.0333,
+    "longitude": -2.78333,
+    "feet": 4859,
+    "meters": 1481,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
