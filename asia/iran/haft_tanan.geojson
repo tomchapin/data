@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Haft_tanan",
+    "feet": 13182,
+    "meters": 4018,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
