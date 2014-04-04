@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.533,
+      51.1
+    ]
+  },
+  "properties": {
+    "name": "Sulphur Mountain",
+    "latitude": 51.1,
+    "longitude": -115.533,
+    "feet": 7448,
+    "meters": 2270,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
