@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.053957,
+      43.341847
+    ]
+  },
+  "properties": {
+    "name": "Sv. Jure",
+    "latitude": 43.341847,
+    "longitude": 17.053957,
+    "feet": 5781,
+    "meters": 1762,
+    "continent": "Europe",
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
