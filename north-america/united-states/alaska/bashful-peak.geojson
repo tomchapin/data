@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.867,
+      61.3
+    ]
+  },
+  "properties": {
+    "name": "Bashful Peak",
+    "latitude": 61.3,
+    "longitude": -148.867,
+    "feet": 8005,
+    "meters": 2440,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
