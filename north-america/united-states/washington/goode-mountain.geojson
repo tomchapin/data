@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.910943,
+      48.482908
+    ]
+  },
+  "properties": {
+    "name": "Goode Mountain",
+    "latitude": 48.482908,
+    "longitude": -120.910943,
+    "feet": 9206,
+    "meters": 2804,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
