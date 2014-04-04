@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.504,
+      40.4878
+    ]
+  },
+  "properties": {
+    "name": "Lassen Peak",
+    "latitude": 40.4878,
+    "longitude": -121.504,
+    "feet": 10457,
+    "meters": 3187,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
