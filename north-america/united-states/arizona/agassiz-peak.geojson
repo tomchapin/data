@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.677,
+      35.3258
+    ]
+  },
+  "properties": {
+    "name": "Agassiz Peak",
+    "latitude": 35.3258,
+    "longitude": -111.677,
+    "feet": 12356,
+    "meters": 3766,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
