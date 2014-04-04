@@ -3,15 +3,19 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      null,
-      null
+      11.825355,
+      46.511278
     ]
   },
   "properties": {
-    "name": "Piz Boe",
+    "name": "Piz Boé",
+    "latitude": 46.511278,
+    "longitude": 11.825355,
     "feet": 10341,
     "meters": 3152,
     "continent": "Europe",
-    "country": "Italy"
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
