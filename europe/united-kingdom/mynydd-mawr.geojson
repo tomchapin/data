@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.16667,
+      53.0667
+    ]
+  },
+  "properties": {
+    "name": "Mynydd Mawr",
+    "latitude": 53.0667,
+    "longitude": -4.16667,
+    "feet": 2290,
+    "meters": 698,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
