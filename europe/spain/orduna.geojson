@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.047333,
+      42.986567
+    ]
+  },
+  "properties": {
+    "name": "Orduña",
+    "latitude": 42.986567,
+    "longitude": -3.047333,
+    "feet": 3051,
+    "meters": 930,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
