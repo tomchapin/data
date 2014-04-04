@@ -14,6 +14,8 @@
     "feet": 9006,
     "meters": 2745,
     "continent": "Europe",
-    "country": "Andorra"
+    "country": "Andorra",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
