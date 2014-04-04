@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -108.0,
+      0.0
+    ]
+  },
+  "properties": {
+    "name": "El Gigante",
+    "latitude": 0.0,
+    "longitude": -108.0,
+    "feet": 7169,
+    "meters": 2185,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
