@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.1225,
+      36.1044
+    ]
+  },
+  "properties": {
+    "name": "Roan High Knob",
+    "latitude": 36.1044,
+    "longitude": -82.1225,
+    "feet": 6285,
+    "meters": 1916,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina/Tennessee"
+  }
+}
