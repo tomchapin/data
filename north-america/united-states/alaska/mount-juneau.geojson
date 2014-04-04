@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -134.41481,
+      58.32554
+    ]
+  },
+  "properties": {
+    "name": "Mount Juneau",
+    "latitude": 58.32554,
+    "longitude": -134.41481,
+    "feet": 3576,
+    "meters": 1090,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
