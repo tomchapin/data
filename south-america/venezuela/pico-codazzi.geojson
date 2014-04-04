@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.309142,
+      10.412169
+    ]
+  },
+  "properties": {
+    "name": "Pico Codazzi",
+    "latitude": 10.412169,
+    "longitude": -67.309142,
+    "feet": 7969,
+    "meters": 2429,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
