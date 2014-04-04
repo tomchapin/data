@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mokolla",
+    "feet": 8500,
+    "meters": 2591,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
