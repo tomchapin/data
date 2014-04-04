@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.981367,
+      67.981279
+    ]
+  },
+  "properties": {
+    "name": "Helvetestinden",
+    "latitude": 67.981279,
+    "longitude": 12.981367,
+    "feet": 1988,
+    "meters": 606,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
