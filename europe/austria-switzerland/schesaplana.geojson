@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.707222,
+      47.053889
+    ]
+  },
+  "properties": {
+    "name": "Schesaplana",
+    "latitude": 47.053889,
+    "longitude": 9.707222,
+    "feet": 9724,
+    "meters": 2965,
+    "continent": "Europe",
+    "country": "Austria/Switzerland"
+  }
+}
