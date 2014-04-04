@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.095145,
+      63.042414
+    ]
+  },
+  "properties": {
+    "name": "Santa",
+    "latitude": 63.042414,
+    "longitude": 13.095145,
+    "feet": 4006,
+    "meters": 1221,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
