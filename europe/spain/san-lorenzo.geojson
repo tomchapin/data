@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.97266,
+      42.243197
+    ]
+  },
+  "properties": {
+    "name": "San Lorenzo",
+    "latitude": 42.243197,
+    "longitude": -2.97266,
+    "feet": 7323,
+    "meters": 2271,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
