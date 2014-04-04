@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.162132,
+      11.389083
+    ]
+  },
+  "properties": {
+    "name": "Madja-as Mountain",
+    "latitude": 11.389083,
+    "longitude": 122.162132,
+    "feet": 6946,
+    "meters": 2117,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
