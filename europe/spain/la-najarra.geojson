@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.8871,
+      40.786261
+    ]
+  },
+  "properties": {
+    "name": "La Najarra",
+    "latitude": 40.786261,
+    "longitude": -3.8871,
+    "feet": 6906,
+    "meters": 2105,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
