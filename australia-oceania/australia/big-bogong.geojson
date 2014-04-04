@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.5,
+      -36.25
+    ]
+  },
+  "properties": {
+    "name": "Big Bogong",
+    "latitude": -36.25,
+    "longitude": 148.5,
+    "feet": 6762,
+    "meters": 2061,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
