@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fort William",
+    "feet": 90,
+    "meters": 27,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
