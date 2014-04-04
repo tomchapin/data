@@ -14,6 +14,8 @@
     "feet": 5066,
     "meters": 1544,
     "continent": "Africa",
-    "country": "Tunisia"
+    "country": "Tunisia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
