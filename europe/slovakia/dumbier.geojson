@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Dumbier",
+    "feet": 6703,
+    "meters": 2043,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
