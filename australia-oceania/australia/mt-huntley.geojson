@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.43203,
+      -28.144097
+    ]
+  },
+  "properties": {
+    "name": "Mt Huntley",
+    "latitude": -28.144097,
+    "longitude": 152.43203,
+    "feet": 4137,
+    "meters": 1261,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
