@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.159392,
+      47.451454
+    ]
+  },
+  "properties": {
+    "name": "Riedberger Horn",
+    "latitude": 47.451454,
+    "longitude": 10.159392,
+    "feet": 5860,
+    "meters": 1786,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
