@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.869937,
+      42.817125
+    ]
+  },
+  "properties": {
+    "name": "Maubermé",
+    "latitude": 42.817125,
+    "longitude": 0.869937,
+    "feet": 9449,
+    "meters": 2880,
+    "continent": "Europe",
+    "country": "France/Spain"
+  }
+}
