@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.828528,
+      -42.269116
+    ]
+  },
+  "properties": {
+    "name": "Frenchman's Cap",
+    "latitude": -42.269116,
+    "longitude": 145.828528,
+    "feet": 4734,
+    "meters": 1443,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
