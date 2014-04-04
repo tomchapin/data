@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.4833,
+      38.7333
+    ]
+  },
+  "properties": {
+    "name": "Kennedy Peak",
+    "latitude": 38.7333,
+    "longitude": -78.4833,
+    "feet": 2560,
+    "meters": 780,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Virginia"
+  }
+}
