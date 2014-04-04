@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.222942,
+      54.448385
+    ]
+  },
+  "properties": {
+    "name": "Scafell",
+    "latitude": 54.448385,
+    "longitude": -3.222942,
+    "feet": 3162,
+    "meters": 964,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
