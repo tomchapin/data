@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.472,
+      37.075
+    ]
+  },
+  "properties": {
+    "name": "Norman Clyde Peak",
+    "latitude": 37.075,
+    "longitude": -118.472,
+    "feet": 13920,
+    "meters": 4243,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
