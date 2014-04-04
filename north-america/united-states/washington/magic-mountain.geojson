@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.0415,
+      48.44596
+    ]
+  },
+  "properties": {
+    "name": "Magic Mountain",
+    "latitude": 48.44596,
+    "longitude": -121.0415,
+    "feet": 7610,
+    "meters": 2320,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
