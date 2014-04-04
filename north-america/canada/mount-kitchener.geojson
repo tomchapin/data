@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.321281,
+      52.215706
+    ]
+  },
+  "properties": {
+    "name": "Mount Kitchener",
+    "latitude": 52.215706,
+    "longitude": -117.321281,
+    "feet": 11500,
+    "meters": 3505,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
