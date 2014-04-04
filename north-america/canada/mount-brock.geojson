@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.082,
+      50.7367
+    ]
+  },
+  "properties": {
+    "name": "Mount Brock",
+    "latitude": 50.7367,
+    "longitude": -115.082,
+    "feet": 9521,
+    "meters": 2902,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
