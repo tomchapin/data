@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.880508,
+      48.578453
+    ]
+  },
+  "properties": {
+    "name": "Mesahchie Peak",
+    "latitude": 48.578453,
+    "longitude": -120.880508,
+    "feet": 8795,
+    "meters": 2681,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
