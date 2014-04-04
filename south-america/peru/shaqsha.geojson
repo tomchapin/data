@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Shaqsha",
+    "feet": 18711,
+    "meters": 5703,
+    "continent": "South America",
+    "country": "Peru",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
