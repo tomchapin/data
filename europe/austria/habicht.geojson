@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Habicht",
+    "feet": 10728,
+    "meters": 3270,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
