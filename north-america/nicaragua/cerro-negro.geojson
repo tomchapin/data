@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.701944,
+      12.506111
+    ]
+  },
+  "properties": {
+    "name": "Cerro Negro",
+    "latitude": 12.506111,
+    "longitude": -86.701944,
+    "feet": 2388,
+    "meters": 728,
+    "continent": "North America",
+    "country": "Nicaragua"
+  }
+}
