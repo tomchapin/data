@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.85,
+      31.5333
+    ]
+  },
+  "properties": {
+    "name": "Jahanbin-na",
+    "latitude": 31.5333,
+    "longitude": 50.85,
+    "feet": 10335,
+    "meters": 3150,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
