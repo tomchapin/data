@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -154.142303,
+      61.801688
+    ]
+  },
+  "properties": {
+    "name": "Hesperus",
+    "latitude": 61.801688,
+    "longitude": -154.142303,
+    "feet": 9828,
+    "meters": 2996,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
