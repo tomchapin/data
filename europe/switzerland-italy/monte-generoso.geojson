@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Generoso",
+    "feet": 5581,
+    "meters": 1701,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
