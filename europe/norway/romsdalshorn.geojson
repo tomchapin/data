@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Romsdalshorn",
+    "feet": 5085,
+    "meters": 1550,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
