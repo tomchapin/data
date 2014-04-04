@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.597,
+      39.0425
+    ]
+  },
+  "properties": {
+    "name": "Grizzly Peak",
+    "latitude": 39.0425,
+    "longitude": -106.597,
+    "feet": 13988,
+    "meters": 4264,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
