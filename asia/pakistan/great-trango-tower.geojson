@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Great Trango Tower",
+    "feet": 20623,
+    "meters": 6286,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
