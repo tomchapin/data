@@ -14,6 +14,8 @@
     "feet": 10449,
     "meters": 3185,
     "continent": "Africa",
-    "country": "Sudan"
+    "country": "Sudan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
