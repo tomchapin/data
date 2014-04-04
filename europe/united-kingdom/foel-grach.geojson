@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.96358,
+      53.1742
+    ]
+  },
+  "properties": {
+    "name": "Foel Grach",
+    "latitude": 53.1742,
+    "longitude": -3.96358,
+    "feet": 3202,
+    "meters": 976,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
