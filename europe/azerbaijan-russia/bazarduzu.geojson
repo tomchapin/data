@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.857778,
+      41.220556
+    ]
+  },
+  "properties": {
+    "name": "Bazarduzu",
+    "latitude": 41.220556,
+    "longitude": 47.857778,
+    "feet": 14652,
+    "meters": 4466,
+    "continent": "Europe",
+    "country": "Azerbaijan/Russia"
+  }
+}
