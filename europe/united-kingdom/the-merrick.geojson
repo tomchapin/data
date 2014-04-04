@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.4684,
+      55.1393
+    ]
+  },
+  "properties": {
+    "name": "The Merrick",
+    "latitude": 55.1393,
+    "longitude": -4.4684,
+    "feet": 2766,
+    "meters": 843,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
