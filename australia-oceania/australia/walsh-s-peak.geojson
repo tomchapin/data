@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.8,
+      -17.1293
+    ]
+  },
+  "properties": {
+    "name": "Walsh's Peak",
+    "latitude": -17.1293,
+    "longitude": 145.8,
+    "feet": 3025,
+    "meters": 922,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
