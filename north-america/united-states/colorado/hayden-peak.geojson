@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.85,
+      39.05
+    ]
+  },
+  "properties": {
+    "name": "Hayden Peak",
+    "latitude": 39.05,
+    "longitude": -106.85,
+    "feet": 13561,
+    "meters": 4133,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
