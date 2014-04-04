@@ -13,6 +13,8 @@
     "meters": 3997,
     "continent": "North America",
     "country": "United States",
-    "state": "California"
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
