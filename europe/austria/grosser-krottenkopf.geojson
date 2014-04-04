@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.355515,
+      47.312439
+    ]
+  },
+  "properties": {
+    "name": "Grosser Krottenkopf",
+    "latitude": 47.312439,
+    "longitude": 10.355515,
+    "feet": 8714,
+    "meters": 2656,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
