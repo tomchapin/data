@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.915,
+      8.84778
+    ]
+  },
+  "properties": {
+    "name": "El Buitre",
+    "latitude": 8.84778,
+    "longitude": -70.915,
+    "feet": 15256,
+    "meters": 4650,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
