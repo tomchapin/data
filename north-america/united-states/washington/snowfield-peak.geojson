@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.138773,
+      48.635348
+    ]
+  },
+  "properties": {
+    "name": "Snowfield Peak",
+    "latitude": 48.635348,
+    "longitude": -121.138773,
+    "feet": 8347,
+    "meters": 2544,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
