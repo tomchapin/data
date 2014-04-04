@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Care Alto",
+    "feet": 11368,
+    "meters": 3465,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
