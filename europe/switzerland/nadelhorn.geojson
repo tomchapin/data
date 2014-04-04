@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nadelhorn",
+    "feet": 14196,
+    "meters": 4327,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
