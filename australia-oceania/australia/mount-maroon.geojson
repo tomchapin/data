@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.727127,
+      -28.210937
+    ]
+  },
+  "properties": {
+    "name": "Mount Maroon",
+    "latitude": -28.210937,
+    "longitude": 152.727127,
+    "feet": 3169,
+    "meters": 966,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
