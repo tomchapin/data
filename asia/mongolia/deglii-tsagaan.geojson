@@ -14,6 +14,8 @@
     "feet": 13009,
     "meters": 3965,
     "continent": "Asia",
-    "country": "Mongolia"
+    "country": "Mongolia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
