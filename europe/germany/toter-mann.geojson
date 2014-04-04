@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.923098,
+      47.630867
+    ]
+  },
+  "properties": {
+    "name": "Toter Mann",
+    "latitude": 47.630867,
+    "longitude": 12.923098,
+    "feet": 4566,
+    "meters": 1392,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
