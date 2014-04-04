@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.0167,
+      21.9167
+    ]
+  },
+  "properties": {
+    "name": "Jebel Uweinat",
+    "latitude": 21.9167,
+    "longitude": 25.0167,
+    "feet": 6345,
+    "meters": 1934,
+    "continent": "Africa",
+    "country": "Sudan/Libya"
+  }
+}
