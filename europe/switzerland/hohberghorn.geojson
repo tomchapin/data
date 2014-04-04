@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.853868,
+      46.112531
+    ]
+  },
+  "properties": {
+    "name": "Hohberghorn",
+    "latitude": 46.112531,
+    "longitude": 7.853868,
+    "feet": 13842,
+    "meters": 4219,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
