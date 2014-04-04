@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7,
+      47.0333
+    ]
+  },
+  "properties": {
+    "name": "Galenstock",
+    "latitude": 47.0333,
+    "longitude": 8.7,
+    "feet": 11755,
+    "meters": 3583,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
