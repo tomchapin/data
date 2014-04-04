@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount King Edward",
+    "feet": 11450,
+    "meters": 3490,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
