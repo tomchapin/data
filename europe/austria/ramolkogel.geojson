@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ramolkogel",
+    "feet": 11644,
+    "meters": 3549,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
