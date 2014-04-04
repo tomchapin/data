@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.41667,
+      45.8667
+    ]
+  },
+  "properties": {
+    "name": "Resegone",
+    "latitude": 45.8667,
+    "longitude": 9.41667,
+    "feet": 6148,
+    "meters": 1874,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
