@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.783,
+      32.4333
+    ]
+  },
+  "properties": {
+    "name": "Mount Lemmon",
+    "latitude": 32.4333,
+    "longitude": -110.783,
+    "feet": 9157,
+    "meters": 2791,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
