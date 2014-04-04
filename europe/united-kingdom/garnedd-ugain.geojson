@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Garnedd Ugain",
+    "feet": 3494,
+    "meters": 1065,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
