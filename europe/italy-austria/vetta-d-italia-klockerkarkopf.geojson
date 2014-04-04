@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.180705,
+      47.091066
+    ]
+  },
+  "properties": {
+    "name": "Vetta d'Italia/Klockerkarkopf",
+    "latitude": 47.091066,
+    "longitude": 12.180705,
+    "feet": 9554,
+    "meters": 2912,
+    "continent": "Europe",
+    "country": "Italy/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
