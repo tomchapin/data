@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4,
+      43.85
+    ]
+  },
+  "properties": {
+    "name": "Krvavac",
+    "latitude": 43.85,
+    "longitude": 18.4,
+    "feet": 6765,
+    "meters": 2062,
+    "continent": "Europe",
+    "country": "Bosnia and Herzegovina"
+  }
+}
