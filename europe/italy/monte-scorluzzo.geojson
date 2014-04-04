@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.44238,
+      46.52178
+    ]
+  },
+  "properties": {
+    "name": "Monte Scorluzzo",
+    "latitude": 46.52178,
+    "longitude": 10.44238,
+    "feet": 10154,
+    "meters": 3095,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
