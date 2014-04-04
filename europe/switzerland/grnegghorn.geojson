@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grnegghorn",
+    "feet": 12664,
+    "meters": 3860,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
