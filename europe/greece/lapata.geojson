@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.0,
+      39.33
+    ]
+  },
+  "properties": {
+    "name": "Lapata",
+    "latitude": 39.33,
+    "longitude": 21.0,
+    "feet": 4373,
+    "meters": 1333,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
