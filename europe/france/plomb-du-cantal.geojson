@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.7,
+      45.1
+    ]
+  },
+  "properties": {
+    "name": "Plomb du Cantal",
+    "latitude": 45.1,
+    "longitude": 3.7,
+    "feet": 6086,
+    "meters": 1855,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
