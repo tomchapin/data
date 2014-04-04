@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.398,
+      62.9608
+    ]
+  },
+  "properties": {
+    "name": "Mount Foraker",
+    "latitude": 62.9608,
+    "longitude": -151.398,
+    "feet": 17400,
+    "meters": 5304,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
