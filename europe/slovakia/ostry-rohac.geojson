@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.75,
+      49.2
+    ]
+  },
+  "properties": {
+    "name": "Ostry Rohac",
+    "latitude": 49.2,
+    "longitude": 19.75,
+    "feet": 6847,
+    "meters": 2087,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
