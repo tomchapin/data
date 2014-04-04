@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bruach Na Frithe",
+    "feet": 3143,
+    "meters": 958,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
