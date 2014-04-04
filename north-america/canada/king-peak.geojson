@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.653,
+      60.5825
+    ]
+  },
+  "properties": {
+    "name": "King Peak",
+    "latitude": 60.5825,
+    "longitude": -140.653,
+    "feet": 16971,
+    "meters": 5173,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
