@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.871,
+      50.9869
+    ]
+  },
+  "properties": {
+    "name": "Queest Mountain",
+    "latitude": 50.9869,
+    "longitude": -118.871,
+    "feet": 6847,
+    "meters": 2087,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
