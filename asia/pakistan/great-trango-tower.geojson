@@ -12,6 +12,8 @@
     "feet": 20623,
     "meters": 6286,
     "continent": "Asia",
-    "country": "Pakistan"
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
