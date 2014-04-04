@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cho Polu",
+    "feet": 21965,
+    "meters": 6695,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
