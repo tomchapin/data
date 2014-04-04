@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "West Mountain Pinnicle",
+    "feet": 2189,
+    "meters": 667,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Connecticut",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
