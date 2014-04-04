@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.236296,
+      51.382067
+    ]
+  },
+  "properties": {
+    "name": "Haddo Peak",
+    "latitude": 51.382067,
+    "longitude": -116.236296,
+    "feet": 10072,
+    "meters": 3070,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
