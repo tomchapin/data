@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.302795,
+      35.42207
+    ]
+  },
+  "properties": {
+    "name": "Link Sar",
+    "latitude": 35.42207,
+    "longitude": 76.302795,
+    "feet": 23100,
+    "meters": 7041,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
