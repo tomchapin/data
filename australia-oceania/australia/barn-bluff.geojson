@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.939805,
+      -41.717527
+    ]
+  },
+  "properties": {
+    "name": "Barn Bluff",
+    "latitude": -41.717527,
+    "longitude": 145.939805,
+    "feet": 5114,
+    "meters": 1559,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
