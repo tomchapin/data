@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Montezuma's Chair",
+    "feet": 6689,
+    "meters": 2039,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
