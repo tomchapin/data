@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.033333,
+      49.231944
+    ]
+  },
+  "properties": {
+    "name": "Granaty",
+    "latitude": 49.231944,
+    "longitude": 20.033333,
+    "feet": 7287,
+    "meters": 2221,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
