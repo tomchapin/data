@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.237333,
+      47.832431
+    ]
+  },
+  "properties": {
+    "name": "Sweat Spire",
+    "latitude": 47.832431,
+    "longitude": -123.237333,
+    "feet": 7580,
+    "meters": 2310,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
