@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.825233,
+      48.564482
+    ]
+  },
+  "properties": {
+    "name": "Graybeard Peak",
+    "latitude": 48.564482,
+    "longitude": -120.825233,
+    "feet": 7965,
+    "meters": 2428,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
