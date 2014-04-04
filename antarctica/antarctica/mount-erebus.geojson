@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.15,
+      -77.5333
+    ]
+  },
+  "properties": {
+    "name": "Mount Erebus",
+    "latitude": -77.5333,
+    "longitude": 167.15,
+    "feet": 12447,
+    "meters": 3794,
+    "continent": "Antarctica",
+    "country": "Antarctica"
+  }
+}
