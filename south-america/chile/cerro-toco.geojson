@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.7667,
+      -22.9333
+    ]
+  },
+  "properties": {
+    "name": "Cerro Toco",
+    "latitude": -22.9333,
+    "longitude": -67.7667,
+    "feet": 18386,
+    "meters": 5604,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
