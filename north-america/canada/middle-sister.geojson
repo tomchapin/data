@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.341167,
+      51.021854
+    ]
+  },
+  "properties": {
+    "name": "Middle Sister",
+    "latitude": 51.021854,
+    "longitude": -115.341167,
+    "feet": 9085,
+    "meters": 2769,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
