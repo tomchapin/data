@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.508793,
+      47.609404
+    ]
+  },
+  "properties": {
+    "name": "Fellhorn",
+    "latitude": 47.609404,
+    "longitude": 12.508793,
+    "feet": 5789,
+    "meters": 1764,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
