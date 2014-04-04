@@ -19444,26 +19444,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.032,
-          37.631
-        ]
-      },
-      "properties": {
-        "name": "Mammoth Mountain",
-        "latitude": 37.631,
-        "longitude": -119.032,
-        "feet": 11053,
-        "meters": 3369,
-        "continent": "North America",
-        "country": "United States",
-        "state": "California"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.784,
           37.3864
         ]
