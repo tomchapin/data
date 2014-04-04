@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.346573,
+      46.969008
+    ]
+  },
+  "properties": {
+    "name": "Lasörling",
+    "latitude": 46.969008,
+    "longitude": 12.346573,
+    "feet": 10164,
+    "meters": 3098,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
