@@ -15,6 +15,8 @@
     "meters": 1349,
     "continent": "North America",
     "country": "United States",
-    "state": "South Dakota"
+    "state": "South Dakota",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
