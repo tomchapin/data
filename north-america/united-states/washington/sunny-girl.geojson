@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.157956,
+      48.411428
+    ]
+  },
+  "properties": {
+    "name": "Sunny Girl",
+    "latitude": 48.411428,
+    "longitude": -121.157956,
+    "feet": 5994,
+    "meters": 1827,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
