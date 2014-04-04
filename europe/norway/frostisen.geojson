@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Frostisen",
+    "feet": 5656,
+    "meters": 1724,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
