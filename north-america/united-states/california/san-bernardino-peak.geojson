@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.922512,
+      34.12225
+    ]
+  },
+  "properties": {
+    "name": "San Bernardino Peak",
+    "latitude": 34.12225,
+    "longitude": -116.922512,
+    "feet": 10649,
+    "meters": 3246,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
