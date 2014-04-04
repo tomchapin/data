@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.698732,
+      48.195502
+    ]
+  },
+  "properties": {
+    "name": "Mount Bullen",
+    "latitude": 48.195502,
+    "longitude": -121.698732,
+    "feet": 5974,
+    "meters": 1821,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
