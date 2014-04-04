@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.677696,
+      41.636999
+    ]
+  },
+  "properties": {
+    "name": "Snejanka",
+    "latitude": 41.636999,
+    "longitude": 24.677696,
+    "feet": 6332,
+    "meters": 1930,
+    "continent": "Europe",
+    "country": "Bulgaria/Bulgaria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
