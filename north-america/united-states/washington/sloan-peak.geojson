@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.340303,
+      48.04148
+    ]
+  },
+  "properties": {
+    "name": "Sloan Peak",
+    "latitude": 48.04148,
+    "longitude": -121.340303,
+    "feet": 7835,
+    "meters": 2388,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
