@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.522581,
+      36.510326
+    ]
+  },
+  "properties": {
+    "name": "Batura",
+    "latitude": 36.510326,
+    "longitude": 74.522581,
+    "feet": 25574,
+    "meters": 7795,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
