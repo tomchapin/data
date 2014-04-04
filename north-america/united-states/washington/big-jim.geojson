@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.832272,
+      47.662324
+    ]
+  },
+  "properties": {
+    "name": "Big Jim",
+    "latitude": 47.662324,
+    "longitude": -120.832272,
+    "feet": 7763,
+    "meters": 2366,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
