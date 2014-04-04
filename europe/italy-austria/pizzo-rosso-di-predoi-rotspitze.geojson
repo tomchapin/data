@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.204912,
+      47.026965
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Rosso di Predoi/Rotspitze",
+    "latitude": 47.026965,
+    "longitude": 12.204912,
+    "feet": 11480,
+    "meters": 3499,
+    "continent": "Europe",
+    "country": "Italy/Austria"
+  }
+}
