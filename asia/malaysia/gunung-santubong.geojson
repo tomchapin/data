@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.333,
+      1.7333
+    ]
+  },
+  "properties": {
+    "name": "Gunung Santubong",
+    "latitude": 1.7333,
+    "longitude": 110.333,
+    "feet": 2658,
+    "meters": 810,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
