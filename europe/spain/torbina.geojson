@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.770145,
+      43.354788
+    ]
+  },
+  "properties": {
+    "name": "Torbina",
+    "latitude": 43.354788,
+    "longitude": -4.770145,
+    "feet": 4314,
+    "meters": 1315,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
