@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.027,
+      50.665
+    ]
+  },
+  "properties": {
+    "name": "Elpoca Mountain",
+    "latitude": 50.665,
+    "longitude": -115.027,
+    "feet": 9961,
+    "meters": 3036,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
