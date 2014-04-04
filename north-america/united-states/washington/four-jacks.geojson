@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Four Jacks",
+    "feet": 7828,
+    "meters": 2386,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
