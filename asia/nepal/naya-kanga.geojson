@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.5481,
+      28.1786
+    ]
+  },
+  "properties": {
+    "name": "Naya Kanga",
+    "latitude": 28.1786,
+    "longitude": 83.5481,
+    "feet": 19180,
+    "meters": 5846,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
