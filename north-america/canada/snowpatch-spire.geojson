@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.781944,
+      50.736389
+    ]
+  },
+  "properties": {
+    "name": "Snowpatch Spire",
+    "latitude": 50.736389,
+    "longitude": -116.781944,
+    "feet": 10118,
+    "meters": 3084,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
