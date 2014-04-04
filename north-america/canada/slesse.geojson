@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.598225,
+      49.026079
+    ]
+  },
+  "properties": {
+    "name": "Slesse",
+    "latitude": 49.026079,
+    "longitude": -121.598225,
+    "feet": 8002,
+    "meters": 2439,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
