@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.59793,
+      43.225239
+    ]
+  },
+  "properties": {
+    "name": "Cueto Agero",
+    "latitude": 43.225239,
+    "longitude": -4.59793,
+    "feet": 3333,
+    "meters": 1016,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
