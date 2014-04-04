@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.5,
+      -8.35
+    ]
+  },
+  "properties": {
+    "name": "Gunung Agung",
+    "latitude": -8.35,
+    "longitude": 115.5,
+    "feet": 10000,
+    "meters": 3048,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
