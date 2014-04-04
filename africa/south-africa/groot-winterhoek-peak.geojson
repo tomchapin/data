@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Groot-winterhoek Peak",
+    "feet": 6818,
+    "meters": 2078,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
