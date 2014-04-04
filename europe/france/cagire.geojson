@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.7661,
+      42.9464
+    ]
+  },
+  "properties": {
+    "name": "Cagire",
+    "latitude": 42.9464,
+    "longitude": 0.7661,
+    "feet": 6273,
+    "meters": 1912,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
