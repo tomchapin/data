@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.035,
+      41.0225
+    ]
+  },
+  "properties": {
+    "name": "Panorma Point",
+    "latitude": 41.0225,
+    "longitude": 104.035,
+    "feet": 5242,
+    "meters": 1598,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nebraska"
+  }
+}
