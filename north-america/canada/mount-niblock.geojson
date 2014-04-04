@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.272087,
+      51.417088
+    ]
+  },
+  "properties": {
+    "name": "Mount Niblock",
+    "latitude": 51.417088,
+    "longitude": -116.272087,
+    "feet": 9764,
+    "meters": 2976,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
