@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.671316,
+      46.142212
+    ]
+  },
+  "properties": {
+    "name": "Les Diablons",
+    "latitude": 46.142212,
+    "longitude": 7.671316,
+    "feet": 11841,
+    "meters": 3609,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
