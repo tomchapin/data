@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Precipitous Bluff",
+    "feet": 3852,
+    "meters": 1174,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
