@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.104814,
+      48.848507
+    ]
+  },
+  "properties": {
+    "name": "Reed Peak",
+    "latitude": 48.848507,
+    "longitude": -120.104814,
+    "feet": 7523,
+    "meters": 2293,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
