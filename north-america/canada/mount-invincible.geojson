@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.192,
+      50.6669
+    ]
+  },
+  "properties": {
+    "name": "Mount Invincible",
+    "latitude": 50.6669,
+    "longitude": -115.192,
+    "feet": 8858,
+    "meters": 2700,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
