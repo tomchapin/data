@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.987467,
+      48.704896
+    ]
+  },
+  "properties": {
+    "name": "South Twin Sister",
+    "latitude": 48.704896,
+    "longitude": -121.987467,
+    "feet": 7000,
+    "meters": 2134,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
