@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.113992,
+      48.111227
+    ]
+  },
+  "properties": {
+    "name": "Glacier Peak",
+    "latitude": 48.111227,
+    "longitude": -121.113992,
+    "feet": 10541,
+    "meters": 3213,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
