@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.593,
+      50.4167
+    ]
+  },
+  "properties": {
+    "name": "The Lieutenants",
+    "latitude": 50.4167,
+    "longitude": -116.593,
+    "feet": 10735,
+    "meters": 3272,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
