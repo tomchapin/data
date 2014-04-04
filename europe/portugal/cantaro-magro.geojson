@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.599277,
+      40.327964
+    ]
+  },
+  "properties": {
+    "name": "Cantaro Magro",
+    "latitude": 40.327964,
+    "longitude": -7.599277,
+    "feet": 6325,
+    "meters": 1928,
+    "continent": "Europe",
+    "country": "Portugal"
+  }
+}
