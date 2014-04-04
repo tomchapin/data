@@ -15,6 +15,8 @@
     "meters": 733,
     "continent": "North America",
     "country": "United States",
-    "state": "Alabama"
+    "state": "Alabama",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
