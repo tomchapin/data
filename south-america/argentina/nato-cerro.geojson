@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.120809,
+      -49.297384
+    ]
+  },
+  "properties": {
+    "name": "Nato (Cerro)",
+    "latitude": -49.297384,
+    "longitude": -73.120809,
+    "feet": 9177,
+    "meters": 2797,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
