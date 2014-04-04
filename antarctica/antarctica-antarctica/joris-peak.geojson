@@ -14,6 +14,8 @@
     "feet": 6955,
     "meters": 2120,
     "continent": "Antarctica",
-    "country": "Antarctica/Antarctica"
+    "country": "Antarctica/Antarctica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
