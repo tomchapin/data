@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.438423,
+      42.844569
+    ]
+  },
+  "properties": {
+    "name": "Pic du Midi d'Ossau",
+    "latitude": 42.844569,
+    "longitude": -0.438423,
+    "feet": 9465,
+    "meters": 2885,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
