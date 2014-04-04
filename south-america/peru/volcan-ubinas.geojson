@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Volcan Ubinas",
+    "feet": 18609,
+    "meters": 5672,
+    "continent": "South America",
+    "country": "Peru",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
