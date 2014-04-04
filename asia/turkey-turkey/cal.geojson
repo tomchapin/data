@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.12078,
+      36.86618
+    ]
+  },
+  "properties": {
+    "name": "Çal",
+    "latitude": 36.86618,
+    "longitude": 29.12078,
+    "feet": 7159,
+    "meters": 2182,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
