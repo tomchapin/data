@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cader Idris",
+    "feet": 2927,
+    "meters": 892,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
