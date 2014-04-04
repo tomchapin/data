@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.79555,
+      48.112143
+    ]
+  },
+  "properties": {
+    "name": "Ice Box",
+    "latitude": 48.112143,
+    "longitude": -120.79555,
+    "feet": 8112,
+    "meters": 2473,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
