@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.456501,
+      45.371499
+    ]
+  },
+  "properties": {
+    "name": "Trask Mountain",
+    "latitude": 45.371499,
+    "longitude": -123.456501,
+    "feet": 3412,
+    "meters": 1040,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
