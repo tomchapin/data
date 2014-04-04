@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.593611,
+      30.920278
+    ]
+  },
+  "properties": {
+    "name": "Kamet",
+    "latitude": 30.920278,
+    "longitude": 79.593611,
+    "feet": 25447,
+    "meters": 7756,
+    "continent": "Asia",
+    "country": "India/China"
+  }
+}
