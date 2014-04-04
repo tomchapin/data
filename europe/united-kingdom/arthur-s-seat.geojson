@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Arthur's Seat",
+    "feet": 823,
+    "meters": 251,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
