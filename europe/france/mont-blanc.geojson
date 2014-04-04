@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.864824,
+      45.832866
+    ]
+  },
+  "properties": {
+    "name": "Mont Blanc",
+    "latitude": 45.832866,
+    "longitude": 6.864824,
+    "feet": 15771,
+    "meters": 4807,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
