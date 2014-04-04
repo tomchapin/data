@@ -11,6 +11,8 @@
     "name": "Joderhorn",
     "feet": 9957,
     "meters": 3035,
-    "continent": "Europe"
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
