@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.4217,
+      51.2417
+    ]
+  },
+  "properties": {
+    "name": "Mount Inglismaldie",
+    "latitude": 51.2417,
+    "longitude": -115.4217,
+    "feet": 9724,
+    "meters": 2964,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
