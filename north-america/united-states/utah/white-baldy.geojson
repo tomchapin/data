@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.681,
+      40.5331
+    ]
+  },
+  "properties": {
+    "name": "White Baldy",
+    "latitude": 40.5331,
+    "longitude": -111.681,
+    "feet": 11321,
+    "meters": 3451,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
