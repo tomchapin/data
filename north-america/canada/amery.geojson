@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.982036,
+      52.037498
+    ]
+  },
+  "properties": {
+    "name": "Amery",
+    "latitude": 52.037498,
+    "longitude": -116.982036,
+    "feet": 10922,
+    "meters": 3329,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
