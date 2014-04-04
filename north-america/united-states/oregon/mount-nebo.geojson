@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.701188,
+      44.156794
+    ]
+  },
+  "properties": {
+    "name": "Mount Nebo",
+    "latitude": 44.156794,
+    "longitude": -122.701188,
+    "feet": 3407,
+    "meters": 1038,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
