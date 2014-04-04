@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Birkkarspitze",
+    "feet": 9019,
+    "meters": 2749,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
