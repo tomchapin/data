@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.175592,
+      -28.251847
+    ]
+  },
+  "properties": {
+    "name": "Mt Wanungara",
+    "latitude": -28.251847,
+    "longitude": 153.175592,
+    "feet": 3901,
+    "meters": 1189,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
