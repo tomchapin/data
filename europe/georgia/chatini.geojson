@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.8333,
+      43.2167
+    ]
+  },
+  "properties": {
+    "name": "Chatini",
+    "latitude": 43.2167,
+    "longitude": 42.8333,
+    "feet": 14475,
+    "meters": 4412,
+    "continent": "Europe",
+    "country": "Georgia"
+  }
+}
