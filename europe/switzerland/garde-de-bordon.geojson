@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.597307,
+      46.120782
+    ]
+  },
+  "properties": {
+    "name": "Garde de Bordon",
+    "latitude": 46.120782,
+    "longitude": 7.597307,
+    "feet": 10860,
+    "meters": 3310,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
