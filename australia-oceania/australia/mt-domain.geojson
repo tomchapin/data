@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.866667,
+      -35.483333
+    ]
+  },
+  "properties": {
+    "name": "Mt Domain",
+    "latitude": -35.483333,
+    "longitude": 148.866667,
+    "feet": 4872,
+    "meters": 1485,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
