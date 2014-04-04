@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piz Palu",
+    "feet": 12812,
+    "meters": 3905,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
