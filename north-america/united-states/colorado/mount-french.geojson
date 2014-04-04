@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.482,
+      39.1286
+    ]
+  },
+  "properties": {
+    "name": "Mount French",
+    "latitude": 39.1286,
+    "longitude": -106.482,
+    "feet": 13940,
+    "meters": 4249,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
