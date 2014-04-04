@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1959,
+      40.5722
+    ]
+  },
+  "properties": {
+    "name": "Paiko",
+    "latitude": 40.5722,
+    "longitude": 22.1959,
+    "feet": 5381,
+    "meters": 1640,
+    "continent": "Europe",
+    "country": "Greece/Macedonia"
+  }
+}
