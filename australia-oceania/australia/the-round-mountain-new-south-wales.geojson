@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.239942,
+      -30.437947
+    ]
+  },
+  "properties": {
+    "name": "The Round Mountain (New South Wales)",
+    "latitude": -30.437947,
+    "longitude": 152.239942,
+    "feet": 5203,
+    "meters": 1586,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
