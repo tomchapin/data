@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Eidsfjell",
+    "feet": 4373,
+    "meters": 1333,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
