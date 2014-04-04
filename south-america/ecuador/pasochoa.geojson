@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pasochoa",
+    "feet": 13776,
+    "meters": 4199,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
