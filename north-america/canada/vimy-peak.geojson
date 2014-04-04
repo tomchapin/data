@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.858013,
+      49.03874
+    ]
+  },
+  "properties": {
+    "name": "Vimy Peak",
+    "latitude": 49.03874,
+    "longitude": -113.858013,
+    "feet": 7805,
+    "meters": 2379,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
