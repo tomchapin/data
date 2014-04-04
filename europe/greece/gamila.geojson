@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gamila",
+    "feet": 8192,
+    "meters": 2497,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
