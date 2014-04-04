@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.598981,
+      -0.171661
+    ]
+  },
+  "properties": {
+    "name": "Rucu Pichincha",
+    "latitude": -0.171661,
+    "longitude": -78.598981,
+    "feet": 15413,
+    "meters": 4698,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
