@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.56104,
+      44.71373
+    ]
+  },
+  "properties": {
+    "name": "Vinegar Hill",
+    "latitude": 44.71373,
+    "longitude": -118.56104,
+    "feet": 8131,
+    "meters": 2478,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
