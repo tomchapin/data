@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2,
+      46.8667
+    ]
+  },
+  "properties": {
+    "name": "Augstenberg",
+    "latitude": 46.8667,
+    "longitude": 10.2,
+    "feet": 10590,
+    "meters": 3228,
+    "continent": "Europe",
+    "country": "Austria/Switzerland"
+  }
+}
