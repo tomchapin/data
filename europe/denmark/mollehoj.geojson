@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.826228,
+      55.997189
+    ]
+  },
+  "properties": {
+    "name": "Mollehoj",
+    "latitude": 55.997189,
+    "longitude": 9.826228,
+    "feet": 558,
+    "meters": 170,
+    "continent": "Europe",
+    "country": "Denmark"
+  }
+}
