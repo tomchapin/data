@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.479062,
+      42.064683
+    ]
+  },
+  "properties": {
+    "name": "Soda Mountain",
+    "latitude": 42.064683,
+    "longitude": -122.479062,
+    "feet": 6091,
+    "meters": 1857,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
