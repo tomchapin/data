@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.173,
+      44.3822
+    ]
+  },
+  "properties": {
+    "name": "Cloud Peak",
+    "latitude": 44.3822,
+    "longitude": -107.173,
+    "feet": 13166,
+    "meters": 4013,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
