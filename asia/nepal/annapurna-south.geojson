@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      83.805857,
+      28.518629
+    ]
+  },
+  "properties": {
+    "name": "Annapurna South",
+    "latitude": 28.518629,
+    "longitude": 83.805857,
+    "feet": 23684,
+    "meters": 7219,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
