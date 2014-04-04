@@ -15,6 +15,8 @@
     "meters": 1085,
     "continent": "North America",
     "country": "United States",
-    "state": "South Carolina"
+    "state": "South Carolina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
