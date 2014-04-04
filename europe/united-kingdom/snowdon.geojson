@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0746,
+      53.0689
+    ]
+  },
+  "properties": {
+    "name": "Snowdon",
+    "latitude": 53.0689,
+    "longitude": -4.0746,
+    "feet": 3560,
+    "meters": 1085,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
