@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kanjut Sar",
+    "feet": 25459,
+    "meters": 7760,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
