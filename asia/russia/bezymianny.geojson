@@ -12,6 +12,8 @@
     "feet": 9455,
     "meters": 2882,
     "continent": "Asia",
-    "country": "Russia"
+    "country": "Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
