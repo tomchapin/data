@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.6,
+      49.2167
+    ]
+  },
+  "properties": {
+    "name": "Mount Arrowsmith",
+    "latitude": 49.2167,
+    "longitude": -124.6,
+    "feet": 5968,
+    "meters": 1819,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
