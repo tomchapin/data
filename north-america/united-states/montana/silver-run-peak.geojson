@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.544,
+      45.1211
+    ]
+  },
+  "properties": {
+    "name": "Silver Run Peak",
+    "latitude": 45.1211,
+    "longitude": -109.544,
+    "feet": 12000,
+    "meters": 3658,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
