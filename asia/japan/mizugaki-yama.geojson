@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.592,
+      35.8936
+    ]
+  },
+  "properties": {
+    "name": "Mizugaki Yama",
+    "latitude": 35.8936,
+    "longitude": 138.592,
+    "feet": 7316,
+    "meters": 2230,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
