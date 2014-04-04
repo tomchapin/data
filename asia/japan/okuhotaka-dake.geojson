@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Okuhotaka-dake",
+    "feet": 10466,
+    "meters": 3190,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
