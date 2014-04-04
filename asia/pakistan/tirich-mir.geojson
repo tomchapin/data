@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.8333,
+      36.25
+    ]
+  },
+  "properties": {
+    "name": "Tirich Mir",
+    "latitude": 36.25,
+    "longitude": 71.8333,
+    "feet": 25282,
+    "meters": 7706,
+    "continent": "Asia",
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
