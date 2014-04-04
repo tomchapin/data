@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.273716,
+      47.64122
+    ]
+  },
+  "properties": {
+    "name": "Trattberg",
+    "latitude": 47.64122,
+    "longitude": 13.273716,
+    "feet": 5763,
+    "meters": 1757,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
