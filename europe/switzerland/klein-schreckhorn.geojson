@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.102074,
+      46.60169
+    ]
+  },
+  "properties": {
+    "name": "Klein Schreckhorn",
+    "latitude": 46.60169,
+    "longitude": 8.102074,
+    "feet": 11463,
+    "meters": 3494,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
