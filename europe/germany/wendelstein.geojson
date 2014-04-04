@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0,
+      47.7
+    ]
+  },
+  "properties": {
+    "name": "Wendelstein",
+    "latitude": 47.7,
+    "longitude": 12.0,
+    "feet": 6030,
+    "meters": 1838,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
