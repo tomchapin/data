@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.169,
+      39.225
+    ]
+  },
+  "properties": {
+    "name": "Mount Sherman",
+    "latitude": 39.225,
+    "longitude": -106.169,
+    "feet": 14036,
+    "meters": 4278,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
