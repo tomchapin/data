@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Joderhorn",
+    "feet": 9957,
+    "meters": 3035,
+    "continent": "Europe"
+  }
+}
