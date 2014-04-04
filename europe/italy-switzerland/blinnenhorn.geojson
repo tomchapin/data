@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Blinnenhorn",
+    "feet": 10981,
+    "meters": 3347,
+    "continent": "Europe",
+    "country": "Italy/Switzerland"
+  }
+}
