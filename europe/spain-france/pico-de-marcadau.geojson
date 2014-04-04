@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.218353,
+      42.799179
+    ]
+  },
+  "properties": {
+    "name": "Pico De Marcadau",
+    "latitude": 42.799179,
+    "longitude": -0.218353,
+    "feet": 9068,
+    "meters": 2764,
+    "continent": "Europe",
+    "country": "Spain/France"
+  }
+}
