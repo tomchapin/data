@@ -423,6 +423,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.749999,
+          -3.244392
+        ]
+      },
+      "properties": {
+        "name": "Mount Meru",
+        "latitude": -3.244392,
+        "longitude": 36.749999,
+        "feet": 14979,
+        "meters": 4566,
+        "continent": "Africa",
+        "country": "Tanzania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.63333,
           35.2167
         ]
@@ -473,6 +492,25 @@
         "meters": 4626,
         "continent": "Africa",
         "country": "Uganda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.873639,
+          0.380319
+        ]
+      },
+      "properties": {
+        "name": "Margherita",
+        "latitude": 0.380319,
+        "longitude": 29.873639,
+        "feet": 16763,
+        "meters": 5109,
+        "continent": "Africa",
+        "country": "Uganda/Congo, Democratic Republic of the"
       }
     },
     {
@@ -566,6 +604,44 @@
         "longitude": 23.2608,
         "feet": 6955,
         "meters": 2120,
+        "continent": "Antarctica",
+        "country": "Antarctica/Antarctica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57225,
+          -71.87742
+        ]
+      },
+      "properties": {
+        "name": "Mariën Peak",
+        "latitude": -71.87742,
+        "longitude": 24.57225,
+        "feet": 6010,
+        "meters": 1832,
+        "continent": "Antarctica",
+        "country": "Antarctica/Antarctica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26063,
+          -72.15023
+        ]
+      },
+      "properties": {
+        "name": "Martin's peak (Wideroefjellet)",
+        "latitude": -72.15023,
+        "longitude": 23.26063,
+        "feet": 10007,
+        "meters": 3050,
         "continent": "Antarctica",
         "country": "Antarctica/Antarctica"
       }
@@ -993,6 +1069,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          86.0,
+          33.4667
+        ]
+      },
+      "properties": {
+        "name": "Mayer Kangri",
+        "latitude": 33.4667,
+        "longitude": 86.0,
+        "feet": 20545,
+        "meters": 6262,
+        "continent": "Asia",
+        "country": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.432662,
+          27.972004
+        ]
+      },
+      "properties": {
+        "name": "Menlungtse",
+        "latitude": 27.972004,
+        "longitude": 86.432662,
+        "feet": 23559,
+        "meters": 7181,
+        "continent": "Asia",
+        "country": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           100.191,
           27.3394
         ]
@@ -1098,6 +1212,25 @@
         "longitude": 86.95,
         "feet": 27657,
         "meters": 8430,
+        "continent": "Asia",
+        "country": "China/Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4333,
+          27.9667
+        ]
+      },
+      "properties": {
+        "name": "Melungtse",
+        "latitude": 27.9667,
+        "longitude": 86.4333,
+        "feet": 23555,
+        "meters": 7181,
         "continent": "Asia",
         "country": "China/Nepal"
       }
@@ -1420,6 +1553,25 @@
         "longitude": 74.987268,
         "feet": 13013,
         "meters": 3966,
+        "continent": "Asia",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5775,
+          35.14083
+        ]
+      },
+      "properties": {
+        "name": "Mamostong Kangri - I",
+        "latitude": 35.14083,
+        "longitude": 77.5775,
+        "feet": 24659,
+        "meters": 7516,
         "continent": "Asia",
         "country": "India"
       }
@@ -1897,6 +2049,44 @@
         "meters": 3890,
         "continent": "Asia",
         "country": "Iran/Iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.411682,
+          32.99945
+        ]
+      },
+      "properties": {
+        "name": "Har Meron",
+        "latitude": 32.99945,
+        "longitude": 35.411682,
+        "feet": 3963,
+        "meters": 1208,
+        "continent": "Asia",
+        "country": "Israel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35383,
+          31.31639
+        ]
+      },
+      "properties": {
+        "name": "Masada",
+        "latitude": 31.31639,
+        "longitude": 35.35383,
+        "feet": 1509,
+        "meters": 460,
+        "continent": "Asia",
+        "country": "Israel"
       }
     },
     {
@@ -3250,6 +3440,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          84.559536,
+          28.549959
+        ]
+      },
+      "properties": {
+        "name": "Manaslu",
+        "latitude": 28.549959,
+        "longitude": 84.559536,
+        "feet": 26758,
+        "meters": 8156,
+        "continent": "Asia",
+        "country": "Nepal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           87.108056,
           27.93
         ]
@@ -3782,6 +3991,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          76.306658,
+          35.642301
+        ]
+      },
+      "properties": {
+        "name": "Masherbrum",
+        "latitude": 35.642301,
+        "longitude": 76.306658,
+        "feet": 25660,
+        "meters": 7821,
+        "continent": "Asia",
+        "country": "Pakistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           76.615906,
           35.762359
         ]
@@ -4086,6 +4314,120 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          123.167515,
+          11.278824
+        ]
+      },
+      "properties": {
+        "name": "Manaphag",
+        "latitude": 11.278824,
+        "longitude": 123.167515,
+        "feet": 1739,
+        "meters": 530,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.195799,
+          10.637351
+        ]
+      },
+      "properties": {
+        "name": "Marapara Daku Peak",
+        "latitude": 10.637351,
+        "longitude": 123.195799,
+        "feet": 6145,
+        "meters": 1873,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17914,
+          10.6655
+        ]
+      },
+      "properties": {
+        "name": "Marapara Peak",
+        "latitude": 10.6655,
+        "longitude": 123.17914,
+        "feet": 5522,
+        "meters": 1683,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.17859,
+          10.660758
+        ]
+      },
+      "properties": {
+        "name": "Marapara South Peak",
+        "latitude": 10.660758,
+        "longitude": 123.17859,
+        "feet": 4888,
+        "meters": 1490,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.1758,
+          10.663331
+        ]
+      },
+      "properties": {
+        "name": "Marapara West Peak",
+        "latitude": 10.663331,
+        "longitude": 123.1758,
+        "feet": 5135,
+        "meters": 1565,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.686,
+          13.2552
+        ]
+      },
+      "properties": {
+        "name": "Mayon Volcano",
+        "latitude": 13.2552,
+        "longitude": 123.686,
+        "feet": 8077,
+        "meters": 2463,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           122.370665,
           11.103097
         ]
@@ -4248,6 +4590,44 @@
         "longitude": 122.178,
         "feet": 6,
         "meters": 2,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2361,
+          10.636969
+        ]
+      },
+      "properties": {
+        "name": "Mount Mandalagan",
+        "latitude": 10.636969,
+        "longitude": 123.2361,
+        "feet": 6181,
+        "meters": 1884,
+        "continent": "Asia",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6,
+          13.32
+        ]
+      },
+      "properties": {
+        "name": "Mount Masaraga",
+        "latitude": 13.32,
+        "longitude": 123.6,
+        "feet": 4357,
+        "meters": 1328,
         "continent": "Asia",
         "country": "Philippines"
       }
@@ -4533,6 +4913,25 @@
         "longitude": 72.01,
         "feet": 23310,
         "meters": 7105,
+        "continent": "Asia",
+        "country": "Tajikistan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8833,
+          39.3167
+        ]
+      },
+      "properties": {
+        "name": "Pik Marshal Zhukov",
+        "latitude": 39.3167,
+        "longitude": 72.8833,
+        "feet": 22447,
+        "meters": 6842,
         "continent": "Asia",
         "country": "Tajikistan"
       }
@@ -4856,6 +5255,25 @@
         "longitude": 37.0,
         "feet": 10125,
         "meters": 3086,
+        "continent": "Asia",
+        "country": "Turkey/Turkey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "name": "Medetsiz",
+        "latitude": 37.0,
+        "longitude": 37.0,
+        "feet": 11562,
+        "meters": 3524,
         "continent": "Asia",
         "country": "Turkey/Turkey"
       }
@@ -5301,6 +5719,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.521881,
+          -53.098147
+        ]
+      },
+      "properties": {
+        "name": "Mawson Peak",
+        "latitude": -53.098147,
+        "longitude": 73.521881,
+        "feet": 9006,
+        "meters": 2745,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           116.835,
           -24.3103
         ]
@@ -5586,6 +6023,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.727127,
+          -28.210937
+        ]
+      },
+      "properties": {
+        "name": "Mount Maroon",
+        "latitude": -28.210937,
+        "longitude": 152.727127,
+        "feet": 3169,
+        "meters": 966,
+        "continent": "Australia/Oceania",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.435591,
           -28.157326
         ]
@@ -5862,6 +6318,25 @@
         "longitude": 145.853889,
         "feet": 5226,
         "meters": 1593,
+        "continent": "Australia/Oceania",
+        "country": "Australia/Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.017,
+          -22.4333
+        ]
+      },
+      "properties": {
+        "name": "Mount McKay",
+        "latitude": -22.4333,
+        "longitude": 120.017,
+        "feet": 6043,
+        "meters": 1842,
         "continent": "Australia/Oceania",
         "country": "Australia/Australia"
       }
@@ -6991,6 +7466,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.7,
+          47.0667
+        ]
+      },
+      "properties": {
+        "name": "Medelspitze",
+        "latitude": 47.0667,
+        "longitude": 12.7,
+        "feet": 8756,
+        "meters": 2669,
+        "continent": "Europe",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.148583,
           47.881192
         ]
@@ -7285,6 +7779,25 @@
         "longitude": 23.5678,
         "feet": 8953,
         "meters": 2729,
+        "continent": "Europe",
+        "country": "Bulgaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0322,
+          41.3678
+        ]
+      },
+      "properties": {
+        "name": "Marashka Chuka",
+        "latitude": 41.3678,
+        "longitude": 24.0322,
+        "feet": 4639,
+        "meters": 1414,
         "continent": "Europe",
         "country": "Bulgaria"
       }
@@ -7819,6 +8332,25 @@
         "meters": 3838,
         "continent": "Europe",
         "country": "France/Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.869937,
+          42.817125
+        ]
+      },
+      "properties": {
+        "name": "Maubermé",
+        "latitude": 42.817125,
+        "longitude": 0.869937,
+        "feet": 9449,
+        "meters": 2880,
+        "continent": "Europe",
+        "country": "France/Spain"
       }
     },
     {
@@ -8596,6 +9128,25 @@
         "longitude": 10.321484,
         "feet": 7963,
         "meters": 2427,
+        "continent": "Europe",
+        "country": "Germany/Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.295833,
+          47.3
+        ]
+      },
+      "properties": {
+        "name": "Mädelegabel",
+        "latitude": 47.3,
+        "longitude": 10.295833,
+        "feet": 8678,
+        "meters": 2645,
         "continent": "Europe",
         "country": "Germany/Austria"
       }
@@ -10030,6 +10581,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.998925,
+          44.395737
+        ]
+      },
+      "properties": {
+        "name": "Marmagna",
+        "latitude": 44.395737,
+        "longitude": 9.998925,
+        "feet": 6076,
+        "meters": 1852,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85,
+          46.4333
+        ]
+      },
+      "properties": {
+        "name": "Marmolada",
+        "latitude": 46.4333,
+        "longitude": 11.85,
+        "feet": 10965,
+        "meters": 3342,
+        "continent": "Europe",
+        "country": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.865094,
           45.817554
         ]
@@ -11112,6 +11701,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.06939,
+          43.12705
+        ]
+      },
+      "properties": {
+        "name": "Medjed",
+        "latitude": 43.12705,
+        "longitude": 19.06939,
+        "feet": 7503,
+        "meters": 2287,
+        "continent": "Europe",
+        "country": "Serbia and Montenegro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.710073,
           49.197859
         ]
@@ -11428,6 +12036,25 @@
         "meters": 2244,
         "continent": "Europe",
         "country": "Slovenia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.655,
+          46.439
+        ]
+      },
+      "properties": {
+        "name": "Mangart",
+        "latitude": 46.439,
+        "longitude": 13.655,
+        "feet": 8786,
+        "meters": 2678,
+        "continent": "Europe",
+        "country": "Slovenia/Italy"
       }
     },
     {
@@ -12081,6 +12708,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.190857,
+          43.031308
+        ]
+      },
+      "properties": {
+        "name": "Mampodre",
+        "latitude": 43.031308,
+        "longitude": -5.190857,
+        "feet": 7192,
+        "meters": 2192,
+        "continent": "Europe",
+        "country": "Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.290966,
           42.838717
         ]
@@ -12110,6 +12756,25 @@
         "longitude": 0.130763,
         "feet": 10279,
         "meters": 3133,
+        "continent": "Europe",
+        "country": "Spain/France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.724068,
+          42.922492
+        ]
+      },
+      "properties": {
+        "name": "Mesa De Los Tres Reyes",
+        "latitude": 42.922492,
+        "longitude": -0.724068,
+        "feet": 7985,
+        "meters": 2434,
         "continent": "Europe",
         "country": "Spain/France"
       }
@@ -13259,6 +13924,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.078856,
+          46.60856
+        ]
+      },
+      "properties": {
+        "name": "Mättenberg",
+        "latitude": 46.60856,
+        "longitude": 8.078856,
+        "feet": 10184,
+        "meters": 3104,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9833,
+          46.5667
+        ]
+      },
+      "properties": {
+        "name": "Mönch",
+        "latitude": 46.5667,
+        "longitude": 7.9833,
+        "feet": 13448,
+        "meters": 4107,
+        "continent": "Europe",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.9,
           46.3667
         ]
@@ -13307,6 +14010,25 @@
         "longitude": 7.164202,
         "feet": 9160,
         "meters": 2792,
+        "continent": "Europe",
+        "country": "Switzerland/Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658333,
+          45.976389
+        ]
+      },
+      "properties": {
+        "name": "Matterhorn",
+        "latitude": 45.976389,
+        "longitude": 7.658333,
+        "feet": 14691,
+        "meters": 4478,
         "continent": "Europe",
         "country": "Switzerland/Italy"
       }
@@ -14551,6 +15273,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.13329,
+          57.2492
+        ]
+      },
+      "properties": {
+        "name": "Marsco",
+        "latitude": 57.2492,
+        "longitude": -6.13329,
+        "feet": 2414,
+        "meters": 736,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3165,
+          54.5543
+        ]
+      },
+      "properties": {
+        "name": "Melbreak",
+        "latitude": 54.5543,
+        "longitude": -3.3165,
+        "feet": 1679,
+        "meters": 512,
+        "continent": "Europe",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.74445,
           52.917908
         ]
@@ -14599,6 +15359,25 @@
         "longitude": -89.01123,
         "feet": 3711,
         "meters": 1131,
+        "continent": "North America",
+        "country": "Belize"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59572,
+          17.04266
+        ]
+      },
+      "properties": {
+        "name": "Mount Margareth",
+        "latitude": 17.04266,
+        "longitude": -88.59572,
+        "feet": 3084,
+        "meters": 940,
         "continent": "North America",
         "country": "Belize"
       }
@@ -17135,6 +17914,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.304,
+          50.2798
+        ]
+      },
+      "properties": {
+        "name": "Mount Marriott",
+        "latitude": 50.2798,
+        "longitude": -122.304,
+        "feet": 8973,
+        "meters": 2735,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433,
+          50.3167
+        ]
+      },
+      "properties": {
+        "name": "Mount Matier",
+        "latitude": 50.3167,
+        "longitude": -122.433,
+        "feet": 9130,
+        "meters": 2783,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.682394,
+          60.71624
+        ]
+      },
+      "properties": {
+        "name": "Mount Maxwell",
+        "latitude": 60.71624,
+        "longitude": -138.682394,
+        "feet": 9908,
+        "meters": 3020,
+        "continent": "North America",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.3917,
           51.0533
         ]
@@ -18006,6 +18842,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -148.905,
+          61.5881
+        ]
+      },
+      "properties": {
+        "name": "Matanuska Peak (Byers Peak)",
+        "latitude": 61.5881,
+        "longitude": -148.905,
+        "feet": 6119,
+        "meters": 1865,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -149.267,
           60.1333
         ]
@@ -18356,6 +19212,86 @@
         "longitude": -154.952,
         "feet": 6715,
         "meters": 2047,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.75,
+          61.4333
+        ]
+      },
+      "properties": {
+        "name": "Mount Marcus Baker",
+        "latitude": 61.4333,
+        "longitude": -147.75,
+        "feet": 13176,
+        "meters": 4016,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.37,
+          63.49
+        ]
+      },
+      "properties": {
+        "name": "Mount McGinnis",
+        "latitude": 63.49,
+        "longitude": -146.37,
+        "feet": 11400,
+        "meters": 3,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.004,
+          63.0694
+        ]
+      },
+      "properties": {
+        "name": "Mount McKinley",
+        "latitude": 63.0694,
+        "longitude": -151.004,
+        "feet": 20320,
+        "meters": 6194,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.117,
+          62.5833
+        ]
+      },
+      "properties": {
+        "name": "Mount Mend Carp",
+        "latitude": 62.5833,
+        "longitude": -143.117,
+        "feet": 5930,
+        "meters": 1807,
         "continent": "North America",
         "country": "United States",
         "state": "Alaska"
@@ -19434,6 +20370,46 @@
         "longitude": -118.224,
         "feet": 12944,
         "meters": 3945,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.032,
+          37.631
+        ]
+      },
+      "properties": {
+        "name": "Mammoth Mountain",
+        "latitude": 37.631,
+        "longitude": -119.032,
+        "feet": 11053,
+        "meters": 3369,
+        "continent": "North America",
+        "country": "United States",
+        "state": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.382,
+          38.0933
+        ]
+      },
+      "properties": {
+        "name": "Matterhorn Peak ",
+        "latitude": 38.0933,
+        "longitude": -119.382,
+        "feet": 12264,
+        "meters": 3738,
         "continent": "North America",
         "country": "United States",
         "state": "California"
@@ -20804,6 +21780,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.989,
+          39.0708
+        ]
+      },
+      "properties": {
+        "name": "Maroon Bells",
+        "latitude": 39.0708,
+        "longitude": -106.989,
+        "feet": 14156,
+        "meters": 4315,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.239,
           38.656
         ]
@@ -21224,6 +22220,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.475,
+          39.1872
+        ]
+      },
+      "properties": {
+        "name": "Mount Massive",
+        "latitude": 39.1872,
+        "longitude": -106.475,
+        "feet": 14428,
+        "meters": 4398,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.604,
+          40.2486
+        ]
+      },
+      "properties": {
+        "name": "Mount Meeker",
+        "latitude": 40.2486,
+        "longitude": -105.604,
+        "feet": 13911,
+        "meters": 4240,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.479,
           39.4681
         ]
@@ -21423,6 +22459,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -155.471,
+          19.8236
+        ]
+      },
+      "properties": {
+        "name": "Mauna Kea",
+        "latitude": 19.8236,
+        "longitude": -155.471,
+        "feet": 13796,
+        "meters": 4205,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.608,
+          19.4786
+        ]
+      },
+      "properties": {
+        "name": "Mauna Loa",
+        "latitude": 19.4786,
+        "longitude": -155.608,
+        "feet": 13677,
+        "meters": 4169,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.783,
           44.1333
         ]
@@ -21573,6 +22649,26 @@
         "longitude": -114.975,
         "feet": 10229,
         "meters": 3118,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Idaho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.583,
+          44.25
+        ]
+      },
+      "properties": {
+        "name": "Mount Mccaleb",
+        "latitude": 44.25,
+        "longitude": -113.583,
+        "feet": 11682,
+        "meters": 3561,
         "continent": "North America",
         "country": "United States",
         "state": "Idaho"
@@ -22543,6 +23639,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.786,
+          48.8703
+        ]
+      },
+      "properties": {
+        "name": "Mount Merritt",
+        "latitude": 48.8703,
+        "longitude": -113.786,
+        "feet": 10004,
+        "meters": 3049,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Montana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.466605,
           48.474543
         ]
@@ -23142,6 +24258,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.446,
+          34.5908
+        ]
+      },
+      "properties": {
+        "name": "Manzano",
+        "latitude": 34.5908,
+        "longitude": -106.446,
+        "feet": 10078,
+        "meters": 3072,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.21333,
           36.63
         ]
@@ -23442,6 +24578,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.9239,
+          44.1125
+        ]
+      },
+      "properties": {
+        "name": "Mount Marcy",
+        "latitude": 44.1125,
+        "longitude": -73.9239,
+        "feet": 5344,
+        "meters": 1629,
+        "continent": "North America",
+        "country": "United States",
+        "state": "New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.4933,
           35.5417
         ]
@@ -23552,6 +24708,26 @@
         "longitude": -82.7936,
         "feet": 3969,
         "meters": 1210,
+        "continent": "North America",
+        "country": "United States",
+        "state": "North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9569,
+          35.7969
+        ]
+      },
+      "properties": {
+        "name": "Max Patch",
+        "latitude": 35.7969,
+        "longitude": -82.9569,
+        "feet": 4629,
+        "meters": 1411,
         "continent": "North America",
         "country": "United States",
         "state": "North Carolina"
@@ -24422,6 +25598,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.551217,
+          44.504287
+        ]
+      },
+      "properties": {
+        "name": "Marys Peak",
+        "latitude": 44.504287,
+        "longitude": -123.551217,
+        "feet": 4097,
+        "meters": 1249,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.290039,
+          45.228481
+        ]
+      },
+      "properties": {
+        "name": "Matterhorn",
+        "latitude": 45.228481,
+        "longitude": -117.290039,
+        "feet": 9826,
+        "meters": 2995,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.582985,
+          45.204866
+        ]
+      },
+      "properties": {
+        "name": "Meadow Mountain",
+        "latitude": 45.204866,
+        "longitude": -117.582985,
+        "feet": 7825,
+        "meters": 2385,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.688,
           43.979
         ]
@@ -24542,6 +25778,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.316027,
+          42.444551
+        ]
+      },
+      "properties": {
+        "name": "Mount McLoughlin",
+        "latitude": 42.444551,
+        "longitude": -122.316027,
+        "feet": 9495,
+        "meters": 2894,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Oregon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.7,
           42.0167
         ]
@@ -24612,6 +25868,26 @@
         "longitude": -75.9803,
         "feet": 1533,
         "meters": 467,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Pennsylvania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5592,
+          39.8479
+        ]
+      },
+      "properties": {
+        "name": "Martin Hill",
+        "latitude": 39.8479,
+        "longitude": -78.5592,
+        "feet": 2775,
+        "meters": 846,
         "continent": "North America",
         "country": "United States",
         "state": "Pennsylvania"
@@ -25452,6 +26728,26 @@
         "longitude": -72.638251,
         "feet": 3540,
         "meters": 1079,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Vermont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8147,
+          44.5436
+        ]
+      },
+      "properties": {
+        "name": "Mount Mansfield",
+        "latitude": 44.5436,
+        "longitude": -72.8147,
+        "feet": 4393,
+        "meters": 1339,
         "continent": "North America",
         "country": "United States",
         "state": "Vermont"
@@ -27842,6 +29138,186 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.112208,
+          48.63583
+        ]
+      },
+      "properties": {
+        "name": "Mantis Peak",
+        "latitude": 48.63583,
+        "longitude": -121.112208,
+        "feet": 7614,
+        "meters": 2321,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.567369,
+          48.056484
+        ]
+      },
+      "properties": {
+        "name": "Marble Peak",
+        "latitude": 48.056484,
+        "longitude": -121.567369,
+        "feet": 5110,
+        "meters": 1558,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.608138,
+          46.937927
+        ]
+      },
+      "properties": {
+        "name": "Marcus Peak",
+        "latitude": 46.937927,
+        "longitude": -121.608138,
+        "feet": 6962,
+        "meters": 2122,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.387108,
+          47.854293
+        ]
+      },
+      "properties": {
+        "name": "McCartney Peak",
+        "latitude": 47.854293,
+        "longitude": -123.387108,
+        "feet": 6784,
+        "meters": 2068,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.622171,
+          47.406889
+        ]
+      },
+      "properties": {
+        "name": "McClellan Butte",
+        "latitude": 47.406889,
+        "longitude": -121.622171,
+        "feet": 5162,
+        "meters": 1573,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.798197,
+          48.408238
+        ]
+      },
+      "properties": {
+        "name": "McGregor Mountain",
+        "latitude": 48.408238,
+        "longitude": -120.798197,
+        "feet": 8136,
+        "meters": 2480,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.886002,
+          48.630016
+        ]
+      },
+      "properties": {
+        "name": "Meebe",
+        "latitude": 48.630016,
+        "longitude": -120.886002,
+        "feet": 6570,
+        "meters": 2003,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4318,
+          47.8013
+        ]
+      },
+      "properties": {
+        "name": "Merchant Peak",
+        "latitude": 47.8013,
+        "longitude": -121.4318,
+        "feet": 6113,
+        "meters": 1863,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.880508,
+          48.578453
+        ]
+      },
+      "properties": {
+        "name": "Mesahchie Peak",
+        "latitude": 48.578453,
+        "longitude": -120.880508,
+        "feet": 8795,
+        "meters": 2681,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.489,
           46.2028
         ]
@@ -28502,6 +29978,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.803988,
+          48.137351
+        ]
+      },
+      "properties": {
+        "name": "Mount Maude",
+        "latitude": 48.137351,
+        "longitude": -120.803988,
+        "feet": 9082,
+        "meters": 2768,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.540761,
           47.588799
         ]
@@ -28762,6 +30258,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.317,
+          41.3606
+        ]
+      },
+      "properties": {
+        "name": "Medicine Bow Peak",
+        "latitude": 41.3606,
+        "longitude": -106.317,
+        "feet": 12013,
+        "meters": 3662,
+        "continent": "North America",
+        "country": "United States",
+        "state": "Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.087,
           39.4286
         ]
@@ -28795,6 +30311,26 @@
         "continent": "North America",
         "country": "United States/Canada",
         "state": "Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5536,
+          41.6111
+        ]
+      },
+      "properties": {
+        "name": "Medicine Lake Volcano",
+        "latitude": 41.6111,
+        "longitude": -121.5536,
+        "feet": 7913,
+        "meters": 2412,
+        "continent": "North America",
+        "country": "United States/United States",
+        "state": "California"
       }
     },
     {
@@ -29326,6 +30862,25 @@
         "longitude": -68.55,
         "feet": 22058,
         "meters": 6723,
+        "continent": "South America",
+        "country": "Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1167,
+          -31.9833
+        ]
+      },
+      "properties": {
+        "name": "Mercedario",
+        "latitude": -31.9833,
+        "longitude": -70.1167,
+        "feet": 22211,
+        "meters": 6770,
         "continent": "South America",
         "country": "Argentina"
       }
