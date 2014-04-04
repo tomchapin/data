@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.63,
+      6.083
+    ]
+  },
+  "properties": {
+    "name": "Ayangaik",
+    "latitude": 6.083,
+    "longitude": -60.63,
+    "feet": 1378,
+    "meters": 420,
+    "continent": "South America",
+    "country": "Guyana"
+  }
+}
