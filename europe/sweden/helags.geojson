@@ -12,6 +12,8 @@
     "feet": 5896,
     "meters": 1797,
     "continent": "Europe",
-    "country": "Sweden"
+    "country": "Sweden",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
