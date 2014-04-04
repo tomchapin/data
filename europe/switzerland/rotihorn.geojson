@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rötihorn",
+    "feet": 9045,
+    "meters": 2757,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
