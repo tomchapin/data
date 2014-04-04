@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.851882,
+      28.472011
+    ]
+  },
+  "properties": {
+    "name": "Volcan de Teneguia",
+    "latitude": 28.472011,
+    "longitude": -17.851882,
+    "feet": 1440,
+    "meters": 439,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
