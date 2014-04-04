@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.42,
+      19.35
+    ]
+  },
+  "properties": {
+    "name": "Kalsubai",
+    "latitude": 19.35,
+    "longitude": 73.42,
+    "feet": 5400,
+    "meters": 1646,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
