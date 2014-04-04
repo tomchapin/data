@@ -15,6 +15,8 @@
     "meters": 128,
     "continent": "North America",
     "country": "United States",
-    "state": "Massachusetts"
+    "state": "Massachusetts",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
