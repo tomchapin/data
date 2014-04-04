@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ciucas",
+    "feet": 6381,
+    "meters": 1945,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
