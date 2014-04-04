@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.51583,
+      -42.654632
+    ]
+  },
+  "properties": {
+    "name": "Mt Field West",
+    "latitude": -42.654632,
+    "longitude": 146.51583,
+    "feet": 4705,
+    "meters": 1434,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
