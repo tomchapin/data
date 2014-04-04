@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Shivling",
+    "feet": 21466,
+    "meters": 6543,
+    "continent": "Asia",
+    "country": "India",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
