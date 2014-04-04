@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Badile",
+    "feet": 10853,
+    "meters": 3308,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
