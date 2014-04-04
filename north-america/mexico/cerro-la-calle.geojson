@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cerro La Calle",
+    "feet": 9938,
+    "meters": 3029,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
