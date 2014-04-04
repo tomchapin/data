@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Niblè",
+    "feet": 11040,
+    "meters": 3365,
+    "continent": "Europe",
+    "country": "Italy/France"
+  }
+}
