@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Desperation Peak",
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
