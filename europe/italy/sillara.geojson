@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0422,
+      44.48304
+    ]
+  },
+  "properties": {
+    "name": "Sillara",
+    "latitude": 44.48304,
+    "longitude": 10.0422,
+    "feet": 6106,
+    "meters": 1861,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
