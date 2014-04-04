@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.78333,
+      45.5
+    ]
+  },
+  "properties": {
+    "name": "Mont Dore",
+    "latitude": 45.5,
+    "longitude": 2.78333,
+    "feet": 6184,
+    "meters": 1885,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
