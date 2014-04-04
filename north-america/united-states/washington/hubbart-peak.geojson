@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.40502,
+      47.930463
+    ]
+  },
+  "properties": {
+    "name": "Hubbart Peak",
+    "latitude": 47.930463,
+    "longitude": -121.40502,
+    "feet": 5936,
+    "meters": 1809,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
