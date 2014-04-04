@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.581389,
+      49.853889
+    ]
+  },
+  "properties": {
+    "name": "Mount Boucherie",
+    "latitude": 49.853889,
+    "longitude": -119.581389,
+    "feet": 2487,
+    "meters": 758,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
