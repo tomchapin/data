@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.118124,
+      46.575265
+    ]
+  },
+  "properties": {
+    "name": "Strahlegghorn",
+    "latitude": 46.575265,
+    "longitude": 8.118124,
+    "feet": 11355,
+    "meters": 3461,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
