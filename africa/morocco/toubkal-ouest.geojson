@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Toubkal Ouest",
+    "feet": 13222,
+    "meters": 4030,
+    "continent": "Africa",
+    "country": "Morocco",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
