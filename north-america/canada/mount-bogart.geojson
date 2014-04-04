@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.242,
+      50.9083
+    ]
+  },
+  "properties": {
+    "name": "Mount Bogart",
+    "latitude": 50.9083,
+    "longitude": -115.242,
+    "feet": 10315,
+    "meters": 3144,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
