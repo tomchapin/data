@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.3,
+      25.1667
+    ]
+  },
+  "properties": {
+    "name": "Picacho",
+    "latitude": 25.1667,
+    "longitude": -103.3,
+    "feet": 10236,
+    "meters": 3120,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
