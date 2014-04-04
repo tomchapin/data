@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.37221,
+      46.02313
+    ]
+  },
+  "properties": {
+    "name": "La Sale",
+    "latitude": 46.02313,
+    "longitude": 7.37221,
+    "feet": 11962,
+    "meters": 3646,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
