@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.22,
+      51.2908
+    ]
+  },
+  "properties": {
+    "name": "Mount Allen",
+    "latitude": 51.2908,
+    "longitude": -116.22,
+    "feet": 10860,
+    "meters": 3310,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
