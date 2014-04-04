@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -154.952,
+      58.2794
+    ]
+  },
+  "properties": {
+    "name": "Mount Katmai",
+    "latitude": 58.2794,
+    "longitude": -154.952,
+    "feet": 6715,
+    "meters": 2047,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
