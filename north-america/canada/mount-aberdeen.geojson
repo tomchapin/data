@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.247625,
+      51.37987
+    ]
+  },
+  "properties": {
+    "name": "Mount Aberdeen",
+    "latitude": 51.37987,
+    "longitude": -116.247625,
+    "feet": 10341,
+    "meters": 3152,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
