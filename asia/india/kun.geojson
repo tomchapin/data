@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kun",
+    "feet": 23218,
+    "meters": 7077,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
