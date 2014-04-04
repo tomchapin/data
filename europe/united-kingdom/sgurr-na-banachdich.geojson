@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.24272,
+      57.2222
+    ]
+  },
+  "properties": {
+    "name": "Sgurr Na Banachdich",
+    "latitude": 57.2222,
+    "longitude": -6.24272,
+    "feet": 3166,
+    "meters": 965,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
