@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.067,
+      39.1667
+    ]
+  },
+  "properties": {
+    "name": "Mount Daly",
+    "latitude": 39.1667,
+    "longitude": -107.067,
+    "feet": 13305,
+    "meters": 4055,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
