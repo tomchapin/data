@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.591,
+      37.6214
+    ]
+  },
+  "properties": {
+    "name": "Windom Peak",
+    "latitude": 37.6214,
+    "longitude": -107.591,
+    "feet": 14082,
+    "meters": 4292,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
