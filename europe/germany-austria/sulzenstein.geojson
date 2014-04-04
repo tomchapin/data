@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.46,
+      47.34
+    ]
+  },
+  "properties": {
+    "name": "Sulzenstein",
+    "latitude": 47.34,
+    "longitude": 12.46,
+    "feet": 5418,
+    "meters": 1693,
+    "continent": "Europe",
+    "country": "Germany/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
