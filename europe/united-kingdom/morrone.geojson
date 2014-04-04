@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.429966,
+      56.980724
+    ]
+  },
+  "properties": {
+    "name": "Morrone",
+    "latitude": 56.980724,
+    "longitude": -3.429966,
+    "feet": 2791,
+    "meters": 851,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
