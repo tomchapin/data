@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2,
+      38.7833
+    ]
+  },
+  "properties": {
+    "name": "Stromboli",
+    "latitude": 38.7833,
+    "longitude": 15.2,
+    "feet": 3038,
+    "meters": 926,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
