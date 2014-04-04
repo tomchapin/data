@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.75,
+      42.6667
+    ]
+  },
+  "properties": {
+    "name": "Shan",
+    "latitude": 42.6667,
+    "longitude": 44.75,
+    "feet": 14603,
+    "meters": 4451,
+    "continent": "Europe",
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
