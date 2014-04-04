@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kinder Berg",
+    "feet": 6160,
+    "meters": 1878,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
