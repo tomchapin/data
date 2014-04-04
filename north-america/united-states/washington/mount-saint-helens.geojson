@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.191,
+      46.1978
+    ]
+  },
+  "properties": {
+    "name": "Mount Saint Helens",
+    "latitude": 46.1978,
+    "longitude": -122.191,
+    "feet": 8364,
+    "meters": 2549,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
