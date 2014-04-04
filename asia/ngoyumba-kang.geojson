@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.684103,
+      28.105903
+    ]
+  },
+  "properties": {
+    "name": "Ngoyumba Kang",
+    "latitude": 28.105903,
+    "longitude": 86.684103,
+    "feet": 25971,
+    "meters": 7916,
+    "continent": "Asia"
+  }
+}
