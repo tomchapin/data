@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.2914,
+      44.3203
+    ]
+  },
+  "properties": {
+    "name": "Mount Adams",
+    "latitude": 44.3203,
+    "longitude": -71.2914,
+    "feet": 5771,
+    "meters": 1759,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
