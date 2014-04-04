@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.475167,
+      46.498998
+    ]
+  },
+  "properties": {
+    "name": "Geisterspitze (Punta degli Spiriti)",
+    "latitude": 46.498998,
+    "longitude": 10.475167,
+    "feet": 11375,
+    "meters": 3467,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
