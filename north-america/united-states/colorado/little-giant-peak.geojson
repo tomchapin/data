@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.598,
+      37.7964
+    ]
+  },
+  "properties": {
+    "name": "Little Giant Peak",
+    "latitude": 37.7964,
+    "longitude": -107.598,
+    "feet": 13416,
+    "meters": 4089,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
