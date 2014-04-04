@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.417,
+      59.9
+    ]
+  },
+  "properties": {
+    "name": "Truuli Peak",
+    "latitude": 59.9,
+    "longitude": -150.417,
+    "feet": 6612,
+    "meters": 2015,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
