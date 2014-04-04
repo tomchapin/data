@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5685,
+      46.4786
+    ]
+  },
+  "properties": {
+    "name": "Gran Zebrù",
+    "latitude": 46.4786,
+    "longitude": 10.5685,
+    "feet": 12634,
+    "meters": 3851,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
