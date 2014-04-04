@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.245737,
+      51.301428
+    ]
+  },
+  "properties": {
+    "name": "Deltaform",
+    "latitude": 51.301428,
+    "longitude": -116.245737,
+    "feet": 11233,
+    "meters": 3424,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
