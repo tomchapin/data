@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tavan Bogd",
+    "feet": 13392,
+    "meters": 4082,
+    "continent": "Asia",
+    "country": "Mongolia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
