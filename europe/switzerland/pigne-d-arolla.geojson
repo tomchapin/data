@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.45,
+      46.0
+    ]
+  },
+  "properties": {
+    "name": "Pigne D'Arolla",
+    "latitude": 46.0,
+    "longitude": 7.45,
+    "feet": 12454,
+    "meters": 3796,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
