@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.39,
+      51.3958
+    ]
+  },
+  "properties": {
+    "name": "Cathedral Mountain",
+    "latitude": 51.3958,
+    "longitude": -116.39,
+    "feet": 10463,
+    "meters": 3189,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
