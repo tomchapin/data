@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      110.05,
+      34.29
+    ]
+  },
+  "properties": {
+    "name": "Hua Shan",
+    "latitude": 34.29,
+    "longitude": 110.05,
+    "feet": 7087,
+    "meters": 2160,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
