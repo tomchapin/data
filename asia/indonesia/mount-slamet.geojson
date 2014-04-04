@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.214444,
+      -7.241389
+    ]
+  },
+  "properties": {
+    "name": "Mount Slamet",
+    "latitude": -7.241389,
+    "longitude": 109.214444,
+    "feet": 11247,
+    "meters": 3428,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
