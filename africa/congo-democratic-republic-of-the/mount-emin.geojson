@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.9,
+      0.433333
+    ]
+  },
+  "properties": {
+    "name": "Mount Emin",
+    "latitude": 0.433333,
+    "longitude": 29.9,
+    "feet": 15740,
+    "meters": 4798,
+    "continent": "Africa",
+    "country": "Congo, Democratic Republic of the"
+  }
+}
