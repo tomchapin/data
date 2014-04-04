@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gausta",
+    "feet": 6178,
+    "meters": 1883,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
