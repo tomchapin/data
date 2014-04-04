@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.245,
+      45.0646
+    ]
+  },
+  "properties": {
+    "name": "Red Mountain",
+    "latitude": 45.0646,
+    "longitude": -117.245,
+    "feet": 9560,
+    "meters": 2914,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
