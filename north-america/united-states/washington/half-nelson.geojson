@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.232758,
+      46.818505
+    ]
+  },
+  "properties": {
+    "name": "Half Nelson",
+    "latitude": 46.818505,
+    "longitude": -121.232758,
+    "feet": 7146,
+    "meters": 2178,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
