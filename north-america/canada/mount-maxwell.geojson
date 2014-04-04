@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -138.682394,
+      60.71624
+    ]
+  },
+  "properties": {
+    "name": "Mount Maxwell",
+    "latitude": 60.71624,
+    "longitude": -138.682394,
+    "feet": 9908,
+    "meters": 3020,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
