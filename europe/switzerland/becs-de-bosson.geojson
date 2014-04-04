@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.518366,
+      46.167895
+    ]
+  },
+  "properties": {
+    "name": "Becs de Bosson",
+    "latitude": 46.167895,
+    "longitude": 7.518366,
+    "feet": 10331,
+    "meters": 3149,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
