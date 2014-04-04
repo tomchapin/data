@@ -14,6 +14,8 @@
     "feet": 6083,
     "meters": 1854,
     "continent": "Asia",
-    "country": "Jordan"
+    "country": "Jordan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
