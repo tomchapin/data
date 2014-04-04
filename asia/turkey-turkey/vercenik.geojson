@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.0,
+      39.0
+    ]
+  },
+  "properties": {
+    "name": "Vercenik",
+    "latitude": 39.0,
+    "longitude": 38.0,
+    "feet": 12238,
+    "meters": 3730,
+    "continent": "Asia",
+    "country": "Turkey/Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
