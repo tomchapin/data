@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.904,
+      39.0325
+    ]
+  },
+  "properties": {
+    "name": "Keefe Peak",
+    "latitude": 39.0325,
+    "longitude": -106.904,
+    "feet": 13516,
+    "meters": 4120,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
