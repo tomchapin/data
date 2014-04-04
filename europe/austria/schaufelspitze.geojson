@@ -12,6 +12,8 @@
     "feet": 10935,
     "meters": 3333,
     "continent": "Europe",
-    "country": "Austria"
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
