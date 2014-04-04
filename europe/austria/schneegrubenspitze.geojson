@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.1807,
+      47.3162
+    ]
+  },
+  "properties": {
+    "name": "Schneegrubenspitze",
+    "latitude": 47.3162,
+    "longitude": 12.1807,
+    "feet": 7339,
+    "meters": 2237,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
