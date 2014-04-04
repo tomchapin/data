@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.952125,
+      -41.684323
+    ]
+  },
+  "properties": {
+    "name": "Cradle Mountain",
+    "latitude": -41.684323,
+    "longitude": 145.952125,
+    "feet": 5069,
+    "meters": 1545,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
