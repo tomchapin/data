@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.139153,
+      46.578982
+    ]
+  },
+  "properties": {
+    "name": "Klein Lauteraarhorn",
+    "latitude": 46.578982,
+    "longitude": 8.139153,
+    "feet": 12260,
+    "meters": 3737,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
