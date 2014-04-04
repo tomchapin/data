@@ -14,6 +14,8 @@
     "feet": 20997,
     "meters": 6400,
     "continent": "Asia",
-    "country": "Kazakhstan/China"
+    "country": "Kazakhstan/China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
