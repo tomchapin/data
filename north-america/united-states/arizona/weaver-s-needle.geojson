@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.37,
+      33.4331
+    ]
+  },
+  "properties": {
+    "name": "Weaver's Needle",
+    "latitude": 33.4331,
+    "longitude": -111.37,
+    "feet": 4553,
+    "meters": 1388,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
