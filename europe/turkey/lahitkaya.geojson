@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lahitkaya",
+    "feet": 10170,
+    "meters": 3100,
+    "continent": "Europe",
+    "country": "Turkey"
+  }
+}
