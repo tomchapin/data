@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.417,
+      37.0167
+    ]
+  },
+  "properties": {
+    "name": "Split Mountain",
+    "latitude": 37.0167,
+    "longitude": -118.417,
+    "feet": 14058,
+    "meters": 4285,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
