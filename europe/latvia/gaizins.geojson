@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.95,
+      56.8666
+    ]
+  },
+  "properties": {
+    "name": "Gaizins",
+    "latitude": 56.8666,
+    "longitude": 25.95,
+    "feet": 1020,
+    "meters": 311,
+    "continent": "Europe",
+    "country": "Latvia"
+  }
+}
