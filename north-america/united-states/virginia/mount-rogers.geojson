@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.5447,
+      36.6597
+    ]
+  },
+  "properties": {
+    "name": "Mount Rogers",
+    "latitude": 36.6597,
+    "longitude": -81.5447,
+    "feet": 5729,
+    "meters": 1746,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Virginia"
+  }
+}
