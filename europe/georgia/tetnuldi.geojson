@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.15,
+      44.1
+    ]
+  },
+  "properties": {
+    "name": "Tetnuldi",
+    "latitude": 44.1,
+    "longitude": 42.15,
+    "feet": 15922,
+    "meters": 4853,
+    "continent": "Europe",
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
