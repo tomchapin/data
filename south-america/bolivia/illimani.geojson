@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.787747,
+      -16.636932
+    ]
+  },
+  "properties": {
+    "name": "Illimani",
+    "latitude": -16.636932,
+    "longitude": -67.787747,
+    "feet": 21200,
+    "meters": 6460,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
