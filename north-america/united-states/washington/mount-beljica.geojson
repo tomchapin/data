@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.940646,
+      46.784223
+    ]
+  },
+  "properties": {
+    "name": "Mount Beljica",
+    "latitude": 46.784223,
+    "longitude": -121.940646,
+    "feet": 5475,
+    "meters": 1669,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
