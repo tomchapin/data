@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.049,
+      50.7003
+    ]
+  },
+  "properties": {
+    "name": "Mount Jerram",
+    "latitude": 50.7003,
+    "longitude": -115.049,
+    "feet": 9829,
+    "meters": 2996,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
