@@ -12,6 +12,8 @@
     "feet": 8199,
     "meters": 2499,
     "continent": "Europe",
-    "country": "Poland"
+    "country": "Poland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
