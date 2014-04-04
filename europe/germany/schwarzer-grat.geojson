@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.125704,
+      47.69197
+    ]
+  },
+  "properties": {
+    "name": "Schwarzer Grat",
+    "latitude": 47.69197,
+    "longitude": 10.125704,
+    "feet": 3668,
+    "meters": 1118,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
