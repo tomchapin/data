@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Buffalo Mountain",
+    "feet": 3971,
+    "meters": 1210,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Virginia"
+  }
+}
