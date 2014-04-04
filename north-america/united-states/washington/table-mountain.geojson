@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.71371,
+      48.847745
+    ]
+  },
+  "properties": {
+    "name": "Table Mountain",
+    "latitude": 48.847745,
+    "longitude": -121.71371,
+    "feet": 5742,
+    "meters": 1750,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
