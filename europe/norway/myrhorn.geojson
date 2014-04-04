@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Myrhorn",
+    "feet": 4751,
+    "meters": 1448,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
