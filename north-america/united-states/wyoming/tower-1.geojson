@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tower 1",
+    "feet": 13000,
+    "meters": 3962,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
