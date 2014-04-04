@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.38,
+      -28.48
+    ]
+  },
+  "properties": {
+    "name": "Pykie's Peak",
+    "latitude": -28.48,
+    "longitude": 153.38,
+    "feet": 2152,
+    "meters": 656,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
