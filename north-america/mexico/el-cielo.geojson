@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Cielo",
+    "feet": 7500,
+    "meters": 2286,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
