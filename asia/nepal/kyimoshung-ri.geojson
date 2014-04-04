@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.593667,
+      28.214945
+    ]
+  },
+  "properties": {
+    "name": "Kyimoshung Ri",
+    "latitude": 28.214945,
+    "longitude": 85.593667,
+    "feet": 15157,
+    "meters": 4620,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
