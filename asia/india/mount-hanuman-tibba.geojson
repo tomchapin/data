@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Hanuman Tibba",
+    "feet": 19633,
+    "meters": 5984,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
