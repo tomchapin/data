@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.849,
+      50.207
+    ]
+  },
+  "properties": {
+    "name": "Snieznik",
+    "latitude": 50.207,
+    "longitude": 16.849,
+    "feet": 4678,
+    "meters": 1426,
+    "continent": "Europe",
+    "country": "Poland/Czech Republic",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
