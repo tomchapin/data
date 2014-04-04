@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.466064,
+      51.565333
+    ]
+  },
+  "properties": {
+    "name": "Mount Balfour",
+    "latitude": 51.565333,
+    "longitude": -116.466064,
+    "feet": 10735,
+    "meters": 3272,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
