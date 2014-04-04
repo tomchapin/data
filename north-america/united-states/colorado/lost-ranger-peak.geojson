@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.672,
+      40.6903
+    ]
+  },
+  "properties": {
+    "name": "Lost Ranger Peak",
+    "latitude": 40.6903,
+    "longitude": -106.672,
+    "feet": 11932,
+    "meters": 3637,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
