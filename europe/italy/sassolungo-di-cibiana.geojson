@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.265592,
+      46.350838
+    ]
+  },
+  "properties": {
+    "name": "Sassolungo di Cibiana",
+    "latitude": 46.350838,
+    "longitude": 12.265592,
+    "feet": 7917,
+    "meters": 2413,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
