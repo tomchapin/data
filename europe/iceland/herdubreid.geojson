@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.34,
+      65.18
+    ]
+  },
+  "properties": {
+    "name": "Herðubreið",
+    "latitude": 65.18,
+    "longitude": 16.34,
+    "feet": 5518,
+    "meters": 1682,
+    "continent": "Europe",
+    "country": "Iceland"
+  }
+}
