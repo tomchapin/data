@@ -14,6 +14,8 @@
     "feet": 5020,
     "meters": 1530,
     "continent": "Africa",
-    "country": "Namibia"
+    "country": "Namibia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
