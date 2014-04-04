@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.276634,
+      47.790209
+    ]
+  },
+  "properties": {
+    "name": "Filbling",
+    "latitude": 47.790209,
+    "longitude": 13.276634,
+    "feet": 4284,
+    "meters": 1306,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
