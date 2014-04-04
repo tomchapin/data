@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pezid",
+    "feet": 9088,
+    "meters": 2770,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
