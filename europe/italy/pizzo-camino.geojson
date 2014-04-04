@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Camino",
+    "feet": 8176,
+    "meters": 2492,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
