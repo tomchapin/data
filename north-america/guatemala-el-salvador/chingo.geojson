@@ -14,6 +14,8 @@
     "feet": 5823,
     "meters": 1775,
     "continent": "North America",
-    "country": "Guatemala/El Salvador"
+    "country": "Guatemala/El Salvador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
