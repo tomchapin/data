@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.073245,
+      44.69584
+    ]
+  },
+  "properties": {
+    "name": "Udine (Punta)",
+    "latitude": 44.69584,
+    "longitude": 7.073245,
+    "feet": 9915,
+    "meters": 3022,
+    "continent": "Europe",
+    "country": "Italy/France",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
