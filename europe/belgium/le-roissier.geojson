@@ -12,6 +12,8 @@
     "feet": 1824,
     "meters": 556,
     "continent": "Europe",
-    "country": "Belgium"
+    "country": "Belgium",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
