@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.7592,
+      40.707
+    ]
+  },
+  "properties": {
+    "name": "Grandeur Peak",
+    "latitude": 40.707,
+    "longitude": -111.7592,
+    "feet": 8299,
+    "meters": 2530,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
