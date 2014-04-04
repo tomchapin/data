@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.9333,
+      47.6333
+    ]
+  },
+  "properties": {
+    "name": "Ruchenkoepfe",
+    "latitude": 47.6333,
+    "longitude": 11.9333,
+    "feet": 5922,
+    "meters": 1805,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
