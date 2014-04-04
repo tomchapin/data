@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.55,
+      -24.7167
+    ]
+  },
+  "properties": {
+    "name": "Llullaillaco",
+    "latitude": -24.7167,
+    "longitude": -68.55,
+    "feet": 22058,
+    "meters": 6723,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
