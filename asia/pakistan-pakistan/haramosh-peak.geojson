@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.89749,
+      35.840221
+    ]
+  },
+  "properties": {
+    "name": "Haramosh Peak",
+    "latitude": 35.840221,
+    "longitude": 74.89749,
+    "feet": 24308,
+    "meters": 7409,
+    "continent": "Asia",
+    "country": "Pakistan/Pakistan"
+  }
+}
