@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.393551,
+      52.268788
+    ]
+  },
+  "properties": {
+    "name": "Mount Cromwell",
+    "latitude": 52.268788,
+    "longitude": -117.393551,
+    "feet": 10925,
+    "meters": 3330,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
