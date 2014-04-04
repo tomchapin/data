@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Magnodeno",
+    "feet": 4071,
+    "meters": 1241,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
