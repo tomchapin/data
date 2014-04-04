@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Parseierspitze",
+    "feet": 9961,
+    "meters": 3036,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
