@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piramide Blanca",
+    "feet": 17159,
+    "meters": 5230,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
