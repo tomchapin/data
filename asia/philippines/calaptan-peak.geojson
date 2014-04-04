@@ -14,6 +14,8 @@
     "feet": 4423,
     "meters": 1348,
     "continent": "Asia",
-    "country": "Philippines"
+    "country": "Philippines",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
