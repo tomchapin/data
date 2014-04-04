@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.658337,
+      61.084525
+    ]
+  },
+  "properties": {
+    "name": "Peak 2",
+    "latitude": 61.084525,
+    "longitude": -149.658337,
+    "feet": 3658,
+    "meters": 1114,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
