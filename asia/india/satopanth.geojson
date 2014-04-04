@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Satopanth",
+    "feet": 23212,
+    "meters": 7075,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
