@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.848158,
+      46.119774
+    ]
+  },
+  "properties": {
+    "name": "Dürrenhorn",
+    "latitude": 46.119774,
+    "longitude": 7.848158,
+    "feet": 13238,
+    "meters": 4035,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
