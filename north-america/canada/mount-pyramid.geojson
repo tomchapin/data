@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.148346,
+      52.951327
+    ]
+  },
+  "properties": {
+    "name": "Mount Pyramid",
+    "latitude": 52.951327,
+    "longitude": -118.148346,
+    "feet": 9678,
+    "meters": 2950,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
