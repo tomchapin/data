@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8572,
+      33.4106
+    ]
+  },
+  "properties": {
+    "name": "Mount Hermon",
+    "latitude": 33.4106,
+    "longitude": 35.8572,
+    "feet": 9232,
+    "meters": 2814,
+    "continent": "Asia",
+    "country": "Lebanon"
+  }
+}
