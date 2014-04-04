@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.745725,
+      48.380654
+    ]
+  },
+  "properties": {
+    "name": "Finney Peak",
+    "latitude": 48.380654,
+    "longitude": -121.745725,
+    "feet": 5083,
+    "meters": 1549,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
