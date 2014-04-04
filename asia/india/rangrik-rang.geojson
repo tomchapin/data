@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.5167,
+      31.45
+    ]
+  },
+  "properties": {
+    "name": "Rangrik Rang",
+    "latitude": 31.45,
+    "longitude": 78.5167,
+    "feet": 21499,
+    "meters": 6553,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
