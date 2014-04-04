@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.741898,
+      45.496722
+    ]
+  },
+  "properties": {
+    "name": "Big Squaw Mountain",
+    "latitude": 45.496722,
+    "longitude": -69.741898,
+    "feet": 3196,
+    "meters": 974,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Maine"
+  }
+}
