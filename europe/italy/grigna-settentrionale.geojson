@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grigna settentrionale",
+    "feet": 7907,
+    "meters": 2410,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
