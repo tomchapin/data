@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.253033,
+      51.421316
+    ]
+  },
+  "properties": {
+    "name": "Mount St. Piran",
+    "latitude": 51.421316,
+    "longitude": -116.253033,
+    "feet": 8691,
+    "meters": 2649,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
