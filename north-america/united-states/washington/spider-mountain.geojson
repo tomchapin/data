@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.036034,
+      48.409406
+    ]
+  },
+  "properties": {
+    "name": "Spider Mountain",
+    "latitude": 48.409406,
+    "longitude": -121.036034,
+    "feet": 8280,
+    "meters": 2524,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
