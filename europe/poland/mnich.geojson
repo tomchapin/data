@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mnich",
+    "feet": 6785,
+    "meters": 2068,
+    "continent": "Europe",
+    "country": "Poland"
+  }
+}
