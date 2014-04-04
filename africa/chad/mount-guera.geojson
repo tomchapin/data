@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2,
+      11.9167
+    ]
+  },
+  "properties": {
+    "name": "Mount Guera",
+    "latitude": 11.9167,
+    "longitude": 18.2,
+    "feet": 4750,
+    "continent": "Africa",
+    "country": "Chad"
+  }
+}
