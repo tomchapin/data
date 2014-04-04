@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.125904,
+      51.181388
+    ]
+  },
+  "properties": {
+    "name": "Association",
+    "latitude": 51.181388,
+    "longitude": -115.125904,
+    "feet": 7874,
+    "meters": 2400,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
