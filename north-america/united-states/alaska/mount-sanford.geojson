@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -144.129,
+      62.2139
+    ]
+  },
+  "properties": {
+    "name": "Mount Sanford",
+    "latitude": 62.2139,
+    "longitude": -144.129,
+    "feet": 16237,
+    "meters": 4949,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
