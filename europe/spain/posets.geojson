@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.434303,
+      42.654856
+    ]
+  },
+  "properties": {
+    "name": "Posets",
+    "latitude": 42.654856,
+    "longitude": 0.434303,
+    "feet": 11073,
+    "meters": 3375,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
