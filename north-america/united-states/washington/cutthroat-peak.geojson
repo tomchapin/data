@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.70344,
+      48.526496
+    ]
+  },
+  "properties": {
+    "name": "Cutthroat Peak",
+    "latitude": 48.526496,
+    "longitude": -120.70344,
+    "feet": 8050,
+    "meters": 2454,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
