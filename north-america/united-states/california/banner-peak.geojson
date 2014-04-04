@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.194,
+      37.6967
+    ]
+  },
+  "properties": {
+    "name": "Banner Peak",
+    "latitude": 37.6967,
+    "longitude": -119.194,
+    "feet": 12947,
+    "meters": 3946,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
