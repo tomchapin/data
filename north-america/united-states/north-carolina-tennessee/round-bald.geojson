@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.1036,
+      36.1069
+    ]
+  },
+  "properties": {
+    "name": "Round Bald",
+    "latitude": 36.1069,
+    "longitude": -82.1036,
+    "feet": 5826,
+    "meters": 1776,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina,Tennessee"
+  }
+}
