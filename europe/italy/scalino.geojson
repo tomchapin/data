@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.95,
+      46.2667
+    ]
+  },
+  "properties": {
+    "name": "Scalino",
+    "latitude": 46.2667,
+    "longitude": 9.95,
+    "feet": 10902,
+    "meters": 3323,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
