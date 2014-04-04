@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.112208,
+      48.63583
+    ]
+  },
+  "properties": {
+    "name": "Mantis Peak",
+    "latitude": 48.63583,
+    "longitude": -121.112208,
+    "feet": 7614,
+    "meters": 2321,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
