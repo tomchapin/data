@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.15,
+      40.5667
+    ]
+  },
+  "properties": {
+    "name": "Çakırgöl",
+    "latitude": 40.5667,
+    "longitude": 29.15,
+    "feet": 9954,
+    "meters": 3034,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
