@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Helags",
+    "feet": 5896,
+    "meters": 1797,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
