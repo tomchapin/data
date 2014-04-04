@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.3167,
+      31.0667
+    ]
+  },
+  "properties": {
+    "name": "Kailas",
+    "latitude": 31.0667,
+    "longitude": 81.3167,
+    "feet": 22028,
+    "meters": 6714,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
