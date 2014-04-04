@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Blanc de Courmayeur",
+    "feet": 15577,
+    "meters": 4748,
+    "continent": "Europe",
+    "country": "Italy/France"
+  }
+}
