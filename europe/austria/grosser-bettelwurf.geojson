@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5167,
+      47.35
+    ]
+  },
+  "properties": {
+    "name": "Grosser Bettelwurf",
+    "latitude": 47.35,
+    "longitude": 11.5167,
+    "feet": 8940,
+    "meters": 2725,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
