@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.5,
+      -8.91667
+    ]
+  },
+  "properties": {
+    "name": "Mount Victoria",
+    "latitude": -8.91667,
+    "longitude": 147.5,
+    "feet": 13363,
+    "meters": 4073,
+    "continent": "Australia/Oceania",
+    "country": "Papua New Guinea",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
