@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.555511,
+      61.143567
+    ]
+  },
+  "properties": {
+    "name": "T'Kishla Peak",
+    "latitude": 61.143567,
+    "longitude": -149.555511,
+    "feet": 5230,
+    "meters": 1594,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
