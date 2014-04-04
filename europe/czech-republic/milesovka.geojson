@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.931565,
+      50.555079
+    ]
+  },
+  "properties": {
+    "name": "Milesovka",
+    "latitude": 50.555079,
+    "longitude": 13.931565,
+    "feet": 2746,
+    "meters": 837,
+    "continent": "Europe",
+    "country": "Czech Republic"
+  }
+}
