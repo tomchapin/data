@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.589427,
+      47.495545
+    ]
+  },
+  "properties": {
+    "name": "Russian Butte",
+    "latitude": 47.495545,
+    "longitude": -121.589427,
+    "feet": 5123,
+    "meters": 1561,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
