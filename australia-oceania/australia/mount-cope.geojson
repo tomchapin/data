@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.27683,
+      -36.933685
+    ]
+  },
+  "properties": {
+    "name": "Mount Cope",
+    "latitude": -36.933685,
+    "longitude": 147.27683,
+    "feet": 6027,
+    "meters": 1837,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
