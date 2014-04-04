@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3225,
+      44.2556
+    ]
+  },
+  "properties": {
+    "name": "Mount Monroe",
+    "latitude": 44.2556,
+    "longitude": -71.3225,
+    "feet": 5384,
+    "meters": 1641,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
