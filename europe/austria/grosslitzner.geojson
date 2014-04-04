@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grosslitzner",
+    "feet": 10200,
+    "meters": 3109,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
