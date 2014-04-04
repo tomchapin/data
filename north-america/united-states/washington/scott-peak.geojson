@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.414,
+      47.9172
+    ]
+  },
+  "properties": {
+    "name": "Scott Peak",
+    "latitude": 47.9172,
+    "longitude": -121.414,
+    "feet": 5288,
+    "meters": 1612,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
