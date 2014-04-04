@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.443402,
+      37.828701
+    ]
+  },
+  "properties": {
+    "name": "Tenaya Peak",
+    "latitude": 37.828701,
+    "longitude": -119.443402,
+    "feet": 10280,
+    "meters": 3133,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
