@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.19414,
+      54.4649
+    ]
+  },
+  "properties": {
+    "name": "Great End",
+    "latitude": 54.4649,
+    "longitude": -3.19414,
+    "feet": 2985,
+    "meters": 910,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
