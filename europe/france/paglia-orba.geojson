@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.878927,
+      42.343257
+    ]
+  },
+  "properties": {
+    "name": "Paglia Orba",
+    "latitude": 42.343257,
+    "longitude": 8.878927,
+    "feet": 8284,
+    "meters": 2525,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
