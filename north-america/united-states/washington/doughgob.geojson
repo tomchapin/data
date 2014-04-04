@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.992281,
+      47.700608
+    ]
+  },
+  "properties": {
+    "name": "Doughgob",
+    "latitude": 47.700608,
+    "longitude": -120.992281,
+    "feet": 6172,
+    "meters": 1881,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
