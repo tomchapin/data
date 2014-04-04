@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Oldenhorn",
+    "feet": 10243,
+    "meters": 3122,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
