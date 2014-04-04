@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.246,
+      37.9494
+    ]
+  },
+  "properties": {
+    "name": "Tioga Peak",
+    "latitude": 37.9494,
+    "longitude": -119.246,
+    "feet": 11526,
+    "meters": 3513,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
