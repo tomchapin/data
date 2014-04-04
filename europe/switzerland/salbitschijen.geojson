@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.530831,
+      46.675888
+    ]
+  },
+  "properties": {
+    "name": "Salbitschijen",
+    "latitude": 46.675888,
+    "longitude": 8.530831,
+    "feet": 9780,
+    "meters": 2981,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
