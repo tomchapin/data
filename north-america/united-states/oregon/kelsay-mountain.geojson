@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.184479,
+      43.348735
+    ]
+  },
+  "properties": {
+    "name": "Kelsay Mountain",
+    "latitude": 43.348735,
+    "longitude": -122.184479,
+    "feet": 5974,
+    "meters": 1821,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
