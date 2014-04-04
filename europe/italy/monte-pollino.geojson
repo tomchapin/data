@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Pollino",
+    "feet": 7375,
+    "meters": 2248,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
