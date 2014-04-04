@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -152.743056,
+      60.485278
+    ]
+  },
+  "properties": {
+    "name": "Mt. Redoubt",
+    "latitude": 60.485278,
+    "longitude": -152.743056,
+    "feet": 10197,
+    "meters": 3108,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
