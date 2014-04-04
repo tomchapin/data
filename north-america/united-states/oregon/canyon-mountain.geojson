@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.67418,
+      45.601035
+    ]
+  },
+  "properties": {
+    "name": "Canyon Mountain",
+    "latitude": 45.601035,
+    "longitude": -110.67418,
+    "feet": 7999,
+    "meters": 2438,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
