@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.7167,
+      -21.2333
+    ]
+  },
+  "properties": {
+    "name": "Piton de la Fournaise",
+    "latitude": -21.2333,
+    "longitude": 55.7167,
+    "feet": 8631,
+    "meters": 2631,
+    "continent": "Africa",
+    "country": "Reunion"
+  }
+}
