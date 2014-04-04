@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Canin",
+    "feet": 8481,
+    "meters": 2585,
+    "continent": "Europe",
+    "country": "Italy/Slovenia"
+  }
+}
