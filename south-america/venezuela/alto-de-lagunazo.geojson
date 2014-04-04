@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.207441,
+      10.423394
+    ]
+  },
+  "properties": {
+    "name": "Alto de Lagunazo",
+    "latitude": 10.423394,
+    "longitude": -67.207441,
+    "feet": 7694,
+    "meters": 2345,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
