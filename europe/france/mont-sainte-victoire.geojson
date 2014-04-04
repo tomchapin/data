@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Sainte Victoire",
+    "feet": 3317,
+    "meters": 1011,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
