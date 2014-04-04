@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.937737,
+      10.3625
+    ]
+  },
+  "properties": {
+    "name": "Pico Caobal",
+    "latitude": 10.3625,
+    "longitude": -67.937737,
+    "feet": 6542,
+    "meters": 2004,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
