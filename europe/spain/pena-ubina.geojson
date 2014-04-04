@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.956993,
+      43.018455
+    ]
+  },
+  "properties": {
+    "name": "Peña Ubiña",
+    "latitude": 43.018455,
+    "longitude": -5.956993,
+    "feet": 7930,
+    "meters": 2417,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
