@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.307106,
+      51.376924
+    ]
+  },
+  "properties": {
+    "name": "Mount Victoria",
+    "latitude": 51.376924,
+    "longitude": -116.307106,
+    "feet": 11365,
+    "meters": 3464,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
