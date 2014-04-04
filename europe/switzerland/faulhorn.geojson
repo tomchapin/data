@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.999506,
+      46.674795
+    ]
+  },
+  "properties": {
+    "name": "Faulhorn",
+    "latitude": 46.674795,
+    "longitude": 7.999506,
+    "feet": 8796,
+    "meters": 2681,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
