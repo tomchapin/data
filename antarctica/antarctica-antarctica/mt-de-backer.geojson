@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.69186,
+      -71.84597
+    ]
+  },
+  "properties": {
+    "name": "Mt De Backer",
+    "latitude": -71.84597,
+    "longitude": 24.69186,
+    "feet": 5564,
+    "meters": 1696,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
