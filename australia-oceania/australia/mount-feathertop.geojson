@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Feathertop",
+    "feet": 6306,
+    "meters": 1922,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
