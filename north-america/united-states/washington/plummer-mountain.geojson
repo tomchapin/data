@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.972047,
+      48.207001
+    ]
+  },
+  "properties": {
+    "name": "Plummer Mountain",
+    "latitude": 48.207001,
+    "longitude": -120.972047,
+    "feet": 7870,
+    "meters": 2399,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
