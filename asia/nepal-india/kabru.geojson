@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kabru",
+    "feet": 24005,
+    "meters": 7317,
+    "continent": "Asia",
+    "country": "Nepal/India"
+  }
+}
