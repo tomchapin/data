@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.935,
+      47.6839
+    ]
+  },
+  "properties": {
+    "name": "Snowgrass",
+    "latitude": 47.6839,
+    "longitude": -120.935,
+    "feet": 7993,
+    "meters": 2436,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
