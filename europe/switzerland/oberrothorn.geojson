@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.8194,
+      46.0185
+    ]
+  },
+  "properties": {
+    "name": "Oberrothorn",
+    "latitude": 46.0185,
+    "longitude": 7.8194,
+    "feet": 11204,
+    "meters": 3415,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
