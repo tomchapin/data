@@ -14,6 +14,8 @@
     "feet": 23559,
     "meters": 7181,
     "continent": "Asia",
-    "country": "China"
+    "country": "China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
