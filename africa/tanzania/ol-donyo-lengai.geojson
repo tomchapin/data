@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ol'donyo Lengai",
+    "feet": 9500,
+    "meters": 2896,
+    "continent": "Africa",
+    "country": "Tanzania"
+  }
+}
