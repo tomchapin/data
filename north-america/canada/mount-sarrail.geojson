@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.167532,
+      50.58013
+    ]
+  },
+  "properties": {
+    "name": "Mount Sarrail",
+    "latitude": 50.58013,
+    "longitude": -115.167532,
+    "feet": 10411,
+    "meters": 3173,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
