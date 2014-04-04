@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.525452,
+      45.051453
+    ]
+  },
+  "properties": {
+    "name": "Mount Rearguard",
+    "latitude": 45.051453,
+    "longitude": -109.525452,
+    "feet": 12204,
+    "meters": 3720,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
