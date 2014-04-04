@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ruminahui Norte",
+    "feet": 15492,
+    "meters": 4722,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
