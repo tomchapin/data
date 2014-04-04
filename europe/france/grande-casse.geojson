@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grande Casse",
+    "feet": 12638,
+    "meters": 3852,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
