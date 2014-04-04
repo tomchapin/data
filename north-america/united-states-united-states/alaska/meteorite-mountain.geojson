@@ -13,6 +13,8 @@
     "meters": 2001,
     "continent": "North America",
     "country": "United States/United States",
-    "state": "Alaska"
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
