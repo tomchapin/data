@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.447692,
+      -32.003017
+    ]
+  },
+  "properties": {
+    "name": "Brumlow Top",
+    "latitude": -32.003017,
+    "longitude": 151.447692,
+    "feet": 5203,
+    "meters": 1586,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
