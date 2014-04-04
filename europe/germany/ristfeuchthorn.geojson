@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.783022,
+      47.695321
+    ]
+  },
+  "properties": {
+    "name": "Ristfeuchthorn",
+    "latitude": 47.695321,
+    "longitude": 12.783022,
+    "feet": 5136,
+    "meters": 1565,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
