@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.077389,
+      41.021111
+    ]
+  },
+  "properties": {
+    "name": "Pilot Peak",
+    "latitude": 41.021111,
+    "longitude": -114.077389,
+    "feet": 10720,
+    "meters": 3267,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nevada"
+  }
+}
