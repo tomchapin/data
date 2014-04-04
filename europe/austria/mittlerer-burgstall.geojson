@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3312,
+      46.6433
+    ]
+  },
+  "properties": {
+    "name": "Mittlerer Burgstall",
+    "latitude": 46.6433,
+    "longitude": 12.3312,
+    "feet": 9622,
+    "meters": 2933,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
