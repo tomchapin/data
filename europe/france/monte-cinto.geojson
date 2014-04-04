@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Cinto",
+    "feet": 8878,
+    "meters": 2706,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
