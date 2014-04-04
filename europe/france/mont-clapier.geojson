@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.38333,
+      44.1333
+    ]
+  },
+  "properties": {
+    "name": "Mont Clapier",
+    "latitude": 44.1333,
+    "longitude": 7.38333,
+    "feet": 9990,
+    "meters": 3045,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
