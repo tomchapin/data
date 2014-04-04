@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "The brack",
+    "feet": 2582,
+    "meters": 787,
+    "continent": "Europe",
+    "country": "United Kingdom/United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
