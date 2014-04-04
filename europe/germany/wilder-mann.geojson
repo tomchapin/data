@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.280328,
+      47.288137
+    ]
+  },
+  "properties": {
+    "name": "Wilder Mann",
+    "latitude": 47.288137,
+    "longitude": 10.280328,
+    "feet": 8455,
+    "meters": 2577,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
