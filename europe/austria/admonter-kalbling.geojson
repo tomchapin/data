@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5167,
+      47.5333
+    ]
+  },
+  "properties": {
+    "name": "Admonter Kalbling",
+    "latitude": 47.5333,
+    "longitude": 14.5167,
+    "feet": 7205,
+    "meters": 2196,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
