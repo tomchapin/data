@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.832096,
+      43.180271
+    ]
+  },
+  "properties": {
+    "name": "Naranjo de Bulnes",
+    "latitude": 43.180271,
+    "longitude": -4.832096,
+    "feet": 8264,
+    "meters": 2519,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
