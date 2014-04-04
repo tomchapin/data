@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.2132,
+      41.4543
+    ]
+  },
+  "properties": {
+    "name": "Ubava",
+    "latitude": 41.4543,
+    "longitude": 21.2132,
+    "feet": 7726,
+    "meters": 2355,
+    "continent": "Europe",
+    "country": "Macedonia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
