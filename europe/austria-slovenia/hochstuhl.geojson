@@ -14,6 +14,8 @@
     "feet": 7336,
     "meters": 2236,
     "continent": "Europe",
-    "country": "Austria/Slovenia"
+    "country": "Austria/Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
