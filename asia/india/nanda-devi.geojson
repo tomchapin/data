@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.9667,
+      30.3833
+    ]
+  },
+  "properties": {
+    "name": "Nanda Devi",
+    "latitude": 30.3833,
+    "longitude": 79.9667,
+    "feet": 25645,
+    "meters": 7817,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
