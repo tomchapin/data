@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.3165,
+      54.5543
+    ]
+  },
+  "properties": {
+    "name": "Melbreak",
+    "latitude": 54.5543,
+    "longitude": -3.3165,
+    "feet": 1679,
+    "meters": 512,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
