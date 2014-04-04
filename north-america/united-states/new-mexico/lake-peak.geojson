@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.771,
+      35.7964
+    ]
+  },
+  "properties": {
+    "name": "Lake Peak",
+    "latitude": 35.7964,
+    "longitude": -105.771,
+    "feet": 12404,
+    "meters": 3781,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
