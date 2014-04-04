@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.4,
+      -9.41667
+    ]
+  },
+  "properties": {
+    "name": "Ranrapalca",
+    "latitude": -9.41667,
+    "longitude": -77.4,
+    "feet": 20216,
+    "meters": 6162,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
