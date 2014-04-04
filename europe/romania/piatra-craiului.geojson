@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piatra Craiului",
+    "feet": 7362,
+    "meters": 2244,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
