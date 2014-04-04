@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ramaceto",
+    "feet": 4413,
+    "meters": 1345,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
