@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tahtali Dagi",
+    "feet": 7759,
+    "meters": 2365,
+    "continent": "Asia",
+    "country": "Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
