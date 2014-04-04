@@ -14,6 +14,8 @@
     "feet": 4147,
     "meters": 1264,
     "continent": "Asia",
-    "country": "Afghanistan"
+    "country": "Afghanistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
