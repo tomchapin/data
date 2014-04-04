@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Koksidon Spitze",
+    "feet": 10892,
+    "meters": 3320,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
