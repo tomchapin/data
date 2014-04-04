@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      46.25,
+      35.03
+    ]
+  },
+  "properties": {
+    "name": "Shaho",
+    "latitude": 35.03,
+    "longitude": 46.25,
+    "feet": 11122,
+    "meters": 3390,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
