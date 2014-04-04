@@ -12,6 +12,8 @@
     "feet": 6627,
     "meters": 2020,
     "continent": "South America",
-    "country": "Argentina"
+    "country": "Argentina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
