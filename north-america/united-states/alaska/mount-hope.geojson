@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -141.0614,
+      60.7036
+    ]
+  },
+  "properties": {
+    "name": "Mount Hope",
+    "latitude": 60.7036,
+    "longitude": -141.0614,
+    "feet": 12200,
+    "meters": 3719,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
