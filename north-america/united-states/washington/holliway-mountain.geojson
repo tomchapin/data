@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.7301,
+      48.6171
+    ]
+  },
+  "properties": {
+    "name": "Holliway Mountain",
+    "latitude": 48.6171,
+    "longitude": -120.7301,
+    "feet": 8020,
+    "meters": 2444,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
