@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hit Me",
+    "feet": 4480,
+    "meters": 1366,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
