@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.51569,
+      46.34323
+    ]
+  },
+  "properties": {
+    "name": "Corno dei Tre Signori",
+    "latitude": 46.34323,
+    "longitude": 10.51569,
+    "feet": 11024,
+    "meters": 3360,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
