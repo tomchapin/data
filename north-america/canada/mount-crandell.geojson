@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.927622,
+      49.077296
+    ]
+  },
+  "properties": {
+    "name": "Mount Crandell",
+    "latitude": 49.077296,
+    "longitude": -113.927622,
+    "feet": 7812,
+    "meters": 2381,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
