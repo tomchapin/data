@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.435506,
+      46.015069
+    ]
+  },
+  "properties": {
+    "name": "Ago di Tredenus",
+    "latitude": 46.015069,
+    "longitude": 10.435506,
+    "feet": 9022,
+    "meters": 2750,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
