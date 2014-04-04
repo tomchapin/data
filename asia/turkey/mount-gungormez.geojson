@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.7833,
+      39.6667
+    ]
+  },
+  "properties": {
+    "name": "Mount Güngörmez",
+    "latitude": 39.6667,
+    "longitude": 36.7833,
+    "feet": 11614,
+    "meters": 3540,
+    "continent": "Asia",
+    "country": "Turkey"
+  }
+}
