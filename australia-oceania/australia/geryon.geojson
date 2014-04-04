@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.05,
+      -41.9
+    ]
+  },
+  "properties": {
+    "name": "Geryon",
+    "latitude": -41.9,
+    "longitude": 146.05,
+    "feet": 4951,
+    "meters": 1509,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
