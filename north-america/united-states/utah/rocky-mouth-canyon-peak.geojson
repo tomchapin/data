@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rocky Mouth Canyon Peak",
+    "feet": 10292,
+    "meters": 3137,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
