@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.083448,
+      -18.416397
+    ]
+  },
+  "properties": {
+    "name": "Guallatiri",
+    "latitude": -18.416397,
+    "longitude": -69.083448,
+    "feet": 19888,
+    "meters": 6063,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
