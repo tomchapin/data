@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.078454,
+      47.496038
+    ]
+  },
+  "properties": {
+    "name": "Hochgrat",
+    "latitude": 47.496038,
+    "longitude": 10.078454,
+    "feet": 6010,
+    "meters": 1832,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
