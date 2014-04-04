@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.092,
+      50.7533
+    ]
+  },
+  "properties": {
+    "name": "Mount Packenham",
+    "latitude": 50.7533,
+    "longitude": -115.092,
+    "feet": 9843,
+    "meters": 3000,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
