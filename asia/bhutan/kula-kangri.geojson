@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      90.6,
+      28.2333
+    ]
+  },
+  "properties": {
+    "name": "Kula Kangri",
+    "latitude": 28.2333,
+    "longitude": 90.6,
+    "feet": 24731,
+    "meters": 7538,
+    "continent": "Asia",
+    "country": "Bhutan"
+  }
+}
