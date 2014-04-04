@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.852154,
+      39.805635
+    ]
+  },
+  "properties": {
+    "name": "Puig de Massanella",
+    "latitude": 39.805635,
+    "longitude": 2.852154,
+    "feet": 4475,
+    "meters": 1364,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
