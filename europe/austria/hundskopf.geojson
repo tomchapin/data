@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.558333,
+      47.341111
+    ]
+  },
+  "properties": {
+    "name": "Hundskopf",
+    "latitude": 47.341111,
+    "longitude": 11.558333,
+    "feet": 7358,
+    "meters": 2243,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
