@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.54439,
+      46.50776
+    ]
+  },
+  "properties": {
+    "name": "Ortler (Ortles)",
+    "latitude": 46.50776,
+    "longitude": 10.54439,
+    "feet": 12812,
+    "meters": 3905,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
