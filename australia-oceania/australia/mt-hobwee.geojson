@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.207577,
+      -28.253264
+    ]
+  },
+  "properties": {
+    "name": "Mt Hobwee",
+    "latitude": -28.253264,
+    "longitude": 153.207577,
+    "feet": 3855,
+    "meters": 1175,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
