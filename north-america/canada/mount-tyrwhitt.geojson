@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.015,
+      50.582
+    ]
+  },
+  "properties": {
+    "name": "Mount Tyrwhitt",
+    "latitude": 50.582,
+    "longitude": -115.015,
+    "feet": 9429,
+    "meters": 2874,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
