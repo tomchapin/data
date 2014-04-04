@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.786626,
+      44.082992
+    ]
+  },
+  "properties": {
+    "name": "Dix",
+    "latitude": 44.082992,
+    "longitude": -73.786626,
+    "feet": 4856,
+    "meters": 1480,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
