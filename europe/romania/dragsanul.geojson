@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Dragsanul",
+    "feet": 6825,
+    "meters": 2080,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
