@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.271682,
+      47.616926
+    ]
+  },
+  "properties": {
+    "name": "Bald Eagle",
+    "latitude": 47.616926,
+    "longitude": -121.271682,
+    "feet": 6241,
+    "meters": 1902,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
