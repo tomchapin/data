@@ -14,6 +14,8 @@
     "feet": 3314,
     "meters": 1010,
     "continent": "Europe",
-    "country": "Ireland/Ireland"
+    "country": "Ireland/Ireland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
