@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.3,
+      -9.53333
+    ]
+  },
+  "properties": {
+    "name": "Huantsan",
+    "latitude": -9.53333,
+    "longitude": -77.3,
+    "feet": 20981,
+    "meters": 6395,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
