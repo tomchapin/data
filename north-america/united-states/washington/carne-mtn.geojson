@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.803,
+      48.0881
+    ]
+  },
+  "properties": {
+    "name": "Carne Mtn",
+    "latitude": 48.0881,
+    "longitude": -120.803,
+    "feet": 7085,
+    "meters": 2160,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
