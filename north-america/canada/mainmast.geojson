@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.321,
+      50.9823
+    ]
+  },
+  "properties": {
+    "name": "Mainmast",
+    "latitude": 50.9823,
+    "longitude": -117.321,
+    "feet": 9200,
+    "meters": 2804,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
