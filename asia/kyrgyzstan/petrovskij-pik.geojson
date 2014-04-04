@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Petrovskij Pik",
+    "feet": 15420,
+    "meters": 4700,
+    "continent": "Asia",
+    "country": "Kyrgyzstan"
+  }
+}
