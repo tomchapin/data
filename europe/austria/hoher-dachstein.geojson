@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hoher Dachstein",
+    "feet": 9829,
+    "meters": 2996,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
