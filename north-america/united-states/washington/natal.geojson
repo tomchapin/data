@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86978,
+      48.53077
+    ]
+  },
+  "properties": {
+    "name": "Natal",
+    "latitude": 48.53077,
+    "longitude": -120.86978,
+    "feet": 7800,
+    "meters": 2377,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
