@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Bushby",
+    "feet": 6890,
+    "meters": 2100,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
