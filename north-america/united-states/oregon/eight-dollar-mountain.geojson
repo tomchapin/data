@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.661,
+      42.2581
+    ]
+  },
+  "properties": {
+    "name": "Eight Dollar Mountain",
+    "latitude": 42.2581,
+    "longitude": -123.661,
+    "feet": 4001,
+    "meters": 1220,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
