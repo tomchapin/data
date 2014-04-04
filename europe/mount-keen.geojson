@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Keen",
+    "feet": 3081,
+    "meters": 939,
+    "continent": "Europe"
+  }
+}
