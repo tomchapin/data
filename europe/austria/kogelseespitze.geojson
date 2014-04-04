@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kogelseespitze",
+    "feet": 8684,
+    "meters": 2647,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
