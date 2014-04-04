@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.275276,
+      52.349497
+    ]
+  },
+  "properties": {
+    "name": "Sunwapta Peak",
+    "latitude": 52.349497,
+    "longitude": -117.275276,
+    "feet": 10876,
+    "meters": 3315,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
