@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.167,
+      2.75
+    ]
+  },
+  "properties": {
+    "name": "Gunung Angsi",
+    "latitude": 2.75,
+    "longitude": 102.167,
+    "feet": 2707,
+    "meters": 825,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
