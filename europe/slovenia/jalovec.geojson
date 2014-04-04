@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.6333,
+      46.2934
+    ]
+  },
+  "properties": {
+    "name": "Jalovec",
+    "latitude": 46.2934,
+    "longitude": 19.6333,
+    "feet": 8678,
+    "meters": 2645,
+    "continent": "Europe",
+    "country": "Slovenia"
+  }
+}
