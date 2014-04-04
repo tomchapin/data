@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.767,
+      51.8917
+    ]
+  },
+  "properties": {
+    "name": "Mount Sarbach",
+    "latitude": 51.8917,
+    "longitude": -116.767,
+    "feet": 10351,
+    "meters": 3155,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
