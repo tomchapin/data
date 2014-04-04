@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pian Della Regina",
+    "feet": 8622,
+    "meters": 2628,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
