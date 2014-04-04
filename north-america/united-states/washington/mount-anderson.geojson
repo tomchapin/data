@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.331562,
+      47.721201
+    ]
+  },
+  "properties": {
+    "name": "Mount Anderson",
+    "latitude": 47.721201,
+    "longitude": -123.331562,
+    "feet": 7321,
+    "meters": 2231,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
