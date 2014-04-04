@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.64006,
+      19.198594
+    ]
+  },
+  "properties": {
+    "name": "Téyotl",
+    "latitude": 19.198594,
+    "longitude": -98.64006,
+    "feet": 15289,
+    "meters": 4660,
+    "continent": "North America",
+    "country": "Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
