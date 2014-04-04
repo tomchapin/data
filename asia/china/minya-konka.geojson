@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.883,
+      29.5667
+    ]
+  },
+  "properties": {
+    "name": "Minya Konka",
+    "latitude": 29.5667,
+    "longitude": 101.883,
+    "feet": 24790,
+    "meters": 7556,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
