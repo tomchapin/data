@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55,
+      61.65
+    ]
+  },
+  "properties": {
+    "name": "Glittertind",
+    "latitude": 61.65,
+    "longitude": 8.55,
+    "feet": 8084,
+    "meters": 2464,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
