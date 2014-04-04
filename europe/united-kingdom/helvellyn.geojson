@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.01752,
+      54.527
+    ]
+  },
+  "properties": {
+    "name": "Helvellyn",
+    "latitude": 54.527,
+    "longitude": -3.01752,
+    "feet": 3117,
+    "meters": 950,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
