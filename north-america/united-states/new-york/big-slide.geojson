@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.870611,
+      44.182635
+    ]
+  },
+  "properties": {
+    "name": "Big slide",
+    "latitude": 44.182635,
+    "longitude": -73.870611,
+    "feet": 4239,
+    "meters": 1292,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
