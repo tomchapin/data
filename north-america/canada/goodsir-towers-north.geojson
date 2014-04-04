@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.414394,
+      51.210432
+    ]
+  },
+  "properties": {
+    "name": "Goodsir Towers North",
+    "latitude": 51.210432,
+    "longitude": -116.414394,
+    "feet": 11565,
+    "meters": 3525,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
