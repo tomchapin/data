@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.505117,
+      51.684796
+    ]
+  },
+  "properties": {
+    "name": "Mount Jimmy Simpson",
+    "latitude": 51.684796,
+    "longitude": -116.505117,
+    "feet": 9700,
+    "meters": 2957,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
