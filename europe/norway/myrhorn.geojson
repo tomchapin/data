@@ -12,6 +12,8 @@
     "feet": 4751,
     "meters": 1448,
     "continent": "Europe",
-    "country": "Norway"
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
