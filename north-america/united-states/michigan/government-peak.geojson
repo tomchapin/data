@@ -13,6 +13,8 @@
     "meters": 564,
     "continent": "North America",
     "country": "United States",
-    "state": "Michigan"
+    "state": "Michigan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
