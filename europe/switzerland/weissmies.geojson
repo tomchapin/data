@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.011944,
+      46.127778
+    ]
+  },
+  "properties": {
+    "name": "Weissmies",
+    "latitude": 46.127778,
+    "longitude": 8.011944,
+    "feet": 13199,
+    "meters": 4023,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
