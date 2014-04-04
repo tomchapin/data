@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.652,
+      43.7619
+    ]
+  },
+  "properties": {
+    "name": "Norton Peak",
+    "latitude": 43.7619,
+    "longitude": -114.652,
+    "feet": 10336,
+    "meters": 3150,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Idaho"
+  }
+}
