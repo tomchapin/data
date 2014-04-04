@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.854381,
+      9.976497
+    ]
+  },
+  "properties": {
+    "name": "Volcan Irazu",
+    "latitude": 9.976497,
+    "longitude": -83.854381,
+    "feet": 11260,
+    "meters": 3432,
+    "continent": "North America",
+    "country": "Costa Rica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
