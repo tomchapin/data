@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.074962,
+      44.688259
+    ]
+  },
+  "properties": {
+    "name": "Roma (Punta)",
+    "latitude": 44.688259,
+    "longitude": 7.074962,
+    "feet": 10072,
+    "meters": 3070,
+    "continent": "Europe",
+    "country": "Italy/France"
+  }
+}
