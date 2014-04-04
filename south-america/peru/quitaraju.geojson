@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.665272,
+      -8.89847
+    ]
+  },
+  "properties": {
+    "name": "Quitaraju",
+    "latitude": -8.89847,
+    "longitude": -77.665272,
+    "feet": 19816,
+    "meters": 6040,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
