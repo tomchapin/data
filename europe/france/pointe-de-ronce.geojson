@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pointe De Ronce",
+    "feet": 11847,
+    "meters": 3611,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
