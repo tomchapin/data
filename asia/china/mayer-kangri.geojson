@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.0,
+      33.4667
+    ]
+  },
+  "properties": {
+    "name": "Mayer Kangri",
+    "latitude": 33.4667,
+    "longitude": 86.0,
+    "feet": 20545,
+    "meters": 6262,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
