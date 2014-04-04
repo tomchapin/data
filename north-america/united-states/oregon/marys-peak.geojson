@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.551217,
+      44.504287
+    ]
+  },
+  "properties": {
+    "name": "Marys Peak",
+    "latitude": 44.504287,
+    "longitude": -123.551217,
+    "feet": 4097,
+    "meters": 1249,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
