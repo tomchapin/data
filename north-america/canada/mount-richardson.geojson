@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.121626,
+      51.495011
+    ]
+  },
+  "properties": {
+    "name": "Mount Richardson",
+    "latitude": 51.495011,
+    "longitude": -116.121626,
+    "feet": 10125,
+    "meters": 3086,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
