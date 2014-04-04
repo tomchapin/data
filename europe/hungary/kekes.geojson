@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.009408,
+      47.872518
+    ]
+  },
+  "properties": {
+    "name": "Kekes",
+    "latitude": 47.872518,
+    "longitude": 20.009408,
+    "feet": 3330,
+    "meters": 1015,
+    "continent": "Europe",
+    "country": "Hungary"
+  }
+}
