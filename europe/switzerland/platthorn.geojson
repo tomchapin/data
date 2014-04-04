@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.736306,
+      46.053607
+    ]
+  },
+  "properties": {
+    "name": "Platthorn",
+    "latitude": 46.053607,
+    "longitude": 7.736306,
+    "feet": 10974,
+    "meters": 3345,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
