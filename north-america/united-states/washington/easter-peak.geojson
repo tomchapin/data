@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Easter Peak",
+    "feet": 5326,
+    "meters": 1623,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
