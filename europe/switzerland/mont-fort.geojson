@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.318889,
+      46.080278
+    ]
+  },
+  "properties": {
+    "name": "Mont Fort",
+    "latitude": 46.080278,
+    "longitude": 7.318889,
+    "feet": 10919,
+    "meters": 3328,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
