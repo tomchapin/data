@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.011234,
+      -32.653359
+    ]
+  },
+  "properties": {
+    "name": "Aconcagua",
+    "latitude": -32.653359,
+    "longitude": -70.011234,
+    "feet": 22841,
+    "meters": 6962,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
