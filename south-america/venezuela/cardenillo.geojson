@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.001079,
+      8.602607
+    ]
+  },
+  "properties": {
+    "name": "Cardenillo",
+    "latitude": 8.602607,
+    "longitude": -71.001079,
+    "feet": 14678,
+    "meters": 4474,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
