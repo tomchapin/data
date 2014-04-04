@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.060195,
+      48.45414
+    ]
+  },
+  "properties": {
+    "name": "Mix-up Peak",
+    "latitude": 48.45414,
+    "longitude": -121.060195,
+    "feet": 7231,
+    "meters": 2204,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
