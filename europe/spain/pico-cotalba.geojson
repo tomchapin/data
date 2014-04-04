@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9653,
+      43.2753
+    ]
+  },
+  "properties": {
+    "name": "Pico Cotalba",
+    "latitude": 43.2753,
+    "longitude": -4.9653,
+    "feet": 6660,
+    "meters": 2030,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
