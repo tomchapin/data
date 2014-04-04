@@ -12,6 +12,8 @@
     "feet": 8533,
     "meters": 2601,
     "continent": "Europe",
-    "country": "Macedonia"
+    "country": "Macedonia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
