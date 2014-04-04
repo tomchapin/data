@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.044333,
+      44.180419
+    ]
+  },
+  "properties": {
+    "name": "Street mountain",
+    "latitude": 44.180419,
+    "longitude": -74.044333,
+    "feet": 4167,
+    "meters": 1270,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
