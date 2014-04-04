@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Petite Fourche",
+    "feet": 11384,
+    "meters": 3470,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
