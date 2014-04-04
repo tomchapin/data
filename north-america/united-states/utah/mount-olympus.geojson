@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.767,
+      40.65
+    ]
+  },
+  "properties": {
+    "name": "Mount Olympus",
+    "latitude": 40.65,
+    "longitude": -111.767,
+    "feet": 9026,
+    "meters": 2751,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
