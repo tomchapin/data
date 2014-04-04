@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.884226,
+      44.401786
+    ]
+  },
+  "properties": {
+    "name": "Hoodoo Butte",
+    "latitude": 44.401786,
+    "longitude": -121.884226,
+    "feet": 5702,
+    "meters": 1738,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
