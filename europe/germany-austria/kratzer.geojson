@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.321484,
+      47.306474
+    ]
+  },
+  "properties": {
+    "name": "Kratzer",
+    "latitude": 47.306474,
+    "longitude": 10.321484,
+    "feet": 7963,
+    "meters": 2427,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
