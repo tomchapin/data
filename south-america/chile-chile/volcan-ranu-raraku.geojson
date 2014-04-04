@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.283447,
+      -27.124245
+    ]
+  },
+  "properties": {
+    "name": "Volcan Ranu Raraku",
+    "latitude": -27.124245,
+    "longitude": -109.283447,
+    "feet": 820,
+    "meters": 250,
+    "continent": "South America",
+    "country": "Chile/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
