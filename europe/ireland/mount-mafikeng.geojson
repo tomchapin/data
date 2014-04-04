@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Mafikeng",
+    "feet": 492,
+    "meters": 150,
+    "continent": "Europe",
+    "country": "Ireland"
+  }
+}
