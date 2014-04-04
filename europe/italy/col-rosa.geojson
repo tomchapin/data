@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.097442,
+      46.586652
+    ]
+  },
+  "properties": {
+    "name": "Col Rosà",
+    "latitude": 46.586652,
+    "longitude": 12.097442,
+    "feet": 7106,
+    "meters": 2166,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
