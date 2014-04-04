@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.168495,
+      49.187538
+    ]
+  },
+  "properties": {
+    "name": "Javorovy Stit",
+    "latitude": 49.187538,
+    "longitude": 20.168495,
+    "feet": 7930,
+    "meters": 2417,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
