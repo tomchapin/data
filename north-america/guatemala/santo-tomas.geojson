@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Santo Tomas",
+    "feet": 11499,
+    "meters": 3505,
+    "continent": "North America",
+    "country": "Guatemala"
+  }
+}
