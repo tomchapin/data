@@ -13,6 +13,8 @@
     "meters": 2834,
     "continent": "North America",
     "country": "United States",
-    "state": "Arizona"
+    "state": "Arizona",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
