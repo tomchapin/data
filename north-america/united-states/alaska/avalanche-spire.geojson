@@ -13,6 +13,8 @@
     "meters": 2905,
     "continent": "North America",
     "country": "United States",
-    "state": "Alaska"
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
