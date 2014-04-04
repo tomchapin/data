@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3864,
+      46.36159
+    ]
+  },
+  "properties": {
+    "name": "Monte Giove",
+    "latitude": 46.36159,
+    "longitude": 8.3864,
+    "feet": 9872,
+    "meters": 3009,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
