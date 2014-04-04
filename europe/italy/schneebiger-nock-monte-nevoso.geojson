@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.096441,
+      46.899529
+    ]
+  },
+  "properties": {
+    "name": "Schneebiger Nock (Monte Nevoso)",
+    "latitude": 46.899529,
+    "longitude": 12.096441,
+    "feet": 11017,
+    "meters": 3358,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
