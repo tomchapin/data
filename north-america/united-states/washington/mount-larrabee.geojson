@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.648195,
+      48.979016
+    ]
+  },
+  "properties": {
+    "name": "Mount Larrabee",
+    "latitude": 48.979016,
+    "longitude": -121.648195,
+    "feet": 7861,
+    "meters": 2398,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
