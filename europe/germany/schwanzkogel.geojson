@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Schwanzkogel",
+    "feet": 6079,
+    "meters": 1853,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
