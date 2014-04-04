@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.75,
+      35.2167
+    ]
+  },
+  "properties": {
+    "name": "Psiloreitis",
+    "latitude": 35.2167,
+    "longitude": 24.75,
+    "feet": 8058,
+    "meters": 2456,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
