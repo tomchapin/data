@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.370312,
+      -44.866333
+    ]
+  },
+  "properties": {
+    "name": "Mount Domett",
+    "latitude": -44.866333,
+    "longitude": 170.370312,
+    "feet": 6350,
+    "meters": 1935,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
