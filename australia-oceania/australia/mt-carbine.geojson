@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.272257,
+      -16.422226
+    ]
+  },
+  "properties": {
+    "name": "Mt Carbine",
+    "latitude": -16.422226,
+    "longitude": 145.272257,
+    "feet": 4521,
+    "meters": 1378,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
