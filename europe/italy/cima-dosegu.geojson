@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.557163,
+      46.382914
+    ]
+  },
+  "properties": {
+    "name": "Cima Dosegu",
+    "latitude": 46.382914,
+    "longitude": 10.557163,
+    "feet": 11680,
+    "meters": 3560,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
