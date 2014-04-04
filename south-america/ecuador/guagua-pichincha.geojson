@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.598766,
+      -0.177068
+    ]
+  },
+  "properties": {
+    "name": "Guagua Pichincha",
+    "latitude": -0.177068,
+    "longitude": -78.598766,
+    "feet": 15695,
+    "meters": 4784,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
