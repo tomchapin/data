@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.66,
+      35.3231
+    ]
+  },
+  "properties": {
+    "name": "Fremont Peak",
+    "latitude": 35.3231,
+    "longitude": -111.66,
+    "feet": 11969,
+    "meters": 3648,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
