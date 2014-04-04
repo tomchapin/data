@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.00201,
+      43.12667
+    ]
+  },
+  "properties": {
+    "name": "Prutaš",
+    "latitude": 43.12667,
+    "longitude": 19.00201,
+    "feet": 7851,
+    "meters": 2393,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
