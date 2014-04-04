@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.183,
+      -4.08333
+    ]
+  },
+  "properties": {
+    "name": "Puncak Jaya",
+    "latitude": -4.08333,
+    "longitude": 137.183,
+    "feet": 16023,
+    "meters": 4884,
+    "continent": "Australia/Oceania",
+    "country": "Indonesia"
+  }
+}
