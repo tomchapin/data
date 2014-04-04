@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.803988,
+      48.137351
+    ]
+  },
+  "properties": {
+    "name": "Mount Maude",
+    "latitude": 48.137351,
+    "longitude": -120.803988,
+    "feet": 9082,
+    "meters": 2768,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
