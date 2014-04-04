@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.456944,
+      -0.915278
+    ]
+  },
+  "properties": {
+    "name": "Mount Longonot",
+    "latitude": -0.915278,
+    "longitude": 36.456944,
+    "feet": 9111,
+    "meters": 2777,
+    "continent": "Africa",
+    "country": "Kenya"
+  }
+}
