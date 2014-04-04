@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.517302,
+      42.693224
+    ]
+  },
+  "properties": {
+    "name": "Pic De Perdiguère",
+    "latitude": 42.693224,
+    "longitude": 0.517302,
+    "feet": 10571,
+    "meters": 3222,
+    "continent": "Europe",
+    "country": "France/Spain"
+  }
+}
