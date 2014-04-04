@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Aiguille Du Midi",
+    "feet": 12605,
+    "meters": 3842,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
