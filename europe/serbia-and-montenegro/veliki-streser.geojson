@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.16,
+      42.37
+    ]
+  },
+  "properties": {
+    "name": "Veliki Streser",
+    "latitude": 42.37,
+    "longitude": 22.16,
+    "feet": 6152,
+    "meters": 1875,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
