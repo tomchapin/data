@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.75,
+      65.05
+    ]
+  },
+  "properties": {
+    "name": "Askja",
+    "latitude": 65.05,
+    "longitude": -16.75,
+    "feet": 4974,
+    "meters": 1516,
+    "continent": "Europe",
+    "country": "Iceland"
+  }
+}
