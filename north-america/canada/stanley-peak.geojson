@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.054163,
+      51.170249
+    ]
+  },
+  "properties": {
+    "name": "Stanley Peak",
+    "latitude": 51.170249,
+    "longitude": -116.054163,
+    "feet": 10351,
+    "meters": 3155,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
