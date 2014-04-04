@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.191,
+      27.3394
+    ]
+  },
+  "properties": {
+    "name": "Haba Xue Shan",
+    "latitude": 27.3394,
+    "longitude": 100.191,
+    "feet": 17703,
+    "meters": 5396,
+    "continent": "Asia",
+    "country": "China/China"
+  }
+}
