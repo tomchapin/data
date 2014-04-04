@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      71.9,
+      36.4333
+    ]
+  },
+  "properties": {
+    "name": "Noshaq",
+    "latitude": 36.4333,
+    "longitude": 71.9,
+    "feet": 24581,
+    "meters": 7492,
+    "continent": "Asia",
+    "country": "Afghanistan"
+  }
+}
