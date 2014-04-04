@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Lefka Ori",
+    "feet": 8045,
+    "meters": 2452,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
