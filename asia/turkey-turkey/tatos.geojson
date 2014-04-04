@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.0,
+      40.0
+    ]
+  },
+  "properties": {
+    "name": "Tatos",
+    "latitude": 40.0,
+    "longitude": 32.0,
+    "feet": 11919,
+    "meters": 3633,
+    "continent": "Asia",
+    "country": "Turkey/Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
