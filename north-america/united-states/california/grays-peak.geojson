@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.97123,
+      34.26101
+    ]
+  },
+  "properties": {
+    "name": "Grays Peak",
+    "latitude": 34.26101,
+    "longitude": -116.97123,
+    "feet": 7920,
+    "meters": 2414,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
