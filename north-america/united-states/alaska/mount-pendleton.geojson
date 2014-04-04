@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "mount pendleton",
+    "feet": 7840,
+    "meters": 2390,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
