@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.375959,
+      -18.123309
+    ]
+  },
+  "properties": {
+    "name": "Guane Guane",
+    "latitude": -18.123309,
+    "longitude": -69.375959,
+    "feet": 16719,
+    "meters": 5096,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
