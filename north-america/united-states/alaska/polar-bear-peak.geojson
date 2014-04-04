@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.196,
+      61.1528
+    ]
+  },
+  "properties": {
+    "name": "Polar Bear Peak",
+    "latitude": 61.1528,
+    "longitude": -149.196,
+    "feet": 6614,
+    "meters": 2016,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
