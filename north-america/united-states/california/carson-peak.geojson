@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.117,
+      37.75
+    ]
+  },
+  "properties": {
+    "name": "Carson Peak",
+    "latitude": 37.75,
+    "longitude": -119.117,
+    "feet": 10909,
+    "meters": 3325,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
