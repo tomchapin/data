@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.839361,
+      10.537602
+    ]
+  },
+  "properties": {
+    "name": "Pico Oriental",
+    "latitude": 10.537602,
+    "longitude": -66.839361,
+    "feet": 8661,
+    "meters": 2640,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
