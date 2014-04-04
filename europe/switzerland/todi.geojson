@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.9,
+      46.8
+    ]
+  },
+  "properties": {
+    "name": "Tödi",
+    "latitude": 46.8,
+    "longitude": 8.9,
+    "feet": 11857,
+    "meters": 3614,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
