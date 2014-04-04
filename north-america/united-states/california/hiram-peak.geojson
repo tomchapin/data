@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8,
+      38.4667
+    ]
+  },
+  "properties": {
+    "name": "Hiram Peak",
+    "latitude": 38.4667,
+    "longitude": -119.8,
+    "feet": 9795,
+    "meters": 2986,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
