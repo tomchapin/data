@@ -14,6 +14,8 @@
     "feet": 10732,
     "meters": 3271,
     "continent": "Asia",
-    "country": "Turkey"
+    "country": "Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
