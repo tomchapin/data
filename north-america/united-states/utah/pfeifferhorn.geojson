@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.7,
+      40.5333
+    ]
+  },
+  "properties": {
+    "name": "Pfeifferhorn",
+    "latitude": 40.5333,
+    "longitude": -111.7,
+    "feet": 11326,
+    "meters": 3452,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
