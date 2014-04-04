@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tarnica",
+    "feet": 4416,
+    "meters": 1346,
+    "continent": "Europe",
+    "country": "Poland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
