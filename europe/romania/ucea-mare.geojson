@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ucea Mare",
+    "feet": 7985,
+    "meters": 2434,
+    "continent": "Europe",
+    "country": "Romania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
