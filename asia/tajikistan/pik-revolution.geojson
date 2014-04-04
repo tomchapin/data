@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.3542,
+      38.5111
+    ]
+  },
+  "properties": {
+    "name": "Pik Revolution",
+    "latitude": 38.5111,
+    "longitude": 72.3542,
+    "feet": 22769,
+    "meters": 6940,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
