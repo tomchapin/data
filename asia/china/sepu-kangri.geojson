@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      94.3,
+      31.5167
+    ]
+  },
+  "properties": {
+    "name": "Sepu Kangri",
+    "latitude": 31.5167,
+    "longitude": 94.3,
+    "feet": 22949,
+    "meters": 6995,
+    "continent": "Asia",
+    "country": "China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
