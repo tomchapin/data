@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Porze",
+    "feet": 8497,
+    "meters": 2590,
+    "continent": "Europe",
+    "country": "Austria/Italy"
+  }
+}
