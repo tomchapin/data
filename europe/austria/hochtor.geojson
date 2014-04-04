@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hochtor",
+    "feet": 7772,
+    "meters": 2369,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
