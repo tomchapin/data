@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.49162,
+      46.21269
+    ]
+  },
+  "properties": {
+    "name": "Le Grammont",
+    "latitude": 46.21269,
+    "longitude": 6.49162,
+    "feet": 7126,
+    "meters": 2172,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
