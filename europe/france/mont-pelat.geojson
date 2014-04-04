@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Pelat",
+    "feet": 10007,
+    "meters": 3050,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
