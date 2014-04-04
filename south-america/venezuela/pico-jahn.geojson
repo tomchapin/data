@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Jahn",
+    "feet": 15748,
+    "meters": 4800,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
