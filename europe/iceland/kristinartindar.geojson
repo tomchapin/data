@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kristínartindar",
+    "feet": 3694,
+    "meters": 1126,
+    "continent": "Europe",
+    "country": "Iceland"
+  }
+}
