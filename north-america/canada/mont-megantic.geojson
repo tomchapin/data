@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.152525,
+      45.455736
+    ]
+  },
+  "properties": {
+    "name": "Mont Mégantic",
+    "latitude": 45.455736,
+    "longitude": -71.152525,
+    "feet": 3625,
+    "meters": 1105,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
