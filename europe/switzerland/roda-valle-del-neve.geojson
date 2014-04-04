@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Roda Valle Del Neve",
+    "feet": 3200,
+    "meters": 975,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
