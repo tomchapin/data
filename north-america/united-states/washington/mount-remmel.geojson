@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.196867,
+      48.92343
+    ]
+  },
+  "properties": {
+    "name": "Mount Remmel",
+    "latitude": 48.92343,
+    "longitude": -120.196867,
+    "feet": 8685,
+    "meters": 2647,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
