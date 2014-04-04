@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.45,
+      44.8667
+    ]
+  },
+  "properties": {
+    "name": "Echo Peak",
+    "latitude": 44.8667,
+    "longitude": -111.45,
+    "feet": 11214,
+    "meters": 3418,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
