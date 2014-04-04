@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.415899,
+      48.496019
+    ]
+  },
+  "properties": {
+    "name": "Rising Wolf Mountain",
+    "latitude": 48.496019,
+    "longitude": -113.415899,
+    "feet": 9513,
+    "meters": 2900,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
