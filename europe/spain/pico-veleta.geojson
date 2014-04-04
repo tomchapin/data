@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.36628,
+      37.056547
+    ]
+  },
+  "properties": {
+    "name": "Pico Veleta",
+    "latitude": 37.056547,
+    "longitude": -3.36628,
+    "feet": 11148,
+    "meters": 3398,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
