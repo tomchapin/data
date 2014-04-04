@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.234859,
+      36.604297
+    ]
+  },
+  "properties": {
+    "name": "Takhte Soleyman",
+    "latitude": 36.604297,
+    "longitude": 47.234859,
+    "feet": 4800,
+    "meters": 1463,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
