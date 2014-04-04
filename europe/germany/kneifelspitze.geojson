@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.016739,
+      47.657872
+    ]
+  },
+  "properties": {
+    "name": "Kneifelspitze",
+    "latitude": 47.657872,
+    "longitude": 13.016739,
+    "feet": 4000,
+    "meters": 1189,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
