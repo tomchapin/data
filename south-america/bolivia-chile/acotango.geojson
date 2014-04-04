@@ -14,6 +14,8 @@
     "feet": 19856,
     "meters": 6052,
     "continent": "South America",
-    "country": "Bolivia/Chile"
+    "country": "Bolivia/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
