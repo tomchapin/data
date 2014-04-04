@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grosser Kinigat",
+    "feet": 8822,
+    "meters": 2689,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
