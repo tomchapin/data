@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Corstorphine Hill",
+    "feet": 650,
+    "meters": 198,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
