@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.026833,
+      53.102476
+    ]
+  },
+  "properties": {
+    "name": "Glyder Fawr",
+    "latitude": 53.102476,
+    "longitude": -4.026833,
+    "feet": 3278,
+    "meters": 999,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
