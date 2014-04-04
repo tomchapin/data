@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.422,
+      51.0806
+    ]
+  },
+  "properties": {
+    "name": "Rundle, East End of (EEOR)",
+    "latitude": 51.0806,
+    "longitude": -115.422,
+    "feet": 8500,
+    "meters": 2530,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
