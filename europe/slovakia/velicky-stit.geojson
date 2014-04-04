@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.135308,
+      49.173922
+    ]
+  },
+  "properties": {
+    "name": "Velicky stit",
+    "latitude": 49.173922,
+    "longitude": 20.135308,
+    "feet": 7605,
+    "meters": 2318,
+    "continent": "Europe",
+    "country": "Slovakia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
