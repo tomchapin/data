@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35,
+      40.0833
+    ]
+  },
+  "properties": {
+    "name": "Mount Olympus",
+    "latitude": 40.0833,
+    "longitude": 22.35,
+    "feet": 9570,
+    "meters": 2917,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
