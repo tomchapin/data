@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.3608,
+      35.8283
+    ]
+  },
+  "properties": {
+    "name": "Muztagh Tower",
+    "latitude": 35.8283,
+    "longitude": 76.3608,
+    "feet": 23860,
+    "meters": 7273,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
