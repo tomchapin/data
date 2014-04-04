@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ben More",
+    "feet": 3166,
+    "meters": 965,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
