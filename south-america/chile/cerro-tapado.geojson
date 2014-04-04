@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.932604,
+      -30.143686
+    ]
+  },
+  "properties": {
+    "name": "Cerro Tapado",
+    "latitude": -30.143686,
+    "longitude": -69.932604,
+    "feet": 18163,
+    "meters": 5536,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
