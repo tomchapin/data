@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.595457,
+      48.64428
+    ]
+  },
+  "properties": {
+    "name": "Little Chief Mountain",
+    "latitude": 48.64428,
+    "longitude": -113.595457,
+    "feet": 9541,
+    "meters": 2908,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
