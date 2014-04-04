@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.292,
+      50.9883
+    ]
+  },
+  "properties": {
+    "name": "Windtower",
+    "latitude": 50.9883,
+    "longitude": -115.292,
+    "feet": 8848,
+    "meters": 2697,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
