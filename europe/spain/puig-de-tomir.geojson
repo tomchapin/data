@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.925625,
+      39.842846
+    ]
+  },
+  "properties": {
+    "name": "Puig de Tomir",
+    "latitude": 39.842846,
+    "longitude": 2.925625,
+    "feet": 3622,
+    "meters": 1104,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
