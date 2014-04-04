@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.491491,
+      47.658018
+    ]
+  },
+  "properties": {
+    "name": "Streicher, Zenokopf",
+    "latitude": 47.658018,
+    "longitude": 12.491491,
+    "feet": 5228,
+    "meters": 1593,
+    "continent": "Europe",
+    "country": "Germany",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
