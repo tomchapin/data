@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.3847,
+      -13.1772
+    ]
+  },
+  "properties": {
+    "name": "Nevado Veronica",
+    "latitude": -13.1772,
+    "longitude": -72.3847,
+    "feet": 19100,
+    "meters": 5822,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
