@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.4318,
+      47.8013
+    ]
+  },
+  "properties": {
+    "name": "Merchant Peak",
+    "latitude": 47.8013,
+    "longitude": -121.4318,
+    "feet": 6113,
+    "meters": 1863,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
