@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Buurgplaatz",
+    "feet": 1834,
+    "meters": 559,
+    "continent": "Europe",
+    "country": "Luxembourg"
+  }
+}
