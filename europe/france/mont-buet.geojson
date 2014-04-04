@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.851349,
+      46.024145
+    ]
+  },
+  "properties": {
+    "name": "Mont Buet",
+    "latitude": 46.024145,
+    "longitude": 6.851349,
+    "feet": 10168,
+    "meters": 3099,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
