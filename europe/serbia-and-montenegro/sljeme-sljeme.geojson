@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.07205,
+      43.11558
+    ]
+  },
+  "properties": {
+    "name": "Sljeme (Šljeme)",
+    "latitude": 43.11558,
+    "longitude": 19.07205,
+    "feet": 8054,
+    "meters": 2455,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
