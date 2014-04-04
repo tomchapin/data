@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.901831,
+      46.013327
+    ]
+  },
+  "properties": {
+    "name": "Strahlhorn",
+    "latitude": 46.013327,
+    "longitude": 7.901831,
+    "feet": 13747,
+    "meters": 4190,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
