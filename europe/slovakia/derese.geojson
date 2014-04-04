@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.5713,
+      48.9416
+    ]
+  },
+  "properties": {
+    "name": "Derese",
+    "latitude": 48.9416,
+    "longitude": 19.5713,
+    "feet": 6575,
+    "meters": 2004,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
