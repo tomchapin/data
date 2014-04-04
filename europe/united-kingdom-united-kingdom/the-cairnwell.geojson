@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.42089,
+      56.8795
+    ]
+  },
+  "properties": {
+    "name": "The Cairnwell",
+    "latitude": 56.8795,
+    "longitude": -3.42089,
+    "feet": 3061,
+    "meters": 933,
+    "continent": "Europe",
+    "country": "United Kingdom/United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
