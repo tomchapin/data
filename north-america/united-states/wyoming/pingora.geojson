@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.225,
+      42.7792
+    ]
+  },
+  "properties": {
+    "name": "Pingora",
+    "latitude": 42.7792,
+    "longitude": -109.225,
+    "feet": 11884,
+    "meters": 3622,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
