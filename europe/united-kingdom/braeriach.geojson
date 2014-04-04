@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.73055,
+      57.0777
+    ]
+  },
+  "properties": {
+    "name": "Braeriach",
+    "latitude": 57.0777,
+    "longitude": -3.73055,
+    "feet": 4252,
+    "meters": 1296,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
