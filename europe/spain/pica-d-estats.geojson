@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.396551,
+      42.6683
+    ]
+  },
+  "properties": {
+    "name": "Pica d'Estats",
+    "latitude": 42.6683,
+    "longitude": 1.396551,
+    "feet": 10312,
+    "meters": 3143,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
