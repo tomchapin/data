@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.285599,
+      54.520683
+    ]
+  },
+  "properties": {
+    "name": "High Stile",
+    "latitude": 54.520683,
+    "longitude": -3.285599,
+    "feet": 2648,
+    "meters": 807,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
