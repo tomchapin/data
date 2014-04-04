@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Poncione D`alnasca",
+    "feet": 7546,
+    "meters": 2300,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
