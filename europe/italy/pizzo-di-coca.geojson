@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo di Coca",
+    "feet": 10006,
+    "meters": 3050,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
