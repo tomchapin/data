@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.36,
+      -13.2
+    ]
+  },
+  "properties": {
+    "name": "Mumpu",
+    "latitude": -13.2,
+    "longitude": 29.36,
+    "feet": 6400,
+    "meters": 1951,
+    "continent": "Africa",
+    "country": "Zambia"
+  }
+}
