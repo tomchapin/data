@@ -14,6 +14,8 @@
     "feet": 12507,
     "meters": 3812,
     "continent": "North America",
-    "country": "Costa Rica"
+    "country": "Costa Rica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
