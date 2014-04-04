@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.946169,
+      47.472518
+    ]
+  },
+  "properties": {
+    "name": "Ingalls Peak, South Ridge",
+    "latitude": 47.472518,
+    "longitude": -120.946169,
+    "feet": 7662,
+    "meters": 2335,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
