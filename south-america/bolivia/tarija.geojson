@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tarija",
+    "feet": 17241,
+    "meters": 5255,
+    "continent": "South America",
+    "country": "Bolivia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
