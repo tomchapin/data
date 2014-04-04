@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.884015,
+      46.023134
+    ]
+  },
+  "properties": {
+    "name": "Rimpfischhorn",
+    "latitude": 46.023134,
+    "longitude": 7.884015,
+    "feet": 13776,
+    "meters": 4199,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
