@@ -12,6 +12,8 @@
     "feet": 9711,
     "meters": 2960,
     "continent": "Asia",
-    "country": "Japan"
+    "country": "Japan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
