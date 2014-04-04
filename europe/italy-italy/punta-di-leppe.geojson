@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.41783,
+      45.67548
+    ]
+  },
+  "properties": {
+    "name": "Punta di Leppe",
+    "latitude": 45.67548,
+    "longitude": 7.41783,
+    "feet": 10846,
+    "meters": 3306,
+    "continent": "Europe",
+    "country": "Italy/Italy"
+  }
+}
