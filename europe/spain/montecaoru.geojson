@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.86557,
+      43.268706
+    ]
+  },
+  "properties": {
+    "name": "Montecaoru",
+    "latitude": 43.268706,
+    "longitude": -4.86557,
+    "feet": 4265,
+    "meters": 1300,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
