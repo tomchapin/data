@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.430106,
+      -32.968581
+    ]
+  },
+  "properties": {
+    "name": "Cerro Rincón",
+    "latitude": -32.968581,
+    "longitude": -69.430106,
+    "feet": 17598,
+    "meters": 5364,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
