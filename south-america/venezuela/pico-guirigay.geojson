@@ -14,6 +14,8 @@
     "feet": 12697,
     "meters": 3870,
     "continent": "South America",
-    "country": "Venezuela"
+    "country": "Venezuela",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
