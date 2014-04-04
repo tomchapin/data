@@ -14,6 +14,8 @@
     "feet": 14178,
     "meters": 4321,
     "continent": "Africa",
-    "country": "Uganda/Kenya"
+    "country": "Uganda/Kenya",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
