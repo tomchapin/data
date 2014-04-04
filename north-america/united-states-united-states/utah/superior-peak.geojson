@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.671055,
+      40.591656
+    ]
+  },
+  "properties": {
+    "name": "Superior Peak",
+    "latitude": 40.591656,
+    "longitude": -111.671055,
+    "feet": 11040,
+    "meters": 3365,
+    "continent": "North America",
+    "country": "United States/United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
