@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.35,
+      42.5
+    ]
+  },
+  "properties": {
+    "name": "Ruy",
+    "latitude": 42.5,
+    "longitude": 22.35,
+    "feet": 5597,
+    "meters": 1706,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
