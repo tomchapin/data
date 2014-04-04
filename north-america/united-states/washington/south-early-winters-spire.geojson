@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.654,
+      48.5123
+    ]
+  },
+  "properties": {
+    "name": "South Early Winters Spire",
+    "latitude": 48.5123,
+    "longitude": -120.654,
+    "feet": 7807,
+    "meters": 2380,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
