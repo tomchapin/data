@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.788816,
+      27.730793
+    ]
+  },
+  "properties": {
+    "name": "Kusum Kangguru",
+    "latitude": 27.730793,
+    "longitude": 86.788816,
+    "feet": 20888,
+    "meters": 6367,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
