@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.24273,
+      54.590519
+    ]
+  },
+  "properties": {
+    "name": "Grisedale Pike",
+    "latitude": 54.590519,
+    "longitude": -3.24273,
+    "feet": 2595,
+    "meters": 791,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
