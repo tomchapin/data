@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.075,
+      46.687
+    ]
+  },
+  "properties": {
+    "name": "Schwarzhorn",
+    "latitude": 46.687,
+    "longitude": 8.075,
+    "feet": 9606,
+    "meters": 2928,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
