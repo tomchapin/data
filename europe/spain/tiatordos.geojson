@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.106583,
+      43.19116
+    ]
+  },
+  "properties": {
+    "name": "Tiatordos",
+    "latitude": 43.19116,
+    "longitude": -5.106583,
+    "feet": 6401,
+    "meters": 1951,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
