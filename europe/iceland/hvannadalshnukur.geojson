@@ -14,6 +14,8 @@
     "feet": 6952,
     "meters": 2119,
     "continent": "Europe",
-    "country": "Iceland"
+    "country": "Iceland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
