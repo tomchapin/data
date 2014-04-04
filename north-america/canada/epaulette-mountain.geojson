@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.735058,
+      51.865998
+    ]
+  },
+  "properties": {
+    "name": "Epaulette Mountain",
+    "latitude": 51.865998,
+    "longitude": -116.735058,
+    "feet": 10154,
+    "meters": 3095,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
