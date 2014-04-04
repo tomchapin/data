@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.580959,
+      48.480944
+    ]
+  },
+  "properties": {
+    "name": "Gilbert Mountain",
+    "latitude": 48.480944,
+    "longitude": -120.580959,
+    "feet": 8023,
+    "meters": 2445,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
