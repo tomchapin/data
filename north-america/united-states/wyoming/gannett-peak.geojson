@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.653,
+      43.1844
+    ]
+  },
+  "properties": {
+    "name": "Gannett Peak",
+    "latitude": 43.1844,
+    "longitude": -109.653,
+    "feet": 13804,
+    "meters": 4207,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
