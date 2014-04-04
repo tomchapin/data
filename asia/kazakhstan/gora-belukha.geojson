@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.5908,
+      49.8067
+    ]
+  },
+  "properties": {
+    "name": "Gora Belukha",
+    "latitude": 49.8067,
+    "longitude": 86.5908,
+    "feet": 14784,
+    "meters": 4506,
+    "continent": "Asia",
+    "country": "Kazakhstan"
+  }
+}
