@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Demerdzhi",
+    "feet": 4823,
+    "meters": 1470,
+    "continent": "Europe",
+    "country": "Ukraine"
+  }
+}
