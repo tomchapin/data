@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piule",
+    "feet": 6827,
+    "meters": 2081,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
