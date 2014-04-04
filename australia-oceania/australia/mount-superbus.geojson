@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.460666,
+      -28.218367
+    ]
+  },
+  "properties": {
+    "name": "Mount Superbus",
+    "latitude": -28.218367,
+    "longitude": 152.460666,
+    "feet": 4511,
+    "meters": 1375,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
