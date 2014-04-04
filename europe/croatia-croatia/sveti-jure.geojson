@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.43,
+      43.3495
+    ]
+  },
+  "properties": {
+    "name": "Sveti Jure",
+    "latitude": 43.3495,
+    "longitude": 24.43,
+    "feet": 5781,
+    "meters": 1762,
+    "continent": "Europe",
+    "country": "Croatia/Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
