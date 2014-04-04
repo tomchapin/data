@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.031772,
+      48.301791
+    ]
+  },
+  "properties": {
+    "name": "Dome Peak",
+    "latitude": 48.301791,
+    "longitude": -121.031772,
+    "feet": 8920,
+    "meters": 2719,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
