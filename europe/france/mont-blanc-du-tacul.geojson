@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont-blanc Du Tacul",
+    "feet": 13937,
+    "meters": 4248,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
