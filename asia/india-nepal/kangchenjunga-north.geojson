@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kangchenjunga North",
+    "feet": 25397,
+    "meters": 7741,
+    "continent": "Asia",
+    "country": "India/Nepal"
+  }
+}
