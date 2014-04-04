@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Silberhorn",
+    "feet": 10836,
+    "meters": 3303,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
