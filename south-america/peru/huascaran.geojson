@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.604246,
+      -9.121504
+    ]
+  },
+  "properties": {
+    "name": "Huascaran",
+    "latitude": -9.121504,
+    "longitude": -77.604246,
+    "feet": 22204,
+    "meters": 6768,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
