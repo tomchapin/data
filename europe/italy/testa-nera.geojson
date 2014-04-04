@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.336073,
+      45.66794
+    ]
+  },
+  "properties": {
+    "name": "Testa Nera",
+    "latitude": 45.66794,
+    "longitude": 7.336073,
+    "feet": 9249,
+    "meters": 2819,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
