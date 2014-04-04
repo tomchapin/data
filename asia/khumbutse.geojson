@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.872416,
+      28.021492
+    ]
+  },
+  "properties": {
+    "name": "Khumbutse",
+    "latitude": 28.021492,
+    "longitude": 86.872416,
+    "feet": 21771,
+    "meters": 6636,
+    "continent": "Asia"
+  }
+}
