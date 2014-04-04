@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.026579,
+      44.39537
+    ]
+  },
+  "properties": {
+    "name": "Roccabiasca",
+    "latitude": 44.39537,
+    "longitude": 10.026579,
+    "feet": 5666,
+    "meters": 1727,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
