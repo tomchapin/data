@@ -15,6 +15,8 @@
     "meters": 4205,
     "continent": "North America",
     "country": "United States",
-    "state": "Hawaii"
+    "state": "Hawaii",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
