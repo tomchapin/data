@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.917519,
+      47.529836
+    ]
+  },
+  "properties": {
+    "name": "Hirschwiese",
+    "latitude": 47.529836,
+    "longitude": 12.917519,
+    "feet": 6934,
+    "meters": 2113,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
