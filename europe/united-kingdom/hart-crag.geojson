@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.975836,
+      54.492527
+    ]
+  },
+  "properties": {
+    "name": "Hart Crag",
+    "latitude": 54.492527,
+    "longitude": -2.975836,
+    "feet": 2698,
+    "meters": 822,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
