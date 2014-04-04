@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.056259,
+      42.039859
+    ]
+  },
+  "properties": {
+    "name": "La Campina",
+    "latitude": 42.039859,
+    "longitude": -3.056259,
+    "feet": 6719,
+    "meters": 2048,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
