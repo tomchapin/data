@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.407905,
+      -30.488687
+    ]
+  },
+  "properties": {
+    "name": "Point Lookout (New South Wales)",
+    "latitude": -30.488687,
+    "longitude": 152.407905,
+    "feet": 5131,
+    "meters": 1564,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
