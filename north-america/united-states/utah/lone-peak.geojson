@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.755,
+      40.5267
+    ]
+  },
+  "properties": {
+    "name": "Lone Peak",
+    "latitude": 40.5267,
+    "longitude": -111.755,
+    "feet": 11253,
+    "meters": 3430,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
