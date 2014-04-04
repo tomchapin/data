@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ragang",
+    "feet": 9236,
+    "meters": 2815,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
