@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.608138,
+      46.937927
+    ]
+  },
+  "properties": {
+    "name": "Marcus Peak",
+    "latitude": 46.937927,
+    "longitude": -121.608138,
+    "feet": 6962,
+    "meters": 2122,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
