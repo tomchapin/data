@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.476463,
+      52.288008
+    ]
+  },
+  "properties": {
+    "name": "Mount Alberta",
+    "latitude": 52.288008,
+    "longitude": -117.476463,
+    "feet": 11874,
+    "meters": 3619,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
