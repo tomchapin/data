@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "La Pelona",
+    "feet": 10180,
+    "meters": 3085,
+    "continent": "North America",
+    "country": "Dominican Republic"
+  }
+}
