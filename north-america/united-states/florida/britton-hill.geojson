@@ -15,6 +15,8 @@
     "meters": 105,
     "continent": "North America",
     "country": "United States",
-    "state": "Florida"
+    "state": "Florida",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
