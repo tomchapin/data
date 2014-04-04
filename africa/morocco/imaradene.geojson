@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Imaradene",
+    "feet": 11650,
+    "meters": 3551,
+    "continent": "Africa",
+    "country": "Morocco"
+  }
+}
