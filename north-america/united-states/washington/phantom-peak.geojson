@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.342449,
+      48.819185
+    ]
+  },
+  "properties": {
+    "name": "Phantom Peak",
+    "latitude": 48.819185,
+    "longitude": -121.342449,
+    "feet": 8000,
+    "meters": 2438,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
