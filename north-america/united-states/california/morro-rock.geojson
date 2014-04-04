@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.86755,
+      35.36943
+    ]
+  },
+  "properties": {
+    "name": "Morro Rock",
+    "latitude": 35.36943,
+    "longitude": -120.86755,
+    "feet": 581,
+    "meters": 177,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
