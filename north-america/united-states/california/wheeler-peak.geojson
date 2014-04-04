@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.967,
+      38.5167
+    ]
+  },
+  "properties": {
+    "name": "Wheeler Peak",
+    "latitude": 38.5167,
+    "longitude": -119.967,
+    "feet": 9115,
+    "meters": 2778,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
