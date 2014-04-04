@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.59572,
+      17.04266
+    ]
+  },
+  "properties": {
+    "name": "Mount Margareth",
+    "latitude": 17.04266,
+    "longitude": -88.59572,
+    "feet": 3084,
+    "meters": 940,
+    "continent": "North America",
+    "country": "Belize"
+  }
+}
