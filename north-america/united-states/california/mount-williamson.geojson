@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.31,
+      36.6561
+    ]
+  },
+  "properties": {
+    "name": "Mount Williamson",
+    "latitude": 36.6561,
+    "longitude": -118.31,
+    "feet": 14370,
+    "meters": 4380,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
