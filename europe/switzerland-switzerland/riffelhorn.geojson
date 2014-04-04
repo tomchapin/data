@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.57737,
+      45.9802
+    ]
+  },
+  "properties": {
+    "name": "Riffelhorn",
+    "latitude": 45.9802,
+    "longitude": 7.57737,
+    "feet": 9603,
+    "meters": 2927,
+    "continent": "Europe",
+    "country": "Switzerland/Switzerland"
+  }
+}
