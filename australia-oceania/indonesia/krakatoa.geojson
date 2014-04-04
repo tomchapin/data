@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Krakatoa",
+    "feet": 2667,
+    "meters": 813,
+    "continent": "Australia/Oceania",
+    "country": "Indonesia"
+  }
+}
