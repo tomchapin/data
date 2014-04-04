@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      82.778549,
+      29.368114
+    ]
+  },
+  "properties": {
+    "name": "Kanjiroba",
+    "latitude": 29.368114,
+    "longitude": 82.778549,
+    "feet": 22582,
+    "meters": 6883,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
