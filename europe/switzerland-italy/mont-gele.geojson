@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.35,
+      45.9
+    ]
+  },
+  "properties": {
+    "name": "Mont Gele",
+    "latitude": 45.9,
+    "longitude": 7.35,
+    "feet": 11542,
+    "meters": 3518,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
