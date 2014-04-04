@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8667,
+      47.5667
+    ]
+  },
+  "properties": {
+    "name": "Hochkalter",
+    "latitude": 47.5667,
+    "longitude": 12.8667,
+    "feet": 8553,
+    "meters": 2607,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
