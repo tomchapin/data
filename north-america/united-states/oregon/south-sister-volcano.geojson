@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.769285,
+      44.103519
+    ]
+  },
+  "properties": {
+    "name": "South Sister Volcano",
+    "latitude": 44.103519,
+    "longitude": -121.769285,
+    "feet": 10358,
+    "meters": 3157,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
