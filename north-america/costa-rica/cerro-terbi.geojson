@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.493506,
+      9.456677
+    ]
+  },
+  "properties": {
+    "name": "Cerro Terbi",
+    "latitude": 9.456677,
+    "longitude": -83.493506,
+    "feet": 12352,
+    "meters": 3765,
+    "continent": "North America",
+    "country": "Costa Rica"
+  }
+}
