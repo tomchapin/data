@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.883273,
+      27.968479
+    ]
+  },
+  "properties": {
+    "name": "Nuptse",
+    "latitude": 27.968479,
+    "longitude": 86.883273,
+    "feet": 25790,
+    "meters": 7861,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
