@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.657,
+      48.5144
+    ]
+  },
+  "properties": {
+    "name": "Concord Tower",
+    "latitude": 48.5144,
+    "longitude": -120.657,
+    "feet": 7560,
+    "meters": 2304,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
