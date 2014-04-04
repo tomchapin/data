@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.4667,
+      27.5167
+    ]
+  },
+  "properties": {
+    "name": "Pike",
+    "latitude": 27.5167,
+    "longitude": 86.4667,
+    "feet": 13336,
+    "meters": 4065,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
