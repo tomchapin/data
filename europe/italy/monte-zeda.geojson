@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Zeda",
+    "feet": 7073,
+    "meters": 2156,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
