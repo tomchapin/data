@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.6,
+      47.4
+    ]
+  },
+  "properties": {
+    "name": "Sonnjoch",
+    "latitude": 47.4,
+    "longitude": 11.6,
+    "feet": 8064,
+    "meters": 2458,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
