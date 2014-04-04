@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.568,
+      12.4134
+    ]
+  },
+  "properties": {
+    "name": "Mt. Guiting-guiting",
+    "latitude": 12.4134,
+    "longitude": 122.568,
+    "feet": 6380,
+    "meters": 2058,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
