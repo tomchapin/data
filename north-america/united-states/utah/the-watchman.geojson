@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.979568,
+      37.18469
+    ]
+  },
+  "properties": {
+    "name": "The Watchman",
+    "latitude": 37.18469,
+    "longitude": -112.979568,
+    "feet": 6545,
+    "meters": 1995,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
