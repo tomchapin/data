@@ -14,6 +14,8 @@
     "feet": 3983,
     "meters": 1214,
     "continent": "Europe",
-    "country": "Germany/Czech Republic"
+    "country": "Germany/Czech Republic",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
