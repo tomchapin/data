@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.417,
+      32.6167
+    ]
+  },
+  "properties": {
+    "name": "Lost Peak",
+    "latitude": 32.6167,
+    "longitude": -105.417,
+    "feet": 7830,
+    "meters": 2387,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Texas"
+  }
+}
