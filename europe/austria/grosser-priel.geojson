@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grosser Priel",
+    "feet": 8251,
+    "meters": 2515,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
