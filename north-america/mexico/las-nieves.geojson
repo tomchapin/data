@@ -12,6 +12,8 @@
     "feet": 11565,
     "meters": 3525,
     "continent": "North America",
-    "country": "Mexico"
+    "country": "Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
