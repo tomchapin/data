@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.476774,
+      47.98366
+    ]
+  },
+  "properties": {
+    "name": "Gothic Peak",
+    "latitude": 47.98366,
+    "longitude": -121.476774,
+    "feet": 6213,
+    "meters": 1894,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
