@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.572218,
+      45.816837
+    ]
+  },
+  "properties": {
+    "name": "Nestor Peak",
+    "latitude": 45.816837,
+    "longitude": -121.572218,
+    "feet": 3088,
+    "meters": 941,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
