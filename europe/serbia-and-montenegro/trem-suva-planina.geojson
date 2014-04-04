@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1034,
+      43.1049
+    ]
+  },
+  "properties": {
+    "name": "Trem - Suva planina",
+    "latitude": 43.1049,
+    "longitude": 22.1034,
+    "feet": 5938,
+    "meters": 1810,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
