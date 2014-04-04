@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.321,
+      50.7264
+    ]
+  },
+  "properties": {
+    "name": "Mount Robertson",
+    "latitude": 50.7264,
+    "longitude": -115.321,
+    "feet": 10423,
+    "meters": 3177,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
