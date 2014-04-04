@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gamskogel",
+    "feet": 9229,
+    "meters": 2813,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
