@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.072161,
+      49.00449
+    ]
+  },
+  "properties": {
+    "name": "Forum Peak",
+    "latitude": 49.00449,
+    "longitude": -114.072161,
+    "feet": 7922,
+    "meters": 2415,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
