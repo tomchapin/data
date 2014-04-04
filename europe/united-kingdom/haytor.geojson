@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.748569,
+      50.589231
+    ]
+  },
+  "properties": {
+    "name": "Haytor",
+    "latitude": 50.589231,
+    "longitude": -3.748569,
+    "feet": 1499,
+    "meters": 457,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
