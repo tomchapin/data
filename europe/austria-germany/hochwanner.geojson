@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hochwanner",
+    "feet": 9003,
+    "meters": 2744,
+    "continent": "Europe",
+    "country": "Austria/Germany"
+  }
+}
