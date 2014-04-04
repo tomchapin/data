@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mocho-choshuenco",
+    "feet": 7923,
+    "meters": 2415,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
