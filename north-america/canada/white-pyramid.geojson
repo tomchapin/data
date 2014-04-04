@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.695232,
+      51.835778
+    ]
+  },
+  "properties": {
+    "name": "White Pyramid",
+    "latitude": 51.835778,
+    "longitude": -116.695232,
+    "feet": 10745,
+    "meters": 3275,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
