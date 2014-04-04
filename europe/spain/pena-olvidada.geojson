@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.806307,
+      43.165295
+    ]
+  },
+  "properties": {
+    "name": "Peña Olvidada",
+    "latitude": 43.165295,
+    "longitude": -4.806307,
+    "feet": 7894,
+    "meters": 2406,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
