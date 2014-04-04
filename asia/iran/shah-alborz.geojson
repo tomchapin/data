@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Shah Alborz",
+    "feet": 13779,
+    "meters": 4200,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
