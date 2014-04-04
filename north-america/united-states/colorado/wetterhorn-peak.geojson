@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.51,
+      38.0606
+    ]
+  },
+  "properties": {
+    "name": "Wetterhorn Peak",
+    "latitude": 38.0606,
+    "longitude": -107.51,
+    "feet": 14015,
+    "meters": 4272,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
