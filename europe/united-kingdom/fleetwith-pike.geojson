@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.23333,
+      54.5167
+    ]
+  },
+  "properties": {
+    "name": "Fleetwith Pike",
+    "latitude": 54.5167,
+    "longitude": -3.23333,
+    "feet": 2126,
+    "meters": 648,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
