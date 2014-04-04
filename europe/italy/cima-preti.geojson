@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3333,
+      46.3333
+    ]
+  },
+  "properties": {
+    "name": "Cima Preti",
+    "latitude": 46.3333,
+    "longitude": 12.3333,
+    "feet": 8868,
+    "meters": 2703,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
