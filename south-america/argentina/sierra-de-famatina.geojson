@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.8167,
+      -29.0333
+    ]
+  },
+  "properties": {
+    "name": "Sierra De Famatina",
+    "latitude": -29.0333,
+    "longitude": -67.8167,
+    "feet": 20505,
+    "meters": 6250,
+    "continent": "South America",
+    "country": "Argentina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
