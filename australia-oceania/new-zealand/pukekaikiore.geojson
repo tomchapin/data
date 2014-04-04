@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pukekaikiore",
+    "feet": 5551,
+    "meters": 1692,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
