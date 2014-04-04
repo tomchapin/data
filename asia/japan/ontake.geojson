@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.483,
+      35.8833
+    ]
+  },
+  "properties": {
+    "name": "Ontake",
+    "latitude": 35.8833,
+    "longitude": 137.483,
+    "feet": 10051,
+    "meters": 3063,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
