@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.48157,
+      37.07819
+    ]
+  },
+  "properties": {
+    "name": "Trevenque",
+    "latitude": 37.07819,
+    "longitude": -3.48157,
+    "feet": 6808,
+    "meters": 2075,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
