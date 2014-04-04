@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.851111,
+      47.675184
+    ]
+  },
+  "properties": {
+    "name": "Painters Thumb",
+    "latitude": 47.675184,
+    "longitude": -120.851111,
+    "feet": 6744,
+    "meters": 2056,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
