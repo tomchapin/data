@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.955547,
+      45.932647
+    ]
+  },
+  "properties": {
+    "name": "Drus",
+    "latitude": 45.932647,
+    "longitude": 6.955547,
+    "feet": 12316,
+    "meters": 3754,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
