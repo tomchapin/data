@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grosser Diamantstock",
+    "feet": 10374,
+    "meters": 3162,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
