@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kalvehogda",
+    "feet": 7244,
+    "meters": 2208,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
