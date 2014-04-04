@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Grosse Fermeda",
+    "feet": 9426,
+    "meters": 2873,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
