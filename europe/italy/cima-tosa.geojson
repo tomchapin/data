@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8633,
+      46.1556
+    ]
+  },
+  "properties": {
+    "name": "Cima Tosa",
+    "latitude": 46.1556,
+    "longitude": 10.8633,
+    "feet": 10410,
+    "meters": 3173,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
