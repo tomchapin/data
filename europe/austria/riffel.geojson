@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5,
+      47.55
+    ]
+  },
+  "properties": {
+    "name": "Riffel",
+    "latitude": 47.55,
+    "longitude": 14.5,
+    "feet": 6909,
+    "meters": 2106,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
