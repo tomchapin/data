@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.95,
+      39.0714
+    ]
+  },
+  "properties": {
+    "name": "Pyramid Peak",
+    "latitude": 39.0714,
+    "longitude": -106.95,
+    "feet": 14018,
+    "meters": 4273,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
