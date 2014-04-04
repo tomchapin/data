@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.0667,
+      30.7833
+    ]
+  },
+  "properties": {
+    "name": "kedarnath",
+    "latitude": 30.7833,
+    "longitude": 79.0667,
+    "feet": 22769,
+    "meters": 6940,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
