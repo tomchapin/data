@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.5133,
+      35.8825
+    ]
+  },
+  "properties": {
+    "name": "K2",
+    "latitude": 35.8825,
+    "longitude": 76.5133,
+    "feet": 28253,
+    "meters": 8612,
+    "continent": "Asia",
+    "country": "Pakistan/China"
+  }
+}
