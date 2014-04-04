@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.409,
+      39.1433
+    ]
+  },
+  "properties": {
+    "name": "Notch Peak",
+    "latitude": 39.1433,
+    "longitude": -113.409,
+    "feet": 9655,
+    "meters": 2943,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
