@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.863655,
+      54.489785
+    ]
+  },
+  "properties": {
+    "name": "High Street",
+    "latitude": 54.489785,
+    "longitude": -2.863655,
+    "feet": 2718,
+    "meters": 828,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
