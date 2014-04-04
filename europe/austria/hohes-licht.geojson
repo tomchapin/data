@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.275135,
+      47.280976
+    ]
+  },
+  "properties": {
+    "name": "Hohes Licht",
+    "latitude": 47.280976,
+    "longitude": 10.275135,
+    "feet": 8698,
+    "meters": 2651,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
