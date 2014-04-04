@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.034115,
+      54.592655
+    ]
+  },
+  "properties": {
+    "name": "Clough Head",
+    "latitude": 54.592655,
+    "longitude": -3.034115,
+    "feet": 2382,
+    "meters": 726,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
