@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Punta Zumstein",
+    "feet": 14964,
+    "meters": 4561,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
