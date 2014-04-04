@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Guougang",
+    "feet": 4236,
+    "meters": 1291,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
