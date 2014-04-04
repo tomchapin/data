@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.860527,
+      47.739092
+    ]
+  },
+  "properties": {
+    "name": "Hochstaufen",
+    "latitude": 47.739092,
+    "longitude": 12.860527,
+    "feet": 5667,
+    "meters": 1773,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
