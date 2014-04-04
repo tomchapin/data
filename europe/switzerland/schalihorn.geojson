@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.42178,
+      46.535
+    ]
+  },
+  "properties": {
+    "name": "Schalihorn",
+    "latitude": 46.535,
+    "longitude": 7.42178,
+    "feet": 13038,
+    "meters": 3974,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
