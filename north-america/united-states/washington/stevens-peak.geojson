@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.676888,
+      46.746095
+    ]
+  },
+  "properties": {
+    "name": "Stevens Peak",
+    "latitude": 46.746095,
+    "longitude": -121.676888,
+    "feet": 6510,
+    "meters": 1984,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
