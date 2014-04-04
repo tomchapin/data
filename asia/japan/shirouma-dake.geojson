@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.757,
+      36.7575
+    ]
+  },
+  "properties": {
+    "name": "Shirouma Dake",
+    "latitude": 36.7575,
+    "longitude": 137.757,
+    "feet": 9619,
+    "meters": 2932,
+    "continent": "Asia",
+    "country": "Japan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
