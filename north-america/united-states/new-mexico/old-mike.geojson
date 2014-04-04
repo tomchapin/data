@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.4,
+      36.5416
+    ]
+  },
+  "properties": {
+    "name": "Old Mike",
+    "latitude": 36.5416,
+    "longitude": -105.4,
+    "feet": 13113,
+    "meters": 3998,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
