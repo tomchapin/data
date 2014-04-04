@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Merbabu",
+    "feet": 10315,
+    "meters": 3144,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
