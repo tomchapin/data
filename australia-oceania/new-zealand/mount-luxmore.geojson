@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Luxmore",
+    "feet": 4888,
+    "meters": 1490,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
