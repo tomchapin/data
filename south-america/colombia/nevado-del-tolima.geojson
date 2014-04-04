@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.33,
+      4.67
+    ]
+  },
+  "properties": {
+    "name": "Nevado del Tolima",
+    "latitude": 4.67,
+    "longitude": -75.33,
+    "feet": 17109,
+    "meters": 5215,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
