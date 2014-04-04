@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.167,
+      33.6833
+    ]
+  },
+  "properties": {
+    "name": "Sierra Blanca",
+    "latitude": 33.6833,
+    "longitude": -106.167,
+    "feet": 12003,
+    "meters": 3659,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
