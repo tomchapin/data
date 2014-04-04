@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.95,
+      46.3
+    ]
+  },
+  "properties": {
+    "name": "Presolana",
+    "latitude": 46.3,
+    "longitude": 10.95,
+    "feet": 8271,
+    "meters": 2521,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
