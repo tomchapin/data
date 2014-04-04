@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8667,
+      -33.5333
+    ]
+  },
+  "properties": {
+    "name": "Cerro Piramide",
+    "latitude": -33.5333,
+    "longitude": -69.8667,
+    "feet": 18110,
+    "meters": 5520,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
