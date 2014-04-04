@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.75,
+      34.8667
+    ]
+  },
+  "properties": {
+    "name": "Sasir Kangri",
+    "latitude": 34.8667,
+    "longitude": 77.75,
+    "feet": 25170,
+    "meters": 7672,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
