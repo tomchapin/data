@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.861679,
+      44.904092
+    ]
+  },
+  "properties": {
+    "name": "Punta Ciatagnera",
+    "latitude": 44.904092,
+    "longitude": 6.861679,
+    "feet": 10807,
+    "meters": 3294,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
