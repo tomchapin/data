@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.818,
+      43.7186
+    ]
+  },
+  "properties": {
+    "name": "South Teton",
+    "latitude": 43.7186,
+    "longitude": -110.818,
+    "feet": 12514,
+    "meters": 3814,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
