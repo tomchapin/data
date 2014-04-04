@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.275,
+      50.8389
+    ]
+  },
+  "properties": {
+    "name": "Mount Galatea",
+    "latitude": 50.8389,
+    "longitude": -115.275,
+    "feet": 10449,
+    "meters": 3185,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
