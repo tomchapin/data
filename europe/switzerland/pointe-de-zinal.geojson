@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pointe De Zinal",
+    "feet": 12438,
+    "meters": 3791,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
