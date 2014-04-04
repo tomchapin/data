@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.091909,
+      48.581973
+    ]
+  },
+  "properties": {
+    "name": "Primus Peak",
+    "latitude": 48.581973,
+    "longitude": -121.091909,
+    "feet": 8508,
+    "meters": 2593,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
