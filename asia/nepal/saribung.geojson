@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      84.025556,
+      28.743333
+    ]
+  },
+  "properties": {
+    "name": "Saribung",
+    "latitude": 28.743333,
+    "longitude": 84.025556,
+    "feet": 20820,
+    "meters": 6346,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
