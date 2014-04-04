@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9008,
+      44.1056
+    ]
+  },
+  "properties": {
+    "name": "Haystack",
+    "latitude": 44.1056,
+    "longitude": -73.9008,
+    "feet": 4960,
+    "meters": 1512,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
