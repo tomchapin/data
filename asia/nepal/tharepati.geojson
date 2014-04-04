@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.519209,
+      28.064558
+    ]
+  },
+  "properties": {
+    "name": "Tharepati",
+    "latitude": 28.064558,
+    "longitude": 85.519209,
+    "feet": 12400,
+    "meters": 3780,
+    "continent": "Asia",
+    "country": "Nepal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
