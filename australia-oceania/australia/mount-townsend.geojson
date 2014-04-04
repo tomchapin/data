@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Townsend",
+    "feet": 7247,
+    "meters": 2209,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
