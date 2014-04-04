@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.20042,
+      46.11802
+    ]
+  },
+  "properties": {
+    "name": "Pierre Avoi",
+    "latitude": 46.11802,
+    "longitude": 7.20042,
+    "feet": 8114,
+    "meters": 2473,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
