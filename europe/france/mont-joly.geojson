@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Joly",
+    "feet": 8284,
+    "meters": 2525,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
