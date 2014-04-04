@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.532,
+      34.7445
+    ]
+  },
+  "properties": {
+    "name": "Mount Scott",
+    "latitude": 34.7445,
+    "longitude": -98.532,
+    "feet": 2464,
+    "meters": 751,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oklahoma",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
