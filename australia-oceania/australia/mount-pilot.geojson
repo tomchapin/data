@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.667,
+      -37.5
+    ]
+  },
+  "properties": {
+    "name": "Mount Pilot",
+    "latitude": -37.5,
+    "longitude": 148.667,
+    "feet": 5997,
+    "meters": 1828,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
