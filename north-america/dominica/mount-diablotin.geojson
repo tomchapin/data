@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.3861,
+      15.459
+    ]
+  },
+  "properties": {
+    "name": "Mount Diablotin",
+    "latitude": 15.459,
+    "longitude": -61.3861,
+    "feet": 4747,
+    "meters": 1447,
+    "continent": "North America",
+    "country": "Dominica"
+  }
+}
