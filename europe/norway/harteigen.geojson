@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.06667,
+      60.1833
+    ]
+  },
+  "properties": {
+    "name": "Hårteigen",
+    "latitude": 60.1833,
+    "longitude": 7.06667,
+    "feet": 5545,
+    "meters": 1690,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
