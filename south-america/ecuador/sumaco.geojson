@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sumaco",
+    "feet": 12795,
+    "meters": 3900,
+    "continent": "South America",
+    "country": "Ecuador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
