@@ -14,6 +14,8 @@
     "feet": 24731,
     "meters": 7538,
     "continent": "Asia",
-    "country": "Bhutan"
+    "country": "Bhutan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
