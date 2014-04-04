@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.555,
+      37.9761
+    ]
+  },
+  "properties": {
+    "name": "Humboldt Peak",
+    "latitude": 37.9761,
+    "longitude": -105.555,
+    "feet": 14064,
+    "meters": 4287,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
