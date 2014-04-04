@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Iliniza Norte",
+    "feet": 16817,
+    "meters": 5126,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
