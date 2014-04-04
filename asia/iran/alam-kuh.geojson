@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.5757,
+      36.2239
+    ]
+  },
+  "properties": {
+    "name": "Alam Kuh",
+    "latitude": 36.2239,
+    "longitude": 50.5757,
+    "feet": 15912,
+    "meters": 4850,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
