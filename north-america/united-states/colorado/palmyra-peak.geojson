@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.829,
+      37.8836
+    ]
+  },
+  "properties": {
+    "name": "Palmyra Peak",
+    "latitude": 37.8836,
+    "longitude": -107.829,
+    "feet": 13319,
+    "meters": 4060,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
