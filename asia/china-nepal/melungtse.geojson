@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.4333,
+      27.9667
+    ]
+  },
+  "properties": {
+    "name": "Melungtse",
+    "latitude": 27.9667,
+    "longitude": 86.4333,
+    "feet": 23555,
+    "meters": 7181,
+    "continent": "Asia",
+    "country": "China/Nepal"
+  }
+}
