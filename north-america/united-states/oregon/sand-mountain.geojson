@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.928072,
+      44.384759
+    ]
+  },
+  "properties": {
+    "name": "Sand Mountain",
+    "latitude": 44.384759,
+    "longitude": -121.928072,
+    "feet": 5459,
+    "meters": 1664,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
