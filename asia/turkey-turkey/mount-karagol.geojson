@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.0,
+      38.0
+    ]
+  },
+  "properties": {
+    "name": "Mount Karagöl",
+    "latitude": 38.0,
+    "longitude": 37.0,
+    "feet": 10194,
+    "meters": 3107,
+    "continent": "Asia",
+    "country": "Turkey/Turkey"
+  }
+}
