@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.7421,
+      46.0976
+    ]
+  },
+  "properties": {
+    "name": "Wisse Schijen",
+    "latitude": 46.0976,
+    "longitude": 7.7421,
+    "feet": 11050,
+    "meters": 3368,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
