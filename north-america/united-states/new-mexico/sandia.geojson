@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.456,
+      35.235
+    ]
+  },
+  "properties": {
+    "name": "Sandia",
+    "latitude": 35.235,
+    "longitude": -106.456,
+    "feet": 10678,
+    "meters": 3255,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico"
+  }
+}
