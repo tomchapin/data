@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.688777,
+      47.689081
+    ]
+  },
+  "properties": {
+    "name": "Heukuppe",
+    "latitude": 47.689081,
+    "longitude": 15.688777,
+    "feet": 6585,
+    "meters": 2007,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
