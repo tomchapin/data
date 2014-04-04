@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Romelo",
+    "feet": 984,
+    "meters": 300,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
