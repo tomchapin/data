@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.562659,
+      33.906005
+    ]
+  },
+  "properties": {
+    "name": "Mount Baldy",
+    "latitude": 33.906005,
+    "longitude": -109.562659,
+    "feet": 11403,
+    "meters": 3476,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
