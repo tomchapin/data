@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo dei Tre Signori",
+    "feet": 8376,
+    "meters": 2553,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
