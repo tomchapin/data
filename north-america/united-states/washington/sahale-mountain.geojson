@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.038566,
+      48.491184
+    ]
+  },
+  "properties": {
+    "name": "Sahale Mountain",
+    "latitude": 48.491184,
+    "longitude": -121.038566,
+    "feet": 8680,
+    "meters": 2586,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
