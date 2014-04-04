@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.645,
+      36.2961
+    ]
+  },
+  "properties": {
+    "name": "Hotakadake",
+    "latitude": 36.2961,
+    "longitude": 137.645,
+    "feet": 10466,
+    "meters": 3190,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
