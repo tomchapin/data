@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.96667,
+      46.5333
+    ]
+  },
+  "properties": {
+    "name": "Jungfrau",
+    "latitude": 46.5333,
+    "longitude": 7.96667,
+    "feet": 13642,
+    "meters": 4158,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
