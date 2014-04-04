@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Frade",
+    "feet": 4757,
+    "meters": 1450,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
