@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.2,
+      42.0167
+    ]
+  },
+  "properties": {
+    "name": "Urbión",
+    "latitude": 42.0167,
+    "longitude": -3.2,
+    "feet": 7310,
+    "meters": 2228,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
