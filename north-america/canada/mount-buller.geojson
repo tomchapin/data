@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.315,
+      50.8917
+    ]
+  },
+  "properties": {
+    "name": "Mount Buller",
+    "latitude": 50.8917,
+    "longitude": -115.315,
+    "feet": 9186,
+    "meters": 2800,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
