@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.2833,
+      30.4333
+    ]
+  },
+  "properties": {
+    "name": "Gurla Mandata",
+    "latitude": 30.4333,
+    "longitude": 81.2833,
+    "feet": 25242,
+    "meters": 7694,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
