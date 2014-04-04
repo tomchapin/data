@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ivanscica",
+    "feet": 3481,
+    "meters": 1061,
+    "continent": "Europe",
+    "country": "Croatia"
+  }
+}
