@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.7944,
+      39.8085
+    ]
+  },
+  "properties": {
+    "name": "Puig Major",
+    "latitude": 39.8085,
+    "longitude": 2.7944,
+    "feet": 4741,
+    "meters": 1445,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
