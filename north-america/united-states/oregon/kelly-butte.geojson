@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.031196,
+      44.053736
+    ]
+  },
+  "properties": {
+    "name": "Kelly Butte",
+    "latitude": 44.053736,
+    "longitude": -123.031196,
+    "feet": 646,
+    "meters": 197,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
