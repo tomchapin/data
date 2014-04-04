@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.619,
+      36.5759
+    ]
+  },
+  "properties": {
+    "name": "Tateyama",
+    "latitude": 36.5759,
+    "longitude": 137.619,
+    "feet": 9892,
+    "meters": 3015,
+    "continent": "Asia",
+    "country": "Japan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
