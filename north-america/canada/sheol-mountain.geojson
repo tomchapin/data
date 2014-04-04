@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.221275,
+      51.384209
+    ]
+  },
+  "properties": {
+    "name": "Sheol Mountain",
+    "latitude": 51.384209,
+    "longitude": -116.221275,
+    "feet": 9108,
+    "meters": 2776,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
