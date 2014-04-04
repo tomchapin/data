@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.240482,
+      48.969682
+    ]
+  },
+  "properties": {
+    "name": "Mount Spickard",
+    "latitude": 48.969682,
+    "longitude": -121.240482,
+    "feet": 8979,
+    "meters": 2737,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
