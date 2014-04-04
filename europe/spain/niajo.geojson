@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.073028,
+      43.136945
+    ]
+  },
+  "properties": {
+    "name": "Niajo",
+    "latitude": 43.136945,
+    "longitude": -5.073028,
+    "feet": 5705,
+    "meters": 1739,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
