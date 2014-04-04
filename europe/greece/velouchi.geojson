@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Velouchi",
+    "feet": 7595,
+    "meters": 2315,
+    "continent": "Europe",
+    "country": "Greece",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
