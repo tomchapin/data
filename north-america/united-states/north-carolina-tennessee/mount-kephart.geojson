@@ -13,6 +13,8 @@
     "meters": 1875,
     "continent": "North America",
     "country": "United States",
-    "state": "North Carolina/Tennessee"
+    "state": "North Carolina/Tennessee",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
