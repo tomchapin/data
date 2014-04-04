@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Di Claro",
+    "feet": 8947,
+    "meters": 2727,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
