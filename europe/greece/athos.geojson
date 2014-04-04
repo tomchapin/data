@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Athos",
+    "feet": 6670,
+    "meters": 2033,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
