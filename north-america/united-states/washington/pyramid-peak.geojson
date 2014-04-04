@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.146069,
+      48.674753
+    ]
+  },
+  "properties": {
+    "name": "Pyramid Peak",
+    "latitude": 48.674753,
+    "longitude": -121.146069,
+    "feet": 7182,
+    "meters": 2189,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
