@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.1985,
+      42.49
+    ]
+  },
+  "properties": {
+    "name": "Peña Montañesa",
+    "latitude": 42.49,
+    "longitude": 0.1985,
+    "feet": 7516,
+    "meters": 2291,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
