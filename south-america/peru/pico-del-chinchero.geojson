@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Del Chinchero",
+    "feet": 14400,
+    "meters": 4389,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
