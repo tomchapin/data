@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "North Arapahoe Peak",
+    "feet": 13790,
+    "meters": 4203,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
