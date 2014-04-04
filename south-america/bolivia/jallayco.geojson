@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.233295,
+      -16.208381
+    ]
+  },
+  "properties": {
+    "name": "Jallayco",
+    "latitude": -16.208381,
+    "longitude": -68.233295,
+    "feet": 17139,
+    "meters": 5224,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
