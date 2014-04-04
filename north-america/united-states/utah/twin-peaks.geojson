@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.72,
+      40.5939
+    ]
+  },
+  "properties": {
+    "name": "Twin Peaks",
+    "latitude": 40.5939,
+    "longitude": -111.72,
+    "feet": 11330,
+    "meters": 3453,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
