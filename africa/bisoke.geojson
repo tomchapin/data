@@ -11,6 +11,8 @@
     "name": "Bisoke",
     "feet": 12175,
     "meters": 3711,
-    "continent": "Africa"
+    "continent": "Africa",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
