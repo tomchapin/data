@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tharpu Chuli",
+    "feet": 18044,
+    "meters": 5500,
+    "continent": "Asia",
+    "country": "Nepal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
