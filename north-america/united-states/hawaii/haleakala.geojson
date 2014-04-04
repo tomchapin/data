@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.177,
+      20.7047
+    ]
+  },
+  "properties": {
+    "name": "Haleakala",
+    "latitude": 20.7047,
+    "longitude": -156.177,
+    "feet": 11500,
+    "meters": 3505,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Hawaii"
+  }
+}
