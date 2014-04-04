@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.710861,
+      47.801251
+    ]
+  },
+  "properties": {
+    "name": "Mount Olympus",
+    "latitude": 47.801251,
+    "longitude": -123.710861,
+    "feet": 7965,
+    "meters": 2427,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
