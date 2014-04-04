@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piz Casnile",
+    "feet": 10462,
+    "meters": 3189,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
