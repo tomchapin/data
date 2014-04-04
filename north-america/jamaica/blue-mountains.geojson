@@ -12,6 +12,8 @@
     "feet": 7602,
     "meters": 2317,
     "continent": "North America",
-    "country": "Jamaica"
+    "country": "Jamaica",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
