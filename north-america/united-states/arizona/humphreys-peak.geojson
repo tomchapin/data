@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.683,
+      35.3333
+    ]
+  },
+  "properties": {
+    "name": "Humphreys Peak ",
+    "latitude": 35.3333,
+    "longitude": -111.683,
+    "feet": 12633,
+    "meters": 3851,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
