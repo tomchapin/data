@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.184,
+      39.2092
+    ]
+  },
+  "properties": {
+    "name": "Mount Sheridan",
+    "latitude": 39.2092,
+    "longitude": -106.184,
+    "feet": 13748,
+    "meters": 4190,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
