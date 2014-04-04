@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.610713,
+      46.918497
+    ]
+  },
+  "properties": {
+    "name": "Dege Peak",
+    "latitude": 46.918497,
+    "longitude": -121.610713,
+    "feet": 7006,
+    "meters": 2135,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
