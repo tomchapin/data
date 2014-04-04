@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0225,
+      65.4466
+    ]
+  },
+  "properties": {
+    "name": "Skjæringen",
+    "latitude": 65.4466,
+    "longitude": 12.0225,
+    "feet": 3402,
+    "meters": 1037,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
