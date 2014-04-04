@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.249107,
+      54.155599
+    ]
+  },
+  "properties": {
+    "name": "Pen-y-ghent",
+    "latitude": 54.155599,
+    "longitude": -2.249107,
+    "feet": 2288,
+    "meters": 697,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
