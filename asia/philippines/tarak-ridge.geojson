@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.492,
+      14.5058
+    ]
+  },
+  "properties": {
+    "name": "Tarak Ridge",
+    "latitude": 14.5058,
+    "longitude": 120.492,
+    "feet": 4226,
+    "meters": 1288,
+    "continent": "Asia",
+    "country": "Philippines",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
