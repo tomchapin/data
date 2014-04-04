@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2,
+      46.8
+    ]
+  },
+  "properties": {
+    "name": "Wilder Freiger",
+    "latitude": 46.8,
+    "longitude": 11.2,
+    "feet": 11214,
+    "meters": 3418,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
