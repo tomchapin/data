@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.653398,
+      36.423759
+    ]
+  },
+  "properties": {
+    "name": "Shisper Pak",
+    "latitude": 36.423759,
+    "longitude": 74.653398,
+    "feet": 24970,
+    "meters": 7611,
+    "continent": "Asia",
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
