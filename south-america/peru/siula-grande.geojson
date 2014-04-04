@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.8833,
+      -10.2833
+    ]
+  },
+  "properties": {
+    "name": "Siula Grande",
+    "latitude": -10.2833,
+    "longitude": -76.8833,
+    "feet": 2115,
+    "meters": 6344,
+    "continent": "South America",
+    "country": "Peru",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
