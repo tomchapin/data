@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Green",
+    "feet": 9311,
+    "meters": 2838,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
