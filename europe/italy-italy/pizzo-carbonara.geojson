@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0254,
+      37.89412
+    ]
+  },
+  "properties": {
+    "name": "Pizzo Carbonara",
+    "latitude": 37.89412,
+    "longitude": 14.0254,
+    "feet": 6493,
+    "meters": 1979,
+    "continent": "Europe",
+    "country": "Italy/Italy"
+  }
+}
