@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.865633,
+      42.886195
+    ]
+  },
+  "properties": {
+    "name": "North Pack Monadnock",
+    "latitude": 42.886195,
+    "longitude": -71.865633,
+    "feet": 2276,
+    "meters": 694,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
