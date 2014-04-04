@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.645569,
+      35.991296
+    ]
+  },
+  "properties": {
+    "name": "Sheepshead Peak",
+    "latitude": 35.991296,
+    "longitude": -105.645569,
+    "feet": 12696,
+    "meters": 3870,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
