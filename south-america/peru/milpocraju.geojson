@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.384992,
+      -9.377226
+    ]
+  },
+  "properties": {
+    "name": "Milpocraju",
+    "latitude": -9.377226,
+    "longitude": -77.384992,
+    "feet": 17388,
+    "meters": 5300,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
