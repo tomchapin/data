@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      79.2833,
+      30.7333
+    ]
+  },
+  "properties": {
+    "name": "Chaukhamba 1",
+    "latitude": 30.7333,
+    "longitude": 79.2833,
+    "feet": 23418,
+    "meters": 7138,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
