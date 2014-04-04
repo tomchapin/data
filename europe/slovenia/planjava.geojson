@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.633789,
+      46.362093
+    ]
+  },
+  "properties": {
+    "name": "Planjava",
+    "latitude": 46.362093,
+    "longitude": 14.633789,
+    "feet": 7854,
+    "meters": 2394,
+    "continent": "Europe",
+    "country": "Slovenia"
+  }
+}
