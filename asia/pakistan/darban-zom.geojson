@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Darban Zom",
+    "feet": 23687,
+    "meters": 7220,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
