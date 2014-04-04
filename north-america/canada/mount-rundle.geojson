@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.494118,
+      51.147371
+    ]
+  },
+  "properties": {
+    "name": "Mount Rundle",
+    "latitude": 51.147371,
+    "longitude": -115.494118,
+    "feet": 9675,
+    "meters": 2949,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
