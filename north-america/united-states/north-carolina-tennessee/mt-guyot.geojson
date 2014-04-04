@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.2575,
+      35.705
+    ]
+  },
+  "properties": {
+    "name": "Mt. Guyot",
+    "latitude": 35.705,
+    "longitude": -83.2575,
+    "feet": 6621,
+    "meters": 2018,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina,Tennessee"
+  }
+}
