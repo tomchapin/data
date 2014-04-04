@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.4819,
+      37.15
+    ]
+  },
+  "properties": {
+    "name": "Pik Karl Marx",
+    "latitude": 37.15,
+    "longitude": 72.4819,
+    "feet": 22057,
+    "meters": 6723,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
