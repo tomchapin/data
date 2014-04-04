@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8333,
+      46.3833
+    ]
+  },
+  "properties": {
+    "name": "Triglav",
+    "latitude": 46.3833,
+    "longitude": 13.8333,
+    "feet": 9396,
+    "meters": 2864,
+    "continent": "Europe",
+    "country": "Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
