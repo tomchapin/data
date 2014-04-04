@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.528144,
+      48.836532
+    ]
+  },
+  "properties": {
+    "name": "Icy Peak",
+    "latitude": 48.836532,
+    "longitude": -121.528144,
+    "feet": 7073,
+    "meters": 2156,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
