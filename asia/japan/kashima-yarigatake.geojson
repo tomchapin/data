@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.747,
+      36.6238
+    ]
+  },
+  "properties": {
+    "name": "Kashima Yarigatake",
+    "latitude": 36.6238,
+    "longitude": 137.747,
+    "feet": 9478,
+    "meters": 2889,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
