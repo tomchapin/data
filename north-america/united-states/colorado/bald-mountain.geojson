@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.846,
+      37.8964
+    ]
+  },
+  "properties": {
+    "name": "Bald Mountain",
+    "latitude": 37.8964,
+    "longitude": -107.846,
+    "feet": 11880,
+    "meters": 3621,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
