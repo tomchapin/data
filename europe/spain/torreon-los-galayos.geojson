@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.283051,
+      40.241799
+    ]
+  },
+  "properties": {
+    "name": "Torreón Los Galayos",
+    "latitude": 40.241799,
+    "longitude": -5.283051,
+    "feet": 6890,
+    "meters": 2100,
+    "continent": "Europe",
+    "country": "Spain",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
