@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.587549,
+      45.088913
+    ]
+  },
+  "properties": {
+    "name": "Whitetail Peak",
+    "latitude": 45.088913,
+    "longitude": -109.587549,
+    "feet": 12548,
+    "meters": 3825,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
