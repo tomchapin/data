@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.265045,
+      42.783811
+    ]
+  },
+  "properties": {
+    "name": "Picos del Infierno",
+    "latitude": 42.783811,
+    "longitude": -0.265045,
+    "feet": 10111,
+    "meters": 3082,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
