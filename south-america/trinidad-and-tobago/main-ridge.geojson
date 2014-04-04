@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.6308,
+      11.2769
+    ]
+  },
+  "properties": {
+    "name": "Main Ridge",
+    "latitude": 11.2769,
+    "longitude": -60.6308,
+    "feet": 1890,
+    "meters": 576,
+    "continent": "South America",
+    "country": "Trinidad and Tobago"
+  }
+}
