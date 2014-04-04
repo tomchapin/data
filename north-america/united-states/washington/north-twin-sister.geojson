@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.998324,
+      48.715459
+    ]
+  },
+  "properties": {
+    "name": "North Twin Sister",
+    "latitude": 48.715459,
+    "longitude": -121.998324,
+    "feet": 6640,
+    "meters": 2024,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
