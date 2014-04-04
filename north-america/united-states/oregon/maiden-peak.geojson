@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.968842,
+      43.629117
+    ]
+  },
+  "properties": {
+    "name": "Maiden Peak",
+    "latitude": 43.629117,
+    "longitude": -121.968842,
+    "feet": 7818,
+    "meters": 2383,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
