@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.085,
+      60.1352
+    ]
+  },
+  "properties": {
+    "name": "Paradise Peak",
+    "latitude": 60.1352,
+    "longitude": -149.085,
+    "feet": 5257,
+    "meters": 1602,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
