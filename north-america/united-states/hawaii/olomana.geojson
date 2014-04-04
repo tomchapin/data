@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -157.753611,
+      21.364167
+    ]
+  },
+  "properties": {
+    "name": "Olomana",
+    "latitude": 21.364167,
+    "longitude": -157.753611,
+    "feet": 1643,
+    "meters": 501,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Hawaii"
+  }
+}
