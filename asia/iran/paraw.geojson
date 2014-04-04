@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Paraw",
+    "feet": 10948,
+    "meters": 3337,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
