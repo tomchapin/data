@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.4833,
+      -54.75
+    ]
+  },
+  "properties": {
+    "name": "Monte Darwin",
+    "latitude": -54.75,
+    "longitude": -69.4833,
+    "feet": 8163,
+    "meters": 2488,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
