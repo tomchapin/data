@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.701201,
+      47.778559
+    ]
+  },
+  "properties": {
+    "name": "Hochblauen",
+    "latitude": 47.778559,
+    "longitude": 7.701201,
+    "feet": 3822,
+    "meters": 1165,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
