@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tamarack Mountain",
+    "feet": 7200,
+    "meters": 2195,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Idaho",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
