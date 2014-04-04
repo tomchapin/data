@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.3667,
+      38.8354
+    ]
+  },
+  "properties": {
+    "name": "Seneca Rocks",
+    "latitude": 38.8354,
+    "longitude": -79.3667,
+    "feet": 2200,
+    "meters": 671,
+    "continent": "North America",
+    "country": "United States",
+    "state": "West Virginia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
