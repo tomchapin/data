@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.877044,
+      44.422064
+    ]
+  },
+  "properties": {
+    "name": "Hogg Rock",
+    "latitude": 44.422064,
+    "longitude": -121.877044,
+    "feet": 5080,
+    "meters": 1548,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
