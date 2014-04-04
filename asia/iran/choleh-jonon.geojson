@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "choleh-jonon",
+    "feet": 12959,
+    "meters": 3950,
+    "continent": "Asia",
+    "country": "Iran"
+  }
+}
