@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.72301,
+      56.5043
+    ]
+  },
+  "properties": {
+    "name": "Beinn Dorain",
+    "latitude": 56.5043,
+    "longitude": -4.72301,
+    "feet": 3530,
+    "meters": 1076,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
