@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.205034,
+      46.823615
+    ]
+  },
+  "properties": {
+    "name": "Nelson Butte",
+    "latitude": 46.823615,
+    "longitude": -121.205034,
+    "feet": 7160,
+    "meters": 2182,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
