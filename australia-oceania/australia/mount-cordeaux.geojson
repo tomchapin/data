@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.39316,
+      -28.041834
+    ]
+  },
+  "properties": {
+    "name": "Mount Cordeaux",
+    "latitude": -28.041834,
+    "longitude": 152.39316,
+    "feet": 3753,
+    "meters": 1144,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
