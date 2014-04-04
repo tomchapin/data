@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.617,
+      43.1167
+    ]
+  },
+  "properties": {
+    "name": "Fremont Peak",
+    "latitude": 43.1167,
+    "longitude": -109.617,
+    "feet": 13745,
+    "meters": 4190,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
