@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.9871,
+      39.076
+    ]
+  },
+  "properties": {
+    "name": "North Maroon Peak",
+    "latitude": 39.076,
+    "longitude": -106.9871,
+    "feet": 14019,
+    "meters": 4273,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
