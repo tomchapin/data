@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1073,
+      54.5054
+    ]
+  },
+  "properties": {
+    "name": "Roseberry Topping",
+    "latitude": 54.5054,
+    "longitude": -1.1073,
+    "feet": 1049,
+    "meters": 320,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
