@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.863889,
+      43.470651
+    ]
+  },
+  "properties": {
+    "name": "Odell Butte",
+    "latitude": 43.470651,
+    "longitude": -121.863889,
+    "feet": 7032,
+    "meters": 2143,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
