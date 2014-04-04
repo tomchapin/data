@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.001034,
+      8.810355
+    ]
+  },
+  "properties": {
+    "name": "Pan de Azúcar",
+    "latitude": 8.810355,
+    "longitude": -71.001034,
+    "feet": 15233,
+    "meters": 4643,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
