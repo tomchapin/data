@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.74162,
+      42.4596
+    ]
+  },
+  "properties": {
+    "name": "Warner Peak",
+    "latitude": 42.4596,
+    "longitude": -119.74162,
+    "feet": 8017,
+    "meters": 2444,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
