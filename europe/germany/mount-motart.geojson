@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount. Motart",
+    "feet": 8934,
+    "meters": 2723,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
