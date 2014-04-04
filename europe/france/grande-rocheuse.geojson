@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.972918,
+      45.934574
+    ]
+  },
+  "properties": {
+    "name": "Grande Rocheuse",
+    "latitude": 45.934574,
+    "longitude": 6.972918,
+    "feet": 13458,
+    "meters": 4102,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
