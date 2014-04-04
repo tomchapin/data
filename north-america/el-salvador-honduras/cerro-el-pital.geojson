@@ -14,6 +14,8 @@
     "feet": 8957,
     "meters": 2730,
     "continent": "North America",
-    "country": "El Salvador/Honduras"
+    "country": "El Salvador/Honduras",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
