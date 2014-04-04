@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Angel",
+    "feet": 22500,
+    "meters": 6858,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
