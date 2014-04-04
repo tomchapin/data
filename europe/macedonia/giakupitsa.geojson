@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7,
+      47.0333
+    ]
+  },
+  "properties": {
+    "name": "Giakupitsa",
+    "latitude": 47.0333,
+    "longitude": 8.7,
+    "feet": 2540,
+    "meters": 774,
+    "continent": "Europe",
+    "country": "Macedonia"
+  }
+}
