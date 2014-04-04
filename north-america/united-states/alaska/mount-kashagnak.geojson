@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.693329,
+      59.377499
+    ]
+  },
+  "properties": {
+    "name": "Mount Kashagnak",
+    "latitude": 59.377499,
+    "longitude": -135.693329,
+    "feet": 5670,
+    "meters": 1728,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
