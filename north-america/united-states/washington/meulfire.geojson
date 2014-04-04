@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.858493,
+      48.536159
+    ]
+  },
+  "properties": {
+    "name": "Meulfire",
+    "latitude": 48.536159,
+    "longitude": -120.858493,
+    "feet": 7930,
+    "meters": 2417,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
