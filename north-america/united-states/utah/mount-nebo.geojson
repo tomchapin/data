@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.759,
+      39.8217
+    ]
+  },
+  "properties": {
+    "name": "Mount Nebo",
+    "latitude": 39.8217,
+    "longitude": -111.759,
+    "feet": 11928,
+    "meters": 3636,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
