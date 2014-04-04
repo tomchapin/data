@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.206408,
+      48.351629
+    ]
+  },
+  "properties": {
+    "name": "Mount Buckindy",
+    "latitude": 48.351629,
+    "longitude": -121.206408,
+    "feet": 7320,
+    "meters": 2231,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
