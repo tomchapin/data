@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -22.159424,
+      70.877091
+    ]
+  },
+  "properties": {
+    "name": "Gemini",
+    "latitude": 70.877091,
+    "longitude": -22.159424,
+    "feet": 3609,
+    "meters": 1100,
+    "continent": "North America",
+    "country": "Greenland/Greenland"
+  }
+}
