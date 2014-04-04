@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.44,
+      37.5847
+    ]
+  },
+  "properties": {
+    "name": "Mount Lindsey",
+    "latitude": 37.5847,
+    "longitude": -105.44,
+    "feet": 14042,
+    "meters": 4280,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
