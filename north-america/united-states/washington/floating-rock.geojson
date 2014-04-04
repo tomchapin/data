@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Floating Rock",
+    "feet": 5120,
+    "meters": 1561,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
