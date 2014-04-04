@@ -12,6 +12,8 @@
     "feet": 16732,
     "meters": 5100,
     "continent": "South America",
-    "country": "Argentina"
+    "country": "Argentina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
