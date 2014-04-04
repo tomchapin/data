@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.128645,
+      -35.49497
+    ]
+  },
+  "properties": {
+    "name": "Mount Rob Roy",
+    "latitude": -35.49497,
+    "longitude": 149.128645,
+    "feet": 3563,
+    "meters": 1086,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
