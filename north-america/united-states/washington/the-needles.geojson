@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.649,
+      48.5989
+    ]
+  },
+  "properties": {
+    "name": "The Needles",
+    "latitude": 48.5989,
+    "longitude": -120.649,
+    "feet": 8170,
+    "meters": 2490,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
