@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.681671,
+      51.840126
+    ]
+  },
+  "properties": {
+    "name": "Mount Chephren",
+    "latitude": 51.840126,
+    "longitude": -116.681671,
+    "feet": 10741,
+    "meters": 3274,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
