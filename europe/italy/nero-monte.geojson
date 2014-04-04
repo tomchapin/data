@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.358318,
+      45.524665
+    ]
+  },
+  "properties": {
+    "name": "Nero (Monte)",
+    "latitude": 45.524665,
+    "longitude": 7.358318,
+    "feet": 11227,
+    "meters": 3422,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
