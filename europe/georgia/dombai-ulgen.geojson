@@ -14,6 +14,8 @@
     "feet": 13274,
     "meters": 4046,
     "continent": "Europe",
-    "country": "Georgia"
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
