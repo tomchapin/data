@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.4667,
+      38.5333
+    ]
+  },
+  "properties": {
+    "name": "Erciyes",
+    "latitude": 38.5333,
+    "longitude": 35.4667,
+    "feet": 12851,
+    "meters": 3917,
+    "continent": "Asia",
+    "country": "Turkey"
+  }
+}
