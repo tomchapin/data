@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.163597,
+      51.297457
+    ]
+  },
+  "properties": {
+    "name": "Fay",
+    "latitude": 51.297457,
+    "longitude": -116.163597,
+    "feet": 10610,
+    "meters": 3234,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
