@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.416901,
+      36.556941
+    ]
+  },
+  "properties": {
+    "name": "Wheeler Peak",
+    "latitude": 36.556941,
+    "longitude": -105.416901,
+    "feet": 13161,
+    "meters": 4011,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
