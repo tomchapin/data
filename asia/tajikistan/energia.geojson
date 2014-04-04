@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.199556,
+      39.18204
+    ]
+  },
+  "properties": {
+    "name": "Energia",
+    "latitude": 39.18204,
+    "longitude": 68.199556,
+    "feet": 16798,
+    "meters": 5120,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
