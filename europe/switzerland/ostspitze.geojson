@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.867399,
+      45.936854
+    ]
+  },
+  "properties": {
+    "name": "Ostspitze",
+    "latitude": 45.936854,
+    "longitude": 7.867399,
+    "feet": 15197,
+    "meters": 4632,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
