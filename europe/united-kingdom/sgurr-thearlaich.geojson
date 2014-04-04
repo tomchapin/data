@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.22247,
+      57.2068
+    ]
+  },
+  "properties": {
+    "name": "Sgurr Thearlaich",
+    "latitude": 57.2068,
+    "longitude": -6.22247,
+    "feet": 3208,
+    "meters": 978,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
