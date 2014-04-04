@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cat Bells",
+    "feet": 1480,
+    "meters": 451,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
