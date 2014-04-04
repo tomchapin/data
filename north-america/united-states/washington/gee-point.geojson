@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.82662,
+      48.429115
+    ]
+  },
+  "properties": {
+    "name": "Gee Point",
+    "latitude": 48.429115,
+    "longitude": -121.82662,
+    "feet": 4974,
+    "meters": 1516,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
