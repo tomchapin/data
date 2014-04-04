@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.88003,
+      37.215599
+    ]
+  },
+  "properties": {
+    "name": "Checkerboard Mesa",
+    "latitude": 37.215599,
+    "longitude": -112.88003,
+    "feet": 6680,
+    "meters": 2036,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
