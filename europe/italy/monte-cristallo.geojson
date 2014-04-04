@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Cristallo",
+    "feet": 10567,
+    "meters": 3221,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
