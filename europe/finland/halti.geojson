@@ -12,6 +12,8 @@
     "feet": 4357,
     "meters": 1328,
     "continent": "Europe",
-    "country": "Finland"
+    "country": "Finland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
