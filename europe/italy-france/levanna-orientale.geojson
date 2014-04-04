@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.25,
+      45.3833
+    ]
+  },
+  "properties": {
+    "name": "Levanna Orientale",
+    "latitude": 45.3833,
+    "longitude": 5.25,
+    "feet": 11663,
+    "meters": 3555,
+    "continent": "Europe",
+    "country": "Italy/France"
+  }
+}
