@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.012087,
+      48.982245
+    ]
+  },
+  "properties": {
+    "name": "Hozomeen",
+    "latitude": 48.982245,
+    "longitude": -121.012087,
+    "feet": 8066,
+    "meters": 2459,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
