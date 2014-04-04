@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.8167,
+      27.7833
+    ]
+  },
+  "properties": {
+    "name": "Kangtega",
+    "latitude": 27.7833,
+    "longitude": 86.8167,
+    "feet": 22250,
+    "meters": 6782,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
