@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.382938,
+      47.465526
+    ]
+  },
+  "properties": {
+    "name": "Heubatspitze",
+    "latitude": 47.465526,
+    "longitude": 10.382938,
+    "feet": 6588,
+    "meters": 2008,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
