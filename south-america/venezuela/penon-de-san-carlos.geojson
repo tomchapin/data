@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.347302,
+      10.387474
+    ]
+  },
+  "properties": {
+    "name": "Peñón de San Carlos",
+    "latitude": 10.387474,
+    "longitude": -67.347302,
+    "feet": 7680,
+    "meters": 2341,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
