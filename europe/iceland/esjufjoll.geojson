@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.0667,
+      64.0333
+    ]
+  },
+  "properties": {
+    "name": "Esjufjöll",
+    "latitude": 64.0333,
+    "longitude": -16.0667,
+    "feet": 5029,
+    "meters": 1533,
+    "continent": "Europe",
+    "country": "Iceland"
+  }
+}
