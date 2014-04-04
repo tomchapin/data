@@ -14,6 +14,8 @@
     "feet": 5105,
     "meters": 1556,
     "continent": "Australia/Oceania",
-    "country": "Papua New Guinea"
+    "country": "Papua New Guinea",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
