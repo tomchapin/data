@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0,
+      -22.0
+    ]
+  },
+  "properties": {
+    "name": "Pondoks",
+    "latitude": -22.0,
+    "longitude": 15.0,
+    "feet": 5020,
+    "meters": 1530,
+    "continent": "Africa",
+    "country": "Namibia"
+  }
+}
