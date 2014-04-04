@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.5333,
+      39.5333
+    ]
+  },
+  "properties": {
+    "name": "Koziakas",
+    "latitude": 39.5333,
+    "longitude": 21.5333,
+    "feet": 6237,
+    "meters": 1901,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
