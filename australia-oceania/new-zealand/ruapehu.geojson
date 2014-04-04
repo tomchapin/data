@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      175.561523,
+      -39.289804
+    ]
+  },
+  "properties": {
+    "name": "Ruapehu",
+    "latitude": -39.289804,
+    "longitude": 175.561523,
+    "feet": 9175,
+    "meters": 2796,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
