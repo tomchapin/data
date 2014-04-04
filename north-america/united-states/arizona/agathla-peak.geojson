@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.217,
+      36.8167
+    ]
+  },
+  "properties": {
+    "name": "Agathla Peak",
+    "latitude": 36.8167,
+    "longitude": -110.217,
+    "feet": 7100,
+    "meters": 2164,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
