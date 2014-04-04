@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -113.919,
+      39.8283
+    ]
+  },
+  "properties": {
+    "name": "Ibapah",
+    "latitude": 39.8283,
+    "longitude": -113.919,
+    "feet": 12101,
+    "meters": 3688,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
