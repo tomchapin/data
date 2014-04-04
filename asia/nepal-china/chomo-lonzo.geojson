@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      87.108056,
+      27.93
+    ]
+  },
+  "properties": {
+    "name": "Chomo Lonzo",
+    "latitude": 27.93,
+    "longitude": 87.108056,
+    "feet": 25650,
+    "meters": 7818,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
