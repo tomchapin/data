@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.098,
+      38.9061
+    ]
+  },
+  "properties": {
+    "name": "Mount Tallac",
+    "latitude": 38.9061,
+    "longitude": -120.098,
+    "feet": 9735,
+    "meters": 2967,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
