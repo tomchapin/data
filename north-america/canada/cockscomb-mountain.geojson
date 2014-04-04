@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.724788,
+      51.236933
+    ]
+  },
+  "properties": {
+    "name": "Cockscomb Mountain",
+    "latitude": 51.236933,
+    "longitude": -115.724788,
+    "feet": 9108,
+    "meters": 2776,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
