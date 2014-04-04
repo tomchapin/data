@@ -12,6 +12,8 @@
     "feet": 9500,
     "meters": 2896,
     "continent": "Africa",
-    "country": "Tanzania"
+    "country": "Tanzania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
