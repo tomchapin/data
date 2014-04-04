@@ -12,6 +12,8 @@
     "feet": 12451,
     "meters": 3795,
     "continent": "Europe",
-    "country": "Switzerland"
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
