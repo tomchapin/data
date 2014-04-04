@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.260636,
+      47.521664
+    ]
+  },
+  "properties": {
+    "name": "Mount Ellinor",
+    "latitude": 47.521664,
+    "longitude": -123.260636,
+    "feet": 5944,
+    "meters": 1812,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
