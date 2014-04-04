@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.753822,
+      35.947717
+    ]
+  },
+  "properties": {
+    "name": "Baintha Brakk",
+    "latitude": 35.947717,
+    "longitude": 75.753822,
+    "feet": 23901,
+    "meters": 7285,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
