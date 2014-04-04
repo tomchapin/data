@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.28119,
+      54.4975
+    ]
+  },
+  "properties": {
+    "name": "Pillar",
+    "latitude": 54.4975,
+    "longitude": -3.28119,
+    "feet": 2926,
+    "meters": 892,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
