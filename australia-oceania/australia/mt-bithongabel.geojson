@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.171189,
+      -28.262422
+    ]
+  },
+  "properties": {
+    "name": "Mt Bithongabel",
+    "latitude": -28.262422,
+    "longitude": 153.171189,
+    "feet": 3904,
+    "meters": 1190,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
