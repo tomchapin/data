@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Serles",
+    "feet": 8917,
+    "meters": 2718,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
