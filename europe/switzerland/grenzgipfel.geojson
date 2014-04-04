@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.868,
+      45.93675
+    ]
+  },
+  "properties": {
+    "name": "Grenzgipfel",
+    "latitude": 45.93675,
+    "longitude": 7.868,
+    "feet": 15151,
+    "meters": 4618,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
