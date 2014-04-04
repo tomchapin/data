@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.171,
+      52.239
+    ]
+  },
+  "properties": {
+    "name": "Nigel Peak",
+    "latitude": 52.239,
+    "longitude": -117.171,
+    "feet": 10535,
+    "meters": 3211,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
