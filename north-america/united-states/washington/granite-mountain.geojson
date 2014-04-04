@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.481205,
+      47.417334
+    ]
+  },
+  "properties": {
+    "name": "Granite Mountain",
+    "latitude": 47.417334,
+    "longitude": -121.481205,
+    "feet": 5629,
+    "meters": 1716,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
