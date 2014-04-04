@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Irazu",
+    "feet": 11260,
+    "meters": 3432,
+    "continent": "North America",
+    "country": "Costa Rica"
+  }
+}
