@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.907783,
+      38.940167
+    ]
+  },
+  "properties": {
+    "name": "Petkash Peak",
+    "latitude": 38.940167,
+    "longitude": -104.907783,
+    "feet": 8961,
+    "meters": 2731,
+    "continent": "North America",
+    "country": "United States/United States",
+    "state": "Colorado/Colorado"
+  }
+}
