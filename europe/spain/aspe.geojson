@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.567169,
+      42.764784
+    ]
+  },
+  "properties": {
+    "name": "Aspe",
+    "latitude": 42.764784,
+    "longitude": -0.567169,
+    "feet": 8678,
+    "meters": 2645,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
