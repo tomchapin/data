@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.337015,
+      34.020048
+    ]
+  },
+  "properties": {
+    "name": "Affarwat",
+    "latitude": 34.020048,
+    "longitude": 74.337015,
+    "feet": 13593,
+    "meters": 4143,
+    "continent": "Asia",
+    "country": "India/Pakistan"
+  }
+}
