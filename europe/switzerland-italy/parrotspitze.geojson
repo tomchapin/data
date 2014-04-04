@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Parrotspitze",
+    "feet": 14541,
+    "meters": 4432,
+    "continent": "Europe",
+    "country": "Switzerland/Italy"
+  }
+}
