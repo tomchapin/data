@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5167,
+      47.2167
+    ]
+  },
+  "properties": {
+    "name": "Leiterspitze",
+    "latitude": 47.2167,
+    "longitude": 10.5167,
+    "feet": 9022,
+    "meters": 2750,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
