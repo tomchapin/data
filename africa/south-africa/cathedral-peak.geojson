@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.15,
+      -28.9167
+    ]
+  },
+  "properties": {
+    "name": "Cathedral Peak",
+    "latitude": -28.9167,
+    "longitude": 29.15,
+    "feet": 9856,
+    "meters": 3004,
+    "continent": "Africa",
+    "country": "South Africa"
+  }
+}
