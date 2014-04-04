@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.9667,
+      -50.9833
+    ]
+  },
+  "properties": {
+    "name": "Paine Grande",
+    "latitude": -50.9833,
+    "longitude": -72.9667,
+    "feet": 10006,
+    "meters": 3050,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
