@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.5556,
+      38.6028
+    ]
+  },
+  "properties": {
+    "name": "Kholodnaja Stena",
+    "latitude": 38.6028,
+    "longitude": 72.5556,
+    "feet": 19511,
+    "meters": 5947,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
