@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.721094,
+      44.162566
+    ]
+  },
+  "properties": {
+    "name": "Giant",
+    "latitude": 44.162566,
+    "longitude": -73.721094,
+    "feet": 4629,
+    "meters": 1411,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
