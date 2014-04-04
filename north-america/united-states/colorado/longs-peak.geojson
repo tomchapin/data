@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.615,
+      40.2547
+    ]
+  },
+  "properties": {
+    "name": "Longs Peak",
+    "latitude": 40.2547,
+    "longitude": -105.615,
+    "feet": 14258,
+    "meters": 4346,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
