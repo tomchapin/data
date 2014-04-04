@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.5833,
+      39.3167
+    ]
+  },
+  "properties": {
+    "name": "Karava",
+    "latitude": 39.3167,
+    "longitude": 21.5833,
+    "feet": 7165,
+    "meters": 2184,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
