@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.06,
+      44.16
+    ]
+  },
+  "properties": {
+    "name": "Mount Regan",
+    "latitude": 44.16,
+    "longitude": -115.06,
+    "feet": 10190,
+    "meters": 3106,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Idaho"
+  }
+}
