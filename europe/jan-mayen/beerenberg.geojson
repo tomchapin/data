@@ -14,6 +14,8 @@
     "feet": 7470,
     "meters": 2277,
     "continent": "Europe",
-    "country": "Jan Mayen"
+    "country": "Jan Mayen",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
