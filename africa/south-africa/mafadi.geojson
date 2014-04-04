@@ -14,6 +14,8 @@
     "feet": 11319,
     "meters": 3450,
     "continent": "Africa",
-    "country": "South Africa"
+    "country": "South Africa",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
