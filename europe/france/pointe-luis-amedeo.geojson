@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pointe Luis-Amedeo",
+    "feet": 14662,
+    "meters": 4469,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
