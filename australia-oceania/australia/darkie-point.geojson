@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.428736,
+      -30.419129
+    ]
+  },
+  "properties": {
+    "name": "Darkie Point",
+    "latitude": -30.419129,
+    "longitude": 152.428736,
+    "feet": 5000,
+    "meters": 1524,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
