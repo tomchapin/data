@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.411682,
+      32.99945
+    ]
+  },
+  "properties": {
+    "name": "Har Meron",
+    "latitude": 32.99945,
+    "longitude": 35.411682,
+    "feet": 3963,
+    "meters": 1208,
+    "continent": "Asia",
+    "country": "Israel"
+  }
+}
