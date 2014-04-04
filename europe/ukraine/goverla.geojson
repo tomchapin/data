@@ -12,6 +12,8 @@
     "feet": 6762,
     "meters": 2061,
     "continent": "Europe",
-    "country": "Ukraine"
+    "country": "Ukraine",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
