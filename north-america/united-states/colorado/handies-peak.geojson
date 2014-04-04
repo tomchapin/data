@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.504,
+      37.9131
+    ]
+  },
+  "properties": {
+    "name": "Handies Peak",
+    "latitude": 37.9131,
+    "longitude": -107.504,
+    "feet": 14048,
+    "meters": 4282,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
