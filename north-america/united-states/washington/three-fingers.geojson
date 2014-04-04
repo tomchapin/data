@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.687789,
+      48.169949
+    ]
+  },
+  "properties": {
+    "name": "Three Fingers",
+    "latitude": 48.169949,
+    "longitude": -121.687789,
+    "feet": 6854,
+    "meters": 2089,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
