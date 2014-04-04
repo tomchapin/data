@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -158.167,
+      56.8833
+    ]
+  },
+  "properties": {
+    "name": "Aniakchak",
+    "latitude": 56.8833,
+    "longitude": -158.167,
+    "feet": 4400,
+    "meters": 1341,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
