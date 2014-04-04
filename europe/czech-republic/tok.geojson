@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Tok",
+    "feet": 2838,
+    "meters": 865,
+    "continent": "Europe",
+    "country": "Czech Republic",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
