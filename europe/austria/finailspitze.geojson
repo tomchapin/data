@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Finailspitze",
+    "feet": 11535,
+    "meters": 3516,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
