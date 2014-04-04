@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.638251,
+      44.418735
+    ]
+  },
+  "properties": {
+    "name": "Mount Hunger",
+    "latitude": 44.418735,
+    "longitude": -72.638251,
+    "feet": 3540,
+    "meters": 1079,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Vermont"
+  }
+}
