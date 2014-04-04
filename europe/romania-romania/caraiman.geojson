@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.493603,
+      45.416407
+    ]
+  },
+  "properties": {
+    "name": "Caraiman",
+    "latitude": 45.416407,
+    "longitude": 25.493603,
+    "feet": 7822,
+    "meters": 2384,
+    "continent": "Europe",
+    "country": "Romania/Romania"
+  }
+}
