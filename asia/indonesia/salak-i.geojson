@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.734,
+      -6.71542
+    ]
+  },
+  "properties": {
+    "name": "SALAK I",
+    "latitude": -6.71542,
+    "longitude": 106.734,
+    "feet": 7254,
+    "meters": 2211,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
