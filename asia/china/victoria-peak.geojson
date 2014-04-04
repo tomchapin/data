@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.167,
+      22.25
+    ]
+  },
+  "properties": {
+    "name": "Victoria Peak",
+    "latitude": 22.25,
+    "longitude": 114.167,
+    "feet": 1811,
+    "meters": 552,
+    "continent": "Asia",
+    "country": "China",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
