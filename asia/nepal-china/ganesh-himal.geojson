@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.126963,
+      28.391551
+    ]
+  },
+  "properties": {
+    "name": "Ganesh Himal",
+    "latitude": 28.391551,
+    "longitude": 85.126963,
+    "feet": 24373,
+    "meters": 7429,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
