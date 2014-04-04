@@ -14,6 +14,8 @@
     "feet": 6736,
     "meters": 2053,
     "continent": "Europe",
-    "country": "Liechtenstein"
+    "country": "Liechtenstein",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
