@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Cristo",
+    "feet": 11132,
+    "meters": 3393,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
