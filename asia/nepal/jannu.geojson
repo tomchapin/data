@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      88.0458,
+      27.6828
+    ]
+  },
+  "properties": {
+    "name": "Jannu",
+    "latitude": 27.6828,
+    "longitude": 88.0458,
+    "feet": 25295,
+    "meters": 7710,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
