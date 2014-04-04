@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Olleta Crater",
+    "feet": 15912,
+    "meters": 4850,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
