@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.180465,
+      0.261636
+    ]
+  },
+  "properties": {
+    "name": "Imbabura Norte",
+    "latitude": 0.261636,
+    "longitude": -78.180465,
+    "feet": 15026,
+    "meters": 4580,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
