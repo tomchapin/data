@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.3917,
+      51.0533
+    ]
+  },
+  "properties": {
+    "name": "Mount Lawrence Grassi",
+    "latitude": 51.0533,
+    "longitude": -115.3917,
+    "feet": 8799,
+    "meters": 2682,
+    "continent": "North America",
+    "country": "Canada/Canada"
+  }
+}
