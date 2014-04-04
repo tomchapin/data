@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.043,
+      40.8727
+    ]
+  },
+  "properties": {
+    "name": "Nipple Peak",
+    "latitude": 40.8727,
+    "longitude": -107.043,
+    "feet": 10324,
+    "meters": 3147,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
