@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rumbak Kangri",
+    "feet": 18359,
+    "meters": 5596,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
