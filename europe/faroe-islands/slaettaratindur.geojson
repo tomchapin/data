@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Slættaratindur",
+    "feet": 2894,
+    "meters": 882,
+    "continent": "Europe",
+    "country": "Faroe Islands",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
