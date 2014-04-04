@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pedra Da Gavea",
+    "feet": 2297,
+    "meters": 700,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
