@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.599469,
+      48.195645
+    ]
+  },
+  "properties": {
+    "name": "Jumbo Mountain",
+    "latitude": 48.195645,
+    "longitude": -121.599469,
+    "feet": 5840,
+    "meters": 1780,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
