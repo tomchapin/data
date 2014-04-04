@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.423,
+      48.172
+    ]
+  },
+  "properties": {
+    "name": "Petros",
+    "latitude": 48.172,
+    "longitude": 24.423,
+    "feet": 6627,
+    "meters": 2020,
+    "continent": "Europe",
+    "country": "Ukraine"
+  }
+}
