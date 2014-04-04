@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.51538,
+      46.14386
+    ]
+  },
+  "properties": {
+    "name": "Sasseneire",
+    "latitude": 46.14386,
+    "longitude": 7.51538,
+    "feet": 10673,
+    "meters": 3253,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
