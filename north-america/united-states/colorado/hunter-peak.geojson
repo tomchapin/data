@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.904,
+      39.053
+    ]
+  },
+  "properties": {
+    "name": "Hunter Peak",
+    "latitude": 39.053,
+    "longitude": -106.904,
+    "feet": 13497,
+    "meters": 4114,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
