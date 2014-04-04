@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.302694,
+      46.386965
+    ]
+  },
+  "properties": {
+    "name": "White Butte",
+    "latitude": 46.386965,
+    "longitude": -103.302694,
+    "feet": 3506,
+    "meters": 1069,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Dakota",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
