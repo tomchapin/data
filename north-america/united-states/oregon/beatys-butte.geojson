@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.3307,
+      42.386
+    ]
+  },
+  "properties": {
+    "name": "Beatys Butte",
+    "latitude": 42.386,
+    "longitude": -119.3307,
+    "feet": 7918,
+    "meters": 2413,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
