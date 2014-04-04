@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.867138,
+      45.301335
+    ]
+  },
+  "properties": {
+    "name": "Mont Gosford",
+    "latitude": 45.301335,
+    "longitude": -70.867138,
+    "feet": 3914,
+    "meters": 1193,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
