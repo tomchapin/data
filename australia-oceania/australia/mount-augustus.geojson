@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.835,
+      -24.3103
+    ]
+  },
+  "properties": {
+    "name": "Mount Augustus",
+    "latitude": -24.3103,
+    "longitude": 116.835,
+    "feet": 3627,
+    "meters": 1106,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
