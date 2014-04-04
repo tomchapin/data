@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -102.037141,
+      39.021982
+    ]
+  },
+  "properties": {
+    "name": "Mount Sunflower",
+    "latitude": 39.021982,
+    "longitude": -102.037141,
+    "feet": 4039,
+    "meters": 1231,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Kansas",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
