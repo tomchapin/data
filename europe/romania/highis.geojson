@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.809172,
+      46.207756
+    ]
+  },
+  "properties": {
+    "name": "Highis",
+    "latitude": 46.207756,
+    "longitude": 21.809172,
+    "feet": 2625,
+    "meters": 800,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
