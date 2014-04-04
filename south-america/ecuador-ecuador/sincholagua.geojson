@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.367882,
+      -0.538494
+    ]
+  },
+  "properties": {
+    "name": "Sincholagua",
+    "latitude": -0.538494,
+    "longitude": -78.367882,
+    "feet": 16053,
+    "meters": 4893,
+    "continent": "South America",
+    "country": "Ecuador/Ecuador",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
