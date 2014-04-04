@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.056393,
+      47.561701
+    ]
+  },
+  "properties": {
+    "name": "Schneibstein",
+    "latitude": 47.561701,
+    "longitude": 13.056393,
+    "feet": 7459,
+    "meters": 2274,
+    "continent": "Europe",
+    "country": "Germany/Austria"
+  }
+}
