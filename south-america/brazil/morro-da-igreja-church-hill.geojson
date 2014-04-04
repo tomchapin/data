@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Morro da Igreja(church hill)",
+    "feet": 5978,
+    "meters": 1822,
+    "continent": "South America",
+    "country": "Brazil"
+  }
+}
