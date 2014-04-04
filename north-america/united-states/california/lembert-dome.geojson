@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.346823,
+      37.88187
+    ]
+  },
+  "properties": {
+    "name": "Lembert Dome",
+    "latitude": 37.88187,
+    "longitude": -119.346823,
+    "feet": 9450,
+    "meters": 2880,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
