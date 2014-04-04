@@ -13,6 +13,8 @@
     "longitude": 11.819722,
     "feet": 9432,
     "meters": 2875,
-    "continent": "Europe"
+    "continent": "Europe",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
