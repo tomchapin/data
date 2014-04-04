@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ingleborough",
+    "feet": 2376,
+    "meters": 724,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
