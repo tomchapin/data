@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.080162,
+      46.400735
+    ]
+  },
+  "properties": {
+    "name": "Amariana",
+    "latitude": 46.400735,
+    "longitude": 13.080162,
+    "feet": 6250,
+    "meters": 1905,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
