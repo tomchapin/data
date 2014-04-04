@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Timesguida",
+    "feet": 13415,
+    "meters": 4089,
+    "continent": "Africa",
+    "country": "Morocco",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
