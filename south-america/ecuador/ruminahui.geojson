@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Rumiñahui",
+    "feet": 15459,
+    "meters": 4712,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
