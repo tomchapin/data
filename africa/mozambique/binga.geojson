@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.066667,
+      -19.783333
+    ]
+  },
+  "properties": {
+    "name": "Binga",
+    "latitude": -19.783333,
+    "longitude": 33.066667,
+    "feet": 7995,
+    "meters": 2437,
+    "continent": "Africa",
+    "country": "Mozambique"
+  }
+}
