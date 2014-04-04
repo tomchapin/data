@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.78697,
+      47.631793
+    ]
+  },
+  "properties": {
+    "name": "Weitschartenkopf, Großer",
+    "latitude": 47.631793,
+    "longitude": 12.78697,
+    "feet": 6491,
+    "meters": 1978,
+    "continent": "Europe",
+    "country": "Germany/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
