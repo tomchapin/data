@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.823056,
+      35.513333
+    ]
+  },
+  "properties": {
+    "name": "Karakoram Pass",
+    "latitude": 35.513333,
+    "longitude": 77.823056,
+    "feet": 18176,
+    "meters": 5540,
+    "continent": "Asia",
+    "country": "Pakistan/India"
+  }
+}
