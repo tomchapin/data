@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.91547,
+      31.0611
+    ]
+  },
+  "properties": {
+    "name": "Toubkal",
+    "latitude": 31.0611,
+    "longitude": -7.91547,
+    "feet": 13665,
+    "meters": 4167,
+    "continent": "Africa",
+    "country": "Morocco",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
