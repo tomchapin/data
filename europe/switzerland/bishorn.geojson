@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bishorn",
+    "feet": 13625,
+    "meters": 4153,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
