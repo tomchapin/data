@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.610447,
+      28.202465
+    ]
+  },
+  "properties": {
+    "name": "Kyangjin",
+    "latitude": 28.202465,
+    "longitude": 85.610447,
+    "feet": 14272,
+    "meters": 4350,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
