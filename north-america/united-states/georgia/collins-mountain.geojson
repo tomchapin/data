@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.9168,
+      34.3747
+    ]
+  },
+  "properties": {
+    "name": "Collins mountain",
+    "latitude": 34.3747,
+    "longitude": -84.9168,
+    "feet": 2800,
+    "meters": 853,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Georgia"
+  }
+}
