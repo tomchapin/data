@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.673026,
+      46.925443
+    ]
+  },
+  "properties": {
+    "name": "Mount Fremont",
+    "latitude": 46.925443,
+    "longitude": -121.673026,
+    "feet": 7317,
+    "meters": 2230,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
