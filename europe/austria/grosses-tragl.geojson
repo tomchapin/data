@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.033333,
+      47.616667
+    ]
+  },
+  "properties": {
+    "name": "Grosses Tragl",
+    "latitude": 47.616667,
+    "longitude": 14.033333,
+    "feet": 7149,
+    "meters": 2179,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
