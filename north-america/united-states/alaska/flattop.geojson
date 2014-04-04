@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.665,
+      61.0906
+    ]
+  },
+  "properties": {
+    "name": "Flattop",
+    "latitude": 61.0906,
+    "longitude": -149.665,
+    "feet": 3500,
+    "meters": 1067,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
