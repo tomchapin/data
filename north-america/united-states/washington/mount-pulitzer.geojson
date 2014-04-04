@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.574176,
+      47.835571
+    ]
+  },
+  "properties": {
+    "name": "Mount Pulitzer",
+    "latitude": 47.835571,
+    "longitude": -123.574176,
+    "feet": 6283,
+    "meters": 1915,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
