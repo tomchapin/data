@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.224781,
+      50.959075
+    ]
+  },
+  "properties": {
+    "name": "Mount Allan",
+    "latitude": 50.959075,
+    "longitude": -115.224781,
+    "feet": 9249,
+    "meters": 2819,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
