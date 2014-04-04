@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.677747,
+      48.211033
+    ]
+  },
+  "properties": {
+    "name": "Whitehorse Mountain",
+    "latitude": 48.211033,
+    "longitude": -121.677747,
+    "feet": 6840,
+    "meters": 2085,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
