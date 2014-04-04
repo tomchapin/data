@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Cimone",
+    "feet": 7103,
+    "meters": 2165,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
