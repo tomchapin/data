@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.0167,
+      33.7833
+    ]
+  },
+  "properties": {
+    "name": "Harmukh",
+    "latitude": 33.7833,
+    "longitude": 76.0167,
+    "feet": 16890,
+    "meters": 5148,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
