@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.589462,
+      -18.181409
+    ]
+  },
+  "properties": {
+    "name": "Taapaca",
+    "latitude": -18.181409,
+    "longitude": -69.589462,
+    "feet": 19226,
+    "meters": 5860,
+    "continent": "South America",
+    "country": "Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
