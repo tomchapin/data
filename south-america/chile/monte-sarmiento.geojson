@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.8333,
+      -54.45
+    ]
+  },
+  "properties": {
+    "name": "Monte Sarmiento",
+    "latitude": -54.45,
+    "longitude": -70.8333,
+    "feet": 7546,
+    "meters": 2300,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
