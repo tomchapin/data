@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.847335,
+      47.558631
+    ]
+  },
+  "properties": {
+    "name": "Cashmere Peak",
+    "latitude": 47.558631,
+    "longitude": -120.847335,
+    "feet": 8501,
+    "meters": 2591,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
