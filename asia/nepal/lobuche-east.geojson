@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.7899,
+      27.9595
+    ]
+  },
+  "properties": {
+    "name": "Lobuche East",
+    "latitude": 27.9595,
+    "longitude": 86.7899,
+    "feet": 20075,
+    "meters": 6119,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
