@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.9333,
+      27.9667
+    ]
+  },
+  "properties": {
+    "name": "Lhotse",
+    "latitude": 27.9667,
+    "longitude": 86.9333,
+    "feet": 27940,
+    "meters": 8516,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
