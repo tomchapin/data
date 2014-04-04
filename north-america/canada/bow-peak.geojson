@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.378946,
+      51.626489
+    ]
+  },
+  "properties": {
+    "name": "Bow Peak",
+    "latitude": 51.626489,
+    "longitude": -116.378946,
+    "feet": 9409,
+    "meters": 2868,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
