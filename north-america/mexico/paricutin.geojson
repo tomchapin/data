@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Paricutin",
+    "feet": 10413,
+    "meters": 3174,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
