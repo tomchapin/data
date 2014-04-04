@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.077784,
+      46.531705
+    ]
+  },
+  "properties": {
+    "name": "Gross-Grünhorn",
+    "latitude": 46.531705,
+    "longitude": 8.077784,
+    "feet": 13268,
+    "meters": 4044,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
