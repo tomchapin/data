@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piz Roseg",
+    "feet": 12917,
+    "meters": 3937,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
