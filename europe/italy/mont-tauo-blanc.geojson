@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mont Tauo Blanc",
+    "feet": 11279,
+    "meters": 3438,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
