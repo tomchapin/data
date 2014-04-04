@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Trusmadi",
+    "feet": 8669,
+    "meters": 2642,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
