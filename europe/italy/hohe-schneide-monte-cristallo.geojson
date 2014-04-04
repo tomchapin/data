@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.46053,
+      46.49585
+    ]
+  },
+  "properties": {
+    "name": "Hohe Schneide (Monte Cristallo)",
+    "latitude": 46.49585,
+    "longitude": 10.46053,
+    "feet": 11266,
+    "meters": 3434,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
