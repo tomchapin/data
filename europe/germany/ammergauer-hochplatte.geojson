@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8333,
+      47.55
+    ]
+  },
+  "properties": {
+    "name": "Ammergauer Hochplatte",
+    "latitude": 47.55,
+    "longitude": 10.8333,
+    "feet": 6831,
+    "meters": 2082,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
