@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.860374,
+      45.908585
+    ]
+  },
+  "properties": {
+    "name": "Vincent Piramide",
+    "latitude": 45.908585,
+    "longitude": 7.860374,
+    "feet": 13829,
+    "meters": 4215,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
