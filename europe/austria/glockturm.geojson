@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Glockturm",
+    "feet": 11001,
+    "meters": 3353,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
