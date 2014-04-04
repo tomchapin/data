@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.764906,
+      46.973802
+    ]
+  },
+  "properties": {
+    "name": "Hoher Weisszint (Punta Bianca)",
+    "latitude": 46.973802,
+    "longitude": 11.764906,
+    "feet": 11056,
+    "meters": 3370,
+    "continent": "Europe",
+    "country": "Italy/Austria"
+  }
+}
