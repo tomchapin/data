@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hestbrepiggane",
+    "feet": 7077,
+    "meters": 2157,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
