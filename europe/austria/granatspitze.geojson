@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Granatspitze",
+    "feet": 10125,
+    "meters": 3086,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
