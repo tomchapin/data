@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.974854,
+      47.690352
+    ]
+  },
+  "properties": {
+    "name": "Untersberg",
+    "latitude": 47.690352,
+    "longitude": 12.974854,
+    "feet": 6314,
+    "meters": 1973,
+    "continent": "Europe",
+    "country": "Germany/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
