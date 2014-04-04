@@ -12,6 +12,8 @@
     "feet": 9350,
     "meters": 2850,
     "continent": "Europe",
-    "country": "Italy"
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
