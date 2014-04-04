@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.495808,
+      41.725077
+    ]
+  },
+  "properties": {
+    "name": "Goliam Polezan",
+    "latitude": 41.725077,
+    "longitude": 23.495808,
+    "feet": 9354,
+    "meters": 2851,
+    "continent": "Europe",
+    "country": "Bulgaria/Bulgaria"
+  }
+}
