@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Petit Combin",
+    "feet": 12041,
+    "meters": 3670,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
