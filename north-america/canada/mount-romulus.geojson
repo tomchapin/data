@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.993,
+      50.7883
+    ]
+  },
+  "properties": {
+    "name": "Mount Romulus",
+    "latitude": 50.7883,
+    "longitude": -114.993,
+    "feet": 9291,
+    "meters": 2832,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
