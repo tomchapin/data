@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.95,
+      53.2
+    ]
+  },
+  "properties": {
+    "name": "Foel Fras",
+    "latitude": 53.2,
+    "longitude": -3.95,
+    "feet": 3091,
+    "meters": 942,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
