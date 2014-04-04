@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.532822,
+      48.859746
+    ]
+  },
+  "properties": {
+    "name": "Ruth Mountain",
+    "latitude": 48.859746,
+    "longitude": -121.532822,
+    "feet": 7115,
+    "meters": 2166,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
