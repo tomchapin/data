@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.828417,
+      27.995833
+    ]
+  },
+  "properties": {
+    "name": "Kala Pattar",
+    "latitude": 27.995833,
+    "longitude": 86.828417,
+    "feet": 18192,
+    "meters": 5545,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
