@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.25823,
+      29.275756
+    ]
+  },
+  "properties": {
+    "name": "Lost Mine Peak",
+    "latitude": 29.275756,
+    "longitude": -103.25823,
+    "feet": 7535,
+    "meters": 2262,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Texas"
+  }
+}
