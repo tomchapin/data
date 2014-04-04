@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.35,
+      46.6667
+    ]
+  },
+  "properties": {
+    "name": "Golz",
+    "latitude": 46.6667,
+    "longitude": 13.35,
+    "feet": 6575,
+    "meters": 2004,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
