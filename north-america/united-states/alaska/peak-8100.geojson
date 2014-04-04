@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -145.313416,
+      63.270094
+    ]
+  },
+  "properties": {
+    "name": "Peak 8100",
+    "latitude": 63.270094,
+    "longitude": -145.313416,
+    "feet": 8100,
+    "meters": 2469,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
