@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.657177,
+      48.506739
+    ]
+  },
+  "properties": {
+    "name": "Blue Lake Peak",
+    "latitude": 48.506739,
+    "longitude": -120.657177,
+    "feet": 7808,
+    "meters": 2380,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
