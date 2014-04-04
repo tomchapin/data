@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.054695,
+      46.555496
+    ]
+  },
+  "properties": {
+    "name": "Walcherhorn",
+    "latitude": 46.555496,
+    "longitude": 8.054695,
+    "feet": 12113,
+    "meters": 3693,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
