@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hochstetter Dome",
+    "feet": 9262,
+    "meters": 2823,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
