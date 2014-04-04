@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Namchabarva",
+    "feet": 25449,
+    "meters": 7757,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
