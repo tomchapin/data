@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.7195,
+      46.2559
+    ]
+  },
+  "properties": {
+    "name": "Roc de Tavaneuse",
+    "latitude": 46.2559,
+    "longitude": 6.7195,
+    "feet": 7073,
+    "meters": 2156,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
