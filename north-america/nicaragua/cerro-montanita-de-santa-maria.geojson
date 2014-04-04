@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.45905,
+      13.56451
+    ]
+  },
+  "properties": {
+    "name": "Cerro Montañita de Santa Maria",
+    "latitude": 13.56451,
+    "longitude": -86.45905,
+    "feet": 3071,
+    "meters": 936,
+    "continent": "North America",
+    "country": "Nicaragua"
+  }
+}
