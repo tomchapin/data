@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mera Peak",
+    "feet": 21246,
+    "meters": 6476,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
