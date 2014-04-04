@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.830913,
+      53.637375
+    ]
+  },
+  "properties": {
+    "name": "Mweelrea",
+    "latitude": 53.637375,
+    "longitude": -9.830913,
+    "feet": 814,
+    "meters": 248,
+    "continent": "Europe",
+    "country": "Ireland"
+  }
+}
