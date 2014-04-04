@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.96,
+      47.09
+    ]
+  },
+  "properties": {
+    "name": "Olperer",
+    "latitude": 47.09,
+    "longitude": 11.96,
+    "feet": 11404,
+    "meters": 3476,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
