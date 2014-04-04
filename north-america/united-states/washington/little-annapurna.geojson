@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.814,
+      47.4682
+    ]
+  },
+  "properties": {
+    "name": "Little Annapurna",
+    "latitude": 47.4682,
+    "longitude": -120.814,
+    "feet": 8440,
+    "meters": 2573,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
