@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3333,
+      47.45
+    ]
+  },
+  "properties": {
+    "name": "Woerner",
+    "latitude": 47.45,
+    "longitude": 11.3333,
+    "feet": 8123,
+    "meters": 2476,
+    "continent": "Europe",
+    "country": "Germany/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
