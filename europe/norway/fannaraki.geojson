@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9167,
+      61.5185
+    ]
+  },
+  "properties": {
+    "name": "Fannaraki",
+    "latitude": 61.5185,
+    "longitude": 7.9167,
+    "feet": 6785,
+    "meters": 2068,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
