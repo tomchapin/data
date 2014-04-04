@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Presanella",
+    "feet": 11673,
+    "meters": 3558,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
