@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.656,
+      48.5374
+    ]
+  },
+  "properties": {
+    "name": "Hinkhouse Peak",
+    "latitude": 48.5374,
+    "longitude": -120.656,
+    "feet": 7560,
+    "meters": 2304,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
