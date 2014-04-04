@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1833,
+      46.4333
+    ]
+  },
+  "properties": {
+    "name": "Hochstuhl",
+    "latitude": 46.4333,
+    "longitude": 14.1833,
+    "feet": 7336,
+    "meters": 2236,
+    "continent": "Europe",
+    "country": "Austria/Slovenia"
+  }
+}
