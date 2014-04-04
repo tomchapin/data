@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.207443,
+      50.527942
+    ]
+  },
+  "properties": {
+    "name": "Mount Joffre",
+    "latitude": 50.527942,
+    "longitude": -115.207443,
+    "feet": 11316,
+    "meters": 3449,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
