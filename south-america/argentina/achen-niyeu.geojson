@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.56477,
+      -39.863701
+    ]
+  },
+  "properties": {
+    "name": "Achen Niyeu",
+    "latitude": -39.863701,
+    "longitude": -71.56477,
+    "feet": 5249,
+    "meters": 1600,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
