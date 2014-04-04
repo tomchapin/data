@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.897693,
+      45.853658
+    ]
+  },
+  "properties": {
+    "name": "Grand Capucin",
+    "latitude": 45.853658,
+    "longitude": 6.897693,
+    "feet": 12592,
+    "meters": 3838,
+    "continent": "Europe",
+    "country": "France/Italy"
+  }
+}
