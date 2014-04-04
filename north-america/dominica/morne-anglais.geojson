@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.3324,
+      15.2851
+    ]
+  },
+  "properties": {
+    "name": "Morne Anglais",
+    "latitude": 15.2851,
+    "longitude": -61.3324,
+    "feet": 3683,
+    "meters": 1123,
+    "continent": "North America",
+    "country": "Dominica"
+  }
+}
