@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -126.683,
+      50.0167
+    ]
+  },
+  "properties": {
+    "name": "Rugged Mountain",
+    "latitude": 50.0167,
+    "longitude": -126.683,
+    "feet": 6151,
+    "meters": 1875,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
