@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piscul Bilii",
+    "feet": 7270,
+    "meters": 2216,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
