@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Allermuir Hill",
+    "feet": 1650,
+    "meters": 503,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
