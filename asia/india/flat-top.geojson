@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Flat Top",
+    "feet": 20013,
+    "meters": 6100,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
