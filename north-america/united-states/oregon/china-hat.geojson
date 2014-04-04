@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.0339,
+      43.68068
+    ]
+  },
+  "properties": {
+    "name": "China Hat",
+    "latitude": 43.68068,
+    "longitude": -121.0339,
+    "feet": 6573,
+    "meters": 2003,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
