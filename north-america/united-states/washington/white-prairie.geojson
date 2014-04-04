@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.438672,
+      48.247415
+    ]
+  },
+  "properties": {
+    "name": "White Prairie",
+    "latitude": 48.247415,
+    "longitude": -121.438672,
+    "feet": 5040,
+    "meters": 1536,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
