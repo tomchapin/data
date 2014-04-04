@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -126.083,
+      52.6167
+    ]
+  },
+  "properties": {
+    "name": "Mount Mackenzie",
+    "latitude": 52.6167,
+    "longitude": -126.083,
+    "feet": 7041,
+    "meters": 2146,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
