@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.2653,
+      35.7647
+    ]
+  },
+  "properties": {
+    "name": "Mount Mitchell",
+    "latitude": 35.7647,
+    "longitude": -82.2653,
+    "feet": 6684,
+    "meters": 2037,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina"
+  }
+}
