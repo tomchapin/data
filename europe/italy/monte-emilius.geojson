@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Emilius",
+    "feet": 11676,
+    "meters": 3559,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
