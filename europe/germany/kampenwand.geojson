@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3667,
+      47.75
+    ]
+  },
+  "properties": {
+    "name": "Kampenwand",
+    "latitude": 47.75,
+    "longitude": 12.3667,
+    "feet": 5472,
+    "meters": 1668,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
