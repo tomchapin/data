@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.283,
+      47.0204
+    ]
+  },
+  "properties": {
+    "name": "Ochsenbug",
+    "latitude": 47.0204,
+    "longitude": 12.283,
+    "feet": 9869,
+    "meters": 3008,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
