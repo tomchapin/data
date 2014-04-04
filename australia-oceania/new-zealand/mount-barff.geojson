@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Barff",
+    "feet": 7388,
+    "meters": 2252,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
