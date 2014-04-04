@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.661562,
+      41.320948
+    ]
+  },
+  "properties": {
+    "name": "High Point",
+    "latitude": 41.320948,
+    "longitude": -74.661562,
+    "feet": 1803,
+    "meters": 550,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Jersey"
+  }
+}
