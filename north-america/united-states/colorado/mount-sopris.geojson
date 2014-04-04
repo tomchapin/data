@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.171,
+      39.26
+    ]
+  },
+  "properties": {
+    "name": "Mount Sopris",
+    "latitude": 39.26,
+    "longitude": -107.171,
+    "feet": 12953,
+    "meters": 3948,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
