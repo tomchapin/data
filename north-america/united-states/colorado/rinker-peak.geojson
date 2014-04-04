@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.439,
+      39.037
+    ]
+  },
+  "properties": {
+    "name": "Rinker Peak",
+    "latitude": 39.037,
+    "longitude": -106.439,
+    "feet": 13783,
+    "meters": 4201,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
