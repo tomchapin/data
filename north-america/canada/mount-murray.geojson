@@ -3,17 +3,19 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -122.6867,
-      55.4567
+      -115.293,
+      50.7494
     ]
   },
   "properties": {
     "name": "Mount Murray",
-    "latitude": 55.4567,
-    "longitude": -122.6867,
-    "feet": 5968,
-    "meters": 1819,
+    "latitude": 50.7494,
+    "longitude": -115.293,
+    "feet": 9928,
+    "meters": 3026,
     "continent": "North America",
-    "country": "Canada"
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
