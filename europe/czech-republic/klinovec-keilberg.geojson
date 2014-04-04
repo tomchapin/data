@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.9678,
+      50.3964
+    ]
+  },
+  "properties": {
+    "name": "Klinovec (Keilberg)",
+    "latitude": 50.3964,
+    "longitude": 12.9678,
+    "feet": 4081,
+    "meters": 1244,
+    "continent": "Europe",
+    "country": "Czech Republic"
+  }
+}
