@@ -14,6 +14,8 @@
     "feet": 3711,
     "meters": 1131,
     "continent": "North America",
-    "country": "Belize"
+    "country": "Belize",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
