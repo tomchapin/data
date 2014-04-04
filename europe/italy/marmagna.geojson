@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.998925,
+      44.395737
+    ]
+  },
+  "properties": {
+    "name": "Marmagna",
+    "latitude": 44.395737,
+    "longitude": 9.998925,
+    "feet": 6076,
+    "meters": 1852,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
