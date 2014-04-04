@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.469092,
+      47.926638
+    ]
+  },
+  "properties": {
+    "name": "Mineral Peak",
+    "latitude": 47.926638,
+    "longitude": -121.469092,
+    "feet": 5255,
+    "meters": 1602,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
