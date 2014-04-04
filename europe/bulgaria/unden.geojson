@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5749,
+      41.425
+    ]
+  },
+  "properties": {
+    "name": "Unden",
+    "latitude": 41.425,
+    "longitude": 23.5749,
+    "feet": 5469,
+    "meters": 1667,
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
