@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.877026,
+      45.927125
+    ]
+  },
+  "properties": {
+    "name": "Signalkuppe",
+    "latitude": 45.927125,
+    "longitude": 7.877026,
+    "feet": 14947,
+    "meters": 4556,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
