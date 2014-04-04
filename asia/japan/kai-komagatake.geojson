@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.237,
+      35.7581
+    ]
+  },
+  "properties": {
+    "name": "Kai-Komagatake",
+    "latitude": 35.7581,
+    "longitude": 138.237,
+    "feet": 9731,
+    "meters": 2967,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
