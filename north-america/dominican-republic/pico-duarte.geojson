@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.9833,
+      19.0333
+    ]
+  },
+  "properties": {
+    "name": "Pico Duarte",
+    "latitude": 19.0333,
+    "longitude": -70.9833,
+    "feet": 10416,
+    "meters": 3175,
+    "continent": "North America",
+    "country": "Dominican Republic"
+  }
+}
