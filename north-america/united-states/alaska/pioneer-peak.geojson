@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.033,
+      61.4756
+    ]
+  },
+  "properties": {
+    "name": "Pioneer Peak",
+    "latitude": 61.4756,
+    "longitude": -149.033,
+    "feet": 6500,
+    "meters": 1981,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
