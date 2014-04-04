@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.464546,
+      43.245219
+    ]
+  },
+  "properties": {
+    "name": "Maliy Donguzorun",
+    "latitude": 43.245219,
+    "longitude": 42.464546,
+    "feet": 12339,
+    "meters": 3761,
+    "continent": "Europe",
+    "country": "Russia"
+  }
+}
