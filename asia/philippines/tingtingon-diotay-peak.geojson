@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.229659,
+      10.741807
+    ]
+  },
+  "properties": {
+    "name": "Tingtingon Diotay Peak",
+    "latitude": 10.741807,
+    "longitude": 123.229659,
+    "feet": 4035,
+    "meters": 1230,
+    "continent": "Asia",
+    "country": "Philippines",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
