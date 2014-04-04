@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Spantik Peak",
+    "feet": 23054,
+    "meters": 7027,
+    "continent": "Asia",
+    "country": "Pakistan",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
