@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.152,
+      61.4463
+    ]
+  },
+  "properties": {
+    "name": "Twin Peaks",
+    "latitude": 61.4463,
+    "longitude": -149.152,
+    "feet": 5401,
+    "meters": 1646,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
