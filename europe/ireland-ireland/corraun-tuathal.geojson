@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.724311,
+      51.99166
+    ]
+  },
+  "properties": {
+    "name": "Corraun Tuathal",
+    "latitude": 51.99166,
+    "longitude": -9.724311,
+    "feet": 3602,
+    "meters": 1098,
+    "continent": "Europe",
+    "country": "Ireland/Ireland"
+  }
+}
