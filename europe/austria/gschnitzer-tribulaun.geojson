@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gschnitzer Tribulaun",
+    "feet": 9665,
+    "meters": 2946,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
