@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.1667,
+      35.7167
+    ]
+  },
+  "properties": {
+    "name": "Haramosh Kutwal Galli",
+    "latitude": 35.7167,
+    "longitude": 74.1667,
+    "feet": 24291,
+    "meters": 4800,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
