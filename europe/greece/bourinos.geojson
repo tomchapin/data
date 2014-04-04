@@ -14,6 +14,8 @@
     "feet": 6122,
     "meters": 1866,
     "continent": "Europe",
-    "country": "Greece"
+    "country": "Greece",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
