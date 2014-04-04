@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.978,
+      40.6972
+    ]
+  },
+  "properties": {
+    "name": "Mount Watson",
+    "latitude": 40.6972,
+    "longitude": -110.978,
+    "feet": 11521,
+    "meters": 3511,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
