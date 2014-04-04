@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Garklerin",
+    "feet": 8104,
+    "meters": 2470,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
