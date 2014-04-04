@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ollague",
+    "feet": 19255,
+    "meters": 5869,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
