@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.15,
+      6.5
+    ]
+  },
+  "properties": {
+    "name": "Nevado del Cocuy",
+    "latitude": 6.5,
+    "longitude": -72.15,
+    "feet": 16670,
+    "meters": 5081,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
