@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.5222,
+      37.1667
+    ]
+  },
+  "properties": {
+    "name": "Pik Engels",
+    "latitude": 37.1667,
+    "longitude": 72.5222,
+    "feet": 21358,
+    "meters": 6510,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
