@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.006662,
+      46.555173
+    ]
+  },
+  "properties": {
+    "name": "Scotoni (Cima)",
+    "latitude": 46.555173,
+    "longitude": 12.006662,
+    "feet": 9429,
+    "meters": 2874,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
