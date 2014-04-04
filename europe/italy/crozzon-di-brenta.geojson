@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.890234,
+      46.182714
+    ]
+  },
+  "properties": {
+    "name": "Crozzon di Brenta",
+    "latitude": 46.182714,
+    "longitude": 10.890234,
+    "feet": 10285,
+    "meters": 3135,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
