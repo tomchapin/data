@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.212,
+      37.8771
+    ]
+  },
+  "properties": {
+    "name": "Mt. Gibbs",
+    "latitude": 37.8771,
+    "longitude": -119.212,
+    "feet": 12773,
+    "meters": 3893,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
