@@ -15,6 +15,8 @@
     "meters": 446,
     "continent": "North America",
     "country": "United States/Saint Kitts and Nevis",
-    "state": "Maine"
+    "state": "Maine",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
