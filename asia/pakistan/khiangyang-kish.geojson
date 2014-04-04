@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.121036,
+      36.088159
+    ]
+  },
+  "properties": {
+    "name": "Khiangyang Kish",
+    "latitude": 36.088159,
+    "longitude": 75.121036,
+    "feet": 25761,
+    "meters": 7852,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
