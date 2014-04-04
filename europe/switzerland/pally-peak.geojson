@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pally Peak",
+    "feet": 10610,
+    "meters": 3234,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
