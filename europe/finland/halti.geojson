@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Halti",
+    "feet": 4357,
+    "meters": 1328,
+    "continent": "Europe",
+    "country": "Finland"
+  }
+}
