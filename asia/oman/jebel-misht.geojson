@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Jebel Misht",
+    "feet": 6857,
+    "meters": 2090,
+    "continent": "Asia",
+    "country": "Oman"
+  }
+}
