@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.567369,
+      48.056484
+    ]
+  },
+  "properties": {
+    "name": "Marble Peak",
+    "latitude": 48.056484,
+    "longitude": -121.567369,
+    "feet": 5110,
+    "meters": 1558,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
