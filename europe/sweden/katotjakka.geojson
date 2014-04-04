@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Katotjakka",
+    "feet": 6532,
+    "meters": 1991,
+    "continent": "Europe",
+    "country": "Sweden"
+  }
+}
