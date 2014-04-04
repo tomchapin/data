@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.85,
+      35.4081
+    ]
+  },
+  "properties": {
+    "name": "Kendrick Peak",
+    "latitude": 35.4081,
+    "longitude": -111.85,
+    "feet": 10418,
+    "meters": 3175,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arizona"
+  }
+}
