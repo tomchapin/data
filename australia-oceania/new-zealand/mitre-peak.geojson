@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.917,
+      -44.6667
+    ]
+  },
+  "properties": {
+    "name": "Mitre Peak",
+    "latitude": -44.6667,
+    "longitude": 167.917,
+    "feet": 6562,
+    "meters": 2000,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
