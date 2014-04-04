@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.884008,
+      44.293945
+    ]
+  },
+  "properties": {
+    "name": "Mount Ethan Allen",
+    "latitude": 44.293945,
+    "longitude": -72.884008,
+    "feet": 3680,
+    "meters": 1122,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Vermont"
+  }
+}
