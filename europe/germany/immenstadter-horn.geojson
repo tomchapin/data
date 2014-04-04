@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.186644,
+      47.55223
+    ]
+  },
+  "properties": {
+    "name": "Immenstädter Horn",
+    "latitude": 47.55223,
+    "longitude": 10.186644,
+    "feet": 4888,
+    "meters": 1490,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
