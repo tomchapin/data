@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.425,
+      37.9228
+    ]
+  },
+  "properties": {
+    "name": "Sunshine Peak",
+    "latitude": 37.9228,
+    "longitude": -107.425,
+    "feet": 14001,
+    "meters": 4268,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
