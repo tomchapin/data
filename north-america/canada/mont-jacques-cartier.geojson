@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.948393,
+      48.987655
+    ]
+  },
+  "properties": {
+    "name": "Mont Jacques Cartier",
+    "latitude": 48.987655,
+    "longitude": -65.948393,
+    "feet": 4167,
+    "meters": 1270,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
