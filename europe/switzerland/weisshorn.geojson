@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.71667,
+      46.1167
+    ]
+  },
+  "properties": {
+    "name": "Weisshorn",
+    "latitude": 46.1167,
+    "longitude": 7.71667,
+    "feet": 14780,
+    "meters": 4504,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
