@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.3463,
+      57.7196
+    ]
+  },
+  "properties": {
+    "name": "A'Mhaighdean",
+    "latitude": 57.7196,
+    "longitude": -5.3463,
+    "feet": 3173,
+    "meters": 967,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
