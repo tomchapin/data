@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.212029,
+      47.5681
+    ]
+  },
+  "properties": {
+    "name": "Mount Hinman",
+    "latitude": 47.5681,
+    "longitude": -121.212029,
+    "feet": 7492,
+    "meters": 2284,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
