@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hohe Geige",
+    "feet": 11132,
+    "meters": 3393,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
