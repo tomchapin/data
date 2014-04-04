@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.354231,
+      46.060368
+    ]
+  },
+  "properties": {
+    "name": "Rosablanche",
+    "latitude": 46.060368,
+    "longitude": 7.354231,
+    "feet": 10945,
+    "meters": 3336,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
