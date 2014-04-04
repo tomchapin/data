@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.75,
+      36.5874
+    ]
+  },
+  "properties": {
+    "name": "Jiigatake",
+    "latitude": 36.5874,
+    "longitude": 137.75,
+    "feet": 8760,
+    "meters": 2670,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
