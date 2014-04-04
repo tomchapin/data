@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.1039,
+      32.8844
+    ]
+  },
+  "properties": {
+    "name": "Mount Aso",
+    "latitude": 32.8844,
+    "longitude": 131.1039,
+    "feet": 5223,
+    "meters": 1592,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
