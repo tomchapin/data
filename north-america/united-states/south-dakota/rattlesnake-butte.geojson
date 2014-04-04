@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.592042,
+      45.706046
+    ]
+  },
+  "properties": {
+    "name": "Rattlesnake Butte",
+    "latitude": 45.706046,
+    "longitude": -100.592042,
+    "feet": 2284,
+    "meters": 696,
+    "continent": "North America",
+    "country": "United States",
+    "state": "South Dakota"
+  }
+}
