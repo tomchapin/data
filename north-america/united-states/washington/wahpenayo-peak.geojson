@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.766839,
+      46.746919
+    ]
+  },
+  "properties": {
+    "name": "Wahpenayo Peak",
+    "latitude": 46.746919,
+    "longitude": -121.766839,
+    "feet": 6231,
+    "meters": 1899,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
