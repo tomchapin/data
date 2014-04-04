@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mam Tor",
+    "feet": 1696,
+    "meters": 517,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
