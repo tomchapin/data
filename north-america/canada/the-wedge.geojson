@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.135174,
+      50.850391
+    ]
+  },
+  "properties": {
+    "name": "The Wedge",
+    "latitude": 50.850391,
+    "longitude": -115.135174,
+    "feet": 8700,
+    "meters": 2652,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
