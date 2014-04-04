@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.667,
+      41.9
+    ]
+  },
+  "properties": {
+    "name": "Naomi Peak",
+    "latitude": 41.9,
+    "longitude": -111.667,
+    "feet": 9986,
+    "meters": 3044,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
