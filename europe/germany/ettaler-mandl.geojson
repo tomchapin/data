@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Ettaler Mandl",
+    "feet": 5413,
+    "meters": 1650,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
