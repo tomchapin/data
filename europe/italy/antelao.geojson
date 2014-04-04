@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Antelao",
+    "feet": 10709,
+    "meters": 3264,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
