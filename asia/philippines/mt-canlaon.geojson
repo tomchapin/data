@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.95,
+      10.98
+    ]
+  },
+  "properties": {
+    "name": "Mt. Canlaon",
+    "latitude": 10.98,
+    "longitude": 123.95,
+    "feet": 8,
+    "meters": 2450,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
