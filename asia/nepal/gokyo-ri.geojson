@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.683214,
+      27.962089
+    ]
+  },
+  "properties": {
+    "name": "Gokyo Ri",
+    "latitude": 27.962089,
+    "longitude": 86.683214,
+    "feet": 17519,
+    "meters": 5357,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
