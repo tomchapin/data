@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.281595,
+      47.7356
+    ]
+  },
+  "properties": {
+    "name": "Beckler",
+    "latitude": 47.7356,
+    "longitude": -121.281595,
+    "feet": 5062,
+    "meters": 1543,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
