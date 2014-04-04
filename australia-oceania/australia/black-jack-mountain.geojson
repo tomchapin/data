@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      148.833,
+      -37.25
+    ]
+  },
+  "properties": {
+    "name": "Black Jack Mountain",
+    "latitude": -37.25,
+    "longitude": 148.833,
+    "feet": 3852,
+    "meters": 1174,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
