@@ -14,6 +14,8 @@
     "feet": 21128,
     "meters": 6440,
     "continent": "Asia",
-    "country": "Nepal"
+    "country": "Nepal",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
