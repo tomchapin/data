@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.062317,
+      47.915927
+    ]
+  },
+  "properties": {
+    "name": "Poe Mountain",
+    "latitude": 47.915927,
+    "longitude": -121.062317,
+    "feet": 6015,
+    "meters": 1833,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
