@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.695642,
+      45.373403
+    ]
+  },
+  "properties": {
+    "name": "Mount Hood",
+    "latitude": 45.373403,
+    "longitude": -121.695642,
+    "feet": 11237,
+    "meters": 3426,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
