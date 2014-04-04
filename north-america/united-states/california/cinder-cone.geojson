@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.363866,
+      40.932386
+    ]
+  },
+  "properties": {
+    "name": "Cinder Cone",
+    "latitude": 40.932386,
+    "longitude": -121.363866,
+    "feet": 6906,
+    "meters": 2105,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
