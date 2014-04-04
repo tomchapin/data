@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.417,
+      -84.3333
+    ]
+  },
+  "properties": {
+    "name": "Mount Kirkpatrick",
+    "latitude": -84.3333,
+    "longitude": 166.417,
+    "feet": 14855,
+    "meters": 4528,
+    "continent": "Antarctica",
+    "country": "Antarctica"
+  }
+}
