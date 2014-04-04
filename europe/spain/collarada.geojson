@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.459538,
+      42.709182
+    ]
+  },
+  "properties": {
+    "name": "Collarada",
+    "latitude": 42.709182,
+    "longitude": -0.459538,
+    "feet": 9468,
+    "meters": 2886,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
