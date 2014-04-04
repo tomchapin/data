@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.668,
+      51.2069
+    ]
+  },
+  "properties": {
+    "name": "Mount Edith",
+    "latitude": 51.2069,
+    "longitude": -115.668,
+    "feet": 8379,
+    "meters": 2554,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
