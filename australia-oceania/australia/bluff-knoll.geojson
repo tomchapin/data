@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.417,
+      -34.65
+    ]
+  },
+  "properties": {
+    "name": "Bluff Knoll",
+    "latitude": -34.65,
+    "longitude": 117.417,
+    "feet": 3829,
+    "meters": 1167,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
