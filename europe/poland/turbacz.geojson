@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.1,
+      49.55
+    ]
+  },
+  "properties": {
+    "name": "Turbacz",
+    "latitude": 49.55,
+    "longitude": 20.1,
+    "feet": 4314,
+    "meters": 1315,
+    "continent": "Europe",
+    "country": "Poland",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
