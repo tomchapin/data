@@ -12,6 +12,8 @@
     "feet": 13615,
     "meters": 4150,
     "continent": "Asia",
-    "country": "Iran"
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
