@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.788712,
+      40.359103
+    ]
+  },
+  "properties": {
+    "name": "Mogorrita La",
+    "latitude": 40.359103,
+    "longitude": -1.788712,
+    "feet": 6122,
+    "meters": 1866,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
