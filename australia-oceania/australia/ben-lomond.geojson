@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.658537,
+      -41.532511
+    ]
+  },
+  "properties": {
+    "name": "Ben Lomond",
+    "latitude": -41.532511,
+    "longitude": 147.658537,
+    "feet": 5167,
+    "meters": 1575,
+    "continent": "Australia/Oceania",
+    "country": "Australia"
+  }
+}
