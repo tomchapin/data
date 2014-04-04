@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.9504,
+      37.221
+    ]
+  },
+  "properties": {
+    "name": "East Temple",
+    "latitude": 37.221,
+    "longitude": -112.9504,
+    "feet": 7709,
+    "meters": 2350,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah"
+  }
+}
