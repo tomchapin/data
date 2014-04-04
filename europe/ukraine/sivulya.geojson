@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sivulya",
+    "feet": 6024,
+    "meters": 1836,
+    "continent": "Europe",
+    "country": "Ukraine",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
