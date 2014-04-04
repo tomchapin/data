@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Vistea Mare",
+    "feet": 8291,
+    "meters": 2527,
+    "continent": "Europe",
+    "country": "Romania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
