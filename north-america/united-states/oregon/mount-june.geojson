@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.724838,
+      43.792906
+    ]
+  },
+  "properties": {
+    "name": "Mount June",
+    "latitude": 43.792906,
+    "longitude": -122.724838,
+    "feet": 4616,
+    "meters": 1407,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
