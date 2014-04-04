@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.387,
+      50.8069
+    ]
+  },
+  "properties": {
+    "name": "Mount Smuts",
+    "latitude": 50.8069,
+    "longitude": -115.387,
+    "feet": 9639,
+    "meters": 2938,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
