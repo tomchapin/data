@@ -15,6 +15,8 @@
     "meters": 792,
     "continent": "North America",
     "country": "United States",
-    "state": "Oklahoma, Arkansas"
+    "state": "Oklahoma, Arkansas",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
