@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.214889,
+      47.639803
+    ]
+  },
+  "properties": {
+    "name": "Mount Lena",
+    "latitude": 47.639803,
+    "longitude": -123.214889,
+    "feet": 5995,
+    "meters": 1827,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
