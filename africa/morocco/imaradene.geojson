@@ -12,6 +12,8 @@
     "feet": 11650,
     "meters": 3551,
     "continent": "Africa",
-    "country": "Morocco"
+    "country": "Morocco",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
