@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hochvogel",
+    "feet": 8464,
+    "meters": 2580,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
