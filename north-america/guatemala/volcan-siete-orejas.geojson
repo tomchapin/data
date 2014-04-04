@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.58333,
+      14.8
+    ]
+  },
+  "properties": {
+    "name": "Volcan Siete Orejas",
+    "latitude": 14.8,
+    "longitude": -91.58333,
+    "feet": 11056,
+    "meters": 3370,
+    "continent": "North America",
+    "country": "Guatemala",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
