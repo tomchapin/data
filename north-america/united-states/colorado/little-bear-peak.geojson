@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.497,
+      37.5667
+    ]
+  },
+  "properties": {
+    "name": "Little Bear Peak",
+    "latitude": 37.5667,
+    "longitude": -105.497,
+    "feet": 14037,
+    "meters": 4279,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
