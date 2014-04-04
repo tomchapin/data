@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kuk Sar Peak  Passu Batura",
+    "feet": 21981,
+    "meters": 6700,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
