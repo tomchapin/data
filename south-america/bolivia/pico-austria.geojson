@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2575,
+      -16.189753
+    ]
+  },
+  "properties": {
+    "name": "Pico Austria",
+    "latitude": -16.189753,
+    "longitude": -68.2575,
+    "feet": 17480,
+    "meters": 5328,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
