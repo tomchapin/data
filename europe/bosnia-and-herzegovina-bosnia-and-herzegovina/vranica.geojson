@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.716389,
+      43.956667
+    ]
+  },
+  "properties": {
+    "name": "Vranica",
+    "latitude": 43.956667,
+    "longitude": 17.716389,
+    "feet": 6923,
+    "meters": 2110,
+    "continent": "Europe",
+    "country": "Bosnia and Herzegovina/Bosnia and Herzegovina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
