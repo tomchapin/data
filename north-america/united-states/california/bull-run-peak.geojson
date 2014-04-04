@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.883,
+      38.4667
+    ]
+  },
+  "properties": {
+    "name": "Bull Run Peak",
+    "latitude": 38.4667,
+    "longitude": -119.883,
+    "feet": 9495,
+    "meters": 2894,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
