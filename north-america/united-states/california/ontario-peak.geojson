@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.624006,
+      34.227842
+    ]
+  },
+  "properties": {
+    "name": "Ontario Peak",
+    "latitude": 34.227842,
+    "longitude": -117.624006,
+    "feet": 8693,
+    "meters": 2650,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
