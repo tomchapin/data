@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.25399,
+      52.109984
+    ]
+  },
+  "properties": {
+    "name": "Castleguard Mountain",
+    "latitude": 52.109984,
+    "longitude": -117.25399,
+    "feet": 10138,
+    "meters": 3090,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
