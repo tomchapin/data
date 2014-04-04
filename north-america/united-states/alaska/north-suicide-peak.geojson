@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.574444,
+      61.029444
+    ]
+  },
+  "properties": {
+    "name": "North Suicide Peak",
+    "latitude": 61.029444,
+    "longitude": -149.574444,
+    "feet": 5065,
+    "meters": 1544,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
