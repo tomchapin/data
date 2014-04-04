@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.017,
+      38.5
+    ]
+  },
+  "properties": {
+    "name": "Red Lake Peak",
+    "latitude": 38.5,
+    "longitude": -120.017,
+    "feet": 10062,
+    "meters": 3067,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
