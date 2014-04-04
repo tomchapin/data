@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.786884,
+      47.631966
+    ]
+  },
+  "properties": {
+    "name": "Großer Bruder",
+    "latitude": 47.631966,
+    "longitude": 12.786884,
+    "feet": 6151,
+    "meters": 1864,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
