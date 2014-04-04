@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9833,
+      -34.75
+    ]
+  },
+  "properties": {
+    "name": "Cerro Sosneado",
+    "latitude": -34.75,
+    "longitude": -69.9833,
+    "feet": 17024,
+    "meters": 5189,
+    "continent": "South America",
+    "country": "Argentina"
+  }
+}
