@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Svanatindan",
+    "feet": 7247,
+    "meters": 2209,
+    "continent": "Europe",
+    "country": "Norway",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
