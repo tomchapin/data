@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.29955,
+      38.71659
+    ]
+  },
+  "properties": {
+    "name": "The Titan",
+    "latitude": 38.71659,
+    "longitude": -109.29955,
+    "feet": 6260,
+    "meters": 1908,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
