@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Bademli Dagi",
+    "feet": 6824,
+    "meters": 2080,
+    "continent": "Asia",
+    "country": "Turkey"
+  }
+}
