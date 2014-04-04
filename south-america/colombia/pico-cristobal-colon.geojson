@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.686762,
+      10.838575
+    ]
+  },
+  "properties": {
+    "name": "Pico Cristobal Colon",
+    "latitude": 10.838575,
+    "longitude": -73.686762,
+    "feet": 18947,
+    "meters": 5775,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
