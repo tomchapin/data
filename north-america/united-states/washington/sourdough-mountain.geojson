@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.12843,
+      48.751945
+    ]
+  },
+  "properties": {
+    "name": "Sourdough Mountain",
+    "latitude": 48.751945,
+    "longitude": -121.12843,
+    "feet": 6112,
+    "meters": 1824,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
