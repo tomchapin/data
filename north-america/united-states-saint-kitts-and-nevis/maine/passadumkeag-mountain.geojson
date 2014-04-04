@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.3592,
+      45.1291
+    ]
+  },
+  "properties": {
+    "name": "Passadumkeag Mountain",
+    "latitude": 45.1291,
+    "longitude": -68.3592,
+    "feet": 1463,
+    "meters": 446,
+    "continent": "North America",
+    "country": "United States/Saint Kitts and Nevis",
+    "state": "Maine"
+  }
+}
