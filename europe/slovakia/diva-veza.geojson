@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.144449,
+      49.177793
+    ]
+  },
+  "properties": {
+    "name": "Diva veza",
+    "latitude": 49.177793,
+    "longitude": 20.144449,
+    "feet": 7785,
+    "meters": 2373,
+    "continent": "Europe",
+    "country": "Slovakia"
+  }
+}
