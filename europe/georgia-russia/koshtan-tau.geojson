@@ -14,6 +14,8 @@
     "feet": 16877,
     "meters": 5144,
     "continent": "Europe",
-    "country": "Georgia/Russia"
+    "country": "Georgia/Russia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
