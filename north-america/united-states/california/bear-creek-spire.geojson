@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.767,
+      37.3681
+    ]
+  },
+  "properties": {
+    "name": "Bear Creek Spire",
+    "latitude": 37.3681,
+    "longitude": -118.767,
+    "feet": 13713,
+    "meters": 4180,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
