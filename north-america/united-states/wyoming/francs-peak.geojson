@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.33,
+      43.9614
+    ]
+  },
+  "properties": {
+    "name": "Francs Peak",
+    "latitude": 43.9614,
+    "longitude": -109.33,
+    "feet": 13153,
+    "meters": 4009,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
