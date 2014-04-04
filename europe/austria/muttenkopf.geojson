@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Muttenkopf",
+    "feet": 8651,
+    "meters": 2637,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
