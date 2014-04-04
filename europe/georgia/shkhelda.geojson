@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.25,
+      43.0333
+    ]
+  },
+  "properties": {
+    "name": "Shkhelda",
+    "latitude": 43.0333,
+    "longitude": 43.25,
+    "feet": 14331,
+    "meters": 4368,
+    "continent": "Europe",
+    "country": "Georgia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
