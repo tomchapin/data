@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Nona",
+    "feet": 3320,
+    "meters": 1012,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
