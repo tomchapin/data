@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.932175,
+      43.202173
+    ]
+  },
+  "properties": {
+    "name": "Peña Santa de Castilla",
+    "latitude": 43.202173,
+    "longitude": -4.932175,
+    "feet": 8517,
+    "meters": 2596,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
