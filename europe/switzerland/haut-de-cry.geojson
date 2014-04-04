@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.19,
+      46.24
+    ]
+  },
+  "properties": {
+    "name": "Haut de Cry",
+    "latitude": 46.24,
+    "longitude": 7.19,
+    "feet": 9741,
+    "meters": 2969,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
