@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.4625,
+      34.798333
+    ]
+  },
+  "properties": {
+    "name": "Amne Machin",
+    "latitude": 34.798333,
+    "longitude": 99.4625,
+    "feet": 20610,
+    "meters": 6282,
+    "continent": "Asia",
+    "country": "China"
+  }
+}
