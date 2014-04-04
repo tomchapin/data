@@ -14,6 +14,8 @@
     "feet": 3084,
     "meters": 940,
     "continent": "South America",
-    "country": "Trinidad and Tobago"
+    "country": "Trinidad and Tobago",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
