@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.083,
+      48.8436
+    ]
+  },
+  "properties": {
+    "name": "Kay Peak",
+    "latitude": 48.8436,
+    "longitude": -120.083,
+    "feet": 7556,
+    "meters": 2303,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
