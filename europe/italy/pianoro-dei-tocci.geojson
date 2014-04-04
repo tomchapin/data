@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pianoro Dei Tocci",
+    "feet": 8940,
+    "meters": 2725,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
