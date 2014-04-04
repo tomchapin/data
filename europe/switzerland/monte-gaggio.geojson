@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Monte Gaggio",
+    "feet": 7438,
+    "meters": 2267,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
