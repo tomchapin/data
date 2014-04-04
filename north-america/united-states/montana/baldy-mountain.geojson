@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.65085,
+      48.149023
+    ]
+  },
+  "properties": {
+    "name": "Baldy Mountain",
+    "latitude": 48.149023,
+    "longitude": -109.65085,
+    "feet": 6916,
+    "meters": 2108,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Montana"
+  }
+}
