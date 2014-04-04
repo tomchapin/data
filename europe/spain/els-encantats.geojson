@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.015506,
+      42.568854
+    ]
+  },
+  "properties": {
+    "name": "Els Encantats",
+    "latitude": 42.568854,
+    "longitude": 1.015506,
+    "feet": 9012,
+    "meters": 2747,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
