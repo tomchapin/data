@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.4392,
+      43.355
+    ]
+  },
+  "properties": {
+    "name": "Mount Elbrus",
+    "latitude": 43.355,
+    "longitude": 42.4392,
+    "feet": 18510,
+    "meters": 5642,
+    "continent": "Europe",
+    "country": "Russia"
+  }
+}
