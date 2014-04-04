@@ -14,6 +14,8 @@
     "feet": 3071,
     "meters": 936,
     "continent": "North America",
-    "country": "Nicaragua"
+    "country": "Nicaragua",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
