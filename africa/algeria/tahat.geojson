@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.53333,
+      23.3
+    ]
+  },
+  "properties": {
+    "name": "Tahat",
+    "latitude": 23.3,
+    "longitude": 5.53333,
+    "feet": 9573,
+    "meters": 2918,
+    "continent": "Africa",
+    "country": "Algeria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
