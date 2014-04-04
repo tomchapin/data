@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.558333,
+      44.202333
+    ]
+  },
+  "properties": {
+    "name": "North Twin Mountain",
+    "latitude": 44.202333,
+    "longitude": -71.558333,
+    "feet": 4761,
+    "meters": 1451,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
