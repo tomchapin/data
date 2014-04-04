@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.833333,
+      -16.5
+    ]
+  },
+  "properties": {
+    "name": "Mururata",
+    "latitude": -16.5,
+    "longitude": -67.833333,
+    "feet": 19242,
+    "meters": 5865,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
