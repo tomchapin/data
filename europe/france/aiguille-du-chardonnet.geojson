@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Aiguille du Chardonnet",
+    "feet": 12546,
+    "meters": 3824,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
