@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.947,
+      50.7383
+    ]
+  },
+  "properties": {
+    "name": "Mount Cornwall",
+    "latitude": 50.7383,
+    "longitude": -114.947,
+    "feet": 9744,
+    "meters": 2970,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
