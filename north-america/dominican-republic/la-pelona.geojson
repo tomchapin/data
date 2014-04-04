@@ -12,6 +12,8 @@
     "feet": 10180,
     "meters": 3085,
     "continent": "North America",
-    "country": "Dominican Republic"
+    "country": "Dominican Republic",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
