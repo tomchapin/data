@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kramerspitze",
+    "feet": 6512,
+    "meters": 1985,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
