@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Piz Timun",
+    "feet": 10528,
+    "meters": 3209,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
