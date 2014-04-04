@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.682,
+      51.8133
+    ]
+  },
+  "properties": {
+    "name": "Howse Peak",
+    "latitude": 51.8133,
+    "longitude": -116.682,
+    "feet": 10810,
+    "meters": 3295,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
