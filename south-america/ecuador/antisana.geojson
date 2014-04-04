@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.1408,
+      -0.481389
+    ]
+  },
+  "properties": {
+    "name": "Antisana",
+    "latitude": -0.481389,
+    "longitude": -78.1408,
+    "feet": 18874,
+    "meters": 5758,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
