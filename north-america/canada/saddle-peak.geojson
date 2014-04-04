@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.208057,
+      51.393958
+    ]
+  },
+  "properties": {
+    "name": "Saddle Peak",
+    "latitude": 51.393958,
+    "longitude": -116.208057,
+    "feet": 7995,
+    "meters": 2437,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
