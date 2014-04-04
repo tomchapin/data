@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.80875,
+      56.2141
+    ]
+  },
+  "properties": {
+    "name": "The Cobbler",
+    "latitude": 56.2141,
+    "longitude": -4.80875,
+    "feet": 2900,
+    "meters": 884,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
