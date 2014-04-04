@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Kleine Fermeda",
+    "feet": 9186,
+    "meters": 2800,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
