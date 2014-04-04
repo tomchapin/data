@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sonklarspitze",
+    "feet": 11115,
+    "meters": 3388,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
