@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.04454,
+      43.12448
+    ]
+  },
+  "properties": {
+    "name": "Minin bogaz",
+    "latitude": 43.12448,
+    "longitude": 19.04454,
+    "feet": 7831,
+    "meters": 2387,
+    "continent": "Europe",
+    "country": "Serbia and Montenegro"
+  }
+}
