@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.995,
+      13.2625
+    ]
+  },
+  "properties": {
+    "name": "Mount Halcon",
+    "latitude": 13.2625,
+    "longitude": 120.995,
+    "feet": 8484,
+    "meters": 2586,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
