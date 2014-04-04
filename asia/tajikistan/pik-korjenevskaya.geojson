@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.01,
+      39.057
+    ]
+  },
+  "properties": {
+    "name": "Pik Korjenevskaya",
+    "latitude": 39.057,
+    "longitude": 72.01,
+    "feet": 23310,
+    "meters": 7105,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
