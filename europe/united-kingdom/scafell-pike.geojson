@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.21154,
+      54.4542
+    ]
+  },
+  "properties": {
+    "name": "Scafell Pike",
+    "latitude": 54.4542,
+    "longitude": -3.21154,
+    "feet": 3209,
+    "meters": 978,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
