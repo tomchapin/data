@@ -12,6 +12,8 @@
     "feet": 6857,
     "meters": 2090,
     "continent": "Asia",
-    "country": "Oman"
+    "country": "Oman",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
