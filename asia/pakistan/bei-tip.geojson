@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.37,
+      35.44
+    ]
+  },
+  "properties": {
+    "name": "Bei Tip",
+    "latitude": 35.44,
+    "longitude": 78.37,
+    "feet": 25958,
+    "meters": 7912,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
