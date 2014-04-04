@@ -12,6 +12,8 @@
     "feet": 9596,
     "meters": 2925,
     "continent": "Europe",
-    "country": "Bulgaria"
+    "country": "Bulgaria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
