@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Raung",
+    "feet": 10932,
+    "meters": 3332,
+    "continent": "Asia",
+    "country": "Indonesia"
+  }
+}
