@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Goverla",
+    "feet": 6762,
+    "meters": 2061,
+    "continent": "Europe",
+    "country": "Ukraine"
+  }
+}
