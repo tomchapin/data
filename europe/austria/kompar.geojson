@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.614609,
+      47.453166
+    ]
+  },
+  "properties": {
+    "name": "Kompar",
+    "latitude": 47.453166,
+    "longitude": 11.614609,
+    "feet": 6594,
+    "meters": 2010,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
