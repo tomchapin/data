@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Rano",
+    "feet": 5577,
+    "meters": 1700,
+    "continent": "Australia/Oceania",
+    "country": "Solomon Islands"
+  }
+}
