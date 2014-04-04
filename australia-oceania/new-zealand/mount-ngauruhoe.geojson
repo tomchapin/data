@@ -12,6 +12,8 @@
     "feet": 7516,
     "meters": 2291,
     "continent": "Australia/Oceania",
-    "country": "New Zealand"
+    "country": "New Zealand",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
