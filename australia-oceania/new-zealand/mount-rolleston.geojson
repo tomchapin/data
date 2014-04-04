@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.5,
+      -42.9167
+    ]
+  },
+  "properties": {
+    "name": "Mount Rolleston",
+    "latitude": -42.9167,
+    "longitude": 171.5,
+    "feet": 7464,
+    "meters": 2275,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
