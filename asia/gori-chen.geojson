@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gori Chen",
+    "feet": 21286,
+    "meters": 6488,
+    "continent": "Asia"
+  }
+}
