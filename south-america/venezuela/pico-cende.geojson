@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.11333,
+      9.527623
+    ]
+  },
+  "properties": {
+    "name": "Pico Cendé",
+    "latitude": 9.527623,
+    "longitude": -70.11333,
+    "feet": 11713,
+    "meters": 3570,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
