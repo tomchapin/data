@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.257,
+      43.7036
+    ]
+  },
+  "properties": {
+    "name": "Bjelasnica",
+    "latitude": 43.7036,
+    "longitude": 18.257,
+    "feet": 6781,
+    "meters": 2067,
+    "continent": "Europe",
+    "country": "Bosnia and Herzegovina"
+  }
+}
