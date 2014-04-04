@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Goliam Mechi Vruh",
+    "feet": 8576,
+    "meters": 2614,
+    "continent": "Europe",
+    "country": "Bulgaria"
+  }
+}
