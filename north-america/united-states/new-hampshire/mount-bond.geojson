@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.531291,
+      44.153033
+    ]
+  },
+  "properties": {
+    "name": "Mount Bond",
+    "latitude": 44.153033,
+    "longitude": -71.531291,
+    "feet": 4698,
+    "meters": 1432,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
