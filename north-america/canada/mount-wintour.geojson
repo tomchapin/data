@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.080714,
+      50.695289
+    ]
+  },
+  "properties": {
+    "name": "Mount Wintour",
+    "latitude": 50.695289,
+    "longitude": -115.080714,
+    "feet": 8858,
+    "meters": 2700,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
