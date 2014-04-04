@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.378,
+      38.9472
+    ]
+  },
+  "properties": {
+    "name": "Missouri Mountain",
+    "latitude": 38.9472,
+    "longitude": -106.378,
+    "feet": 14067,
+    "meters": 4288,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
