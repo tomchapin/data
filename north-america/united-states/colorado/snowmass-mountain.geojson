@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.066,
+      39.1189
+    ]
+  },
+  "properties": {
+    "name": "Snowmass Mountain",
+    "latitude": 39.1189,
+    "longitude": -107.066,
+    "feet": 14092,
+    "meters": 4290,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
