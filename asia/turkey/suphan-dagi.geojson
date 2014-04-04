@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.8333,
+      38.9333
+    ]
+  },
+  "properties": {
+    "name": "Suphan Dagi",
+    "latitude": 38.9333,
+    "longitude": 42.8333,
+    "feet": 13280,
+    "meters": 4048,
+    "continent": "Asia",
+    "country": "Turkey",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
