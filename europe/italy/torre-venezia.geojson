@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.0231,
+      46.3611
+    ]
+  },
+  "properties": {
+    "name": "Torre Venezia",
+    "latitude": 46.3611,
+    "longitude": 12.0231,
+    "feet": 7667,
+    "meters": 2337,
+    "continent": "Europe",
+    "country": "Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
