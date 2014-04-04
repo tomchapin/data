@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Huapi",
+    "feet": 17785,
+    "meters": 5421,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
