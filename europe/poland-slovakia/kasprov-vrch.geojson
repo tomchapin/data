@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.981556,
+      49.232003
+    ]
+  },
+  "properties": {
+    "name": "Kasprov vrch",
+    "latitude": 49.232003,
+    "longitude": 19.981556,
+    "feet": 6519,
+    "meters": 1987,
+    "continent": "Europe",
+    "country": "Poland/Slovakia"
+  }
+}
