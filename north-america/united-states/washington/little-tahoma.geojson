@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.712317,
+      46.849553
+    ]
+  },
+  "properties": {
+    "name": "Little Tahoma",
+    "latitude": 46.849553,
+    "longitude": -121.712317,
+    "feet": 11138,
+    "meters": 3395,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
