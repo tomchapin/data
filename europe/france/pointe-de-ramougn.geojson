@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pointe De Ramougn",
+    "feet": 9878,
+    "meters": 3011,
+    "continent": "Europe",
+    "country": "France"
+  }
+}
