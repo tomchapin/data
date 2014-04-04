@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.26063,
+      -72.15023
+    ]
+  },
+  "properties": {
+    "name": "Martin's peak (Wideroefjellet)",
+    "latitude": -72.15023,
+    "longitude": 23.26063,
+    "feet": 10007,
+    "meters": 3050,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
