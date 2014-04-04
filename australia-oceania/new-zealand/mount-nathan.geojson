@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.283333,
+      -43.583333
+    ]
+  },
+  "properties": {
+    "name": "Mount Nathan",
+    "latitude": -43.583333,
+    "longitude": 170.283333,
+    "feet": 9199,
+    "meters": 2804,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
