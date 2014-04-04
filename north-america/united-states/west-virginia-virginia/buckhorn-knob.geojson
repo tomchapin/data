@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.9801,
+      37.2927
+    ]
+  },
+  "properties": {
+    "name": "Buckhorn Knob",
+    "latitude": 37.2927,
+    "longitude": -80.9801,
+    "feet": 4069,
+    "meters": 1240,
+    "continent": "North America",
+    "country": "United States",
+    "state": "West Virginia/Virginia"
+  }
+}
