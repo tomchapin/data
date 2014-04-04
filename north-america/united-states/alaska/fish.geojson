@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.195452,
+      61.744653
+    ]
+  },
+  "properties": {
+    "name": "Fish",
+    "latitude": 61.744653,
+    "longitude": -149.195452,
+    "feet": 4069,
+    "meters": 1248,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
