@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.507034,
+      46.867889
+    ]
+  },
+  "properties": {
+    "name": "Naches Peak",
+    "latitude": 46.867889,
+    "longitude": -121.507034,
+    "feet": 6452,
+    "meters": 1967,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
