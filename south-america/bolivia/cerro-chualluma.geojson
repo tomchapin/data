@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cerro Chualluma",
+    "feet": 17684,
+    "meters": 5390,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
