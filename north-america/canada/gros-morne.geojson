@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.7833,
+      49.5833
+    ]
+  },
+  "properties": {
+    "name": "Gros Morne",
+    "latitude": 49.5833,
+    "longitude": -57.7833,
+    "feet": 2648,
+    "meters": 807,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
