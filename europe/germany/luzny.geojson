@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.506836,
+      48.939097
+    ]
+  },
+  "properties": {
+    "name": "Luzny",
+    "latitude": 48.939097,
+    "longitude": 13.506836,
+    "feet": 4505,
+    "meters": 1373,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
