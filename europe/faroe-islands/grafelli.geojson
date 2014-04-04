@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gráfelli",
+    "feet": 2808,
+    "meters": 856,
+    "continent": "Europe",
+    "country": "Faroe Islands"
+  }
+}
