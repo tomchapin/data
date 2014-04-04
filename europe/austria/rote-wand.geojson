@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.985456,
+      47.186563
+    ]
+  },
+  "properties": {
+    "name": "Rote Wand",
+    "latitude": 47.186563,
+    "longitude": 9.985456,
+    "feet": 8868,
+    "meters": 2703,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
