@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.1,
+      47.0333
+    ]
+  },
+  "properties": {
+    "name": "Schrankogel",
+    "latitude": 47.0333,
+    "longitude": 11.1,
+    "feet": 11473,
+    "meters": 3497,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
