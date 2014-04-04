@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.281867,
+      30.987719
+    ]
+  },
+  "properties": {
+    "name": "Britton Hill",
+    "latitude": 30.987719,
+    "longitude": -86.281867,
+    "feet": 345,
+    "meters": 105,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Florida"
+  }
+}
