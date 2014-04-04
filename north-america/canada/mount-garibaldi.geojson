@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.004818,
+      49.850657
+    ]
+  },
+  "properties": {
+    "name": "Mount Garibaldi",
+    "latitude": 49.850657,
+    "longitude": -123.004818,
+    "feet": 8786,
+    "meters": 2678,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
