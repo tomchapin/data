@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.285,
+      61.0022
+    ]
+  },
+  "properties": {
+    "name": "Bird Peak",
+    "latitude": 61.0022,
+    "longitude": -149.285,
+    "feet": 5505,
+    "meters": 1678,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
