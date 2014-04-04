@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.0333,
+      -32.8
+    ]
+  },
+  "properties": {
+    "name": "Tolosa",
+    "latitude": -32.8,
+    "longitude": -70.0333,
+    "feet": 17821,
+    "meters": 5432,
+    "continent": "South America",
+    "country": "Argentina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
