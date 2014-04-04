@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.356033,
+      43.917857
+    ]
+  },
+  "properties": {
+    "name": "Lava Butte",
+    "latitude": 43.917857,
+    "longitude": -121.356033,
+    "feet": 5020,
+    "meters": 1530,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
