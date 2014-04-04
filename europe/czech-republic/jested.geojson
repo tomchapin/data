@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0333,
+      50.75
+    ]
+  },
+  "properties": {
+    "name": "Jested",
+    "latitude": 50.75,
+    "longitude": 15.0333,
+    "feet": 3320,
+    "meters": 1012,
+    "continent": "Europe",
+    "country": "Czech Republic"
+  }
+}
