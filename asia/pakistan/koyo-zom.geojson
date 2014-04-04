@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.0,
+      36.5833
+    ]
+  },
+  "properties": {
+    "name": "Koyo Zom",
+    "latitude": 36.5833,
+    "longitude": 73.0,
+    "feet": 22603,
+    "meters": 6889,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
