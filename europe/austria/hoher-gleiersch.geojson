@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.356087,
+      47.360339
+    ]
+  },
+  "properties": {
+    "name": "Hoher Gleiersch",
+    "latitude": 47.360339,
+    "longitude": 11.356087,
+    "feet": 8170,
+    "meters": 2491,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
