@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.7,
+      48.6167
+    ]
+  },
+  "properties": {
+    "name": "Chimney Rock",
+    "latitude": 48.6167,
+    "longitude": -116.7,
+    "feet": 7124,
+    "meters": 2171,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Idaho"
+  }
+}
