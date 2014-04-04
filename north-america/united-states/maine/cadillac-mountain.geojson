@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2244,
+      44.3528
+    ]
+  },
+  "properties": {
+    "name": "Cadillac Mountain",
+    "latitude": 44.3528,
+    "longitude": -68.2244,
+    "feet": 1533,
+    "meters": 467,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Maine"
+  }
+}
