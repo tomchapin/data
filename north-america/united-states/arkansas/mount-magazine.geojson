@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.644698,
+      35.1667
+    ]
+  },
+  "properties": {
+    "name": "Mount Magazine",
+    "latitude": 35.1667,
+    "longitude": -93.644698,
+    "feet": 2753,
+    "meters": 839,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Arkansas"
+  }
+}
