@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.024393,
+      -16.232454
+    ]
+  },
+  "properties": {
+    "name": "Mt Windsor",
+    "latitude": -16.232454,
+    "longitude": 145.024393,
+    "feet": 4432,
+    "meters": 1351,
+    "continent": "Australia/Oceania",
+    "country": "Australia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
