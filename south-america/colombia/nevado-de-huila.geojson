@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.0,
+      3.0
+    ]
+  },
+  "properties": {
+    "name": "Nevado de Huila",
+    "latitude": 3.0,
+    "longitude": -76.0,
+    "feet": 18865,
+    "meters": 5750,
+    "continent": "South America",
+    "country": "Colombia"
+  }
+}
