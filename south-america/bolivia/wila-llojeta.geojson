@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.292347,
+      -16.067064
+    ]
+  },
+  "properties": {
+    "name": "Wila Llojeta",
+    "latitude": -16.067064,
+    "longitude": -68.292347,
+    "feet": 17208,
+    "meters": 5245,
+    "continent": "South America",
+    "country": "Bolivia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
