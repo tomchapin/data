@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.0369,
+      44.1378
+    ]
+  },
+  "properties": {
+    "name": "Wallface Mountain",
+    "latitude": 44.1378,
+    "longitude": -74.0369,
+    "feet": 3727,
+    "meters": 1136,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
