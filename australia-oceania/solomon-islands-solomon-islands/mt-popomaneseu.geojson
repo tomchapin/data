@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      160.06219,
+      -9.70359
+    ]
+  },
+  "properties": {
+    "name": "Mt Popomaneseu",
+    "latitude": -9.70359,
+    "longitude": 160.06219,
+    "feet": 7677,
+    "meters": 2340,
+    "continent": "Australia/Oceania",
+    "country": "Solomon Islands/Solomon Islands"
+  }
+}
