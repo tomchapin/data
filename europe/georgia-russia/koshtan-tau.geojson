@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.2167,
+      43.05
+    ]
+  },
+  "properties": {
+    "name": "Koshtan-Tau",
+    "latitude": 43.05,
+    "longitude": 43.2167,
+    "feet": 16877,
+    "meters": 5144,
+    "continent": "Europe",
+    "country": "Georgia/Russia"
+  }
+}
