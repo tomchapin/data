@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.912407,
+      37.087501
+    ]
+  },
+  "properties": {
+    "name": "Almirez",
+    "latitude": 37.087501,
+    "longitude": -2.912407,
+    "feet": 8261,
+    "meters": 2518,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
