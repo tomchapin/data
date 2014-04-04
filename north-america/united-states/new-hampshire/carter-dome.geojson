@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Carter Dome",
+    "feet": 4832,
+    "meters": 1473,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
