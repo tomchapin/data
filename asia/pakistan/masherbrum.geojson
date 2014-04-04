@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.306658,
+      35.642301
+    ]
+  },
+  "properties": {
+    "name": "Masherbrum",
+    "latitude": 35.642301,
+    "longitude": 76.306658,
+    "feet": 25660,
+    "meters": 7821,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
