@@ -14,6 +14,8 @@
     "feet": 3317,
     "meters": 1011,
     "continent": "Europe",
-    "country": "United Kingdom"
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
