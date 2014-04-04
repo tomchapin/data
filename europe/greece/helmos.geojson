@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Helmos",
+    "feet": 7726,
+    "meters": 2355,
+    "continent": "Europe",
+    "country": "Greece"
+  }
+}
