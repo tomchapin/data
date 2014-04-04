@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.5775,
+      35.14083
+    ]
+  },
+  "properties": {
+    "name": "Mamostong Kangri - I",
+    "latitude": 35.14083,
+    "longitude": 77.5775,
+    "feet": 24659,
+    "meters": 7516,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
