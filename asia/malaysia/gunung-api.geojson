@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gunung Api",
+    "feet": 5741,
+    "meters": 1750,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
