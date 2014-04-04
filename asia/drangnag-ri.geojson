@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      86.3667,
+      27.95
+    ]
+  },
+  "properties": {
+    "name": "Drangnag Ri",
+    "latitude": 27.95,
+    "longitude": 86.3667,
+    "feet": 22312,
+    "meters": 6801,
+    "continent": "Asia"
+  }
+}
