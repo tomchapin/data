@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.57225,
+      -71.87742
+    ]
+  },
+  "properties": {
+    "name": "Mariën Peak",
+    "latitude": -71.87742,
+    "longitude": 24.57225,
+    "feet": 6010,
+    "meters": 1832,
+    "continent": "Antarctica",
+    "country": "Antarctica/Antarctica"
+  }
+}
