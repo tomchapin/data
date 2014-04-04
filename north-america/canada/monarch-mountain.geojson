@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -125.876287,
+      51.899443
+    ]
+  },
+  "properties": {
+    "name": "Monarch Mountain",
+    "latitude": 51.899443,
+    "longitude": -125.876287,
+    "feet": 11663,
+    "meters": 3555,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
