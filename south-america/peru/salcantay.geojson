@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.545214,
+      -13.333085
+    ]
+  },
+  "properties": {
+    "name": "Salcantay",
+    "latitude": -13.333085,
+    "longitude": -72.545214,
+    "feet": 20574,
+    "meters": 6271,
+    "continent": "South America",
+    "country": "Peru"
+  }
+}
