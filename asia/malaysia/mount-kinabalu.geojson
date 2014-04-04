@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.55,
+      6.08333
+    ]
+  },
+  "properties": {
+    "name": "Mount Kinabalu",
+    "latitude": 6.08333,
+    "longitude": 116.55,
+    "feet": 13455,
+    "meters": 4102,
+    "continent": "Asia",
+    "country": "Malaysia"
+  }
+}
