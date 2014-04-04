@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.891083,
+      47.687117
+    ]
+  },
+  "properties": {
+    "name": "Karkopf",
+    "latitude": 47.687117,
+    "longitude": 12.891083,
+    "feet": 5562,
+    "meters": 1695,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
