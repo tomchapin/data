@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.246002,
+      47.531343
+    ]
+  },
+  "properties": {
+    "name": "Mount Washington",
+    "latitude": 47.531343,
+    "longitude": -123.246002,
+    "feet": 6255,
+    "meters": 1907,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
