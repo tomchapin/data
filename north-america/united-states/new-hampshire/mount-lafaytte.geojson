@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Lafaytte",
+    "feet": 5260,
+    "meters": 1603,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
