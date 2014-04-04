@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mummy Mountain",
+    "feet": 11530,
+    "meters": 3514,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Nevada"
+  }
+}
