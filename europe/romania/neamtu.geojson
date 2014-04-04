@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.691357,
+      45.436767
+    ]
+  },
+  "properties": {
+    "name": "Neamtu",
+    "latitude": 45.436767,
+    "longitude": 25.691357,
+    "feet": 6309,
+    "meters": 1923,
+    "continent": "Europe",
+    "country": "Romania"
+  }
+}
