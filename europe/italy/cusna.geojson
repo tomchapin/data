@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Cusna",
+    "feet": 6955,
+    "meters": 2120,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
