@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -109.373054,
+      -27.080541
+    ]
+  },
+  "properties": {
+    "name": "Volcan Maunga Tere Vaca",
+    "latitude": -27.080541,
+    "longitude": -109.373054,
+    "feet": 1677,
+    "meters": 511,
+    "continent": "South America",
+    "country": "Chile/Chile",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
