@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.806198,
+      8.759418
+    ]
+  },
+  "properties": {
+    "name": "Pico Mifés",
+    "latitude": 8.759418,
+    "longitude": -70.806198,
+    "feet": 15121,
+    "meters": 4609,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
