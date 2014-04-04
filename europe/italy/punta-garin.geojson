@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.377315,
+      45.655343
+    ]
+  },
+  "properties": {
+    "name": "Punta Garin",
+    "latitude": 45.655343,
+    "longitude": 7.377315,
+    "feet": 11312,
+    "meters": 3448,
+    "continent": "Europe",
+    "country": "Italy"
+  }
+}
