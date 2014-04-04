@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Stone Mountain",
+    "feet": 2600,
+    "meters": 792,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
