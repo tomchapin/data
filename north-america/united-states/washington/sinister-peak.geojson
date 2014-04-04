@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.009827,
+      48.299848
+    ]
+  },
+  "properties": {
+    "name": "Sinister Peak",
+    "latitude": 48.299848,
+    "longitude": -121.009827,
+    "feet": 8440,
+    "meters": 2573,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
