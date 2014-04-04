@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Lendenfeld",
+    "feet": 10508,
+    "meters": 3203,
+    "continent": "Australia/Oceania",
+    "country": "New Zealand"
+  }
+}
