@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.993684,
+      37.869527
+    ]
+  },
+  "properties": {
+    "name": "Pico Gilillo",
+    "latitude": 37.869527,
+    "longitude": -2.993684,
+    "feet": 6063,
+    "meters": 1848,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
