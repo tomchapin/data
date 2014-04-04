@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.3,
+      -0.15
+    ]
+  },
+  "properties": {
+    "name": "Mount Kenya",
+    "latitude": -0.15,
+    "longitude": 37.3,
+    "feet": 17057,
+    "meters": 5199,
+    "continent": "Africa",
+    "country": "Kenya"
+  }
+}
