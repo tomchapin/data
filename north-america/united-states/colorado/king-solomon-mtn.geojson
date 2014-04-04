@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.593,
+      37.8078
+    ]
+  },
+  "properties": {
+    "name": "King Solomon Mtn",
+    "latitude": 37.8078,
+    "longitude": -107.593,
+    "feet": 13220,
+    "meters": 4030,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
