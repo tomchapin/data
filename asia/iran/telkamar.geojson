@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.025843,
+      35.731743
+    ]
+  },
+  "properties": {
+    "name": "Telkamar",
+    "latitude": 35.731743,
+    "longitude": 52.025843,
+    "feet": 9186,
+    "meters": 2800,
+    "continent": "Asia",
+    "country": "Iran",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
