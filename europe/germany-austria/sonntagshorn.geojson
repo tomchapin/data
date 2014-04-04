@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.707405,
+      47.681339
+    ]
+  },
+  "properties": {
+    "name": "Sonntagshorn",
+    "latitude": 47.681339,
+    "longitude": 12.707405,
+    "feet": 6275,
+    "meters": 1913,
+    "continent": "Europe",
+    "country": "Germany/Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
