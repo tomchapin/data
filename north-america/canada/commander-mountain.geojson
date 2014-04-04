@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.558,
+      50.415
+    ]
+  },
+  "properties": {
+    "name": "Commander Mountain",
+    "latitude": 50.415,
+    "longitude": -116.558,
+    "feet": 11060,
+    "meters": 3371,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
