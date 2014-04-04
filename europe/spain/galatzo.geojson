@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4862,
+      39.6332
+    ]
+  },
+  "properties": {
+    "name": "Galatzó",
+    "latitude": 39.6332,
+    "longitude": 2.4862,
+    "feet": 3366,
+    "meters": 1026,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
