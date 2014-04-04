@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -107.533,
+      40.128
+    ]
+  },
+  "properties": {
+    "name": "Sleepy Cat Peak",
+    "latitude": 40.128,
+    "longitude": -107.533,
+    "feet": 10848,
+    "meters": 3306,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
