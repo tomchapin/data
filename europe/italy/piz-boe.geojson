@@ -3,14 +3,12 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      11.825355,
-      46.511278
+      null,
+      null
     ]
   },
   "properties": {
-    "name": "Piz Boé",
-    "latitude": 46.511278,
-    "longitude": 11.825355,
+    "name": "Piz Boe",
     "feet": 10341,
     "meters": 3152,
     "continent": "Europe",
