@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.839,
+      16.51
+    ]
+  },
+  "properties": {
+    "name": "Mount Pulag",
+    "latitude": 16.51,
+    "longitude": 120.839,
+    "feet": 9586,
+    "meters": 2922,
+    "continent": "Asia",
+    "country": "Philippines"
+  }
+}
