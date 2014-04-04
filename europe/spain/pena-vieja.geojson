@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.806384,
+      43.173079
+    ]
+  },
+  "properties": {
+    "name": "Peña Vieja",
+    "latitude": 43.173079,
+    "longitude": -4.806384,
+    "feet": 8573,
+    "meters": 2613,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
