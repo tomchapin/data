@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.04912,
+      58.2153
+    ]
+  },
+  "properties": {
+    "name": "Quinag",
+    "latitude": 58.2153,
+    "longitude": -5.04912,
+    "feet": 2651,
+    "meters": 808,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
