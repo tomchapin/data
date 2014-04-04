@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.8833,
+      0.4
+    ]
+  },
+  "properties": {
+    "name": "Mount Speke",
+    "latitude": 0.4,
+    "longitude": 29.8833,
+    "feet": 16042,
+    "meters": 4890,
+    "continent": "Africa",
+    "country": "Congo, Democratic Republic of the",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
