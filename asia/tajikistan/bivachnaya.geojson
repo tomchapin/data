@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      68.718359,
+      38.924795
+    ]
+  },
+  "properties": {
+    "name": "Bivachnaya",
+    "latitude": 38.924795,
+    "longitude": 68.718359,
+    "feet": 12139,
+    "meters": 3700,
+    "continent": "Asia",
+    "country": "Tajikistan"
+  }
+}
