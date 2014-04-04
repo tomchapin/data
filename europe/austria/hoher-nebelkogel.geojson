@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hoher Nebelkogel",
+    "feet": 10535,
+    "meters": 3211,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
