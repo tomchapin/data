@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.549387,
+      48.820033
+    ]
+  },
+  "properties": {
+    "name": "Seahpo Peak",
+    "latitude": 48.820033,
+    "longitude": -121.549387,
+    "feet": 7441,
+    "meters": 2268,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
