@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Sljeme",
+    "feet": 3396,
+    "meters": 1035,
+    "continent": "Europe",
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
