@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.677658,
+      46.779278
+    ]
+  },
+  "properties": {
+    "name": "Erzhorn",
+    "latitude": 46.779278,
+    "longitude": 9.677658,
+    "feet": 9593,
+    "meters": 2924,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
