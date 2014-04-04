@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8833,
+      46.8833
+    ]
+  },
+  "properties": {
+    "name": "Wildspitze",
+    "latitude": 46.8833,
+    "longitude": 10.8833,
+    "feet": 12375,
+    "meters": 3772,
+    "continent": "Europe",
+    "country": "Austria/Italy",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
