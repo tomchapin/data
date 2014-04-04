@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Volcan Mombacho",
+    "feet": 4413,
+    "meters": 1345,
+    "continent": "North America",
+    "country": "Nicaragua",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
