@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.410298,
+      35.591645
+    ]
+  },
+  "properties": {
+    "name": "Laila Peak",
+    "latitude": 35.591645,
+    "longitude": 76.410298,
+    "feet": 20341,
+    "meters": 6200,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
