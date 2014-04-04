@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.921201,
+      54.180109
+    ]
+  },
+  "properties": {
+    "name": "Slieve Donard",
+    "latitude": 54.180109,
+    "longitude": -5.921201,
+    "feet": 2789,
+    "meters": 850,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
