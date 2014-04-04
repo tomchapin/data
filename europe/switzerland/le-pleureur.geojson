@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.370192,
+      46.015494
+    ]
+  },
+  "properties": {
+    "name": "Le Pleureur",
+    "latitude": 46.015494,
+    "longitude": 7.370192,
+    "feet": 12149,
+    "meters": 3703,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
