@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.4469,
+      44.0936
+    ]
+  },
+  "properties": {
+    "name": "Mount Carrigain",
+    "latitude": 44.0936,
+    "longitude": -71.4469,
+    "feet": 4700,
+    "meters": 1433,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
