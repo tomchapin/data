@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.519444,
+      28.256111
+    ]
+  },
+  "properties": {
+    "name": "Langtang Lirung",
+    "latitude": 28.256111,
+    "longitude": 85.519444,
+    "feet": 23711,
+    "meters": 7227,
+    "continent": "Asia",
+    "country": "Nepal"
+  }
+}
