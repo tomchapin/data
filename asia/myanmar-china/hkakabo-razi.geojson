@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.4667,
+      28.3167
+    ]
+  },
+  "properties": {
+    "name": "Hkakabo Razi",
+    "latitude": 28.3167,
+    "longitude": 97.4667,
+    "feet": 19294,
+    "meters": 5881,
+    "continent": "Asia",
+    "country": "Myanmar/China"
+  }
+}
