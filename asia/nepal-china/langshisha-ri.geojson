@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.7136,
+      28.2169
+    ]
+  },
+  "properties": {
+    "name": "Langshisha Ri",
+    "latitude": 28.2169,
+    "longitude": 85.7136,
+    "feet": 21086,
+    "meters": 6427,
+    "continent": "Asia",
+    "country": "Nepal/China"
+  }
+}
