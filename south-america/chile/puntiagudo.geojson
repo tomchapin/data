@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Puntiagudo",
+    "feet": 7841,
+    "meters": 2390,
+    "continent": "South America",
+    "country": "Chile"
+  }
+}
