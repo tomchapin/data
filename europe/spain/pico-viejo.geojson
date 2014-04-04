@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.6647,
+      28.2639
+    ]
+  },
+  "properties": {
+    "name": "Pico Viejo",
+    "latitude": 28.2639,
+    "longitude": -16.6647,
+    "feet": 10285,
+    "meters": 3135,
+    "continent": "Europe",
+    "country": "Spain"
+  }
+}
