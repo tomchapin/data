@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      78.74249,
+      31.901935
+    ]
+  },
+  "properties": {
+    "name": "Leo Pargial",
+    "latitude": 31.901935,
+    "longitude": 78.74249,
+    "feet": 22362,
+    "meters": 6816,
+    "continent": "Asia",
+    "country": "India/China"
+  }
+}
