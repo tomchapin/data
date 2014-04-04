@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Maria Lloco",
+    "feet": 18117,
+    "meters": 5522,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
