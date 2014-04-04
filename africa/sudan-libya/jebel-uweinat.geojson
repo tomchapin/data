@@ -14,6 +14,8 @@
     "feet": 6345,
     "meters": 1934,
     "continent": "Africa",
-    "country": "Sudan/Libya"
+    "country": "Sudan/Libya",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
