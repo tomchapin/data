@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mayakovsky",
+    "feet": 4200,
+    "meters": 1280,
+    "continent": "Asia",
+    "country": "Kazakhstan"
+  }
+}
