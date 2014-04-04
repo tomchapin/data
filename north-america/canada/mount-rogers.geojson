@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.541351,
+      51.354738
+    ]
+  },
+  "properties": {
+    "name": "Mount Rogers",
+    "latitude": 51.354738,
+    "longitude": -117.541351,
+    "feet": 10397,
+    "meters": 3169,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
