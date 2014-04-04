@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Vaganski vrh",
+    "feet": 5764,
+    "meters": 1757,
+    "continent": "Europe",
+    "country": "Croatia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
