@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Daubenhorn",
+    "feet": 9652,
+    "meters": 2942,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
