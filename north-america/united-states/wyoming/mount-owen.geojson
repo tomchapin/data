@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.797,
+      43.7469
+    ]
+  },
+  "properties": {
+    "name": "Mount Owen",
+    "latitude": 43.7469,
+    "longitude": -110.797,
+    "feet": 12928,
+    "meters": 3940,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
