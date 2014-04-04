@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.68,
+      40.2922
+    ]
+  },
+  "properties": {
+    "name": "Mount Otis",
+    "latitude": 40.2922,
+    "longitude": -105.68,
+    "feet": 12309,
+    "meters": 3752,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
