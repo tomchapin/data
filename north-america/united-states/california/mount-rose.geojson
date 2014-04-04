@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Mount Rose",
+    "feet": 10776,
+    "meters": 3285,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
