@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.365128,
+      51.45882
+    ]
+  },
+  "properties": {
+    "name": "Paget Peak",
+    "latitude": 51.45882,
+    "longitude": -116.365128,
+    "feet": 8399,
+    "meters": 2560,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
