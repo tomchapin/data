@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.862,
+      35.368
+    ]
+  },
+  "properties": {
+    "name": "Shining Rock",
+    "latitude": 35.368,
+    "longitude": -82.862,
+    "feet": 5940,
+    "meters": 1811,
+    "continent": "North America",
+    "country": "United States",
+    "state": "North Carolina",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
