@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.817,
+      32.0
+    ]
+  },
+  "properties": {
+    "name": "Peak 7480",
+    "latitude": 32.0,
+    "longitude": -104.817,
+    "feet": 7480,
+    "meters": 2280,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Texas"
+  }
+}
