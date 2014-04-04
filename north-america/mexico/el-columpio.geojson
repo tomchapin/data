@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Columpio",
+    "feet": 5577,
+    "meters": 1700,
+    "continent": "North America",
+    "country": "Mexico"
+  }
+}
