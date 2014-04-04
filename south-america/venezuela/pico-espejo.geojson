@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pico Espejo",
+    "feet": 15633,
+    "meters": 4765,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
