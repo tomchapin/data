@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.221283,
+      47.795646
+    ]
+  },
+  "properties": {
+    "name": "Mount Mystery",
+    "latitude": 47.795646,
+    "longitude": -123.221283,
+    "feet": 7639,
+    "meters": 2326,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
