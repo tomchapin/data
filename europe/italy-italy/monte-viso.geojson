@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.08824,
+      44.6667
+    ]
+  },
+  "properties": {
+    "name": "Monte Viso",
+    "latitude": 44.6667,
+    "longitude": 7.08824,
+    "feet": 12602,
+    "meters": 3841,
+    "continent": "Europe",
+    "country": "Italy/Italy"
+  }
+}
