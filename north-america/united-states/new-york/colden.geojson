@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.9603,
+      44.1269
+    ]
+  },
+  "properties": {
+    "name": "Colden",
+    "latitude": 44.1269,
+    "longitude": -73.9603,
+    "feet": 4714,
+    "meters": 1437,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New York"
+  }
+}
