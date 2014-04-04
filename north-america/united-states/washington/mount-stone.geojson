@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.266473,
+      47.606308
+    ]
+  },
+  "properties": {
+    "name": "Mount Stone",
+    "latitude": 47.606308,
+    "longitude": -123.266473,
+    "feet": 6612,
+    "meters": 2015,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
