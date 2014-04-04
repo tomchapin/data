@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -114.94,
+      50.5867
+    ]
+  },
+  "properties": {
+    "name": "Storm Mountain (Kananaskis)",
+    "latitude": 50.5867,
+    "longitude": -114.94,
+    "feet": 10154,
+    "meters": 3095,
+    "continent": "North America",
+    "country": "Canada",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
