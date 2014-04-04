@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.039932,
+      41.829282
+    ]
+  },
+  "properties": {
+    "name": "Nevosa",
+    "latitude": 41.829282,
+    "longitude": -8.039932,
+    "feet": 5033,
+    "meters": 1534,
+    "continent": "Europe",
+    "country": "Portugal/Spain"
+  }
+}
