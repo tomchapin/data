@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.805624,
+      34.341133
+    ]
+  },
+  "properties": {
+    "name": "Mount Hawkins",
+    "latitude": 34.341133,
+    "longitude": -117.805624,
+    "feet": 8850,
+    "meters": 2697,
+    "continent": "North America",
+    "country": "United States",
+    "state": "California"
+  }
+}
