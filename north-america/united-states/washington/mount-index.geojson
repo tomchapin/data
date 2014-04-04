@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.580544,
+      47.774349
+    ]
+  },
+  "properties": {
+    "name": "Mount Index",
+    "latitude": 47.774349,
+    "longitude": -121.580544,
+    "feet": 6010,
+    "meters": 1832,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
