@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hoerndlwand",
+    "feet": 5525,
+    "meters": 1684,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
