@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.087,
+      39.4286
+    ]
+  },
+  "properties": {
+    "name": "Mount Helen",
+    "latitude": 39.4286,
+    "longitude": -106.087,
+    "feet": 13620,
+    "meters": 4151,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Wyoming"
+  }
+}
