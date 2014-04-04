@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.059492,
+      47.867509
+    ]
+  },
+  "properties": {
+    "name": "Mount Townsend",
+    "latitude": 47.867509,
+    "longitude": -123.059492,
+    "feet": 6280,
+    "meters": 1914,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
