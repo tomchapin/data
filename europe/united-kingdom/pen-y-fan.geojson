@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Pen Y Fan",
+    "feet": 2907,
+    "meters": 886,
+    "continent": "Europe",
+    "country": "United Kingdom"
+  }
+}
