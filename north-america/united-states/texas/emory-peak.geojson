@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.304,
+      29.2458
+    ]
+  },
+  "properties": {
+    "name": "Emory Peak",
+    "latitude": 29.2458,
+    "longitude": -103.304,
+    "feet": 7825,
+    "meters": 2385,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Texas"
+  }
+}
