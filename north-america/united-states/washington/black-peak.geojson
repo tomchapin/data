@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.815835,
+      48.523597
+    ]
+  },
+  "properties": {
+    "name": "Black Peak",
+    "latitude": 48.523597,
+    "longitude": -120.815835,
+    "feet": 8970,
+    "meters": 2734,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
