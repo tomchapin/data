@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.147755,
+      54.648909
+    ]
+  },
+  "properties": {
+    "name": "Skiddaw",
+    "latitude": 54.648909,
+    "longitude": -3.147755,
+    "feet": 3054,
+    "meters": 931,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
