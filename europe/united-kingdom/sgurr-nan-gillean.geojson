@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.19427,
+      57.2492
+    ]
+  },
+  "properties": {
+    "name": "Sgurr Nan Gillean",
+    "latitude": 57.2492,
+    "longitude": -6.19427,
+    "feet": 3162,
+    "meters": 964,
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
