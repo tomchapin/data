@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.280833,
+      47.285
+    ]
+  },
+  "properties": {
+    "name": "Steinschartenkopf",
+    "latitude": 47.285,
+    "longitude": 10.280833,
+    "feet": 8579,
+    "meters": 2615,
+    "continent": "Europe",
+    "country": "Austria",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
