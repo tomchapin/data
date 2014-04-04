@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Little Tumy",
+    "feet": 3360,
+    "meters": 1024,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
