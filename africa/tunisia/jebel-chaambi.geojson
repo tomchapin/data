@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.63333,
+      35.2167
+    ]
+  },
+  "properties": {
+    "name": "Jebel Chaambi",
+    "latitude": 35.2167,
+    "longitude": 8.63333,
+    "feet": 5066,
+    "meters": 1544,
+    "continent": "Africa",
+    "country": "Tunisia"
+  }
+}
