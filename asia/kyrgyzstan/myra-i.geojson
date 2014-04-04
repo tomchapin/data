@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.0,
+      39.4333
+    ]
+  },
+  "properties": {
+    "name": "Myra I",
+    "latitude": 39.4333,
+    "longitude": 73.0,
+    "feet": 16240,
+    "meters": 4950,
+    "continent": "Asia",
+    "country": "Kyrgyzstan"
+  }
+}
