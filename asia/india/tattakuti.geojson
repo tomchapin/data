@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.48861,
+      33.89333
+    ]
+  },
+  "properties": {
+    "name": "Tattakuti",
+    "latitude": 33.89333,
+    "longitude": 74.48861,
+    "feet": 15555,
+    "meters": 4741,
+    "continent": "Asia",
+    "country": "India",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
