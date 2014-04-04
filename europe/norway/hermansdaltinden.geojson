@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hermansdaltinden",
+    "feet": 3392,
+    "meters": 1034,
+    "continent": "Europe",
+    "country": "Norway"
+  }
+}
