@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.5,
+      -17.7
+    ]
+  },
+  "properties": {
+    "name": "Aorai",
+    "latitude": -17.7,
+    "longitude": -149.5,
+    "feet": 6778,
+    "meters": 2066,
+    "continent": "Australia/Oceania"
+  }
+}
