@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Vanatoarea Lui Buteanu",
+    "feet": 8225,
+    "meters": 2507,
+    "continent": "Europe",
+    "country": "Romania",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
