@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.04833,
+      -16.317885
+    ]
+  },
+  "properties": {
+    "name": "Kolini",
+    "latitude": -16.317885,
+    "longitude": -68.04833,
+    "feet": 16299,
+    "meters": 4968,
+    "continent": "South America",
+    "country": "Bolivia"
+  }
+}
