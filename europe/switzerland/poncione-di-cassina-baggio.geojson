@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.450551,
+      46.501497
+    ]
+  },
+  "properties": {
+    "name": "Poncione di Cassina Baggio",
+    "latitude": 46.501497,
+    "longitude": 8.450551,
+    "feet": 9232,
+    "meters": 2814,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
