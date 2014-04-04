@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -111.633,
+      40.4
+    ]
+  },
+  "properties": {
+    "name": "Mount Timpanogos",
+    "latitude": 40.4,
+    "longitude": -111.633,
+    "feet": 11749,
+    "meters": 3581,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Utah",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
