@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.4192,
+      39.0211
+    ]
+  },
+  "properties": {
+    "name": "Mount Hope",
+    "latitude": 39.0211,
+    "longitude": -106.4192,
+    "feet": 13933,
+    "meters": 4247,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Colorado"
+  }
+}
