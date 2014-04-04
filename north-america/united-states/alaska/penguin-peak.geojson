@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.376984,
+      60.965443
+    ]
+  },
+  "properties": {
+    "name": "Penguin Peak",
+    "latitude": 60.965443,
+    "longitude": -149.376984,
+    "feet": 4305,
+    "meters": 1312,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Alaska"
+  }
+}
