@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.940784,
+      -16.392161
+    ]
+  },
+  "properties": {
+    "name": "Serkhe Khollu",
+    "latitude": -16.392161,
+    "longitude": -67.940784,
+    "feet": 18195,
+    "meters": 5546,
+    "continent": "South America",
+    "country": "Bolivia/Bolivia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
