@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.798197,
+      48.408238
+    ]
+  },
+  "properties": {
+    "name": "McGregor Mountain",
+    "latitude": 48.408238,
+    "longitude": -120.798197,
+    "feet": 8136,
+    "meters": 2480,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Washington"
+  }
+}
