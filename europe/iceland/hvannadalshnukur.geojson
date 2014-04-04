@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.6833,
+      64.0167
+    ]
+  },
+  "properties": {
+    "name": "Hvannadalshnukur",
+    "latitude": 64.0167,
+    "longitude": -16.6833,
+    "feet": 6952,
+    "meters": 2119,
+    "continent": "Europe",
+    "country": "Iceland"
+  }
+}
