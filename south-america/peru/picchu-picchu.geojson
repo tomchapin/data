@@ -14,6 +14,8 @@
     "feet": 18583,
     "meters": 5664,
     "continent": "South America",
-    "country": "Peru"
+    "country": "Peru",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
   }
 }
