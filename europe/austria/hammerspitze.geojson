@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Hammerspitze",
+    "feet": 8409,
+    "meters": 2563,
+    "continent": "Europe",
+    "country": "Austria"
+  }
+}
