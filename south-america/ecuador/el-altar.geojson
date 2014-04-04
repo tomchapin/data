@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "El Altar",
+    "feet": 17454,
+    "meters": 5320,
+    "continent": "South America",
+    "country": "Ecuador"
+  }
+}
