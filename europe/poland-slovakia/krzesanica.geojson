@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.897222,
+      49.241667
+    ]
+  },
+  "properties": {
+    "name": "Krzesanica",
+    "latitude": 49.241667,
+    "longitude": 19.897222,
+    "feet": 6962,
+    "meters": 2122,
+    "continent": "Europe",
+    "country": "Poland/Slovakia"
+  }
+}
