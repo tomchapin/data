@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.774,
+      36.6904
+    ]
+  },
+  "properties": {
+    "name": "Happo One and Karamatsu Dake",
+    "latitude": 36.6904,
+    "longitude": 137.774,
+    "feet": 8845,
+    "meters": 2696,
+    "continent": "Asia",
+    "country": "Japan"
+  }
+}
