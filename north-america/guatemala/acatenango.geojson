@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.8667,
+      14.5
+    ]
+  },
+  "properties": {
+    "name": "Acatenango",
+    "latitude": 14.5,
+    "longitude": -90.8667,
+    "feet": 13044,
+    "meters": 3976,
+    "continent": "North America",
+    "country": "Guatemala"
+  }
+}
