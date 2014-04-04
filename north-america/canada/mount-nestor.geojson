@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.365,
+      50.9283
+    ]
+  },
+  "properties": {
+    "name": "Mount Nestor",
+    "latitude": 50.9283,
+    "longitude": -115.365,
+    "feet": 9744,
+    "meters": 2970,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
