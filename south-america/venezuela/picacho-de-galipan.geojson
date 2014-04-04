@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.907768,
+      10.560764
+    ]
+  },
+  "properties": {
+    "name": "Picacho de Galipán",
+    "latitude": 10.560764,
+    "longitude": -66.907768,
+    "feet": 6348,
+    "meters": 1935,
+    "continent": "South America",
+    "country": "Venezuela"
+  }
+}
