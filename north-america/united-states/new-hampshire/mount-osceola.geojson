@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.535614,
+      44.001614
+    ]
+  },
+  "properties": {
+    "name": "Mount Osceola",
+    "latitude": 44.001614,
+    "longitude": -71.535614,
+    "feet": 4315,
+    "meters": 1315,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Hampshire"
+  }
+}
