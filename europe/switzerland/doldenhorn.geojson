@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Doldenhorn",
+    "feet": 11952,
+    "meters": 3643,
+    "continent": "Europe",
+    "country": "Switzerland"
+  }
+}
