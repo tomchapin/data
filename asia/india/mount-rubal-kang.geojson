@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      77.6806,
+      32.1044
+    ]
+  },
+  "properties": {
+    "name": "Mount Rubal Kang",
+    "latitude": 32.1044,
+    "longitude": 77.6806,
+    "feet": 20299,
+    "meters": 6187,
+    "continent": "Asia",
+    "country": "India"
+  }
+}
