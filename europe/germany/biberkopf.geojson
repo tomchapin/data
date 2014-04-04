@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.25,
+      47.2667
+    ]
+  },
+  "properties": {
+    "name": "Biberkopf",
+    "latitude": 47.2667,
+    "longitude": 10.25,
+    "feet": 8527,
+    "meters": 2599,
+    "continent": "Europe",
+    "country": "Germany"
+  }
+}
