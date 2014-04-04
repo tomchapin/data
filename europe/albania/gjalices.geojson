@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Gjalices",
+    "feet": 8323,
+    "meters": 2537,
+    "continent": "Europe",
+    "country": "Albania"
+  }
+}
