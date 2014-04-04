@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.644,
+      35.9625
+    ]
+  },
+  "properties": {
+    "name": "Truchas Peak",
+    "latitude": 35.9625,
+    "longitude": -105.644,
+    "feet": 13103,
+    "meters": 3994,
+    "continent": "North America",
+    "country": "United States",
+    "state": "New Mexico",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
