@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.726587,
+      34.82761
+    ]
+  },
+  "properties": {
+    "name": "Malika Parbat",
+    "latitude": 34.82761,
+    "longitude": 73.726587,
+    "feet": 17356,
+    "meters": 5290,
+    "continent": "Asia",
+    "country": "Pakistan"
+  }
+}
