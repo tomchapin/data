@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.730865,
+      45.307734
+    ]
+  },
+  "properties": {
+    "name": "Mount Fanny",
+    "latitude": 45.307734,
+    "longitude": -117.730865,
+    "feet": 7136,
+    "meters": 2175,
+    "continent": "North America",
+    "country": "United States",
+    "state": "Oregon"
+  }
+}
