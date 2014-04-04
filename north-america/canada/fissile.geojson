@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      null,
+      null
+    ]
+  },
+  "properties": {
+    "name": "Fissile",
+    "feet": 8000,
+    "meters": 2438,
+    "continent": "North America",
+    "country": "Canada"
+  }
+}
