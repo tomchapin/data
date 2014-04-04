@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4476,
+      45.5885
+    ]
+  },
+  "properties": {
+    "name": "Snežnik",
+    "latitude": 45.5885,
+    "longitude": 14.4476,
+    "feet": 5892,
+    "meters": 1796,
+    "continent": "Europe",
+    "country": "Slovenia",
+    "marker-symbol": "triangle",
+    "marker-size": "small"
+  }
+}
